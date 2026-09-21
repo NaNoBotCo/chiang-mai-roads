@@ -82,5 +82,12 @@
  "confidence": "medium",
  "schema": 1,
  "updated": "2026-09-21",
- "kin_in": []
+ "kin_in": [
+  {
+   "from": "map-shell-1958",
+   "type": "map",
+   "name": "The Shell wall map, about 1958",
+   "as": "What a litre costs now."
+  }
+ ]
 }

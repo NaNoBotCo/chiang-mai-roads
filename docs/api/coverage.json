@@ -1,6 +1,6 @@
 {
- "built": "2026-09-21 13:28",
- "records": 136,
+ "built": "2026-09-21 17:48",
+ "records": 153,
  "by_type": {
   "road": 13,
   "ring": 5,
@@ -11,6 +11,7 @@
   "highway": 11,
   "plan": 10,
   "era": 8,
+  "map": 17,
   "measure": 10,
   "traffic": 14,
   "word": 15,
@@ -18,19 +19,19 @@
   "person": 7,
   "place": 10
  },
- "kin_edges": 317,
- "sources": 127,
+ "kin_edges": 366,
+ "sources": 132,
  "needs_verification": 3,
- "bilingual": 136,
- "th_fields": 193,
- "images": 170,
- "records_with_images": 102,
+ "bilingual": 153,
+ "th_fields": 223,
+ "images": 198,
+ "records_with_images": 119,
  "ways": 52389,
  "total_km": 8054.7,
  "drive_km": 6934.4,
  "stations": 81,
  "tiers": {
-  "cited": 101,
+  "cited": 118,
   "tradition": 19,
   "harvested": 13,
   "inference": 3

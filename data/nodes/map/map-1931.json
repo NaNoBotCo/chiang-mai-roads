@@ -1,0 +1,109 @@
+{
+ "id": "map-1931",
+ "type": "map",
+ "names": {
+  "name": "The 1931 city map",
+  "th": "แผนที่เมือง 2474",
+  "said": "Ten years after the railway, stamped by an insurance company.",
+  "said_th": "สิบปีหลังรถไฟมา ประทับตราบริษัทประกัน"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1931",
+  "order": 4
+ },
+ "sheet": {
+  "year": "1931",
+  "maker": "unknown; the sheet carries the stamp of the Royal Insurance Company Limited, 26 October 1931",
+  "maker_th": "ไม่ปรากฏผู้จัดทำ แผ่นมีตราประทับบริษัท Royal Insurance ลงวันที่ 26 ตุลาคม 2474",
+  "shows": "The east bank after the railway, seventeen years before the moat roads were cut.",
+  "shows_th": "ฝั่งตะวันออกหลังรถไฟมา สิบเจ็ดปีก่อนถนนรอบคูถูกตัด",
+  "holding": "stamped 26 October"
+ },
+ "text": {
+  "what": "A large city sheet carrying the stamp of the Royal Insurance Company, dated 26 October. It is the first map on this site made after the train arrived in 1921, and it shows what the train did: the east bank built up, Tha Phae Road the commercial spine, the streets between the square and the river filled in.",
+  "story": "*Inference —* an insurance company's stamp is the tell. Someone was pricing fire risk street by street, which means the streets were worth pricing, which means the money had moved off the river and onto the road.",
+  "how": "**Read off the sheet.** It is bilingual, Thai above English, at 1:5,000. The moat is labelled คูเวียง KOO VIENG CANAL on every side. Eight gates are named: Chang Phuak, Suan Dok, Chiengmai and ประตูแสนปุง San Prung on the square, and Ta Phae, ประตูหายยา Hai Ya, ประตูขัวก้อม Kua Kom and Sakang outside it. The roads out are labelled by where they go, not by number: TO HANG DONG & CHOM THONG, TO SANKAMPANG, TO DOI SATE, TO LAMPANG, TO HUEY KEO. The teak houses have their own buildings marked, Borneo Office and Bombay Burma Office, and so do the British and French consulates. The railway station is there with RAILWAY'S LANDS, a rest house and a locomotive store beside it."
+ },
+ "text_th": {
+  "what": "แผ่นเมืองขนาดใหญ่ที่มีตราประทับของ Royal Insurance Company ลงวันที่ 26 ตุลาคม เป็นแผนที่แผ่นแรกบนเว็บนี้ที่ทำขึ้นหลังรถไฟมาถึงปี 2464 และมันแสดงสิ่งที่รถไฟทำ ฝั่งตะวันออกถูกสร้างเต็ม ถนนท่าแพเป็นแกนการค้า ถนนระหว่างสี่เหลี่ยมกับแม่น้ำถูกเติมเต็ม",
+  "story": "*อนุมาน —* ตราประทับของบริษัทประกันคือเบาะแส มีคนกำลังคิดราคาความเสี่ยงไฟไหม้ทีละถนน ซึ่งแปลว่าถนนมีค่าพอให้คิดราคา ซึ่งแปลว่าเงินย้ายจากแม่น้ำมาอยู่บนถนนแล้ว",
+  "how": "**อ่านจากแผ่นเอง** เป็นสองภาษา ไทยบนอังกฤษล่าง มาตราส่วน 1:5,000 คูเมืองเขียนกำกับว่า คูเวียง KOO VIENG CANAL ทุกด้าน มีประตูแปดประตู ช้างเผือก สวนดอก เชียงใหม่ และประตูแสนปุง บนสี่เหลี่ยม กับท่าแพ ประตูหายยา ประตูขัวก้อม และสะแกง นอกสี่เหลี่ยม ถนนออกเมืองกำกับด้วยปลายทาง ไม่ใช่หมายเลข ไปหางดงและจอมทอง ไปสันกำแพง ไปดอยสะเก็ด ไปลำปาง ไปห้วยแก้ว ห้างไม้สักมีอาคารของตัวเองทำเครื่องหมายไว้ Borneo Office และ Bombay Burma Office เช่นเดียวกับสถานกงสุลอังกฤษและฝรั่งเศส สถานีรถไฟอยู่ตรงนั้นพร้อมที่ดินรถไฟ เรือนพัก และโรงเก็บหัวรถจักรข้าง ๆ"
+ },
+ "kin": [
+  {
+   "to": "chiang-mai-station",
+   "as": "What changed the city before it.",
+   "rel": "place"
+  },
+  {
+   "to": "tha-phae-road",
+   "as": "Its spine.",
+   "rel": "road"
+  },
+  {
+   "to": "era-siam-1900-1950",
+   "as": "Its era.",
+   "rel": "era"
+  },
+  {
+   "to": "khu",
+   "as": "It labels the moat with this word.",
+   "rel": "word"
+  },
+  {
+   "to": "khua",
+   "as": "Kua Kom Gate is on it.",
+   "rel": "word"
+  },
+  {
+   "to": "route-108",
+   "as": "Labelled TO HANG DONG & CHOM THONG.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-1931/map-1931-map-of-chiengmai-chiang-mai-city-1931.jpg",
+   "source": "commons",
+   "title": "File:Map of Chiengmai (Chiang Mai) City 1931.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Map_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "Old Maps Online (stored at the British Library) - https://www.oldmapsonline.org/en/maps/b84b50de-cdf9-5c61-9d88-a76fcd5a8464?year=1850&amp;gid=b3777b75-7966-559f-85d0-b1b1aaa602d3#position=16.6004/18.",
+   "alt": "Map of Chiengmai (Chiang Mai) city, 1931. This is the capital of Chiang Mai province. The top left stamp says: \"Royal Insurance Company Limited, 26 October 1931 Liverpool.\"",
+   "date": "1931",
+   "primary": true,
+   "sha256": "c9a96601fa58227d8be39b33dc84d6261b93c20ddd1170e9f6ff8c9d7da8e05c"
+  }
+ ]
+}

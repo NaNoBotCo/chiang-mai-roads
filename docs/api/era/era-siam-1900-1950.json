@@ -96,6 +96,21 @@
    "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
    "primary": false,
    "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+  },
+  {
+   "file": "era-siam-1900-1950/era-siam-1900-1950-phap-mueang-thai-1943-p-063.jpg",
+   "source": "commons",
+   "title": "File:Phap Mueang Thai (1943, p 063).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Phap_Mueang_Thai_%281943%2C_p_063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APhap_Mueang_Thai_%281943%2C_p_063%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Office of the Prime Minister",
+   "credit": "This image has been extracted from another file",
+   "alt": "This picture is described as follows:\nOriginal caption: \"Northern Line railroad bridge.\"",
+   "date": "1943-07-14",
+   "primary": false,
+   "sha256": "d147421947c6e5cd2c0e7b789db7d6ebae650c1a300ad6818ef4b4b1dc8864f1"
   }
  ],
  "kin_in": [
@@ -103,6 +118,18 @@
    "from": "chang-moi-gate",
    "type": "gate",
    "name": "Chang Moi Gate",
+   "as": "Its era."
+  },
+  {
+   "from": "map-1931",
+   "type": "map",
+   "name": "The 1931 city map",
+   "as": "Its era."
+  },
+  {
+   "from": "map-1945",
+   "type": "map",
+   "name": "The 1945 city map",
    "as": "Its era."
   },
   {

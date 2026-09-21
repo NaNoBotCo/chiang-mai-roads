@@ -241,6 +241,12 @@
      "as": "The monk."
     },
     {
+     "from": "map-railways-1934",
+     "type": "map",
+     "name": "The Royal State Railways map, 1934",
+     "as": "The same year."
+    },
+    {
      "from": "the-monk-who-built-a-road",
      "type": "story",
      "name": "The monk who built a road in five months",
@@ -480,6 +486,24 @@
      "type": "highway",
      "name": "Route 108, southwest to Mae Hong Son",
      "as": "Built the Hang Dong road."
+    },
+    {
+     "from": "map-1893",
+     "type": "map",
+     "name": "The 1893 map for Inthawichayanon",
+     "as": "The commissioner who followed."
+    },
+    {
+     "from": "map-mccarthy-1888",
+     "type": "map",
+     "name": "McCarthy's Siam, 1888",
+     "as": "The commissioner of the same decade."
+    },
+    {
+     "from": "map-mccarthy-1900",
+     "type": "map",
+     "name": "McCarthy's Siam, 1900",
+     "as": "The commissioner."
     },
     {
      "from": "the-trees-on-the-lamphun-road",

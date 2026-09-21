@@ -126,6 +126,12 @@
  ],
  "kin_in": [
   {
+   "from": "map-1945",
+   "type": "map",
+   "name": "The 1945 city map",
+   "as": "The argument."
+  },
+  {
    "from": "grid-in-the-moat",
    "type": "measure",
    "name": "The grid score, zone by zone",

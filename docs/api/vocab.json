@@ -96,6 +96,17 @@
     "icon": "era"
    },
    {
+    "key": "map",
+    "name": "Old maps",
+    "th": "แผนที่เก่า",
+    "one": "map",
+    "path": "old-map",
+    "blurb": "What the city looked like on paper, 1693 to 1959, and what each sheet shows about the roads that were there.",
+    "th_blurb": "เมืองบนกระดาษ ตั้งแต่ปี 2236 ถึง 2502 และแต่ละแผ่นบอกอะไรเรื่องถนนที่มีอยู่ตอนนั้น",
+    "group_by": "facets.era",
+    "icon": "map"
+   },
+   {
     "key": "measure",
     "name": "Measurements",
     "th": "การวัด",
@@ -222,7 +233,8 @@
      "superhighway": "The Superhighway, 1960s–70s",
      "rings": "The rings, 1980s–2000s",
      "now": "Now, 2010s–2020s",
-     "planned": "Planned"
+     "planned": "Planned",
+     "before": "Before the maps, to 1700"
     },
     "types": [
      "road",
@@ -239,7 +251,8 @@
      "word",
      "story",
      "person",
-     "place"
+     "place",
+     "map"
     ]
    },
    "direction": {
@@ -341,7 +354,8 @@
      "plan",
      "traffic",
      "measure",
-     "era"
+     "era",
+     "map"
     ],
     "values": {}
    },
@@ -363,7 +377,8 @@
      "word",
      "story",
      "person",
-     "place"
+     "place",
+     "map"
     ],
     "values": {}
    },
@@ -371,7 +386,8 @@
     "label": "Order",
     "th": "ลำดับ",
     "types": [
-     "era"
+     "era",
+     "map"
     ],
     "values": {}
    }

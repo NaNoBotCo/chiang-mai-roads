@@ -113,6 +113,10 @@ def text_fields(rec: dict):
         v = (rec.get("word") or {}).get(k)
         if v:
             yield f"word.{k}", v
+    for k in ("shows", "year_note"):
+        v = (rec.get("sheet") or {}).get(k)
+        if v:
+            yield f"sheet.{k}", v
 
 
 def validate_all(strict=False, quiet=False) -> int:

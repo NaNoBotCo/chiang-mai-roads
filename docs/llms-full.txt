@@ -3,13 +3,14 @@
 > The square of 1296, four rings around it, 6,934 km of road between, and what each one did to the city. Counted from the map, dated from the record.
 
 Canonical: https://motdang.net/roads/ · Alternate: https://nanobotco.github.io/chiang-mai-roads/ · Thai: https://motdang.net/roads/th/
-Records: 136 across 15 types, CC BY 4.0. API: https://motdang.net/roads/api/
+Records: 153 across 16 types, CC BY 4.0. API: https://motdang.net/roads/api/
 Network: 52,389 OpenStreetMap ways, 8,054.7 km in the city box, measured by zone at https://motdang.net/roads/old-city/ and https://motdang.net/roads/api/measures.json
 Traffic: 81 highway counting stations at https://motdang.net/roads/traffic/ and https://motdang.net/roads/api/aadt.json
 
 ## Pages
 - Roads: https://motdang.net/roads/
 - The map: https://motdang.net/roads/map/
+- Old maps: https://motdang.net/roads/old-maps/
 - Rings: https://motdang.net/roads/rings/
 - Old city: https://motdang.net/roads/old-city/
 - Highways out: https://motdang.net/roads/highways/
@@ -31,6 +32,7 @@ Traffic: 81 highway counting stations at https://motdang.net/roads/traffic/ and 
 - Highways out (11): https://motdang.net/roads/highways/
 - Plans (10): https://motdang.net/roads/plans/
 - Eras (8): https://motdang.net/roads/eras/
+- Old maps (17): https://motdang.net/roads/old-maps/
 - Measurements (10): https://motdang.net/roads/measures/
 - Traffic (14): https://motdang.net/roads/traffic/
 - Words (15): https://motdang.net/roads/words/
@@ -477,6 +479,105 @@ The Department of Highways' Lampang centre builds the Chiang Mai–Lampang road,
 
 *Inference —* the Superhighway was not built as a ring. It was built as a bypass, and a bypass becomes a ring the moment the city grows past it, which took about fifteen years. Every ring in Chiang Mai has been an edge that turned into a middle.
 
+## The 1890 city map (แผนที่เมือง 2433) — map
+https://motdang.net/roads/old-maps/map-1890/
+
+A map of the city under the old spelling Chiengmai. Its own caption says a temple front faces east on the newly built Chang Moi Road, which dates that road to about this sheet and corroborates the chronicle: the outer gate and the earth bank came down between 1910 and 1915 so the street could run straight to the river, and the street was already being cut when this was drawn.
+
+## The 1893 map for Inthawichayanon (แผนที่ 2436 สำหรับพระเจ้าอินทวิชยานนท์) — map
+https://motdang.net/roads/old-maps/map-1893/
+
+Drawn for King Inthawichayanon, the last ruler before Siam's commissioners took the north in hand. It shows both walls: the inner brick square and the outer earthen bank curving round the trading quarter to the east.
+
+## The 1931 city map (แผนที่เมือง 2474) — map
+https://motdang.net/roads/old-maps/map-1931/
+
+A large city sheet carrying the stamp of the Royal Insurance Company, dated 26 October. It is the first map on this site made after the train arrived in 1921, and it shows what the train did: the east bank built up, Tha Phae Road the commercial spine, the streets between the square and the river filled in.
+
+*Inference —* an insurance company's stamp is the tell. Someone was pricing fire risk street by street, which means the streets were worth pricing, which means the money had moved off the river and onto the road.
+
+## The 1945 city map (แผนที่เมือง 2488) — map
+https://motdang.net/roads/old-maps/map-1945/
+
+Printed at the Survey of India offices at 1:5,000, 57 by 87 cm, held by the American Geographical Society. It is the last map on this site that shows the old city before the municipality built the roads on both banks of the moat in 1948 and demolished stretches of the wall to do it.
+
+*Inference —* this sheet and a modern one, laid side by side, are the whole argument of this site in two pictures. The square is the same square. Everything outside it is different, and the difference is rings.
+
+## The Army Map Service sheet, NE 47-6 Chiang Mai (แผ่น NE 47-6 เชียงใหม่ ของ Army Map Service) — map
+https://motdang.net/roads/old-maps/map-ams-chiang-mai/
+
+Sheet NE 47-6 of series L509, the US Army Map Service's 1:250,000 cover of Indochina and Thailand, from 1954. It carries the region at the moment before the Superhighway: roads classified by surface and weather, the Lamphun road as the main line south, and no ring of any kind around the city.
+
+*Inference —* an army map classifies a road by whether you can get a truck down it in the rains, which is the most useful thing anyone has ever put on a map of this province. The distinction has gone from modern maps, and the road it describes has not.
+
+## The Army Map Service sheet, Ban Saraphi (แผ่นบ้านสารภี ของ Army Map Service) — map
+https://motdang.net/roads/old-maps/map-ams-saraphi/
+
+Sheet 5455 II of series L708, the 1:50,000 cover of Thailand, 1959. Saraphi is the district the Chiang Mai to Lamphun road runs through, and this is the sheet the yang trees are on, seventy-seven years after they were planted and ten years before the Superhighway took the Bangkok traffic off them.
+
+## Bock's route to the north, 1881 (เส้นทางขึ้นเหนือของบ็อก 2424) — map
+https://motdang.net/roads/old-maps/map-bock-1881/
+
+Carl Bock's map of the route from Bangkok to Chiang Saen, from Through Upper Siam and Lao, his narrative of a journey of exploration published in 1884. The sheet is a strip: it is long and narrow because a route is long and narrow, and everything either side of it is blank because he did not go there.
+
+*Inference —* a strip map is what you draw when there is one way to go. Bock went up the Ping by boat and over the passes by elephant, and the sheet is shaped like that journey. Ninety years later the same trip is Route 11 and Route 118 and you can do it between breakfast and lunch.
+
+## The Lanna city map (แผนที่เวียงสมัยล้านนา) — map
+https://motdang.net/roads/old-maps/map-lanna/
+
+An undated Lanna-era map of the walled city, with a portrait of a ruler at the left, the palace, the temples and the wall. It is a picture of a place rather than a survey of one: nothing on it is to scale and everything on it is where it belongs.
+
+*Inference —* the useful thing about a map that is not to scale is that it tells you what mattered. The wall is drawn thick, the wats are drawn large, and the roads are barely there. A road was not yet a thing you drew.
+
+## Loubère's Siam, 1693 (สยามของลูแบร์ 2236) — map
+https://motdang.net/roads/old-maps/map-loubere-1693/
+
+Simon de la Loubère's map of Siam, English edition, from the account of his embassy to Ayutthaya. Lanna was not Siam in 1693 and the north of this map is guesswork. It is here as the base line: the first European drawing of the kingdom this city would later be governed from.
+
+*Inference —* for two hundred years after this map the way to reach Chiang Mai from Bangkok was the river, and the maps show it: water is drawn, land routes are not. The road network of this province begins on paper in the 1880s, with Pavie and McCarthy.
+
+## McCarthy's Siam, 1888 (สยามของแม็กคาร์ธี 2431) — map
+https://motdang.net/roads/old-maps/map-mccarthy-1888/
+
+James McCarthy's map of the kingdom and its dependencies, from government surveys under his direction. Its dependencies are Laos, part of Cambodia and the northern Shan States. Chiang Mai appears on it as a place in a tributary state, six years after the yang trees went in on the Lamphun road.
+
+## McCarthy's Siam, 1900 (สยามของแม็กคาร์ธี 2443) — map
+https://motdang.net/roads/old-maps/map-mccarthy-1900/
+
+The second McCarthy sheet, from government surveys by order of a Siamese prince. Between this map and the last one the north stopped being a dependency and became Monthon Phayap, administered by a high commissioner from Bangkok. The commissioner of that decade is the one who had the yang trees planted and the Hang Dong road built.
+
+## Pavie's itineraries, 1880–1884 (เส้นทางเดินทางของปาวี 2423–2427) — map
+https://motdang.net/roads/old-maps/map-pavie-1884/
+
+Auguste Pavie's own traverses through Cambodia and Siam, 1880 to 1884, drawn at 106 by 130 cm. A French colonial officer walked and floated the routes and the lines on the sheet are where he went. The distinction between a route and a road had not been made yet, because there was nothing in the north that would survive a rainy season.
+
+## The Siam State Railways map, 1930 (แผนที่รถไฟหลวงสยาม 2473) — map
+https://motdang.net/roads/old-maps/map-railways-1930/
+
+The state railway's own network map at 1:2,500,000, in English, showing the northern line complete to Chiang Mai. The train had arrived on 1 January 1921 through the Khun Tan tunnel, and this is the network as the railway wanted it seen nine years later.
+
+## The Royal State Railways map, 1934 (แผนที่การรถไฟหลวง 2477) — map
+https://motdang.net/roads/old-maps/map-railways-1934/
+
+The 1934 edition of the railway network at the same scale, under the name Royal State Railways of Siam. It is the same year Kruba Srivichai broke ground on the road up Doi Suthep, which is a useful pairing: the state was laying steel and a congregation was laying laterite, in the same province, in the same twelve months.
+
+## The first national map, 1939 (แผนที่ชาติฉบับแรก 2482) — map
+https://motdang.net/roads/old-maps/map-royal-thai-1939/
+
+A Royal Thai Survey Department map of mainland Southeast Asia, described as the first national map of Thailand and the first to carry the new name. Siam became Thailand in 1939, and the sheet is the state drawing itself as it wanted to be read.
+
+## The Shell wall map, about 1958 (แผนที่ติดผนังของเชลล์ ราว 2501) — map
+https://motdang.net/roads/old-maps/map-shell-1958/
+
+A large bilingual wall map of Thailand issued by Shell, undated but about 1958: highways, railways, towns and topography. A petrol company draws the roads because the roads are the business, which makes an oil-company map the best road map of its decade.
+
+*Inference —* this is the last national sheet on this site from before Route 11. Ten years later the Lampang road was built and the drive to Bangkok changed, and every map after it is a map of a country with a trunk road up the middle.
+
+## The War Office sheet, 1946 (แผ่นของ War Office 2489) — map
+https://motdang.net/roads/old-maps/map-war-office-1946/
+
+A coloured map of Siam by the War Office in London, the year after the war and two years before the moat roads. Wartime and immediately post-war mapping of this country is unusually good because armies needed it, and it is the reason a 1945 city sheet at 1:5,000 exists at all.
+
 ## How far between intersections (ระหว่างแยกไกลแค่ไหน) — measure
 https://motdang.net/roads/measures/block-length/
 
@@ -659,10 +760,14 @@ https://motdang.net/roads/words/khu/
 
 The moat, and by extension the roads on its banks. 'Rop khu' is the loop.
 
+The 1931 and 1945 city sheets both label it คูเวียง, khu wiang, the ditch of the walled town, rather than khu mueang. Two official maps fourteen years apart agree, and usage on the ground today has drifted to khu mueang.
+
 ## ขัว khua (ขัว) — word
 https://motdang.net/roads/words/khua/
 
 The Lanna word for a bridge, and the one the Iron Bridge is known by. A driver hears saphan on the signs and khua from the passengers.
+
+It is in a gate name on the 1931 city map: ประตูขัวก้อม, Kua Kom Gate, the gate of the short bridge, on the outer wall's line southeast of the square. A Kam Mueang word for a bridge, printed on an official sheet, in 1931.
 
 ## ลอด lot (ลอด) — word
 https://motdang.net/roads/words/lot/
@@ -698,6 +803,8 @@ The standard word, used in both registers. A thanon is built; a thang is only go
 https://motdang.net/roads/words/wiang/
 
 The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang.
+
+The 1945 city sheet labels the water KHU WIANG (Moat) on all four sides, which is this word doing its work on an official map: the square is the wiang, and the ditch belongs to it.
 
 ## แยก yaek (แยก) — word
 https://motdang.net/roads/words/yaek/

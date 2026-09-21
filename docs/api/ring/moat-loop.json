@@ -203,6 +203,12 @@
    "as": "Built 1948."
   },
   {
+   "from": "map-1945",
+   "type": "map",
+   "name": "The 1945 city map",
+   "as": "Built three years later."
+  },
+  {
    "from": "one-way-share",
    "type": "measure",
    "name": "How much of the road runs one way",

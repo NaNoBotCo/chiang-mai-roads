@@ -504,10 +504,10 @@
     "tier": "tradition"
    },
    "text": {
-    "what": "The moat, and by extension the roads on its banks. 'Rop khu' is the loop."
+    "what": "The moat, and by extension the roads on its banks. 'Rop khu' is the loop.\n\nThe 1931 and 1945 city sheets both label it คูเวียง, khu wiang, the ditch of the walled town, rather than khu mueang. Two official maps fourteen years apart agree, and usage on the ground today has drifted to khu mueang."
    },
    "text_th": {
-    "what": "คูเมือง และโดยนัยคือถนนบนตลิ่งของมัน 'รอบคู' คือวงรอบ"
+    "what": "คูเมือง และโดยนัยคือถนนบนตลิ่งของมัน 'รอบคู' คือวงรอบ\n\nแผ่นเมืองปี 2474 และ 2488 กำกับมันว่า คูเวียง คูของเมืองมีกำแพง ไม่ใช่คูเมือง แผนที่ทางการสองแผ่นห่างกันสิบสี่ปีตรงกัน และการใช้บนพื้นที่ทุกวันนี้เคลื่อนไปเป็นคูเมือง"
    },
    "word": {
     "th": "คู",
@@ -525,6 +525,16 @@
      "to": "moat-loop",
      "as": "The roads on it.",
      "rel": "ring"
+    },
+    {
+     "to": "map-1931",
+     "as": "Labels it khu wiang.",
+     "rel": "map"
+    },
+    {
+     "to": "map-1945",
+     "as": "Labels it khu wiang.",
+     "rel": "map"
     }
    ],
    "tags": [
@@ -532,7 +542,8 @@
    ],
    "sources": [
     "s:moradok-lanna-dict",
-    "s:wp-northern-thai"
+    "s:wp-northern-thai",
+    "s:commons-map"
    ],
    "provenance": {
     "default": {
@@ -568,6 +579,18 @@
    ],
    "kin_in": [
     {
+     "from": "map-1931",
+     "type": "map",
+     "name": "The 1931 city map",
+     "as": "It labels the moat with this word."
+    },
+    {
+     "from": "map-1945",
+     "type": "map",
+     "name": "The 1945 city map",
+     "as": "It labels the moat with this word."
+    },
+    {
      "from": "the-moat",
      "type": "place",
      "name": "The moat",
@@ -591,10 +614,10 @@
     "tier": "tradition"
    },
    "text": {
-    "what": "The Lanna word for a bridge, and the one the Iron Bridge is known by. A driver hears saphan on the signs and khua from the passengers."
+    "what": "The Lanna word for a bridge, and the one the Iron Bridge is known by. A driver hears saphan on the signs and khua from the passengers.\n\nIt is in a gate name on the 1931 city map: ประตูขัวก้อม, Kua Kom Gate, the gate of the short bridge, on the outer wall's line southeast of the square. A Kam Mueang word for a bridge, printed on an official sheet, in 1931."
    },
    "text_th": {
-    "what": "คำเมืองสำหรับสะพาน และเป็นชื่อที่ขัวเหล็กถูกเรียก คนขับได้ยินคำว่าสะพานบนป้าย แต่ได้ยินขัวจากคนนั่ง"
+    "what": "คำเมืองสำหรับสะพาน และเป็นชื่อที่ขัวเหล็กถูกเรียก คนขับได้ยินคำว่าสะพานบนป้าย แต่ได้ยินขัวจากคนนั่ง\n\nมันอยู่ในชื่อประตูบนแผนที่เมืองปี 2474 ประตูขัวก้อม ประตูของขัวสั้น บนแนวกำแพงชั้นนอกทางตะวันออกเฉียงใต้ของสี่เหลี่ยม คำเมืองสำหรับสะพาน พิมพ์บนแผ่นทางการ ในปี 2474"
    },
    "word": {
     "th": "ขัว",
@@ -612,6 +635,11 @@
      "to": "iron-bridge",
      "as": "The bridge everyone calls by this word.",
      "rel": "bridge"
+    },
+    {
+     "to": "map-1931",
+     "as": "Where the gate is named.",
+     "rel": "map"
     }
    ],
    "tags": [
@@ -619,7 +647,8 @@
    ],
    "sources": [
     "s:moradok-lanna-dict",
-    "s:wp-northern-thai"
+    "s:wp-northern-thai",
+    "s:commons-map"
    ],
    "provenance": {
     "default": {
@@ -651,6 +680,21 @@
      "date": "Taken on 4 December 2009",
      "primary": true,
      "sha256": "f67deb8164818d873c5945dad0a8667744f40ac6e43eea7cb440e0c6e92aa962"
+    },
+    {
+     "file": "khua/khua-phap-mueang-thai-1943-p-061.jpg",
+     "source": "commons",
+     "title": "File:Phap Mueang Thai (1943, p 061).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Phap_Mueang_Thai_%281943%2C_p_061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APhap_Mueang_Thai_%281943%2C_p_061%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Office of the Prime Minister",
+     "credit": "This image has been extracted from another file",
+     "alt": "This picture is described as follows:\nOriginal caption: \"A bridge over the Wang River, Lampang.\"\nUploader's caption: Perhaps referring to Ratsadaphisek Bridge.",
+     "date": "1943-07-14",
+     "primary": false,
+     "sha256": "e8bf157cf8b45d342c5c12ace595d092b52053611a7a24a857da47a4a6b180a7"
     }
    ],
    "kin_in": [
@@ -665,6 +709,12 @@
      "type": "bridge",
      "name": "Nawarat Bridge",
      "as": "The word."
+    },
+    {
+     "from": "map-1931",
+     "type": "map",
+     "name": "The 1931 city map",
+     "as": "Kua Kom Gate is on it."
     }
    ]
   },
@@ -1172,6 +1222,36 @@
      "date": "2017-04-19",
      "primary": false,
      "sha256": "6e8dcf0ec322e1971bc329ce0fbaf7c6e6933bbf93c21715f3d9f10c306d2451"
+    },
+    {
+     "file": "thang/thang-pearl-of-asia-1892-p-339.jpg",
+     "source": "commons",
+     "title": "File:Pearl of Asia (1892, p 339).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pearl_of_Asia_%281892%2C_p_339%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APearl_of_Asia_%281892%2C_p_339%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "This image has been extracted from another file",
+     "alt": "* Original caption: Native bullock carts &amp; ox yokes.\nUploader's caption: Ra-thae (Thai: ระแทะ), a traditional vehicle of Thailand.",
+     "date": "1892",
+     "primary": false,
+     "sha256": "d979fdd89aea00765fd764b70c2b80aa70466964b3ec846a70f325f3bc75c51c"
+    },
+    {
+     "file": "thang/thang-phap-mueang-thai-1943-p-028.jpg",
+     "source": "commons",
+     "title": "File:Phap Mueang Thai (1943, p 028).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Phap_Mueang_Thai_%281943%2C_p_028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APhap_Mueang_Thai_%281943%2C_p_028%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Office of the Prime Minister",
+     "credit": "This image has been extracted from another file",
+     "alt": "This picture is described as follows:\nOriginal caption: \"The use of elephants as vehicles for conveyance of military supplies and weaponry.\"",
+     "date": "1943-07-14",
+     "primary": false,
+     "sha256": "40addec813939fc6546d471c7bdf02f569d7048e282ae21981569ed2cca59df8"
     }
    ],
    "kin_in": [
@@ -1274,9 +1354,30 @@
      "date": "2014-05-23",
      "primary": false,
      "sha256": "da8f36cac4d4a928fc864b1ea99759bb54cef50768030f6bcdee45d94a3a84b7"
+    },
+    {
+     "file": "thanon/thanon-charoen-krung-road.jpg",
+     "source": "commons",
+     "title": "File:Charoen Krung Road.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Charoen_Krung_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACharoen_Krung_Road.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "ดำรงราชานุภาพ, สมเด็จพระเจ้าบรมวงศ์เธอ กรมพระยา. (๒๕๓๐). ความทรงจำของสมเด็จฯ กรมพระยาดำรงราชานุภาพ. กรุงเทพฯ: อมรินทร์ พริ้นติ้ง กรุ๊พ. (มูลนิธิสมเด็จฯ กรมพระยาดำรงราชานุภาพ และหม่อมเจ้าจงจิตรถนอม ดิศ",
+     "alt": "Charoen Krung Road, taken in the reign of Chulalongkorn (reigned 1868–1910)",
+     "date": "before 1910date QS:P,+1910-00-00T00:00:0",
+     "primary": false,
+     "sha256": "40f4a15b480c98959736223f3acd87e06db5aa8109d6444fe640bc8c395b63ed"
     }
    ],
    "kin_in": [
+    {
+     "from": "map-1945",
+     "type": "map",
+     "name": "The 1945 city map",
+     "as": "Its glossary defines it."
+    },
     {
      "from": "thang",
      "type": "word",
@@ -1301,10 +1402,10 @@
     "tier": "tradition"
    },
    "text": {
-    "what": "The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang."
+    "what": "The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang.\n\nThe 1945 city sheet labels the water KHU WIANG (Moat) on all four sides, which is this word doing its work on an official map: the square is the wiang, and the ditch belongs to it."
    },
    "text_th": {
-    "what": "คำสำหรับเมืองมีกำแพง และเป็นคำที่เว็บนี้ใช้เรียกสี่เหลี่ยมในคู เชียงใหม่ที่เหลือคือเมือง สี่เหลี่ยมคือเวียง"
+    "what": "คำสำหรับเมืองมีกำแพง และเป็นคำที่เว็บนี้ใช้เรียกสี่เหลี่ยมในคู เชียงใหม่ที่เหลือคือเมือง สี่เหลี่ยมคือเวียง\n\nแผ่นเมืองปี 2488 กำกับน้ำว่า KHU WIANG (Moat) ทั้งสี่ด้าน ซึ่งเป็นคำนี้ทำงานอยู่บนแผนที่ทางการ สี่เหลี่ยมคือเวียง และคูเป็นของมัน"
    },
    "word": {
     "th": "เวียง",
@@ -1322,6 +1423,11 @@
      "to": "the-moat",
      "as": "What surrounds it.",
      "rel": "place"
+    },
+    {
+     "to": "map-1945",
+     "as": "Where it is written.",
+     "rel": "map"
     }
    ],
    "tags": [
@@ -1329,7 +1435,8 @@
    ],
    "sources": [
     "s:moradok-lanna-dict",
-    "s:wp-northern-thai"
+    "s:wp-northern-thai",
+    "s:commons-map"
    ],
    "provenance": {
     "default": {
@@ -1364,6 +1471,12 @@
     }
    ],
    "kin_in": [
+    {
+     "from": "map-1945",
+     "type": "map",
+     "name": "The 1945 city map",
+     "as": "And with this one."
+    },
     {
      "from": "chiang-mai-kam-mueang",
      "type": "word",

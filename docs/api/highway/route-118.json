@@ -112,6 +112,12 @@
    "type": "plan",
    "name": "Four-laning Route 118 to Chiang Rai",
    "as": "The road."
+  },
+  {
+   "from": "map-bock-1881",
+   "type": "map",
+   "name": "Bock's route to the north, 1881",
+   "as": "What the journey is now."
   }
  ]
 }

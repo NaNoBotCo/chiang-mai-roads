@@ -1,0 +1,97 @@
+{
+ "id": "map-pavie-1884",
+ "type": "map",
+ "names": {
+  "name": "Pavie's itineraries, 1880–1884",
+  "th": "เส้นทางเดินทางของปาวี 2423–2427",
+  "said": "Not a map of roads. A map of one man's routes, which is what a road was.",
+  "said_th": "บ่ใช่แผนที่ถนน เป็นแผนที่เส้นทางของคนคนเดียว ซึ่งตอนนั้นถนนก็คืออย่างนั้น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "kawila",
+  "year": "1884",
+  "order": 9
+ },
+ "sheet": {
+  "year": "1884",
+  "maker": "Auguste Pavie",
+  "maker_th": "โอกุสต์ ปาวี",
+  "shows": "The routes as travelled, with the places strung along them.",
+  "shows_th": "เส้นทางตามที่เดินจริง กับสถานที่ร้อยเรียงตามมัน",
+  "extent": "106 × 130 cm",
+  "extent_th": "106 × 130 ซม."
+ },
+ "text": {
+  "what": "Auguste Pavie's own traverses through Cambodia and Siam, 1880 to 1884, drawn at 106 by 130 cm. A French colonial officer walked and floated the routes and the lines on the sheet are where he went. The distinction between a route and a road had not been made yet, because there was nothing in the north that would survive a rainy season."
+ },
+ "text_th": {
+  "what": "เส้นทางที่โอกุสต์ ปาวี เดินเองผ่านกัมพูชาและสยาม ปี 2423 ถึง 2427 วาดขนาด 106 คูณ 130 ซม. นายทหารอาณานิคมฝรั่งเศสเดินและล่องไปตามเส้นทาง และเส้นบนแผ่นคือที่ที่เขาไป ความต่างระหว่างเส้นทางกับถนนยังไม่ถูกแยก เพราะไม่มีอะไรในภาคเหนือที่จะรอดฤดูฝน"
+ },
+ "kin": [
+  {
+   "to": "map-mccarthy-1888",
+   "as": "The survey that followed.",
+   "rel": "map"
+  },
+  {
+   "to": "era-kawila-1796-1900",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-pavie-1884/map-pavie-1884-carte-cambodge-et-siam-itineraires-de-auguste-pavie-f90084f.jpg",
+   "source": "commons",
+   "title": "File:Carte Cambodge et Siam Itineraires de Auguste Pavie 1880-1884.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Carte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACarte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Auguste Jean-Marie Pavie (1847 - 1925)",
+   "credit": "Geographicus - https://www.geographicus.com/P/AntiqueMap/siamcambodge-pavie-1885",
+   "alt": "French map, title: 'Itinéraires de Mr. A. Pavie dans le sud-ouest de L'Indo-Chine Orientale (Cambodge et Siam) (1880 - 1884).' Size: 106.68 x 129.54 cm. Scale: 1 : 460000. This maps shows Battambang p",
+   "date": "1884",
+   "primary": true,
+   "sha256": "4b9b111a52fc5b05102c5e40ae78cc55d188a93d30f9b737c56e6d5a1c760d0a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "map-bock-1881",
+   "type": "map",
+   "name": "Bock's route to the north, 1881",
+   "as": "The same decade, the same problem."
+  },
+  {
+   "from": "map-loubere-1693",
+   "type": "map",
+   "name": "Loubère's Siam, 1693",
+   "as": "Where the land routes start."
+  }
+ ]
+}

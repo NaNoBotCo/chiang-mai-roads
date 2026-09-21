@@ -1,0 +1,81 @@
+{
+ "id": "map-loubere-1693",
+ "type": "map",
+ "names": {
+  "name": "Loubère's Siam, 1693",
+  "th": "สยามของลูแบร์ 2236",
+  "said": "The oldest sheet here, and there is no Chiang Mai on it.",
+  "said_th": "แผ่นเก่าสุดที่นี่ และไม่มีเชียงใหม่อยู่บนมัน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "lanna",
+  "year": "1693",
+  "order": 8
+ },
+ "sheet": {
+  "year": "1693",
+  "maker": "Simon de la Loubère",
+  "maker_th": "ซีมง เดอ ลา ลูแบร์",
+  "shows": "Rivers, and the roads not at all.",
+  "shows_th": "แม่น้ำ และไม่มีถนนเลย"
+ },
+ "text": {
+  "what": "Simon de la Loubère's map of Siam, English edition, from the account of his embassy to Ayutthaya. Lanna was not Siam in 1693 and the north of this map is guesswork. It is here as the base line: the first European drawing of the kingdom this city would later be governed from.",
+  "story": "*Inference —* for two hundred years after this map the way to reach Chiang Mai from Bangkok was the river, and the maps show it: water is drawn, land routes are not. The road network of this province begins on paper in the 1880s, with Pavie and McCarthy."
+ },
+ "text_th": {
+  "what": "แผนที่สยามของซีมง เดอ ลา ลูแบร์ ฉบับภาษาอังกฤษ จากบันทึกคณะทูตของเขาที่อยุธยา ล้านนาไม่ใช่สยามในปี 2236 และภาคเหนือของแผนที่นี้เป็นการเดา มันอยู่ที่นี่ในฐานะเส้นฐาน ภาพวาดยุโรปชิ้นแรกของอาณาจักรที่เมืองนี้จะถูกปกครองจากมันในภายหลัง",
+  "story": "*อนุมาน —* สองร้อยปีหลังแผนที่นี้ ทางไปเชียงใหม่จากกรุงเทพฯ คือแม่น้ำ และแผนที่แสดงอย่างนั้น น้ำถูกวาด ทางบกไม่ถูกวาด โครงข่ายถนนของจังหวัดนี้เริ่มบนกระดาษในทศวรรษ 2420 กับปาวีและแม็กคาร์ธี"
+ },
+ "kin": [
+  {
+   "to": "map-pavie-1884",
+   "as": "Where the land routes start.",
+   "rel": "map"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-loubere-1693/map-loubere-1693-kingdom-of-siam-map-thailand-in-1693-by-loubere.jpg",
+   "source": "commons",
+   "title": "File:Kingdom of Siam Map (Thailand) in 1693 by Loubere.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kingdom_of_Siam_Map_%28Thailand%29_in_1693_by_Loubere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKingdom_of_Siam_Map_%28Thailand%29_in_1693_by_Loubere.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Simon de la Loubère",
+   "credit": "Forum Auctions - https://www.forumauctions.co.uk/55860/South-East-Asia.-La-Loub-232re-Simon-de-A-New-Historical-Relation-of-the-Kingdom-of-Siam-2-vol.-in-1-first-English-edition-1693?view=lot_detail&a",
+   "alt": "This is the English edition of a French map of Siam (Thailand) in 1693 by Simon de la Loubère.",
+   "date": "1693",
+   "primary": true,
+   "sha256": "3aa4ce30b4b929bdc04e7e943b103733d5c6429687a29af75c733b8d73c80b12"
+  }
+ ]
+}

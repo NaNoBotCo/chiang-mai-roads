@@ -95,6 +95,17 @@
    "icon": "era"
   },
   {
+   "key": "map",
+   "name": "Old maps",
+   "th": "แผนที่เก่า",
+   "one": "map",
+   "path": "old-map",
+   "blurb": "What the city looked like on paper, 1693 to 1959, and what each sheet shows about the roads that were there.",
+   "th_blurb": "เมืองบนกระดาษ ตั้งแต่ปี 2236 ถึง 2502 และแต่ละแผ่นบอกอะไรเรื่องถนนที่มีอยู่ตอนนั้น",
+   "group_by": "facets.era",
+   "icon": "map"
+  },
+  {
    "key": "measure",
    "name": "Measurements",
    "th": "การวัด",

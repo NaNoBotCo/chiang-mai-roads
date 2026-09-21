@@ -13,11 +13,13 @@
  ],
  "text": {
   "what": "The second gate in the south wall, added under King Sam Fang Kaen in the 1400s, so that the south wall alone has two. The hospital of the same name is outside it.",
-  "story": "*Tradition holds —* the dead left the city through this gate, which is why it was cut into the south wall rather than the auspicious north. The road outside it is still the way to the crematorium."
+  "story": "*Tradition holds —* the dead left the city through this gate, which is why it was cut into the south wall rather than the auspicious north. The road outside it is still the way to the crematorium.",
+  "notes": "The 1931 city map spells it ประตูแสนปุง, romanised San Prung on the same sheet, where present usage has สวนปรุง Suan Prung. Both are in circulation and this project does not adjudicate between them."
  },
  "text_th": {
   "what": "ประตูที่สองบนกำแพงด้านใต้ เพิ่มในสมัยพญาสามฝั่งแกนช่วงพุทธศตวรรษที่ 20 กำแพงใต้จึงมีสองประตู โรงพยาบาลชื่อเดียวกันอยู่นอกประตู",
-  "story": "*ตามธรรมเนียม —* ศพออกจากเวียงทางประตูนี้ นี่คือเหตุที่เจาะกำแพงใต้ ไม่ใช่ทิศเหนืออันเป็นมงคล ถนนหน้าประตูยังเป็นทางไปสุสาน"
+  "story": "*ตามธรรมเนียม —* ศพออกจากเวียงทางประตูนี้ นี่คือเหตุที่เจาะกำแพงใต้ ไม่ใช่ทิศเหนืออันเป็นมงคล ถนนหน้าประตูยังเป็นทางไปสุสาน",
+  "notes": "แผนที่เมืองปี 2474 สะกดว่า ประตูแสนปุง ถอดเป็นอักษรโรมันว่า San Prung บนแผ่นเดียวกัน ขณะที่การใช้ปัจจุบันเป็น สวนปรุง ทั้งสองใช้กันอยู่ และโครงการนี้ไม่ตัดสินว่าอันไหนถูก"
  },
  "geo": {
   "lat": 18.7809,
@@ -29,6 +31,11 @@
    "to": "moat-loop",
    "as": "On the ring.",
    "rel": "ring"
+  },
+  {
+   "to": "map-1931",
+   "as": "Where the older spelling is.",
+   "rel": "map"
   }
  ],
  "tags": [
@@ -37,7 +44,8 @@
  "sources": [
   "s:thwp-moat",
   "s:onep-278",
-  "s:cmocity-history"
+  "s:cmocity-history",
+  "s:commons-map"
  ],
  "provenance": {
   "default": {

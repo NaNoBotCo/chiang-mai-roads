@@ -3,13 +3,14 @@
 > The square of 1296, four rings around it, 6,934 km of road between, and what each one did to the city. Counted from the map, dated from the record.
 
 Canonical: https://motdang.net/roads/ · Alternate: https://nanobotco.github.io/chiang-mai-roads/ · Thai: https://motdang.net/roads/th/
-Records: 136 across 15 types, CC BY 4.0. API: https://motdang.net/roads/api/
+Records: 153 across 16 types, CC BY 4.0. API: https://motdang.net/roads/api/
 Network: 52,389 OpenStreetMap ways, 8,054.7 km in the city box, measured by zone at https://motdang.net/roads/old-city/ and https://motdang.net/roads/api/measures.json
 Traffic: 81 highway counting stations at https://motdang.net/roads/traffic/ and https://motdang.net/roads/api/aadt.json
 
 ## Pages
 - Roads: https://motdang.net/roads/
 - The map: https://motdang.net/roads/map/
+- Old maps: https://motdang.net/roads/old-maps/
 - Rings: https://motdang.net/roads/rings/
 - Old city: https://motdang.net/roads/old-city/
 - Highways out: https://motdang.net/roads/highways/
@@ -31,6 +32,7 @@ Traffic: 81 highway counting stations at https://motdang.net/roads/traffic/ and 
 - Highways out (11): https://motdang.net/roads/highways/
 - Plans (10): https://motdang.net/roads/plans/
 - Eras (8): https://motdang.net/roads/eras/
+- Old maps (17): https://motdang.net/roads/old-maps/
 - Measurements (10): https://motdang.net/roads/measures/
 - Traffic (14): https://motdang.net/roads/traffic/
 - Words (15): https://motdang.net/roads/words/

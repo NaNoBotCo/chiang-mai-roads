@@ -1,0 +1,87 @@
+{
+ "id": "map-shell-1958",
+ "type": "map",
+ "names": {
+  "name": "The Shell wall map, about 1958",
+  "th": "แผนที่ติดผนังของเชลล์ ราว 2501",
+  "said": "A petrol company's bilingual map, and the roads are the point of it.",
+  "said_th": "แผนที่สองภาษาของบริษัทน้ำมัน และถนนคือประเด็นของมัน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "c. 1958",
+  "order": 16
+ },
+ "sheet": {
+  "year": "c. 1958",
+  "maker": "Shell Company of Thailand",
+  "maker_th": "บริษัทเชลล์แห่งประเทศไทย",
+  "shows": "The national road network a decade before the Superhighway, drawn by someone with a reason to get it right.",
+  "shows_th": "โครงข่ายถนนของประเทศหนึ่งทศวรรษก่อนซุปเปอร์ไฮเวย์ วาดโดยคนที่มีเหตุผลจะทำให้ถูก",
+  "year_note": "undated; about 1958 by the publisher's own description"
+ },
+ "text": {
+  "what": "A large bilingual wall map of Thailand issued by Shell, undated but about 1958: highways, railways, towns and topography. A petrol company draws the roads because the roads are the business, which makes an oil-company map the best road map of its decade.",
+  "story": "*Inference —* this is the last national sheet on this site from before Route 11. Ten years later the Lampang road was built and the drive to Bangkok changed, and every map after it is a map of a country with a trunk road up the middle."
+ },
+ "text_th": {
+  "what": "แผนที่ติดผนังสองภาษาขนาดใหญ่ของประเทศไทย ออกโดยเชลล์ ไม่ระบุปีแต่ราว 2501 มีทางหลวง ทางรถไฟ เมือง และภูมิประเทศ บริษัทน้ำมันวาดถนนเพราะถนนคือธุรกิจ ซึ่งทำให้แผนที่ของบริษัทน้ำมันเป็นแผนที่ถนนที่ดีที่สุดของทศวรรษนั้น",
+  "story": "*อนุมาน —* นี่คือแผ่นระดับประเทศแผ่นสุดท้ายบนเว็บนี้จากก่อนทางหลวง 11 สิบปีต่อมาถนนลำปางถูกสร้างและการขับไปกรุงเทพฯ เปลี่ยนไป และแผนที่ทุกแผ่นหลังจากนั้นคือแผนที่ของประเทศที่มีถนนสายหลักผ่ากลาง"
+ },
+ "kin": [
+  {
+   "to": "route-11",
+   "as": "What came ten years later.",
+   "rel": "highway"
+  },
+  {
+   "to": "fuel-today",
+   "as": "What a litre costs now.",
+   "rel": "traffic"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-shell-1958/map-shell-1958-bilingual-wall-map-of-thailand-c1958-shell.jpg",
+   "source": "commons",
+   "title": "File:Bilingual Wall Map of Thailand c1958 Shell.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bilingual_Wall_Map_of_Thailand_c1958_Shell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABilingual_Wall_Map_of_Thailand_c1958_Shell.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Shell (Shell Company of Thailand, Ltd.). Printed by George Philip and Son.",
+   "credit": "Geographicus - https://www.geographicus.com/P/AntiqueMap/thailand-philip-1958",
+   "alt": "A large bilingual wall map of Thailand, circa 1958 (undated). It features infrastructure (highways, railways), cities, towns, topographic detail. A compass with the shell logo is above the map title. ",
+   "date": "circa 1958date QS:P,+1958-00-00T00:00:00",
+   "primary": true,
+   "sha256": "690b5d23d2d0f716c899bd5be408c2687db2b298ef5e7ad65882afbffd026025"
+  }
+ ]
+}

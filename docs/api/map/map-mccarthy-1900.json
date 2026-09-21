@@ -1,0 +1,89 @@
+{
+ "id": "map-mccarthy-1900",
+ "type": "map",
+ "names": {
+  "name": "McCarthy's Siam, 1900",
+  "th": "สยามของแม็กคาร์ธี 2443",
+  "said": "Twelve years later, ordered by a prince, and the north is inside the line.",
+  "said_th": "สิบสองปีต่อมา สั่งทำโดยเจ้านาย และภาคเหนืออยู่ในเส้นแล้ว"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "kawila",
+  "year": "1900",
+  "order": 11
+ },
+ "sheet": {
+  "year": "1900",
+  "maker": "James McCarthy, by order of a Siamese prince",
+  "maker_th": "เจมส์ แม็กคาร์ธี ตามบัญชาเจ้านายสยาม",
+  "shows": "A province where a tributary state had been, and roads beginning to be worth drawing.",
+  "shows_th": "จังหวัดตรงที่เคยเป็นประเทศราช และถนนเริ่มมีค่าพอให้วาด"
+ },
+ "text": {
+  "what": "The second McCarthy sheet, from government surveys by order of a Siamese prince. Between this map and the last one the north stopped being a dependency and became Monthon Phayap, administered by a high commissioner from Bangkok. The commissioner of that decade is the one who had the yang trees planted and the Hang Dong road built."
+ },
+ "text_th": {
+  "what": "แผ่นที่สองของแม็กคาร์ธี จากการรังวัดของรัฐบาลตามบัญชาของเจ้านายสยาม ระหว่างแผนที่นี้กับแผ่นก่อน ภาคเหนือเลิกเป็นประเทศราชและกลายเป็นมณฑลพายัพ ปกครองโดยข้าหลวงใหญ่จากกรุงเทพฯ ข้าหลวงของทศวรรษนั้นคือคนที่ให้ปลูกต้นยางและสร้างถนนหางดง"
+ },
+ "kin": [
+  {
+   "to": "phraya-surasi",
+   "as": "The commissioner.",
+   "rel": "person"
+  },
+  {
+   "to": "ton-yang-road",
+   "as": "What he had planted.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-mccarthy-1900/map-mccarthy-1900-kingdom-of-siam-thailand-map-1900-mccarthy.jpg",
+   "source": "commons",
+   "title": "File:Kingdom of Siam (Thailand) Map 1900 McCarthy.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kingdom_of_Siam_%28Thailand%29_Map_1900_McCarthy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKingdom_of_Siam_%28Thailand%29_Map_1900_McCarthy.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "James Fitzroy McCarthy (1853–1919)",
+   "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/8160/",
+   "alt": "Map of the Kingdom of Siam (Thailand) and its dependencies. From Government surveys under the direction of James McCarthy by order of H.R.H. Prince Mahisra Rajarudhu. The map also shows neighboring co",
+   "date": "1900",
+   "primary": true,
+   "sha256": "489d935c00578bbd4ae6480fbf4d8cab721535d0b54081ae2078ca65e9d9bf3d"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "map-mccarthy-1888",
+   "type": "map",
+   "name": "McCarthy's Siam, 1888",
+   "as": "His later sheet."
+  }
+ ]
+}

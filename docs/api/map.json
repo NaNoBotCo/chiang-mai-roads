@@ -1,0 +1,1586 @@
+{
+ "type": "map",
+ "count": 17,
+ "nodes": [
+  {
+   "id": "map-1890",
+   "type": "map",
+   "names": {
+    "name": "The 1890 city map",
+    "th": "แผนที่เมือง 2433",
+    "said": "The sheet that names Chang Moi Road as newly built.",
+    "said_th": "แผ่นที่บอกว่าถนนช้างม่อยเพิ่งสร้าง"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "kawila",
+    "year": "1890",
+    "order": 2
+   },
+   "sheet": {
+    "year": "1890",
+    "maker": "James McCarthy",
+    "maker_th": "เจมส์ แม็กคาร์ธี",
+    "shows": "The moat square, the Ping, the earthen wall's line, and the first named streets outside the gates.",
+    "shows_th": "สี่เหลี่ยมคู แม่ปิง แนวกำแพงดิน และถนนมีชื่อสายแรก ๆ นอกประตู",
+    "year_note": "the file is titled 1890 and its own description says 1900; both are recorded and neither is resolved on this disk"
+   },
+   "text": {
+    "what": "A map of the city under the old spelling Chiengmai. Its own caption says a temple front faces east on the newly built Chang Moi Road, which dates that road to about this sheet and corroborates the chronicle: the outer gate and the earth bank came down between 1910 and 1915 so the street could run straight to the river, and the street was already being cut when this was drawn.",
+    "notes": "Commons credits the file to James McCarthy, the surveyor who mapped the kingdom for the Siamese government in the same years. This project has not seen that attribution confirmed on the sheet itself."
+   },
+   "text_th": {
+    "what": "แผนที่เมืองภายใต้การสะกดแบบเก่าว่า Chiengmai คำบรรยายของแผ่นเองบอกว่าหน้าวัดหันไปทางตะวันออกบนถนนช้างม่อยที่เพิ่งสร้าง ซึ่งลงวันที่ถนนสายนั้นไว้ราวแผ่นนี้ และยืนยันตำนาน ประตูชั้นนอกและคันดินถูกรื้อระหว่างปี 2453–2458 เพื่อให้ถนนวิ่งตรงไปแม่น้ำ และถนนถูกตัดอยู่แล้วตอนวาดแผ่นนี้",
+    "notes": "คอมมอนส์ให้เครดิตไฟล์นี้แก่เจมส์ แม็กคาร์ธี นักรังวัดที่ทำแผนที่อาณาจักรให้รัฐบาลสยามในช่วงปีเดียวกัน โครงการนี้ยังไม่เห็นการระบุนั้นยืนยันบนแผ่นเอง"
+   },
+   "kin": [
+    {
+     "to": "chang-moi-road",
+     "as": "The road it dates.",
+     "rel": "road"
+    },
+    {
+     "to": "chang-moi-gate",
+     "as": "What was removed for it.",
+     "rel": "gate"
+    },
+    {
+     "to": "kamphaeng-din",
+     "as": "The outer wall.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-1890/map-1890-chiang-mai-city-map-chiengmai-1890.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai City Map (Chiengmai) 1890.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiang_Mai_City_Map_%28Chiengmai%29_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_%28Chiengmai%29_1890.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "James McCarthy (1853–1919)",
+     "credit": "Pantip - https://pantip.com/topic/38106682 (Original map source: James McCarthy, Surveying and exploring in Siam, 1900)",
+     "alt": "Chiang Mai City map of 1900. The city was also called Chiengmai in Thailand. The front of the temple faces east on the newly built Chang Moi Road, where Mae Kha Canal flows through. Along the second c",
+     "date": "1900",
+     "primary": true,
+     "sha256": "9aa616856836f271faf9d9701b539284f0d11de5eca49fd45bb6da138f3861d9"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-1893",
+   "type": "map",
+   "names": {
+    "name": "The 1893 map for Inthawichayanon",
+    "th": "แผนที่ 2436 สำหรับพระเจ้าอินทวิชยานนท์",
+    "said": "Two walls, drawn for a king who still had a court.",
+    "said_th": "กำแพงสองชั้น วาดให้กษัตริย์ที่ยังมีราชสำนัก"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "kawila",
+    "year": "1893",
+    "order": 3
+   },
+   "sheet": {
+    "year": "1893",
+    "maker": "unknown, for the court of Chiang Mai",
+    "maker_th": "ไม่ปรากฏผู้จัดทำ ทำถวายราชสำนักเชียงใหม่",
+    "shows": "The two walls together, which is the thing modern maps cannot show because one of them is gone.",
+    "shows_th": "กำแพงสองชั้นพร้อมกัน ซึ่งเป็นสิ่งที่แผนที่สมัยใหม่แสดงไม่ได้เพราะชั้นหนึ่งหายไปแล้ว"
+   },
+   "text": {
+    "what": "Drawn for King Inthawichayanon, the last ruler before Siam's commissioners took the north in hand. It shows both walls: the inner brick square and the outer earthen bank curving round the trading quarter to the east."
+   },
+   "text_th": {
+    "what": "วาดถวายพระเจ้าอินทวิชยานนท์ เจ้าหลวงองค์สุดท้ายก่อนข้าหลวงสยามเข้ามาจัดการภาคเหนือ มันแสดงกำแพงทั้งสองชั้น สี่เหลี่ยมอิฐชั้นในและคันดินชั้นนอกที่โค้งล้อมย่านค้าขายด้านตะวันออก"
+   },
+   "kin": [
+    {
+     "to": "kamphaeng-din",
+     "as": "The wall it still shows.",
+     "rel": "place"
+    },
+    {
+     "to": "phraya-surasi",
+     "as": "The commissioner who followed.",
+     "rel": "person"
+    },
+    {
+     "to": "era-kawila-1796-1900",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-1893/map-1893-chiang-mai-city-map-for-inthawichayanon-1893.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai City Map for Inthawichayanon 1893.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chiang_Mai_City_Map_for_Inthawichayanon_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_for_Inthawichayanon_1893.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "The Fine Arts Office, Chiang Mai",
+     "alt": "Historic map of Chiang Mai city for King Inthawichayanon (1817-1897), dated 1893. The city was protected by an inner wall (brick wall), an outer wall (earth wall), 2 moats and multiple city gates. Eac",
+     "date": "1893",
+     "primary": true,
+     "sha256": "c32e071424ec6dde4083eb3e675d4a59fa43ecae9dfff88874ec8ea0b2c512ef"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-1931",
+   "type": "map",
+   "names": {
+    "name": "The 1931 city map",
+    "th": "แผนที่เมือง 2474",
+    "said": "Ten years after the railway, stamped by an insurance company.",
+    "said_th": "สิบปีหลังรถไฟมา ประทับตราบริษัทประกัน"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1931",
+    "order": 4
+   },
+   "sheet": {
+    "year": "1931",
+    "maker": "unknown; the sheet carries the stamp of the Royal Insurance Company Limited, 26 October 1931",
+    "maker_th": "ไม่ปรากฏผู้จัดทำ แผ่นมีตราประทับบริษัท Royal Insurance ลงวันที่ 26 ตุลาคม 2474",
+    "shows": "The east bank after the railway, seventeen years before the moat roads were cut.",
+    "shows_th": "ฝั่งตะวันออกหลังรถไฟมา สิบเจ็ดปีก่อนถนนรอบคูถูกตัด",
+    "holding": "stamped 26 October"
+   },
+   "text": {
+    "what": "A large city sheet carrying the stamp of the Royal Insurance Company, dated 26 October. It is the first map on this site made after the train arrived in 1921, and it shows what the train did: the east bank built up, Tha Phae Road the commercial spine, the streets between the square and the river filled in.",
+    "story": "*Inference —* an insurance company's stamp is the tell. Someone was pricing fire risk street by street, which means the streets were worth pricing, which means the money had moved off the river and onto the road.",
+    "how": "**Read off the sheet.** It is bilingual, Thai above English, at 1:5,000. The moat is labelled คูเวียง KOO VIENG CANAL on every side. Eight gates are named: Chang Phuak, Suan Dok, Chiengmai and ประตูแสนปุง San Prung on the square, and Ta Phae, ประตูหายยา Hai Ya, ประตูขัวก้อม Kua Kom and Sakang outside it. The roads out are labelled by where they go, not by number: TO HANG DONG & CHOM THONG, TO SANKAMPANG, TO DOI SATE, TO LAMPANG, TO HUEY KEO. The teak houses have their own buildings marked, Borneo Office and Bombay Burma Office, and so do the British and French consulates. The railway station is there with RAILWAY'S LANDS, a rest house and a locomotive store beside it."
+   },
+   "text_th": {
+    "what": "แผ่นเมืองขนาดใหญ่ที่มีตราประทับของ Royal Insurance Company ลงวันที่ 26 ตุลาคม เป็นแผนที่แผ่นแรกบนเว็บนี้ที่ทำขึ้นหลังรถไฟมาถึงปี 2464 และมันแสดงสิ่งที่รถไฟทำ ฝั่งตะวันออกถูกสร้างเต็ม ถนนท่าแพเป็นแกนการค้า ถนนระหว่างสี่เหลี่ยมกับแม่น้ำถูกเติมเต็ม",
+    "story": "*อนุมาน —* ตราประทับของบริษัทประกันคือเบาะแส มีคนกำลังคิดราคาความเสี่ยงไฟไหม้ทีละถนน ซึ่งแปลว่าถนนมีค่าพอให้คิดราคา ซึ่งแปลว่าเงินย้ายจากแม่น้ำมาอยู่บนถนนแล้ว",
+    "how": "**อ่านจากแผ่นเอง** เป็นสองภาษา ไทยบนอังกฤษล่าง มาตราส่วน 1:5,000 คูเมืองเขียนกำกับว่า คูเวียง KOO VIENG CANAL ทุกด้าน มีประตูแปดประตู ช้างเผือก สวนดอก เชียงใหม่ และประตูแสนปุง บนสี่เหลี่ยม กับท่าแพ ประตูหายยา ประตูขัวก้อม และสะแกง นอกสี่เหลี่ยม ถนนออกเมืองกำกับด้วยปลายทาง ไม่ใช่หมายเลข ไปหางดงและจอมทอง ไปสันกำแพง ไปดอยสะเก็ด ไปลำปาง ไปห้วยแก้ว ห้างไม้สักมีอาคารของตัวเองทำเครื่องหมายไว้ Borneo Office และ Bombay Burma Office เช่นเดียวกับสถานกงสุลอังกฤษและฝรั่งเศส สถานีรถไฟอยู่ตรงนั้นพร้อมที่ดินรถไฟ เรือนพัก และโรงเก็บหัวรถจักรข้าง ๆ"
+   },
+   "kin": [
+    {
+     "to": "chiang-mai-station",
+     "as": "What changed the city before it.",
+     "rel": "place"
+    },
+    {
+     "to": "tha-phae-road",
+     "as": "Its spine.",
+     "rel": "road"
+    },
+    {
+     "to": "era-siam-1900-1950",
+     "as": "Its era.",
+     "rel": "era"
+    },
+    {
+     "to": "khu",
+     "as": "It labels the moat with this word.",
+     "rel": "word"
+    },
+    {
+     "to": "khua",
+     "as": "Kua Kom Gate is on it.",
+     "rel": "word"
+    },
+    {
+     "to": "route-108",
+     "as": "Labelled TO HANG DONG & CHOM THONG.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-1931/map-1931-map-of-chiengmai-chiang-mai-city-1931.jpg",
+     "source": "commons",
+     "title": "File:Map of Chiengmai (Chiang Mai) City 1931.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Map_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "Old Maps Online (stored at the British Library) - https://www.oldmapsonline.org/en/maps/b84b50de-cdf9-5c61-9d88-a76fcd5a8464?year=1850&amp;gid=b3777b75-7966-559f-85d0-b1b1aaa602d3#position=16.6004/18.",
+     "alt": "Map of Chiengmai (Chiang Mai) city, 1931. This is the capital of Chiang Mai province. The top left stamp says: \"Royal Insurance Company Limited, 26 October 1931 Liverpool.\"",
+     "date": "1931",
+     "primary": true,
+     "sha256": "c9a96601fa58227d8be39b33dc84d6261b93c20ddd1170e9f6ff8c9d7da8e05c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "suan-prung-gate",
+     "type": "gate",
+     "name": "Suan Prung Gate",
+     "as": "Where the older spelling is."
+    },
+    {
+     "from": "route-108",
+     "type": "highway",
+     "name": "Route 108, southwest to Mae Hong Son",
+     "as": "Where it is labelled."
+    },
+    {
+     "from": "khu",
+     "type": "word",
+     "name": "คู khu",
+     "as": "Labels it khu wiang."
+    },
+    {
+     "from": "khua",
+     "type": "word",
+     "name": "ขัว khua",
+     "as": "Where the gate is named."
+    },
+    {
+     "from": "kamphaeng-din",
+     "type": "place",
+     "name": "Kamphaeng Din, the earthen wall",
+     "as": "Where its line is drawn."
+    }
+   ]
+  },
+  {
+   "id": "map-1945",
+   "type": "map",
+   "names": {
+    "name": "The 1945 city map",
+    "th": "แผนที่เมือง 2488",
+    "said": "1:5,000, printed at the Survey of India, three years before the moat roads.",
+    "said_th": "มาตราส่วน 1:5,000 พิมพ์ที่ Survey of India สามปีก่อนถนนรอบคู"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1945",
+    "order": 5
+   },
+   "sheet": {
+    "year": "1945",
+    "maker": "Survey of India",
+    "maker_th": "Survey of India",
+    "shows": "The square in the last year it was a fortification rather than a roundabout.",
+    "shows_th": "สี่เหลี่ยมในปีสุดท้ายที่มันเป็นป้อม ไม่ใช่วงเวียน",
+    "scale": "1:5,000",
+    "extent": "the city, 57 × 87 cm",
+    "extent_th": "ตัวเมือง 57 × 87 ซม.",
+    "holding": "American Geographical Society",
+    "year_note": "first edition August 1945, compiled from a Siamese 1:5,000 sheet of 1930 and air photographs of March 1945",
+    "sheet_no": "AMS series L904"
+   },
+   "text": {
+    "what": "Printed at the Survey of India offices at 1:5,000, 57 by 87 cm, held by the American Geographical Society. It is the last map on this site that shows the old city before the municipality built the roads on both banks of the moat in 1948 and demolished stretches of the wall to do it.",
+    "story": "*Inference —* this sheet and a modern one, laid side by side, are the whole argument of this site in two pictures. The square is the same square. Everything outside it is different, and the difference is rings.",
+    "how": "**Read off the sheet.** Its compilation note says it was made from a Siamese map of Chiangmai at 1:5,000 dated 1930, with additions and corrections from air photographs of March 1945. First edition August 1945, printed at the Survey of India Offices, Army Map Service series L904, and the copy carries a Library of Congress exchange stamp of June 1950. The moat is labelled KHU WIANG (Moat) on all four sides. Its glossary translates the words this site is built on: Thanon is Road or Street, Pratu is Gate, Tha is a Ford or Landing place, Talat is Market, Wat is Temple or Monastery, Khlong is a Pond or Stream."
+   },
+   "text_th": {
+    "what": "พิมพ์ที่สำนักงาน Survey of India มาตราส่วน 1:5,000 ขนาด 57 คูณ 87 ซม. เก็บโดย American Geographical Society เป็นแผนที่แผ่นสุดท้ายบนเว็บนี้ที่แสดงเวียงเก่าก่อนเทศบาลสร้างถนนสองฝั่งคูในปี 2491 และรื้อกำแพงบางช่วงเพื่อทำอย่างนั้น",
+    "story": "*อนุมาน —* แผ่นนี้กับแผ่นสมัยใหม่ วางเคียงกัน คือข้อโต้แย้งทั้งหมดของเว็บนี้ในสองภาพ สี่เหลี่ยมยังเป็นสี่เหลี่ยมเดิม ทุกอย่างนอกมันต่างไป และความต่างคือวงแหวน",
+    "how": "**อ่านจากแผ่นเอง** หมายเหตุการจัดทำบอกว่าทำจากแผนที่เมืองเชียงใหม่ของสยาม มาตราส่วน 1:5,000 ลงปี 2473 พร้อมเพิ่มเติมและแก้ไขจากภาพถ่ายทางอากาศเดือนมีนาคม 2488 พิมพ์ครั้งแรกสิงหาคม 2488 ที่สำนักงาน Survey of India ชุด L904 ของ Army Map Service และฉบับนี้มีตราแลกเปลี่ยนของหอสมุดรัฐสภาอเมริกันเดือนมิถุนายน 2493 คูเมืองกำกับว่า KHU WIANG (Moat) ทั้งสี่ด้าน อภิธานของมันแปลคำที่เว็บนี้สร้างขึ้นจาก ถนนคือ Road หรือ Street ประตูคือ Gate ท่าคือที่ข้ามหรือที่ขึ้นบก ตลาดคือ Market วัดคือ Temple หรือ Monastery คลองคือบ่อหรือลำธาร"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "Built three years later.",
+     "rel": "ring"
+    },
+    {
+     "to": "era-siam-1900-1950",
+     "as": "Its era.",
+     "rel": "era"
+    },
+    {
+     "to": "what-a-road-does-to-an-old-city",
+     "as": "The argument.",
+     "rel": "story"
+    },
+    {
+     "to": "khu",
+     "as": "It labels the moat with this word.",
+     "rel": "word"
+    },
+    {
+     "to": "wiang",
+     "as": "And with this one.",
+     "rel": "word"
+    },
+    {
+     "to": "thanon",
+     "as": "Its glossary defines it.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-1945/map-1945-chiang-mai-1945.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai 1945.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chiang_Mai_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_1945.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Survey of India Offices",
+     "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/6966/rec/1",
+     "alt": "Old map of Chiang Mai (Thailand) in 1945. Printed at the Survey of India Offices. Size: 57 x 87 cm. Scale: \t\n1:5,000. Repository: American Geographical Society Library, University of Wisconsin-Milwauk",
+     "date": "1945",
+     "primary": true,
+     "sha256": "a6f7a69b50f641ddc92c4f0518f2abb5e629f1d18e4f92436eeca193d953a59e"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "map-war-office-1946",
+     "type": "map",
+     "name": "The War Office sheet, 1946",
+     "as": "Its city-scale sibling."
+    },
+    {
+     "from": "khu",
+     "type": "word",
+     "name": "คู khu",
+     "as": "Labels it khu wiang."
+    },
+    {
+     "from": "wiang",
+     "type": "word",
+     "name": "เวียง wiang",
+     "as": "Where it is written."
+    }
+   ]
+  },
+  {
+   "id": "map-ams-chiang-mai",
+   "type": "map",
+   "names": {
+    "name": "The Army Map Service sheet, NE 47-6 Chiang Mai",
+    "th": "แผ่น NE 47-6 เชียงใหม่ ของ Army Map Service",
+    "said": "1:250,000, series L509, and the first sheet here with a road classification on it.",
+    "said_th": "1:250,000 ชุด L509 และเป็นแผ่นแรกที่นี่ที่มีการจำแนกชั้นถนน"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1954",
+    "order": 6
+   },
+   "sheet": {
+    "year": "1954",
+    "maker": "US Army Map Service",
+    "maker_th": "US Army Map Service",
+    "shows": "The regional road network fifteen years before Route 11, classified by whether it was passable in the rains.",
+    "shows_th": "โครงข่ายถนนภูมิภาคสิบห้าปีก่อนทางหลวง 11 จำแนกตามว่าฤดูฝนผ่านได้ก่อ",
+    "scale": "1:250,000",
+    "sheet_no": "NE 47-6, series L509"
+   },
+   "text": {
+    "what": "Sheet NE 47-6 of series L509, the US Army Map Service's 1:250,000 cover of Indochina and Thailand, from 1954. It carries the region at the moment before the Superhighway: roads classified by surface and weather, the Lamphun road as the main line south, and no ring of any kind around the city.",
+    "story": "*Inference —* an army map classifies a road by whether you can get a truck down it in the rains, which is the most useful thing anyone has ever put on a map of this province. The distinction has gone from modern maps, and the road it describes has not."
+   },
+   "text_th": {
+    "what": "แผ่น NE 47-6 ของชุด L509 แผนที่มาตราส่วน 1:250,000 ครอบคลุมอินโดจีนและประเทศไทยของ US Army Map Service ปี 2497 มันแสดงภูมิภาคในช่วงก่อนซุปเปอร์ไฮเวย์ ถนนจำแนกตามผิวทางและฤดู ถนนลำพูนเป็นเส้นหลักลงใต้ และไม่มีวงแหวนใด ๆ รอบเมือง",
+    "story": "*อนุมาน —* แผนที่ทหารจำแนกถนนด้วยว่าเอารถบรรทุกลงไปได้ก่อในฤดูฝน ซึ่งเป็นสิ่งมีประโยชน์ที่สุดที่ใครเคยใส่ลงบนแผนที่ของจังหวัดนี้ ความแตกต่างนั้นหายไปจากแผนที่สมัยใหม่แล้ว ส่วนถนนที่มันบรรยายยังไม่หาย"
+   },
+   "kin": [
+    {
+     "to": "route-106",
+     "as": "The main line south on it.",
+     "rel": "highway"
+    },
+    {
+     "to": "route-11",
+     "as": "What came fifteen years later.",
+     "rel": "highway"
+    },
+    {
+     "to": "era-superhighway-1969",
+     "as": "The era it precedes.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-ams-chiang-mai/map-ams-chiang-mai-map-by-the-us-army-map-service-ne-47-6-chiang-mai-in-d73ec02.jpg",
+     "source": "commons",
+     "title": "File:Map by the US Army Map Service - NE 47-6 Chiang Mai - indochina and thailand - txu-oclc-6535632-ne47-6.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Map_by_the_US_Army_Map_Service_-_NE_47-6_Chiang_Mai_-_indochina_and_thailand_-_txu-oclc-6535632-ne47-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_NE_47-6_Chiang_Mai_-_indochina_and_thailand_-_txu-oclc-6535632-ne47-6.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "United States Army Map Service",
+     "credit": "https://maps.lib.utexas.edu/maps/ams/indochina_and_thailand/ [1]",
+     "alt": "NE 47-6 Chiang Mai - (6.9 MB) - Indochina and Thailand, Series L509, 1:250,000, U.S. Army Map Service, 1954-",
+     "date": "",
+     "primary": true,
+     "sha256": "0d664a3f5e7065460e1fab6c719f8bc5dabbbdc327fff4106ebb3a566cfd3316"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-ams-saraphi",
+   "type": "map",
+   "names": {
+    "name": "The Army Map Service sheet, Ban Saraphi",
+    "th": "แผ่นบ้านสารภี ของ Army Map Service",
+    "said": "1:50,000, sheet 5455 II: the yang tree road, surveyed.",
+    "said_th": "1:50,000 แผ่น 5455 II ถนนต้นยาง ที่ถูกรังวัด"
+   },
+   "region": [
+    "ring3"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1959",
+    "order": 7
+   },
+   "sheet": {
+    "year": "1959",
+    "maker": "US Army Map Service",
+    "maker_th": "US Army Map Service",
+    "shows": "The Lamphun road and the fields around it at fifty-metre contours, before any ring reached this far south.",
+    "shows_th": "ถนนลำพูนและท้องนารอบมันที่เส้นชั้นความสูงห้าสิบเมตร ก่อนวงแหวนใดจะมาถึงทางใต้ขนาดนี้",
+    "scale": "1:50,000",
+    "sheet_no": "5455 II, series L708"
+   },
+   "text": {
+    "what": "Sheet 5455 II of series L708, the 1:50,000 cover of Thailand, 1959. Saraphi is the district the Chiang Mai to Lamphun road runs through, and this is the sheet the yang trees are on, seventy-seven years after they were planted and ten years before the Superhighway took the Bangkok traffic off them."
+   },
+   "text_th": {
+    "what": "แผ่น 5455 II ของชุด L708 แผนที่มาตราส่วน 1:50,000 ครอบคลุมประเทศไทย ปี 2502 สารภีคืออำเภอที่ถนนเชียงใหม่–ลำพูนผ่าน และนี่คือแผ่นที่ต้นยางอยู่ เจ็ดสิบเจ็ดปีหลังปลูก และสิบปีก่อนซุปเปอร์ไฮเวย์เอารถกรุงเทพฯ ออกไป"
+   },
+   "kin": [
+    {
+     "to": "ton-yang-road",
+     "as": "The road on it.",
+     "rel": "road"
+    },
+    {
+     "to": "the-trees-on-the-lamphun-road",
+     "as": "The trees.",
+     "rel": "story"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-ams-saraphi/map-ams-saraphi-map-by-the-us-army-map-service-ban-saraphi-thailand-acec73a.jpg",
+     "source": "commons",
+     "title": "File:Map by the US Army Map Service - Ban Saraphi - thailand - txu-pclmaps-oclc-64072042-ban-saraphi.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Map_by_the_US_Army_Map_Service_-_Ban_Saraphi_-_thailand_-_txu-pclmaps-oclc-64072042-ban-saraphi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Ban_Saraphi_-_thailand_-_txu-pclmaps-oclc-64072042-ban-saraphi.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "United States Army Map Service",
+     "credit": "https://maps.lib.utexas.edu/maps/ams/thailand/ [1]",
+     "alt": "Ban Saraphi - Sheet 5455 II, 1:50,000 1959 (5.0 MB) - Thailand, Series L708, 1:50,000, U.S. Army Map Service, 1959-",
+     "date": "1959",
+     "primary": true,
+     "sha256": "f803b65acb7b2a4a7bd41bf65c455c5d81ac1b7aa29d296b75ff20940d232ade"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-bock-1881",
+   "type": "map",
+   "names": {
+    "name": "Bock's route to the north, 1881",
+    "th": "เส้นทางขึ้นเหนือของบ็อก 2424",
+    "said": "A Norwegian walked to Chiang Saen and drew the way he went.",
+    "said_th": "ชาวนอร์เวย์เดินไปเชียงแสนแล้ววาดทางที่เขาไป"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "kawila",
+    "year": "1881",
+    "order": 9
+   },
+   "sheet": {
+    "year": "1881",
+    "maker": "Carl Bock",
+    "maker_th": "คาร์ล บ็อก",
+    "year_note": "the journey was 1881; the book and its plates were published in 1884",
+    "shows": "One route, drawn as a strip, with nothing either side of it.",
+    "shows_th": "เส้นทางเดียว วาดเป็นแถบ ไม่มีอะไรสองข้าง",
+    "holding": "Bibliothèque nationale de France"
+   },
+   "text": {
+    "what": "Carl Bock's map of the route from Bangkok to Chiang Saen, from Through Upper Siam and Lao, his narrative of a journey of exploration published in 1884. The sheet is a strip: it is long and narrow because a route is long and narrow, and everything either side of it is blank because he did not go there.",
+    "story": "*Inference —* a strip map is what you draw when there is one way to go. Bock went up the Ping by boat and over the passes by elephant, and the sheet is shaped like that journey. Ninety years later the same trip is Route 11 and Route 118 and you can do it between breakfast and lunch."
+   },
+   "text_th": {
+    "what": "แผนที่เส้นทางจากกรุงเทพฯ ถึงเชียงแสนของคาร์ล บ็อก จากหนังสือ Through Upper Siam and Lao บันทึกการเดินทางสำรวจที่ตีพิมพ์ปี 2427 แผ่นนี้เป็นแถบ ยาวและแคบเพราะเส้นทางยาวและแคบ และทุกอย่างสองข้างว่างเปล่าเพราะเขาไม่ได้ไปตรงนั้น",
+    "story": "*อนุมาน —* แผนที่แบบแถบคือสิ่งที่คุณวาดเมื่อมีทางไปทางเดียว บ็อกขึ้นแม่ปิงด้วยเรือและข้ามช่องเขาด้วยช้าง และแผ่นนี้มีรูปร่างเหมือนการเดินทางนั้น เก้าสิบปีต่อมา ทริปเดียวกันคือทางหลวง 11 กับ 118 และไปได้ระหว่างมื้อเช้ากับมื้อเที่ยง"
+   },
+   "kin": [
+    {
+     "to": "map-pavie-1884",
+     "as": "The same decade, the same problem.",
+     "rel": "map"
+    },
+    {
+     "to": "ping-river",
+     "as": "How he came up.",
+     "rel": "place"
+    },
+    {
+     "to": "route-118",
+     "as": "What the journey is now.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-bock-1881/map-bock-1881-route-from-bangkok-to-chiang-saen-map-1881-by-carl-bock.png",
+     "source": "commons",
+     "title": "File:Route from Bangkok to Chiang Saen Map 1881 by Carl Bock.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Route_from_Bangkok_to_Chiang_Saen_Map_1881_by_Carl_Bock.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARoute_from_Bangkok_to_Chiang_Saen_Map_1881_by_Carl_Bock.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Carl Bock (1849-1932), Edward Weller (cartographer) (1819–1884)",
+     "credit": "Deutsche Digitale Bibliothek - https://www.deutsche-digitale-bibliothek.de/item/XITEX7XCXJSTA4K5VNY2GJPYUTFY5ONI#item-detail",
+     "alt": "The Norwegian explorer Carl Bock travelled through Thailand in 1881 with the support of King Chulalongkorn (Rama V). This map shows his route from Bangkok to Chiang Saen (Kiang-Tsen). From the book Te",
+     "date": "1881",
+     "primary": true,
+     "sha256": "efa42568da492bf46a19529f5f452fdf0ee982efb4c5d32040795b56e60549f8"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-lanna",
+   "type": "map",
+   "names": {
+    "name": "The Lanna city map",
+    "th": "แผนที่เวียงสมัยล้านนา",
+    "said": "The square, drawn from the inside, with the ruler's portrait beside it.",
+    "said_th": "สี่เหลี่ยมวาดจากข้างใน กับรูปเจ้าอยู่ข้าง ๆ"
+   },
+   "region": [
+    "moat"
+   ],
+   "facets": {
+    "era": "lanna",
+    "year": "19th century",
+    "order": 1
+   },
+   "sheet": {
+    "year": "19th century",
+    "maker": "unknown",
+    "maker_th": "ไม่ปรากฏผู้จัดทำ",
+    "shows": "The wall and the gates, and streets only where a street leads to something worth drawing.",
+    "shows_th": "กำแพงและประตู และถนนเฉพาะตรงที่ถนนพาไปหาสิ่งที่ควรวาด"
+   },
+   "text": {
+    "what": "An undated Lanna-era map of the walled city, with a portrait of a ruler at the left, the palace, the temples and the wall. It is a picture of a place rather than a survey of one: nothing on it is to scale and everything on it is where it belongs.",
+    "story": "*Inference —* the useful thing about a map that is not to scale is that it tells you what mattered. The wall is drawn thick, the wats are drawn large, and the roads are barely there. A road was not yet a thing you drew."
+   },
+   "text_th": {
+    "what": "แผนที่เวียงสมัยล้านนาที่ไม่ระบุปี มีรูปเจ้าอยู่ด้านซ้าย มีคุ้ม วัด และกำแพง มันเป็นภาพของสถานที่ มากกว่าการรังวัดสถานที่ ไม่มีอะไรบนนั้นได้สัดส่วน และทุกอย่างบนนั้นอยู่ตรงที่มันควรอยู่",
+    "story": "*อนุมาน —* สิ่งที่มีประโยชน์ของแผนที่ที่ไม่ได้สัดส่วนคือมันบอกว่าอะไรสำคัญ กำแพงวาดหนา วัดวาดใหญ่ และถนนแทบไม่มี ถนนยังไม่ใช่สิ่งที่คนวาด"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "The square it draws.",
+     "rel": "place"
+    },
+    {
+     "to": "era-lanna-and-burma",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-lanna/map-lanna-chiang-mai-city-old-map-lan-na-kingdom.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai City Old Map Lan Na Kingdom.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_City_Old_Map_Lan_Na_Kingdom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Old_Map_Lan_Na_Kingdom.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "www.shorthistoryoflanna.blogspot.com (see also: https://www.matichon.co.th/weekly/column/article_18712 (https://archive.vn/gI1uM).)",
+     "alt": "Chiang Mai City old map during the Lan Na kingdom (in Thailand). The portrait of a ruler (king) is on the left side. There is a castle, palace, temples, local houses, the treasury, the city wall with ",
+     "date": "Circa 19th century or earlier",
+     "primary": true,
+     "sha256": "da09dbd52b5bd91ad687b7e7d2bd1342577654c8ff6133be23f5c3975d18e4a2"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-loubere-1693",
+   "type": "map",
+   "names": {
+    "name": "Loubère's Siam, 1693",
+    "th": "สยามของลูแบร์ 2236",
+    "said": "The oldest sheet here, and there is no Chiang Mai on it.",
+    "said_th": "แผ่นเก่าสุดที่นี่ และไม่มีเชียงใหม่อยู่บนมัน"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "lanna",
+    "year": "1693",
+    "order": 8
+   },
+   "sheet": {
+    "year": "1693",
+    "maker": "Simon de la Loubère",
+    "maker_th": "ซีมง เดอ ลา ลูแบร์",
+    "shows": "Rivers, and the roads not at all.",
+    "shows_th": "แม่น้ำ และไม่มีถนนเลย"
+   },
+   "text": {
+    "what": "Simon de la Loubère's map of Siam, English edition, from the account of his embassy to Ayutthaya. Lanna was not Siam in 1693 and the north of this map is guesswork. It is here as the base line: the first European drawing of the kingdom this city would later be governed from.",
+    "story": "*Inference —* for two hundred years after this map the way to reach Chiang Mai from Bangkok was the river, and the maps show it: water is drawn, land routes are not. The road network of this province begins on paper in the 1880s, with Pavie and McCarthy."
+   },
+   "text_th": {
+    "what": "แผนที่สยามของซีมง เดอ ลา ลูแบร์ ฉบับภาษาอังกฤษ จากบันทึกคณะทูตของเขาที่อยุธยา ล้านนาไม่ใช่สยามในปี 2236 และภาคเหนือของแผนที่นี้เป็นการเดา มันอยู่ที่นี่ในฐานะเส้นฐาน ภาพวาดยุโรปชิ้นแรกของอาณาจักรที่เมืองนี้จะถูกปกครองจากมันในภายหลัง",
+    "story": "*อนุมาน —* สองร้อยปีหลังแผนที่นี้ ทางไปเชียงใหม่จากกรุงเทพฯ คือแม่น้ำ และแผนที่แสดงอย่างนั้น น้ำถูกวาด ทางบกไม่ถูกวาด โครงข่ายถนนของจังหวัดนี้เริ่มบนกระดาษในทศวรรษ 2420 กับปาวีและแม็กคาร์ธี"
+   },
+   "kin": [
+    {
+     "to": "map-pavie-1884",
+     "as": "Where the land routes start.",
+     "rel": "map"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-loubere-1693/map-loubere-1693-kingdom-of-siam-map-thailand-in-1693-by-loubere.jpg",
+     "source": "commons",
+     "title": "File:Kingdom of Siam Map (Thailand) in 1693 by Loubere.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kingdom_of_Siam_Map_%28Thailand%29_in_1693_by_Loubere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKingdom_of_Siam_Map_%28Thailand%29_in_1693_by_Loubere.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Simon de la Loubère",
+     "credit": "Forum Auctions - https://www.forumauctions.co.uk/55860/South-East-Asia.-La-Loub-232re-Simon-de-A-New-Historical-Relation-of-the-Kingdom-of-Siam-2-vol.-in-1-first-English-edition-1693?view=lot_detail&a",
+     "alt": "This is the English edition of a French map of Siam (Thailand) in 1693 by Simon de la Loubère.",
+     "date": "1693",
+     "primary": true,
+     "sha256": "3aa4ce30b4b929bdc04e7e943b103733d5c6429687a29af75c733b8d73c80b12"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-mccarthy-1888",
+   "type": "map",
+   "names": {
+    "name": "McCarthy's Siam, 1888",
+    "th": "สยามของแม็กคาร์ธี 2431",
+    "said": "The first survey, made for Siam by an Englishman, with the north still a dependency.",
+    "said_th": "การรังวัดครั้งแรก ทำให้สยามโดยชาวอังกฤษ โดยภาคเหนือยังเป็นประเทศราช"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "kawila",
+    "year": "1888",
+    "order": 10
+   },
+   "sheet": {
+    "year": "1888",
+    "maker": "James McCarthy, for the Siamese government",
+    "maker_th": "เจมส์ แม็กคาร์ธี ทำให้รัฐบาลสยาม",
+    "shows": "The north as a dependency, and the survey lines that made it a province.",
+    "shows_th": "ภาคเหนือในฐานะประเทศราช และเส้นรังวัดที่ทำให้มันเป็นจังหวัด"
+   },
+   "text": {
+    "what": "James McCarthy's map of the kingdom and its dependencies, from government surveys under his direction. Its dependencies are Laos, part of Cambodia and the northern Shan States. Chiang Mai appears on it as a place in a tributary state, six years after the yang trees went in on the Lamphun road."
+   },
+   "text_th": {
+    "what": "แผนที่อาณาจักรและประเทศราชของเจมส์ แม็กคาร์ธี จากการรังวัดของรัฐบาลภายใต้การกำกับของเขา ประเทศราชคือลาว บางส่วนของกัมพูชา และรัฐฉานเหนือ เชียงใหม่ปรากฏบนนั้นเป็นเมืองในประเทศราช หกปีหลังต้นยางลงบนถนนลำพูน"
+   },
+   "kin": [
+    {
+     "to": "map-mccarthy-1900",
+     "as": "His later sheet.",
+     "rel": "map"
+    },
+    {
+     "to": "phraya-surasi",
+     "as": "The commissioner of the same decade.",
+     "rel": "person"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-mccarthy-1888/map-mccarthy-1888-kingdom-of-siam-thailand-and-dependencies-map-1888-j-b96658d.jpg",
+     "source": "commons",
+     "title": "File:Kingdom of Siam (Thailand) and Dependencies Map 1888 James McCarthy.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kingdom_of_Siam_%28Thailand%29_and_Dependencies_Map_1888_James_McCarthy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKingdom_of_Siam_%28Thailand%29_and_Dependencies_Map_1888_James_McCarthy.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "James Fitzroy McCarthy (1853–1919), Henry Scharbau (1822–1902), Edward Weller (1819 – May 1884)",
+     "credit": "University of Milwaukee - https://collections.lib.uwm.edu/digital/collection/agdm/id/12541/",
+     "alt": "Map of the Kingdom of Siam (Thailand) and its dependencies. Siam's dependencies include Laos, parts of Cambodia and the northern Shan States. Constructed from the Siamese government surveys under the ",
+     "date": "1888",
+     "primary": true,
+     "sha256": "47e2a6aea77419eeaa0cf61ee97cda11bbbe1249d2775c0f8bb1c9da3120af2e"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "map-pavie-1884",
+     "type": "map",
+     "name": "Pavie's itineraries, 1880–1884",
+     "as": "The survey that followed."
+    }
+   ]
+  },
+  {
+   "id": "map-mccarthy-1900",
+   "type": "map",
+   "names": {
+    "name": "McCarthy's Siam, 1900",
+    "th": "สยามของแม็กคาร์ธี 2443",
+    "said": "Twelve years later, ordered by a prince, and the north is inside the line.",
+    "said_th": "สิบสองปีต่อมา สั่งทำโดยเจ้านาย และภาคเหนืออยู่ในเส้นแล้ว"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "kawila",
+    "year": "1900",
+    "order": 11
+   },
+   "sheet": {
+    "year": "1900",
+    "maker": "James McCarthy, by order of a Siamese prince",
+    "maker_th": "เจมส์ แม็กคาร์ธี ตามบัญชาเจ้านายสยาม",
+    "shows": "A province where a tributary state had been, and roads beginning to be worth drawing.",
+    "shows_th": "จังหวัดตรงที่เคยเป็นประเทศราช และถนนเริ่มมีค่าพอให้วาด"
+   },
+   "text": {
+    "what": "The second McCarthy sheet, from government surveys by order of a Siamese prince. Between this map and the last one the north stopped being a dependency and became Monthon Phayap, administered by a high commissioner from Bangkok. The commissioner of that decade is the one who had the yang trees planted and the Hang Dong road built."
+   },
+   "text_th": {
+    "what": "แผ่นที่สองของแม็กคาร์ธี จากการรังวัดของรัฐบาลตามบัญชาของเจ้านายสยาม ระหว่างแผนที่นี้กับแผ่นก่อน ภาคเหนือเลิกเป็นประเทศราชและกลายเป็นมณฑลพายัพ ปกครองโดยข้าหลวงใหญ่จากกรุงเทพฯ ข้าหลวงของทศวรรษนั้นคือคนที่ให้ปลูกต้นยางและสร้างถนนหางดง"
+   },
+   "kin": [
+    {
+     "to": "phraya-surasi",
+     "as": "The commissioner.",
+     "rel": "person"
+    },
+    {
+     "to": "ton-yang-road",
+     "as": "What he had planted.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-mccarthy-1900/map-mccarthy-1900-kingdom-of-siam-thailand-map-1900-mccarthy.jpg",
+     "source": "commons",
+     "title": "File:Kingdom of Siam (Thailand) Map 1900 McCarthy.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kingdom_of_Siam_%28Thailand%29_Map_1900_McCarthy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKingdom_of_Siam_%28Thailand%29_Map_1900_McCarthy.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "James Fitzroy McCarthy (1853–1919)",
+     "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/8160/",
+     "alt": "Map of the Kingdom of Siam (Thailand) and its dependencies. From Government surveys under the direction of James McCarthy by order of H.R.H. Prince Mahisra Rajarudhu. The map also shows neighboring co",
+     "date": "1900",
+     "primary": true,
+     "sha256": "489d935c00578bbd4ae6480fbf4d8cab721535d0b54081ae2078ca65e9d9bf3d"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "map-mccarthy-1888",
+     "type": "map",
+     "name": "McCarthy's Siam, 1888",
+     "as": "His later sheet."
+    }
+   ]
+  },
+  {
+   "id": "map-pavie-1884",
+   "type": "map",
+   "names": {
+    "name": "Pavie's itineraries, 1880–1884",
+    "th": "เส้นทางเดินทางของปาวี 2423–2427",
+    "said": "Not a map of roads. A map of one man's routes, which is what a road was.",
+    "said_th": "บ่ใช่แผนที่ถนน เป็นแผนที่เส้นทางของคนคนเดียว ซึ่งตอนนั้นถนนก็คืออย่างนั้น"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "kawila",
+    "year": "1884",
+    "order": 9
+   },
+   "sheet": {
+    "year": "1884",
+    "maker": "Auguste Pavie",
+    "maker_th": "โอกุสต์ ปาวี",
+    "shows": "The routes as travelled, with the places strung along them.",
+    "shows_th": "เส้นทางตามที่เดินจริง กับสถานที่ร้อยเรียงตามมัน",
+    "extent": "106 × 130 cm",
+    "extent_th": "106 × 130 ซม."
+   },
+   "text": {
+    "what": "Auguste Pavie's own traverses through Cambodia and Siam, 1880 to 1884, drawn at 106 by 130 cm. A French colonial officer walked and floated the routes and the lines on the sheet are where he went. The distinction between a route and a road had not been made yet, because there was nothing in the north that would survive a rainy season."
+   },
+   "text_th": {
+    "what": "เส้นทางที่โอกุสต์ ปาวี เดินเองผ่านกัมพูชาและสยาม ปี 2423 ถึง 2427 วาดขนาด 106 คูณ 130 ซม. นายทหารอาณานิคมฝรั่งเศสเดินและล่องไปตามเส้นทาง และเส้นบนแผ่นคือที่ที่เขาไป ความต่างระหว่างเส้นทางกับถนนยังไม่ถูกแยก เพราะไม่มีอะไรในภาคเหนือที่จะรอดฤดูฝน"
+   },
+   "kin": [
+    {
+     "to": "map-mccarthy-1888",
+     "as": "The survey that followed.",
+     "rel": "map"
+    },
+    {
+     "to": "era-kawila-1796-1900",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-pavie-1884/map-pavie-1884-carte-cambodge-et-siam-itineraires-de-auguste-pavie-f90084f.jpg",
+     "source": "commons",
+     "title": "File:Carte Cambodge et Siam Itineraires de Auguste Pavie 1880-1884.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Carte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACarte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Auguste Jean-Marie Pavie (1847 - 1925)",
+     "credit": "Geographicus - https://www.geographicus.com/P/AntiqueMap/siamcambodge-pavie-1885",
+     "alt": "French map, title: 'Itinéraires de Mr. A. Pavie dans le sud-ouest de L'Indo-Chine Orientale (Cambodge et Siam) (1880 - 1884).' Size: 106.68 x 129.54 cm. Scale: 1 : 460000. This maps shows Battambang p",
+     "date": "1884",
+     "primary": true,
+     "sha256": "4b9b111a52fc5b05102c5e40ae78cc55d188a93d30f9b737c56e6d5a1c760d0a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "map-bock-1881",
+     "type": "map",
+     "name": "Bock's route to the north, 1881",
+     "as": "The same decade, the same problem."
+    },
+    {
+     "from": "map-loubere-1693",
+     "type": "map",
+     "name": "Loubère's Siam, 1693",
+     "as": "Where the land routes start."
+    }
+   ]
+  },
+  {
+   "id": "map-railways-1930",
+   "type": "map",
+   "names": {
+    "name": "The Siam State Railways map, 1930",
+    "th": "แผนที่รถไฟหลวงสยาม 2473",
+    "said": "Nine years after the train reached Chiang Mai, at 1:2,500,000.",
+    "said_th": "เก้าปีหลังรถไฟถึงเชียงใหม่ มาตราส่วน 1:2,500,000"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1930",
+    "order": 12
+   },
+   "sheet": {
+    "year": "1930",
+    "maker": "Royal State Railway Department of Siam",
+    "maker_th": "กรมรถไฟหลวงแห่งสยาม",
+    "shows": "The line that made the east bank of the Ping the commercial side of the city.",
+    "shows_th": "ทางรถไฟที่ทำให้ฝั่งตะวันออกของแม่ปิงเป็นฝั่งการค้าของเมือง",
+    "scale": "1:2,500,000",
+    "holding": "Bibliothèque nationale de France"
+   },
+   "text": {
+    "what": "The state railway's own network map at 1:2,500,000, in English, showing the northern line complete to Chiang Mai. The train had arrived on 1 January 1921 through the Khun Tan tunnel, and this is the network as the railway wanted it seen nine years later."
+   },
+   "text_th": {
+    "what": "แผนที่โครงข่ายของการรถไฟหลวงเอง มาตราส่วน 1:2,500,000 ภาษาอังกฤษ แสดงทางสายเหนือครบถึงเชียงใหม่ รถไฟมาถึงวันที่ 1 มกราคม 2464 ผ่านอุโมงค์ขุนตาน และนี่คือโครงข่ายอย่างที่การรถไฟอยากให้เห็นในเก้าปีต่อมา"
+   },
+   "kin": [
+    {
+     "to": "chiang-mai-station",
+     "as": "The terminus.",
+     "rel": "place"
+    },
+    {
+     "to": "map-railways-1934",
+     "as": "Four years on.",
+     "rel": "map"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-railways-1930/map-railways-1930-map-of-the-siam-state-railways-btv1b53195599n.jpg",
+     "source": "commons",
+     "title": "File:Map of the Siam State Railways - btv1b53195599n.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Map_of_the_Siam_State_Railways_-_btv1b53195599n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_the_Siam_State_Railways_-_btv1b53195599n.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "ROYAL STATE RAILWAY DEPARTMENT OF SIAM (Thaïlande). Auteur du texte",
+     "credit": "Bibliothèque nationale de France",
+     "alt": "Sujet : Chemins de fer\nSiam, Royaume de -- Chemins de fer\nÉchelle(s) : 1:2 500 000\nCouverture : Monde\nLangue : anglais\n\nÉditeur : [s.n.]",
+     "date": "1930date QS:P571,+1930-00-00T00:00:00Z/9",
+     "primary": true,
+     "sha256": "fe594f685e6886afb54cb113af4cccb7444309c088faf5bd253626f604d8168e"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-railways-1934",
+   "type": "map",
+   "names": {
+    "name": "The Royal State Railways map, 1934",
+    "th": "แผนที่การรถไฟหลวง 2477",
+    "said": "The same network, renamed, the year the monk broke ground on the mountain.",
+    "said_th": "โครงข่ายเดิม เปลี่ยนชื่อ ปีเดียวกับที่ครูบาจกจอบแรกบนดอย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "srivichai",
+    "year": "1934",
+    "order": 13
+   },
+   "sheet": {
+    "year": "1934",
+    "maker": "Royal State Railway Department of Siam",
+    "maker_th": "กรมรถไฟหลวงแห่งสยาม",
+    "shows": "The state's idea of how you reach the north.",
+    "shows_th": "ความคิดของรัฐว่าจะไปภาคเหนืออย่างไร",
+    "scale": "1:2,500,000",
+    "holding": "Bibliothèque nationale de France"
+   },
+   "text": {
+    "what": "The 1934 edition of the railway network at the same scale, under the name Royal State Railways of Siam. It is the same year Kruba Srivichai broke ground on the road up Doi Suthep, which is a useful pairing: the state was laying steel and a congregation was laying laterite, in the same province, in the same twelve months."
+   },
+   "text_th": {
+    "what": "แผนที่โครงข่ายรถไฟฉบับปี 2477 มาตราส่วนเดิม ในชื่อการรถไฟหลวงแห่งสยาม เป็นปีเดียวกับที่ครูบาศรีวิชัยจกจอบแรกของถนนขึ้นดอยสุเทพ ซึ่งเป็นการจับคู่ที่มีประโยชน์ รัฐกำลังวางเหล็ก และศรัทธากำลังวางลูกรัง ในจังหวัดเดียวกัน ในสิบสองเดือนเดียวกัน"
+   },
+   "kin": [
+    {
+     "to": "kruba-srivichai",
+     "as": "The same year.",
+     "rel": "person"
+    },
+    {
+     "to": "si-wichai-road",
+     "as": "What he built that year.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-railways-1934/map-railways-1934-map-of-the-royal-state-railways-of-siam-btv1b531955986.jpg",
+     "source": "commons",
+     "title": "File:Map of the Royal State Railways of Siam - btv1b531955986.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Map_of_the_Royal_State_Railways_of_Siam_-_btv1b531955986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_the_Royal_State_Railways_of_Siam_-_btv1b531955986.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "ROYAL STATE RAILWAY DEPARTMENT OF SIAM (Thaïlande). Auteur du texte",
+     "credit": "Bibliothèque nationale de France",
+     "alt": "Sujet : Chemins de fer\nSiam, Royaume de -- Chemins de fer\nÉchelle(s) : 1:2 500 000\nCouverture : Monde\nLangue : anglais\n\nÉditeur : [s.n.]",
+     "date": "1934date QS:P571,+1934-00-00T00:00:00Z/9",
+     "primary": true,
+     "sha256": "594ab9ece304d8c4774df29c980985996365656f50315db8666877f67b936c23"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "map-railways-1930",
+     "type": "map",
+     "name": "The Siam State Railways map, 1930",
+     "as": "Four years on."
+    }
+   ]
+  },
+  {
+   "id": "map-royal-thai-1939",
+   "type": "map",
+   "names": {
+    "name": "The first national map, 1939",
+    "th": "แผนที่ชาติฉบับแรก 2482",
+    "said": "The Royal Thai Survey Department, in Thai, and the country has a new name on it.",
+    "said_th": "กรมแผนที่ทหาร เป็นภาษาไทย และประเทศมีชื่อใหม่บนนั้น"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1939",
+    "order": 14
+   },
+   "sheet": {
+    "year": "1939",
+    "maker": "Royal Thai Survey Department",
+    "maker_th": "กรมแผนที่ทหาร",
+    "shows": "The country under its new name, with the north drawn as part of it and not beside it.",
+    "shows_th": "ประเทศภายใต้ชื่อใหม่ โดยภาคเหนือถูกวาดเป็นส่วนหนึ่ง ไม่ใช่อยู่ข้าง ๆ"
+   },
+   "text": {
+    "what": "A Royal Thai Survey Department map of mainland Southeast Asia, described as the first national map of Thailand and the first to carry the new name. Siam became Thailand in 1939, and the sheet is the state drawing itself as it wanted to be read."
+   },
+   "text_th": {
+    "what": "แผนที่เอเชียตะวันออกเฉียงใต้ภาคพื้นทวีปของกรมแผนที่ทหาร ระบุว่าเป็นแผนที่ชาติฉบับแรกของประเทศไทยและฉบับแรกที่ใช้ชื่อใหม่ สยามกลายเป็นไทยในปี 2482 และแผ่นนี้คือรัฐวาดตัวเองอย่างที่อยากให้อ่าน"
+   },
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-royal-thai-1939/map-royal-thai-1939-1939-royal-thai-map-of-southeast-asia.jpg",
+     "source": "commons",
+     "title": "File:1939 Royal Thai Map of Southeast Asia.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/1939_Royal_Thai_Map_of_Southeast_Asia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A1939_Royal_Thai_Map_of_Southeast_Asia.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Royal Thai Survey Department (1939)",
+     "credit": "Geographicus - https://www.geographicus.com/P/AntiqueMap/thailand-royalthaisuvey-1939",
+     "alt": "This exceptional 1939 Thai-language Royal Thai Survey Department map of Mainland Southeast Asia is the first national map of Thailand and the first to use the name 'Thailand' to describe the former Si",
+     "date": "1939",
+     "primary": true,
+     "sha256": "f6cccd40904140aa469854c12d108b994e605b8ee61bc3f0e8cd7869816ee9d4"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-shell-1958",
+   "type": "map",
+   "names": {
+    "name": "The Shell wall map, about 1958",
+    "th": "แผนที่ติดผนังของเชลล์ ราว 2501",
+    "said": "A petrol company's bilingual map, and the roads are the point of it.",
+    "said_th": "แผนที่สองภาษาของบริษัทน้ำมัน และถนนคือประเด็นของมัน"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "c. 1958",
+    "order": 16
+   },
+   "sheet": {
+    "year": "c. 1958",
+    "maker": "Shell Company of Thailand",
+    "maker_th": "บริษัทเชลล์แห่งประเทศไทย",
+    "shows": "The national road network a decade before the Superhighway, drawn by someone with a reason to get it right.",
+    "shows_th": "โครงข่ายถนนของประเทศหนึ่งทศวรรษก่อนซุปเปอร์ไฮเวย์ วาดโดยคนที่มีเหตุผลจะทำให้ถูก",
+    "year_note": "undated; about 1958 by the publisher's own description"
+   },
+   "text": {
+    "what": "A large bilingual wall map of Thailand issued by Shell, undated but about 1958: highways, railways, towns and topography. A petrol company draws the roads because the roads are the business, which makes an oil-company map the best road map of its decade.",
+    "story": "*Inference —* this is the last national sheet on this site from before Route 11. Ten years later the Lampang road was built and the drive to Bangkok changed, and every map after it is a map of a country with a trunk road up the middle."
+   },
+   "text_th": {
+    "what": "แผนที่ติดผนังสองภาษาขนาดใหญ่ของประเทศไทย ออกโดยเชลล์ ไม่ระบุปีแต่ราว 2501 มีทางหลวง ทางรถไฟ เมือง และภูมิประเทศ บริษัทน้ำมันวาดถนนเพราะถนนคือธุรกิจ ซึ่งทำให้แผนที่ของบริษัทน้ำมันเป็นแผนที่ถนนที่ดีที่สุดของทศวรรษนั้น",
+    "story": "*อนุมาน —* นี่คือแผ่นระดับประเทศแผ่นสุดท้ายบนเว็บนี้จากก่อนทางหลวง 11 สิบปีต่อมาถนนลำปางถูกสร้างและการขับไปกรุงเทพฯ เปลี่ยนไป และแผนที่ทุกแผ่นหลังจากนั้นคือแผนที่ของประเทศที่มีถนนสายหลักผ่ากลาง"
+   },
+   "kin": [
+    {
+     "to": "route-11",
+     "as": "What came ten years later.",
+     "rel": "highway"
+    },
+    {
+     "to": "fuel-today",
+     "as": "What a litre costs now.",
+     "rel": "traffic"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-shell-1958/map-shell-1958-bilingual-wall-map-of-thailand-c1958-shell.jpg",
+     "source": "commons",
+     "title": "File:Bilingual Wall Map of Thailand c1958 Shell.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bilingual_Wall_Map_of_Thailand_c1958_Shell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABilingual_Wall_Map_of_Thailand_c1958_Shell.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Shell (Shell Company of Thailand, Ltd.). Printed by George Philip and Son.",
+     "credit": "Geographicus - https://www.geographicus.com/P/AntiqueMap/thailand-philip-1958",
+     "alt": "A large bilingual wall map of Thailand, circa 1958 (undated). It features infrastructure (highways, railways), cities, towns, topographic detail. A compass with the shell logo is above the map title. ",
+     "date": "circa 1958date QS:P,+1958-00-00T00:00:00",
+     "primary": true,
+     "sha256": "690b5d23d2d0f716c899bd5be408c2687db2b298ef5e7ad65882afbffd026025"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "map-war-office-1946",
+   "type": "map",
+   "names": {
+    "name": "The War Office sheet, 1946",
+    "th": "แผ่นของ War Office 2489",
+    "said": "London's map of Siam the year after the war, 85 cm across.",
+    "said_th": "แผนที่สยามของลอนดอนในปีถัดจากสงคราม กว้าง 85 ซม."
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "siam",
+    "year": "1946",
+    "order": 15
+   },
+   "sheet": {
+    "year": "1946",
+    "maker": "War Office, London",
+    "maker_th": "War Office ลอนดอน",
+    "shows": "The country as the Allies had it, at the moment the roads were about to be built.",
+    "shows_th": "ประเทศอย่างที่ฝ่ายสัมพันธมิตรมี ในช่วงเวลาที่ถนนกำลังจะถูกสร้าง",
+    "extent": "85 cm across",
+    "extent_th": "กว้าง 85 ซม."
+   },
+   "text": {
+    "what": "A coloured map of Siam by the War Office in London, the year after the war and two years before the moat roads. Wartime and immediately post-war mapping of this country is unusually good because armies needed it, and it is the reason a 1945 city sheet at 1:5,000 exists at all."
+   },
+   "text_th": {
+    "what": "แผนที่สยามสีของ War Office ในลอนดอน ปีถัดจากสงครามและสองปีก่อนถนนรอบคู การทำแผนที่ประเทศนี้ช่วงสงครามและหลังสงครามใหม่ ๆ ดีผิดปกติเพราะกองทัพต้องใช้ และเป็นเหตุที่แผ่นเมืองมาตราส่วน 1:5,000 ปี 2488 มีอยู่เลย"
+   },
+   "kin": [
+    {
+     "to": "map-1945",
+     "as": "Its city-scale sibling.",
+     "rel": "map"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:commons-map"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:commons-map"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "map-war-office-1946/map-war-office-1946-siam-map-1946-thailand-by-war-office-london.jpg",
+     "source": "commons",
+     "title": "File:Siam Map 1946 (Thailand) by War Office London.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Siam_Map_1946_%28Thailand%29_by_War_Office_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASiam_Map_1946_%28Thailand%29_by_War_Office_London.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "War Office in London, United Kingdom, 1946",
+     "credit": "Trove - https://nla.gov.au/nla.obj-2917615881/view?searchTerm=siam#search/siam",
+     "alt": "Title: 'Siam'. Map of Siam (Thailand) in 1946. Creator: War Office, London (United Kingdom). Call Number MAP G8025 1946. Dimensions: 1 map : col. ; 85 x 52 cm. on sheet 102 x 61 cm. 1st edition.",
+     "date": "1946",
+     "primary": true,
+     "sha256": "642b5770c6da337b0183328b3bbe9aac3f16e9c627a1180ad21637abcd0a7e62"
+    }
+   ],
+   "kin_in": []
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "map-ams-saraphi",
+ "type": "map",
+ "names": {
+  "name": "The Army Map Service sheet, Ban Saraphi",
+  "th": "แผ่นบ้านสารภี ของ Army Map Service",
+  "said": "1:50,000, sheet 5455 II: the yang tree road, surveyed.",
+  "said_th": "1:50,000 แผ่น 5455 II ถนนต้นยาง ที่ถูกรังวัด"
+ },
+ "region": [
+  "ring3"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1959",
+  "order": 7
+ },
+ "sheet": {
+  "year": "1959",
+  "maker": "US Army Map Service",
+  "maker_th": "US Army Map Service",
+  "shows": "The Lamphun road and the fields around it at fifty-metre contours, before any ring reached this far south.",
+  "shows_th": "ถนนลำพูนและท้องนารอบมันที่เส้นชั้นความสูงห้าสิบเมตร ก่อนวงแหวนใดจะมาถึงทางใต้ขนาดนี้",
+  "scale": "1:50,000",
+  "sheet_no": "5455 II, series L708"
+ },
+ "text": {
+  "what": "Sheet 5455 II of series L708, the 1:50,000 cover of Thailand, 1959. Saraphi is the district the Chiang Mai to Lamphun road runs through, and this is the sheet the yang trees are on, seventy-seven years after they were planted and ten years before the Superhighway took the Bangkok traffic off them."
+ },
+ "text_th": {
+  "what": "แผ่น 5455 II ของชุด L708 แผนที่มาตราส่วน 1:50,000 ครอบคลุมประเทศไทย ปี 2502 สารภีคืออำเภอที่ถนนเชียงใหม่–ลำพูนผ่าน และนี่คือแผ่นที่ต้นยางอยู่ เจ็ดสิบเจ็ดปีหลังปลูก และสิบปีก่อนซุปเปอร์ไฮเวย์เอารถกรุงเทพฯ ออกไป"
+ },
+ "kin": [
+  {
+   "to": "ton-yang-road",
+   "as": "The road on it.",
+   "rel": "road"
+  },
+  {
+   "to": "the-trees-on-the-lamphun-road",
+   "as": "The trees.",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-ams-saraphi/map-ams-saraphi-map-by-the-us-army-map-service-ban-saraphi-thailand-acec73a.jpg",
+   "source": "commons",
+   "title": "File:Map by the US Army Map Service - Ban Saraphi - thailand - txu-pclmaps-oclc-64072042-ban-saraphi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Map_by_the_US_Army_Map_Service_-_Ban_Saraphi_-_thailand_-_txu-pclmaps-oclc-64072042-ban-saraphi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Ban_Saraphi_-_thailand_-_txu-pclmaps-oclc-64072042-ban-saraphi.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "United States Army Map Service",
+   "credit": "https://maps.lib.utexas.edu/maps/ams/thailand/ [1]",
+   "alt": "Ban Saraphi - Sheet 5455 II, 1:50,000 1959 (5.0 MB) - Thailand, Series L708, 1:50,000, U.S. Army Map Service, 1959-",
+   "date": "1959",
+   "primary": true,
+   "sha256": "f803b65acb7b2a4a7bd41bf65c455c5d81ac1b7aa29d296b75ff20940d232ade"
+  }
+ ]
+}

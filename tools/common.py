@@ -27,7 +27,7 @@ VENDOR = ROOT / "vendor"
 PROJECTS = Path(os.environ.get("NAN_PROJECTS") or (Path.home() / "Developer" / "claude code projects"))
 SEARCH_CORE = Path(os.environ.get("SEARCH_CORE") or (PROJECTS / "search-core"))
 
-TYPES = ("road", "ring", "lane", "gate", "junction", "bridge", "highway", "plan", "era",
+TYPES = ("road", "ring", "lane", "gate", "junction", "bridge", "highway", "plan", "era", "map",
          "measure", "traffic", "word", "story", "person", "place")
 TIERS = ("cited", "harvested", "tradition", "inference", "field")
 TIER_LABEL = {

@@ -13,11 +13,13 @@
  ],
  "text": {
   "what": "A semicircular outer rampart of earth, running from Si Phum Corner round the east side and along the south to Ku Hueang Corner, enclosing the trading quarter between the square and the river. No firm date; presumed Mangrai's era. Brick was found under the bank on the southwest stretch. Parts survive beside the Night Bazaar, where Kamphaeng Din Road runs on its line.",
-  "story": "*Inference —* the earthen wall is the reason the city is not a square: the streets between Tha Phae and Chang Klan bend, because they follow a curve that has been demolished. The length in kilometres is not on this disk."
+  "story": "*Inference —* the earthen wall is the reason the city is not a square: the streets between Tha Phae and Chang Klan bend, because they follow a curve that has been demolished. The length in kilometres is not on this disk.",
+  "notes": "The 1931 city map draws its line: a heavy dashed boundary running from ประตูหายยา Hai Ya Gate in the southwest, round the south and east, to ประตูขัวก้อม Kua Kom Gate. That line is the best picture of the earthen wall on this site, and it is on a sheet rather than on the ground."
  },
  "text_th": {
   "what": "กำแพงดินชั้นนอกรูปครึ่งวงกลม วิ่งจากแจ่งศรีภูมิอ้อมด้านตะวันออกและเลียบด้านใต้ไปแจ่งกู่เฮือง ล้อมย่านค้าขายระหว่างเวียงกับแม่น้ำ ไม่มีวันที่แน่ชัด สันนิษฐานว่าสมัยพญามังราย พบอิฐใต้คันดินช่วงตะวันตกเฉียงใต้ เหลือบางส่วนข้างไนท์บาซาร์ ตี้ถนนกำแพงดินวิ่งบนแนวเดิม",
-  "story": "*อนุมาน —* กำแพงดินคือเหตุที่เมืองบ่ใช่สี่เหลี่ยม ถนนระหว่างท่าแพกับช้างคลานโค้ง เพราะมันเดินตามเส้นโค้งที่ถูกรื้อไปแล้ว ความยาวเป็นกิโลเมตรบ่มีในแผ่นนี้"
+  "story": "*อนุมาน —* กำแพงดินคือเหตุที่เมืองบ่ใช่สี่เหลี่ยม ถนนระหว่างท่าแพกับช้างคลานโค้ง เพราะมันเดินตามเส้นโค้งที่ถูกรื้อไปแล้ว ความยาวเป็นกิโลเมตรบ่มีในแผ่นนี้",
+  "notes": "แผนที่เมืองปี 2474 วาดแนวของมันไว้ เส้นประหนักวิ่งจากประตูหายยาทางตะวันตกเฉียงใต้ อ้อมใต้และตะวันออก ไปถึงประตูขัวก้อม เส้นนั้นคือภาพของกำแพงดินที่ดีที่สุดบนเว็บนี้ และมันอยู่บนแผ่นกระดาษ ไม่ใช่บนพื้น"
  },
  "geo": {
   "lat": 18.7855,
@@ -39,6 +41,11 @@
    "to": "kamphaeng",
    "as": "The word.",
    "rel": "word"
+  },
+  {
+   "to": "map-1931",
+   "as": "Where its line is drawn.",
+   "rel": "map"
   }
  ],
  "tags": [
@@ -46,7 +53,8 @@
  ],
  "sources": [
   "s:onep-277",
-  "s:sumup-kamphaeng-din"
+  "s:sumup-kamphaeng-din",
+  "s:commons-map"
  ],
  "provenance": {
   "default": {
@@ -92,6 +100,18 @@
    "type": "road",
    "name": "Kamphaeng Din Road",
    "as": "The wall."
+  },
+  {
+   "from": "map-1890",
+   "type": "map",
+   "name": "The 1890 city map",
+   "as": "The outer wall."
+  },
+  {
+   "from": "map-1893",
+   "type": "map",
+   "name": "The 1893 map for Inthawichayanon",
+   "as": "The wall it still shows."
   },
   {
    "from": "kamphaeng",

@@ -1,0 +1,89 @@
+{
+ "id": "map-mccarthy-1888",
+ "type": "map",
+ "names": {
+  "name": "McCarthy's Siam, 1888",
+  "th": "สยามของแม็กคาร์ธี 2431",
+  "said": "The first survey, made for Siam by an Englishman, with the north still a dependency.",
+  "said_th": "การรังวัดครั้งแรก ทำให้สยามโดยชาวอังกฤษ โดยภาคเหนือยังเป็นประเทศราช"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "kawila",
+  "year": "1888",
+  "order": 10
+ },
+ "sheet": {
+  "year": "1888",
+  "maker": "James McCarthy, for the Siamese government",
+  "maker_th": "เจมส์ แม็กคาร์ธี ทำให้รัฐบาลสยาม",
+  "shows": "The north as a dependency, and the survey lines that made it a province.",
+  "shows_th": "ภาคเหนือในฐานะประเทศราช และเส้นรังวัดที่ทำให้มันเป็นจังหวัด"
+ },
+ "text": {
+  "what": "James McCarthy's map of the kingdom and its dependencies, from government surveys under his direction. Its dependencies are Laos, part of Cambodia and the northern Shan States. Chiang Mai appears on it as a place in a tributary state, six years after the yang trees went in on the Lamphun road."
+ },
+ "text_th": {
+  "what": "แผนที่อาณาจักรและประเทศราชของเจมส์ แม็กคาร์ธี จากการรังวัดของรัฐบาลภายใต้การกำกับของเขา ประเทศราชคือลาว บางส่วนของกัมพูชา และรัฐฉานเหนือ เชียงใหม่ปรากฏบนนั้นเป็นเมืองในประเทศราช หกปีหลังต้นยางลงบนถนนลำพูน"
+ },
+ "kin": [
+  {
+   "to": "map-mccarthy-1900",
+   "as": "His later sheet.",
+   "rel": "map"
+  },
+  {
+   "to": "phraya-surasi",
+   "as": "The commissioner of the same decade.",
+   "rel": "person"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-mccarthy-1888/map-mccarthy-1888-kingdom-of-siam-thailand-and-dependencies-map-1888-j-b96658d.jpg",
+   "source": "commons",
+   "title": "File:Kingdom of Siam (Thailand) and Dependencies Map 1888 James McCarthy.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kingdom_of_Siam_%28Thailand%29_and_Dependencies_Map_1888_James_McCarthy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKingdom_of_Siam_%28Thailand%29_and_Dependencies_Map_1888_James_McCarthy.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "James Fitzroy McCarthy (1853–1919), Henry Scharbau (1822–1902), Edward Weller (1819 – May 1884)",
+   "credit": "University of Milwaukee - https://collections.lib.uwm.edu/digital/collection/agdm/id/12541/",
+   "alt": "Map of the Kingdom of Siam (Thailand) and its dependencies. Siam's dependencies include Laos, parts of Cambodia and the northern Shan States. Constructed from the Siamese government surveys under the ",
+   "date": "1888",
+   "primary": true,
+   "sha256": "47e2a6aea77419eeaa0cf61ee97cda11bbbe1249d2775c0f8bb1c9da3120af2e"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "map-pavie-1884",
+   "type": "map",
+   "name": "Pavie's itineraries, 1880–1884",
+   "as": "The survey that followed."
+  }
+ ]
+}

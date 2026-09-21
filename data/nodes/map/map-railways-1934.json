@@ -1,0 +1,83 @@
+{
+ "id": "map-railways-1934",
+ "type": "map",
+ "names": {
+  "name": "The Royal State Railways map, 1934",
+  "th": "แผนที่การรถไฟหลวง 2477",
+  "said": "The same network, renamed, the year the monk broke ground on the mountain.",
+  "said_th": "โครงข่ายเดิม เปลี่ยนชื่อ ปีเดียวกับที่ครูบาจกจอบแรกบนดอย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "srivichai",
+  "year": "1934",
+  "order": 13
+ },
+ "sheet": {
+  "year": "1934",
+  "maker": "Royal State Railway Department of Siam",
+  "maker_th": "กรมรถไฟหลวงแห่งสยาม",
+  "shows": "The state's idea of how you reach the north.",
+  "shows_th": "ความคิดของรัฐว่าจะไปภาคเหนืออย่างไร",
+  "scale": "1:2,500,000",
+  "holding": "Bibliothèque nationale de France"
+ },
+ "text": {
+  "what": "The 1934 edition of the railway network at the same scale, under the name Royal State Railways of Siam. It is the same year Kruba Srivichai broke ground on the road up Doi Suthep, which is a useful pairing: the state was laying steel and a congregation was laying laterite, in the same province, in the same twelve months."
+ },
+ "text_th": {
+  "what": "แผนที่โครงข่ายรถไฟฉบับปี 2477 มาตราส่วนเดิม ในชื่อการรถไฟหลวงแห่งสยาม เป็นปีเดียวกับที่ครูบาศรีวิชัยจกจอบแรกของถนนขึ้นดอยสุเทพ ซึ่งเป็นการจับคู่ที่มีประโยชน์ รัฐกำลังวางเหล็ก และศรัทธากำลังวางลูกรัง ในจังหวัดเดียวกัน ในสิบสองเดือนเดียวกัน"
+ },
+ "kin": [
+  {
+   "to": "kruba-srivichai",
+   "as": "The same year.",
+   "rel": "person"
+  },
+  {
+   "to": "si-wichai-road",
+   "as": "What he built that year.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-railways-1934/map-railways-1934-map-of-the-royal-state-railways-of-siam-btv1b531955986.jpg",
+   "source": "commons",
+   "title": "File:Map of the Royal State Railways of Siam - btv1b531955986.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Map_of_the_Royal_State_Railways_of_Siam_-_btv1b531955986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_the_Royal_State_Railways_of_Siam_-_btv1b531955986.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "ROYAL STATE RAILWAY DEPARTMENT OF SIAM (Thaïlande). Auteur du texte",
+   "credit": "Bibliothèque nationale de France",
+   "alt": "Sujet : Chemins de fer\nSiam, Royaume de -- Chemins de fer\nÉchelle(s) : 1:2 500 000\nCouverture : Monde\nLangue : anglais\n\nÉditeur : [s.n.]",
+   "date": "1934date QS:P571,+1934-00-00T00:00:00Z/9",
+   "primary": true,
+   "sha256": "594ab9ece304d8c4774df29c980985996365656f50315db8666877f67b936c23"
+  }
+ ]
+}

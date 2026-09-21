@@ -69,12 +69,15 @@ def strip_html(s: str) -> str:
     return re.sub(r"<[^>]+>", "", s or "").strip()
 
 
+URL_WIDTH = 1200   # overridden by --width; a map sheet needs more than a photograph does
+
+
 def imageinfo(titles: list[str]) -> list[dict]:
     """Licence, author, size and a 1200px rendition URL for each File: title (batches of 20)."""
     out = []
     for i in range(0, len(titles), 20):
         batch = titles[i:i + 20]
-        d = api({"action": "query", "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime|sha1", "iiurlwidth": 1200,
+        d = api({"action": "query", "prop": "imageinfo", "iiprop": "url|size|extmetadata|mime|sha1", "iiurlwidth": URL_WIDTH,
                  "titles": "|".join(batch)})
         for p in d.get("query", {}).get("pages", {}).values():
             ii = (p.get("imageinfo") or [{}])[0]
@@ -219,7 +222,10 @@ if __name__ == "__main__":
     ap.add_argument("--search")
     ap.add_argument("--harvest", nargs="*")
     ap.add_argument("--apply", action="store_true")
+    ap.add_argument("--width", type=int, default=1200,
+                    help="pixel width of the rendition to fetch; a map sheet wants 2600, a photograph 1200")
     a = ap.parse_args()
+    globals()["URL_WIDTH"] = a.width
     if a.walk:
         write_triage(a.walk, walk(a.walk))
     elif a.search:

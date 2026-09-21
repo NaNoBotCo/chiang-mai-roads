@@ -1,0 +1,83 @@
+{
+ "id": "map-railways-1930",
+ "type": "map",
+ "names": {
+  "name": "The Siam State Railways map, 1930",
+  "th": "แผนที่รถไฟหลวงสยาม 2473",
+  "said": "Nine years after the train reached Chiang Mai, at 1:2,500,000.",
+  "said_th": "เก้าปีหลังรถไฟถึงเชียงใหม่ มาตราส่วน 1:2,500,000"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1930",
+  "order": 12
+ },
+ "sheet": {
+  "year": "1930",
+  "maker": "Royal State Railway Department of Siam",
+  "maker_th": "กรมรถไฟหลวงแห่งสยาม",
+  "shows": "The line that made the east bank of the Ping the commercial side of the city.",
+  "shows_th": "ทางรถไฟที่ทำให้ฝั่งตะวันออกของแม่ปิงเป็นฝั่งการค้าของเมือง",
+  "scale": "1:2,500,000",
+  "holding": "Bibliothèque nationale de France"
+ },
+ "text": {
+  "what": "The state railway's own network map at 1:2,500,000, in English, showing the northern line complete to Chiang Mai. The train had arrived on 1 January 1921 through the Khun Tan tunnel, and this is the network as the railway wanted it seen nine years later."
+ },
+ "text_th": {
+  "what": "แผนที่โครงข่ายของการรถไฟหลวงเอง มาตราส่วน 1:2,500,000 ภาษาอังกฤษ แสดงทางสายเหนือครบถึงเชียงใหม่ รถไฟมาถึงวันที่ 1 มกราคม 2464 ผ่านอุโมงค์ขุนตาน และนี่คือโครงข่ายอย่างที่การรถไฟอยากให้เห็นในเก้าปีต่อมา"
+ },
+ "kin": [
+  {
+   "to": "chiang-mai-station",
+   "as": "The terminus.",
+   "rel": "place"
+  },
+  {
+   "to": "map-railways-1934",
+   "as": "Four years on.",
+   "rel": "map"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-railways-1930/map-railways-1930-map-of-the-siam-state-railways-btv1b53195599n.jpg",
+   "source": "commons",
+   "title": "File:Map of the Siam State Railways - btv1b53195599n.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Map_of_the_Siam_State_Railways_-_btv1b53195599n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_the_Siam_State_Railways_-_btv1b53195599n.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "ROYAL STATE RAILWAY DEPARTMENT OF SIAM (Thaïlande). Auteur du texte",
+   "credit": "Bibliothèque nationale de France",
+   "alt": "Sujet : Chemins de fer\nSiam, Royaume de -- Chemins de fer\nÉchelle(s) : 1:2 500 000\nCouverture : Monde\nLangue : anglais\n\nÉditeur : [s.n.]",
+   "date": "1930date QS:P571,+1930-00-00T00:00:00Z/9",
+   "primary": true,
+   "sha256": "fe594f685e6886afb54cb113af4cccb7444309c088faf5bd253626f604d8168e"
+  }
+ ]
+}

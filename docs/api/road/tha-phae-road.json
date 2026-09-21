@@ -149,6 +149,12 @@
    "as": "What it carries."
   },
   {
+   "from": "map-1931",
+   "type": "map",
+   "name": "The 1931 city map",
+   "as": "Its spine."
+  },
+  {
    "from": "the-day-the-river-came-up-tha-phae",
    "type": "story",
    "name": "The day the river came up Tha Phae",

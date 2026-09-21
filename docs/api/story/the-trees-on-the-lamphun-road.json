@@ -116,6 +116,12 @@
    "type": "road",
    "name": "The Yang Tree Road, Chiang Mai to Lamphun",
    "as": "The long version."
+  },
+  {
+   "from": "map-ams-saraphi",
+   "type": "map",
+   "name": "The Army Map Service sheet, Ban Saraphi",
+   "as": "The trees."
   }
  ]
 }

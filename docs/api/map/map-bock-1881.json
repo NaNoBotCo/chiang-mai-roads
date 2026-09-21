@@ -1,0 +1,94 @@
+{
+ "id": "map-bock-1881",
+ "type": "map",
+ "names": {
+  "name": "Bock's route to the north, 1881",
+  "th": "เส้นทางขึ้นเหนือของบ็อก 2424",
+  "said": "A Norwegian walked to Chiang Saen and drew the way he went.",
+  "said_th": "ชาวนอร์เวย์เดินไปเชียงแสนแล้ววาดทางที่เขาไป"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "kawila",
+  "year": "1881",
+  "order": 9
+ },
+ "sheet": {
+  "year": "1881",
+  "maker": "Carl Bock",
+  "maker_th": "คาร์ล บ็อก",
+  "year_note": "the journey was 1881; the book and its plates were published in 1884",
+  "shows": "One route, drawn as a strip, with nothing either side of it.",
+  "shows_th": "เส้นทางเดียว วาดเป็นแถบ ไม่มีอะไรสองข้าง",
+  "holding": "Bibliothèque nationale de France"
+ },
+ "text": {
+  "what": "Carl Bock's map of the route from Bangkok to Chiang Saen, from Through Upper Siam and Lao, his narrative of a journey of exploration published in 1884. The sheet is a strip: it is long and narrow because a route is long and narrow, and everything either side of it is blank because he did not go there.",
+  "story": "*Inference —* a strip map is what you draw when there is one way to go. Bock went up the Ping by boat and over the passes by elephant, and the sheet is shaped like that journey. Ninety years later the same trip is Route 11 and Route 118 and you can do it between breakfast and lunch."
+ },
+ "text_th": {
+  "what": "แผนที่เส้นทางจากกรุงเทพฯ ถึงเชียงแสนของคาร์ล บ็อก จากหนังสือ Through Upper Siam and Lao บันทึกการเดินทางสำรวจที่ตีพิมพ์ปี 2427 แผ่นนี้เป็นแถบ ยาวและแคบเพราะเส้นทางยาวและแคบ และทุกอย่างสองข้างว่างเปล่าเพราะเขาไม่ได้ไปตรงนั้น",
+  "story": "*อนุมาน —* แผนที่แบบแถบคือสิ่งที่คุณวาดเมื่อมีทางไปทางเดียว บ็อกขึ้นแม่ปิงด้วยเรือและข้ามช่องเขาด้วยช้าง และแผ่นนี้มีรูปร่างเหมือนการเดินทางนั้น เก้าสิบปีต่อมา ทริปเดียวกันคือทางหลวง 11 กับ 118 และไปได้ระหว่างมื้อเช้ากับมื้อเที่ยง"
+ },
+ "kin": [
+  {
+   "to": "map-pavie-1884",
+   "as": "The same decade, the same problem.",
+   "rel": "map"
+  },
+  {
+   "to": "ping-river",
+   "as": "How he came up.",
+   "rel": "place"
+  },
+  {
+   "to": "route-118",
+   "as": "What the journey is now.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-bock-1881/map-bock-1881-route-from-bangkok-to-chiang-saen-map-1881-by-carl-bock.png",
+   "source": "commons",
+   "title": "File:Route from Bangkok to Chiang Saen Map 1881 by Carl Bock.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Route_from_Bangkok_to_Chiang_Saen_Map_1881_by_Carl_Bock.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARoute_from_Bangkok_to_Chiang_Saen_Map_1881_by_Carl_Bock.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Carl Bock (1849-1932), Edward Weller (cartographer) (1819–1884)",
+   "credit": "Deutsche Digitale Bibliothek - https://www.deutsche-digitale-bibliothek.de/item/XITEX7XCXJSTA4K5VNY2GJPYUTFY5ONI#item-detail",
+   "alt": "The Norwegian explorer Carl Bock travelled through Thailand in 1881 with the support of King Chulalongkorn (Rama V). This map shows his route from Bangkok to Chiang Saen (Kiang-Tsen). From the book Te",
+   "date": "1881",
+   "primary": true,
+   "sha256": "efa42568da492bf46a19529f5f452fdf0ee982efb4c5d32040795b56e60549f8"
+  }
+ ],
+ "kin_in": []
+}

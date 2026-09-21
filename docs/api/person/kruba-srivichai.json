@@ -90,6 +90,12 @@
    "as": "The monk."
   },
   {
+   "from": "map-railways-1934",
+   "type": "map",
+   "name": "The Royal State Railways map, 1934",
+   "as": "The same year."
+  },
+  {
    "from": "the-monk-who-built-a-road",
    "type": "story",
    "name": "The monk who built a road in five months",

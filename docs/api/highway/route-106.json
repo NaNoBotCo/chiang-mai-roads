@@ -89,6 +89,12 @@
    "type": "road",
    "name": "The Yang Tree Road, Chiang Mai to Lamphun",
    "as": "The whole road."
+  },
+  {
+   "from": "map-ams-chiang-mai",
+   "type": "map",
+   "name": "The Army Map Service sheet, NE 47-6 Chiang Mai",
+   "as": "The main line south on it."
   }
  ]
 }

@@ -1,0 +1,70 @@
+{
+ "id": "map-royal-thai-1939",
+ "type": "map",
+ "names": {
+  "name": "The first national map, 1939",
+  "th": "แผนที่ชาติฉบับแรก 2482",
+  "said": "The Royal Thai Survey Department, in Thai, and the country has a new name on it.",
+  "said_th": "กรมแผนที่ทหาร เป็นภาษาไทย และประเทศมีชื่อใหม่บนนั้น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1939",
+  "order": 14
+ },
+ "sheet": {
+  "year": "1939",
+  "maker": "Royal Thai Survey Department",
+  "maker_th": "กรมแผนที่ทหาร",
+  "shows": "The country under its new name, with the north drawn as part of it and not beside it.",
+  "shows_th": "ประเทศภายใต้ชื่อใหม่ โดยภาคเหนือถูกวาดเป็นส่วนหนึ่ง ไม่ใช่อยู่ข้าง ๆ"
+ },
+ "text": {
+  "what": "A Royal Thai Survey Department map of mainland Southeast Asia, described as the first national map of Thailand and the first to carry the new name. Siam became Thailand in 1939, and the sheet is the state drawing itself as it wanted to be read."
+ },
+ "text_th": {
+  "what": "แผนที่เอเชียตะวันออกเฉียงใต้ภาคพื้นทวีปของกรมแผนที่ทหาร ระบุว่าเป็นแผนที่ชาติฉบับแรกของประเทศไทยและฉบับแรกที่ใช้ชื่อใหม่ สยามกลายเป็นไทยในปี 2482 และแผ่นนี้คือรัฐวาดตัวเองอย่างที่อยากให้อ่าน"
+ },
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-royal-thai-1939/map-royal-thai-1939-1939-royal-thai-map-of-southeast-asia.jpg",
+   "source": "commons",
+   "title": "File:1939 Royal Thai Map of Southeast Asia.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/1939_Royal_Thai_Map_of_Southeast_Asia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A1939_Royal_Thai_Map_of_Southeast_Asia.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Royal Thai Survey Department (1939)",
+   "credit": "Geographicus - https://www.geographicus.com/P/AntiqueMap/thailand-royalthaisuvey-1939",
+   "alt": "This exceptional 1939 Thai-language Royal Thai Survey Department map of Mainland Southeast Asia is the first national map of Thailand and the first to use the name 'Thailand' to describe the former Si",
+   "date": "1939",
+   "primary": true,
+   "sha256": "f6cccd40904140aa469854c12d108b994e605b8ee61bc3f0e8cd7869816ee9d4"
+  }
+ ],
+ "kin_in": []
+}

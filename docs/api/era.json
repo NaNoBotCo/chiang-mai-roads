@@ -229,9 +229,36 @@
      "date": "2010-05-06",
      "primary": false,
      "sha256": "0b5d8aaec8c05cc45551986bef2120ca1514e9121d687ad0557a5bf75cb8ee3c"
+    },
+    {
+     "file": "era-kawila-1796-1900/era-kawila-1796-1900-pearl-of-asia-1892-p-339.jpg",
+     "source": "commons",
+     "title": "File:Pearl of Asia (1892, p 339).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pearl_of_Asia_%281892%2C_p_339%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APearl_of_Asia_%281892%2C_p_339%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "This image has been extracted from another file",
+     "alt": "* Original caption: Native bullock carts &amp; ox yokes.\nUploader's caption: Ra-thae (Thai: ระแทะ), a traditional vehicle of Thailand.",
+     "date": "1892",
+     "primary": false,
+     "sha256": "d979fdd89aea00765fd764b70c2b80aa70466964b3ec846a70f325f3bc75c51c"
     }
    ],
    "kin_in": [
+    {
+     "from": "map-1893",
+     "type": "map",
+     "name": "The 1893 map for Inthawichayanon",
+     "as": "Its era."
+    },
+    {
+     "from": "map-pavie-1884",
+     "type": "map",
+     "name": "Pavie's itineraries, 1880–1884",
+     "as": "Its era."
+    },
     {
      "from": "kawila",
      "type": "person",
@@ -318,7 +345,14 @@
      "sha256": "0c9a1300458876a52c9b7ecd2ed908e1dc8d792d2ed1dedef03f42589fcf1773"
     }
    ],
-   "kin_in": []
+   "kin_in": [
+    {
+     "from": "map-lanna",
+     "type": "map",
+     "name": "The Lanna city map",
+     "as": "Its era."
+    }
+   ]
   },
   {
    "id": "era-monks-road-1935",
@@ -754,6 +788,21 @@
      "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
      "primary": false,
      "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+    },
+    {
+     "file": "era-siam-1900-1950/era-siam-1900-1950-phap-mueang-thai-1943-p-063.jpg",
+     "source": "commons",
+     "title": "File:Phap Mueang Thai (1943, p 063).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Phap_Mueang_Thai_%281943%2C_p_063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APhap_Mueang_Thai_%281943%2C_p_063%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Office of the Prime Minister",
+     "credit": "This image has been extracted from another file",
+     "alt": "This picture is described as follows:\nOriginal caption: \"Northern Line railroad bridge.\"",
+     "date": "1943-07-14",
+     "primary": false,
+     "sha256": "d147421947c6e5cd2c0e7b789db7d6ebae650c1a300ad6818ef4b4b1dc8864f1"
     }
    ],
    "kin_in": [
@@ -761,6 +810,18 @@
      "from": "chang-moi-gate",
      "type": "gate",
      "name": "Chang Moi Gate",
+     "as": "Its era."
+    },
+    {
+     "from": "map-1931",
+     "type": "map",
+     "name": "The 1931 city map",
+     "as": "Its era."
+    },
+    {
+     "from": "map-1945",
+     "type": "map",
+     "name": "The 1945 city map",
      "as": "Its era."
     },
     {
@@ -883,6 +944,12 @@
      "type": "highway",
      "name": "Route 11, the Superhighway",
      "as": "Its era."
+    },
+    {
+     "from": "map-ams-chiang-mai",
+     "type": "map",
+     "name": "The Army Map Service sheet, NE 47-6 Chiang Mai",
+     "as": "The era it precedes."
     }
    ]
   }

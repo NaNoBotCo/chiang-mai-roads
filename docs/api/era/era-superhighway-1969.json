@@ -104,6 +104,12 @@
    "type": "highway",
    "name": "Route 11, the Superhighway",
    "as": "Its era."
+  },
+  {
+   "from": "map-ams-chiang-mai",
+   "type": "map",
+   "name": "The Army Map Service sheet, NE 47-6 Chiang Mai",
+   "as": "The era it precedes."
   }
  ]
 }

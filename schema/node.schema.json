@@ -41,6 +41,7 @@
     "highway",
     "plan",
     "era",
+    "map",
     "measure",
     "traffic",
     "word",
@@ -216,7 +217,8 @@
        "contrast",
        "same-word",
        "kin",
-       "source"
+       "source",
+       "map"
       ],
       "description": "What the target IS to this record. Normally the target's own type; the relational values (part, whole, origin, descendant, contrast, same-word) are for edges the type alone does not describe."
      }
@@ -803,6 +805,46 @@
      "type": "string"
     },
     "example_gloss": {
+     "type": "string"
+    }
+   }
+  },
+  "sheet": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "For an old map: when it was drawn, by whom, at what scale, and where the copy came from.",
+   "properties": {
+    "year": {
+     "type": "string"
+    },
+    "year_note": {
+     "type": "string"
+    },
+    "maker": {
+     "type": "string"
+    },
+    "maker_th": {
+     "type": "string"
+    },
+    "scale": {
+     "type": "string"
+    },
+    "extent": {
+     "type": "string"
+    },
+    "extent_th": {
+     "type": "string"
+    },
+    "holding": {
+     "type": "string"
+    },
+    "sheet_no": {
+     "type": "string"
+    },
+    "shows": {
+     "type": "string"
+    },
+    "shows_th": {
      "type": "string"
     }
    }

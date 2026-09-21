@@ -1,0 +1,79 @@
+{
+ "id": "map-war-office-1946",
+ "type": "map",
+ "names": {
+  "name": "The War Office sheet, 1946",
+  "th": "แผ่นของ War Office 2489",
+  "said": "London's map of Siam the year after the war, 85 cm across.",
+  "said_th": "แผนที่สยามของลอนดอนในปีถัดจากสงคราม กว้าง 85 ซม."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1946",
+  "order": 15
+ },
+ "sheet": {
+  "year": "1946",
+  "maker": "War Office, London",
+  "maker_th": "War Office ลอนดอน",
+  "shows": "The country as the Allies had it, at the moment the roads were about to be built.",
+  "shows_th": "ประเทศอย่างที่ฝ่ายสัมพันธมิตรมี ในช่วงเวลาที่ถนนกำลังจะถูกสร้าง",
+  "extent": "85 cm across",
+  "extent_th": "กว้าง 85 ซม."
+ },
+ "text": {
+  "what": "A coloured map of Siam by the War Office in London, the year after the war and two years before the moat roads. Wartime and immediately post-war mapping of this country is unusually good because armies needed it, and it is the reason a 1945 city sheet at 1:5,000 exists at all."
+ },
+ "text_th": {
+  "what": "แผนที่สยามสีของ War Office ในลอนดอน ปีถัดจากสงครามและสองปีก่อนถนนรอบคู การทำแผนที่ประเทศนี้ช่วงสงครามและหลังสงครามใหม่ ๆ ดีผิดปกติเพราะกองทัพต้องใช้ และเป็นเหตุที่แผ่นเมืองมาตราส่วน 1:5,000 ปี 2488 มีอยู่เลย"
+ },
+ "kin": [
+  {
+   "to": "map-1945",
+   "as": "Its city-scale sibling.",
+   "rel": "map"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-war-office-1946/map-war-office-1946-siam-map-1946-thailand-by-war-office-london.jpg",
+   "source": "commons",
+   "title": "File:Siam Map 1946 (Thailand) by War Office London.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Siam_Map_1946_%28Thailand%29_by_War_Office_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASiam_Map_1946_%28Thailand%29_by_War_Office_London.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "War Office in London, United Kingdom, 1946",
+   "credit": "Trove - https://nla.gov.au/nla.obj-2917615881/view?searchTerm=siam#search/siam",
+   "alt": "Title: 'Siam'. Map of Siam (Thailand) in 1946. Creator: War Office, London (United Kingdom). Call Number MAP G8025 1946. Dimensions: 1 map : col. ; 85 x 52 cm. on sheet 102 x 61 cm. 1st edition.",
+   "date": "1946",
+   "primary": true,
+   "sha256": "642b5770c6da337b0183328b3bbe9aac3f16e9c627a1180ad21637abcd0a7e62"
+  }
+ ],
+ "kin_in": []
+}

@@ -14,10 +14,10 @@
   "tier": "tradition"
  },
  "text": {
-  "what": "The moat, and by extension the roads on its banks. 'Rop khu' is the loop."
+  "what": "The moat, and by extension the roads on its banks. 'Rop khu' is the loop.\n\nThe 1931 and 1945 city sheets both label it คูเวียง, khu wiang, the ditch of the walled town, rather than khu mueang. Two official maps fourteen years apart agree, and usage on the ground today has drifted to khu mueang."
  },
  "text_th": {
-  "what": "คูเมือง และโดยนัยคือถนนบนตลิ่งของมัน 'รอบคู' คือวงรอบ"
+  "what": "คูเมือง และโดยนัยคือถนนบนตลิ่งของมัน 'รอบคู' คือวงรอบ\n\nแผ่นเมืองปี 2474 และ 2488 กำกับมันว่า คูเวียง คูของเมืองมีกำแพง ไม่ใช่คูเมือง แผนที่ทางการสองแผ่นห่างกันสิบสี่ปีตรงกัน และการใช้บนพื้นที่ทุกวันนี้เคลื่อนไปเป็นคูเมือง"
  },
  "word": {
   "th": "คู",
@@ -35,6 +35,16 @@
    "to": "moat-loop",
    "as": "The roads on it.",
    "rel": "ring"
+  },
+  {
+   "to": "map-1931",
+   "as": "Labels it khu wiang.",
+   "rel": "map"
+  },
+  {
+   "to": "map-1945",
+   "as": "Labels it khu wiang.",
+   "rel": "map"
   }
  ],
  "tags": [
@@ -42,7 +52,8 @@
  ],
  "sources": [
   "s:moradok-lanna-dict",
-  "s:wp-northern-thai"
+  "s:wp-northern-thai",
+  "s:commons-map"
  ],
  "provenance": {
   "default": {

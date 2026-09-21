@@ -169,6 +169,18 @@
    "as": "The trees."
   },
   {
+   "from": "map-ams-saraphi",
+   "type": "map",
+   "name": "The Army Map Service sheet, Ban Saraphi",
+   "as": "The road on it."
+  },
+  {
+   "from": "map-mccarthy-1900",
+   "type": "map",
+   "name": "McCarthy's Siam, 1900",
+   "as": "What he had planted."
+  },
+  {
    "from": "built-up-area",
    "type": "traffic",
    "name": "How far the city spread",

@@ -1,0 +1,114 @@
+{
+ "id": "map-1945",
+ "type": "map",
+ "names": {
+  "name": "The 1945 city map",
+  "th": "แผนที่เมือง 2488",
+  "said": "1:5,000, printed at the Survey of India, three years before the moat roads.",
+  "said_th": "มาตราส่วน 1:5,000 พิมพ์ที่ Survey of India สามปีก่อนถนนรอบคู"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1945",
+  "order": 5
+ },
+ "sheet": {
+  "year": "1945",
+  "maker": "Survey of India",
+  "maker_th": "Survey of India",
+  "shows": "The square in the last year it was a fortification rather than a roundabout.",
+  "shows_th": "สี่เหลี่ยมในปีสุดท้ายที่มันเป็นป้อม ไม่ใช่วงเวียน",
+  "scale": "1:5,000",
+  "extent": "the city, 57 × 87 cm",
+  "extent_th": "ตัวเมือง 57 × 87 ซม.",
+  "holding": "American Geographical Society",
+  "year_note": "first edition August 1945, compiled from a Siamese 1:5,000 sheet of 1930 and air photographs of March 1945",
+  "sheet_no": "AMS series L904"
+ },
+ "text": {
+  "what": "Printed at the Survey of India offices at 1:5,000, 57 by 87 cm, held by the American Geographical Society. It is the last map on this site that shows the old city before the municipality built the roads on both banks of the moat in 1948 and demolished stretches of the wall to do it.",
+  "story": "*Inference —* this sheet and a modern one, laid side by side, are the whole argument of this site in two pictures. The square is the same square. Everything outside it is different, and the difference is rings.",
+  "how": "**Read off the sheet.** Its compilation note says it was made from a Siamese map of Chiangmai at 1:5,000 dated 1930, with additions and corrections from air photographs of March 1945. First edition August 1945, printed at the Survey of India Offices, Army Map Service series L904, and the copy carries a Library of Congress exchange stamp of June 1950. The moat is labelled KHU WIANG (Moat) on all four sides. Its glossary translates the words this site is built on: Thanon is Road or Street, Pratu is Gate, Tha is a Ford or Landing place, Talat is Market, Wat is Temple or Monastery, Khlong is a Pond or Stream."
+ },
+ "text_th": {
+  "what": "พิมพ์ที่สำนักงาน Survey of India มาตราส่วน 1:5,000 ขนาด 57 คูณ 87 ซม. เก็บโดย American Geographical Society เป็นแผนที่แผ่นสุดท้ายบนเว็บนี้ที่แสดงเวียงเก่าก่อนเทศบาลสร้างถนนสองฝั่งคูในปี 2491 และรื้อกำแพงบางช่วงเพื่อทำอย่างนั้น",
+  "story": "*อนุมาน —* แผ่นนี้กับแผ่นสมัยใหม่ วางเคียงกัน คือข้อโต้แย้งทั้งหมดของเว็บนี้ในสองภาพ สี่เหลี่ยมยังเป็นสี่เหลี่ยมเดิม ทุกอย่างนอกมันต่างไป และความต่างคือวงแหวน",
+  "how": "**อ่านจากแผ่นเอง** หมายเหตุการจัดทำบอกว่าทำจากแผนที่เมืองเชียงใหม่ของสยาม มาตราส่วน 1:5,000 ลงปี 2473 พร้อมเพิ่มเติมและแก้ไขจากภาพถ่ายทางอากาศเดือนมีนาคม 2488 พิมพ์ครั้งแรกสิงหาคม 2488 ที่สำนักงาน Survey of India ชุด L904 ของ Army Map Service และฉบับนี้มีตราแลกเปลี่ยนของหอสมุดรัฐสภาอเมริกันเดือนมิถุนายน 2493 คูเมืองกำกับว่า KHU WIANG (Moat) ทั้งสี่ด้าน อภิธานของมันแปลคำที่เว็บนี้สร้างขึ้นจาก ถนนคือ Road หรือ Street ประตูคือ Gate ท่าคือที่ข้ามหรือที่ขึ้นบก ตลาดคือ Market วัดคือ Temple หรือ Monastery คลองคือบ่อหรือลำธาร"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "Built three years later.",
+   "rel": "ring"
+  },
+  {
+   "to": "era-siam-1900-1950",
+   "as": "Its era.",
+   "rel": "era"
+  },
+  {
+   "to": "what-a-road-does-to-an-old-city",
+   "as": "The argument.",
+   "rel": "story"
+  },
+  {
+   "to": "khu",
+   "as": "It labels the moat with this word.",
+   "rel": "word"
+  },
+  {
+   "to": "wiang",
+   "as": "And with this one.",
+   "rel": "word"
+  },
+  {
+   "to": "thanon",
+   "as": "Its glossary defines it.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-1945/map-1945-chiang-mai-1945.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai 1945.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chiang_Mai_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_1945.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Survey of India Offices",
+   "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/6966/rec/1",
+   "alt": "Old map of Chiang Mai (Thailand) in 1945. Printed at the Survey of India Offices. Size: 57 x 87 cm. Scale: \t\n1:5,000. Repository: American Geographical Society Library, University of Wisconsin-Milwauk",
+   "date": "1945",
+   "primary": true,
+   "sha256": "a6f7a69b50f641ddc92c4f0518f2abb5e629f1d18e4f92436eeca193d953a59e"
+  }
+ ]
+}

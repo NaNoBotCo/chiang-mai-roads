@@ -93,6 +93,12 @@
    "type": "gate",
    "name": "Chang Moi Gate",
    "as": "The road it was removed for."
+  },
+  {
+   "from": "map-1890",
+   "type": "map",
+   "name": "The 1890 city map",
+   "as": "The road it dates."
   }
  ]
 }

@@ -1,0 +1,86 @@
+{
+ "id": "map-lanna",
+ "type": "map",
+ "names": {
+  "name": "The Lanna city map",
+  "th": "แผนที่เวียงสมัยล้านนา",
+  "said": "The square, drawn from the inside, with the ruler's portrait beside it.",
+  "said_th": "สี่เหลี่ยมวาดจากข้างใน กับรูปเจ้าอยู่ข้าง ๆ"
+ },
+ "region": [
+  "moat"
+ ],
+ "facets": {
+  "era": "lanna",
+  "year": "19th century",
+  "order": 1
+ },
+ "sheet": {
+  "year": "19th century",
+  "maker": "unknown",
+  "maker_th": "ไม่ปรากฏผู้จัดทำ",
+  "shows": "The wall and the gates, and streets only where a street leads to something worth drawing.",
+  "shows_th": "กำแพงและประตู และถนนเฉพาะตรงที่ถนนพาไปหาสิ่งที่ควรวาด"
+ },
+ "text": {
+  "what": "An undated Lanna-era map of the walled city, with a portrait of a ruler at the left, the palace, the temples and the wall. It is a picture of a place rather than a survey of one: nothing on it is to scale and everything on it is where it belongs.",
+  "story": "*Inference —* the useful thing about a map that is not to scale is that it tells you what mattered. The wall is drawn thick, the wats are drawn large, and the roads are barely there. A road was not yet a thing you drew."
+ },
+ "text_th": {
+  "what": "แผนที่เวียงสมัยล้านนาที่ไม่ระบุปี มีรูปเจ้าอยู่ด้านซ้าย มีคุ้ม วัด และกำแพง มันเป็นภาพของสถานที่ มากกว่าการรังวัดสถานที่ ไม่มีอะไรบนนั้นได้สัดส่วน และทุกอย่างบนนั้นอยู่ตรงที่มันควรอยู่",
+  "story": "*อนุมาน —* สิ่งที่มีประโยชน์ของแผนที่ที่ไม่ได้สัดส่วนคือมันบอกว่าอะไรสำคัญ กำแพงวาดหนา วัดวาดใหญ่ และถนนแทบไม่มี ถนนยังไม่ใช่สิ่งที่คนวาด"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "The square it draws.",
+   "rel": "place"
+  },
+  {
+   "to": "era-lanna-and-burma",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-lanna/map-lanna-chiang-mai-city-old-map-lan-na-kingdom.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai City Old Map Lan Na Kingdom.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_City_Old_Map_Lan_Na_Kingdom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Old_Map_Lan_Na_Kingdom.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "www.shorthistoryoflanna.blogspot.com (see also: https://www.matichon.co.th/weekly/column/article_18712 (https://archive.vn/gI1uM).)",
+   "alt": "Chiang Mai City old map during the Lan Na kingdom (in Thailand). The portrait of a ruler (king) is on the left side. There is a castle, palace, temples, local houses, the treasury, the city wall with ",
+   "date": "Circa 19th century or earlier",
+   "primary": true,
+   "sha256": "da09dbd52b5bd91ad687b7e7d2bd1342577654c8ff6133be23f5c3975d18e4a2"
+  }
+ ]
+}

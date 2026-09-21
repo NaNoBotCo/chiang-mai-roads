@@ -13,7 +13,8 @@
     "superhighway": "The Superhighway, 1960s–70s",
     "rings": "The rings, 1980s–2000s",
     "now": "Now, 2010s–2020s",
-    "planned": "Planned"
+    "planned": "Planned",
+    "before": "Before the maps, to 1700"
    },
    "types": [
     "road",
@@ -30,7 +31,8 @@
     "word",
     "story",
     "person",
-    "place"
+    "place",
+    "map"
    ]
   },
   "direction": {
@@ -132,7 +134,8 @@
     "plan",
     "traffic",
     "measure",
-    "era"
+    "era",
+    "map"
    ],
    "values": {}
   },
@@ -154,7 +157,8 @@
     "word",
     "story",
     "person",
-    "place"
+    "place",
+    "map"
    ],
    "values": {}
   },
@@ -162,7 +166,8 @@
    "label": "Order",
    "th": "ลำดับ",
    "types": [
-    "era"
+    "era",
+    "map"
    ],
    "values": {}
   }

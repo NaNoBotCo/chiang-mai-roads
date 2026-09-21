@@ -14,10 +14,10 @@
   "tier": "tradition"
  },
  "text": {
-  "what": "The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang."
+  "what": "The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang.\n\nThe 1945 city sheet labels the water KHU WIANG (Moat) on all four sides, which is this word doing its work on an official map: the square is the wiang, and the ditch belongs to it."
  },
  "text_th": {
-  "what": "คำสำหรับเมืองมีกำแพง และเป็นคำที่เว็บนี้ใช้เรียกสี่เหลี่ยมในคู เชียงใหม่ที่เหลือคือเมือง สี่เหลี่ยมคือเวียง"
+  "what": "คำสำหรับเมืองมีกำแพง และเป็นคำที่เว็บนี้ใช้เรียกสี่เหลี่ยมในคู เชียงใหม่ที่เหลือคือเมือง สี่เหลี่ยมคือเวียง\n\nแผ่นเมืองปี 2488 กำกับน้ำว่า KHU WIANG (Moat) ทั้งสี่ด้าน ซึ่งเป็นคำนี้ทำงานอยู่บนแผนที่ทางการ สี่เหลี่ยมคือเวียง และคูเป็นของมัน"
  },
  "word": {
   "th": "เวียง",
@@ -35,6 +35,11 @@
    "to": "the-moat",
    "as": "What surrounds it.",
    "rel": "place"
+  },
+  {
+   "to": "map-1945",
+   "as": "Where it is written.",
+   "rel": "map"
   }
  ],
  "tags": [
@@ -42,7 +47,8 @@
  ],
  "sources": [
   "s:moradok-lanna-dict",
-  "s:wp-northern-thai"
+  "s:wp-northern-thai",
+  "s:commons-map"
  ],
  "provenance": {
   "default": {

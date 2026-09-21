@@ -94,6 +94,36 @@
    "date": "2017-04-19",
    "primary": false,
    "sha256": "6e8dcf0ec322e1971bc329ce0fbaf7c6e6933bbf93c21715f3d9f10c306d2451"
+  },
+  {
+   "file": "thang/thang-pearl-of-asia-1892-p-339.jpg",
+   "source": "commons",
+   "title": "File:Pearl of Asia (1892, p 339).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pearl_of_Asia_%281892%2C_p_339%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APearl_of_Asia_%281892%2C_p_339%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "This image has been extracted from another file",
+   "alt": "* Original caption: Native bullock carts &amp; ox yokes.\nUploader's caption: Ra-thae (Thai: ระแทะ), a traditional vehicle of Thailand.",
+   "date": "1892",
+   "primary": false,
+   "sha256": "d979fdd89aea00765fd764b70c2b80aa70466964b3ec846a70f325f3bc75c51c"
+  },
+  {
+   "file": "thang/thang-phap-mueang-thai-1943-p-028.jpg",
+   "source": "commons",
+   "title": "File:Phap Mueang Thai (1943, p 028).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Phap_Mueang_Thai_%281943%2C_p_028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APhap_Mueang_Thai_%281943%2C_p_028%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Office of the Prime Minister",
+   "credit": "This image has been extracted from another file",
+   "alt": "This picture is described as follows:\nOriginal caption: \"The use of elephants as vehicles for conveyance of military supplies and weaponry.\"",
+   "date": "1943-07-14",
+   "primary": false,
+   "sha256": "40addec813939fc6546d471c7bdf02f569d7048e282ae21981569ed2cca59df8"
   }
  ]
 }

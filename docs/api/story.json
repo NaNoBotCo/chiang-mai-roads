@@ -197,6 +197,21 @@
      "date": "2018-09-06 14:36:03",
      "primary": true,
      "sha256": "a749aba609d0f43d5c778e00d1e430c17dc9d6985446ee1250d170ea2681aea1"
+    },
+    {
+     "file": "the-day-the-river-came-up-tha-phae/the-day-the-river-came-up-tha-phae-flooding-on-the-road-north-from-bangkok-november-1964.jpg",
+     "source": "commons",
+     "title": "File:Flooding on the road north from Bangkok November 1964.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Flooding_on_the_road_north_from_Bangkok_November_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AFlooding_on_the_road_north_from_Bangkok_November_1964.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Don Christie",
+     "credit": "Scanned from original",
+     "alt": "Floooding on the road north from Bangkok November 1964",
+     "date": "1964-11-11",
+     "primary": false,
+     "sha256": "4fd9e8a5292158010a52e4ae98619fdd25a7751038f7f487f6e3256c320f197e"
     }
    ],
    "kin_in": [
@@ -410,6 +425,12 @@
      "type": "road",
      "name": "The Yang Tree Road, Chiang Mai to Lamphun",
      "as": "The long version."
+    },
+    {
+     "from": "map-ams-saraphi",
+     "type": "map",
+     "name": "The Army Map Service sheet, Ban Saraphi",
+     "as": "The trees."
     }
    ]
   },
@@ -540,6 +561,12 @@
     }
    ],
    "kin_in": [
+    {
+     "from": "map-1945",
+     "type": "map",
+     "name": "The 1945 city map",
+     "as": "The argument."
+    },
     {
      "from": "grid-in-the-moat",
      "type": "measure",

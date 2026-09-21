@@ -119,6 +119,21 @@
    "date": "2014-01-07 13:33:56",
    "primary": false,
    "sha256": "506f467a90bdc46babcce1ab7fd0e193a6f8db36bbe748e6c3df2ce325e158ad"
+  },
+  {
+   "file": "route-11/route-11-phap-mueang-thai-1943-p-061.jpg",
+   "source": "commons",
+   "title": "File:Phap Mueang Thai (1943, p 061).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Phap_Mueang_Thai_%281943%2C_p_061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APhap_Mueang_Thai_%281943%2C_p_061%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Office of the Prime Minister",
+   "credit": "This image has been extracted from another file",
+   "alt": "This picture is described as follows:\nOriginal caption: \"A bridge over the Wang River, Lampang.\"\nUploader's caption: Perhaps referring to Ratsadaphisek Bridge.",
+   "date": "1943-07-14",
+   "primary": false,
+   "sha256": "e8bf157cf8b45d342c5c12ace595d092b52053611a7a24a857da47a4a6b180a7"
   }
  ],
  "kin_in": [
@@ -163,6 +178,18 @@
    "type": "era",
    "name": "1960s–70s — the Superhighway",
    "as": "The road."
+  },
+  {
+   "from": "map-ams-chiang-mai",
+   "type": "map",
+   "name": "The Army Map Service sheet, NE 47-6 Chiang Mai",
+   "as": "What came fifteen years later."
+  },
+  {
+   "from": "map-shell-1958",
+   "type": "map",
+   "name": "The Shell wall map, about 1958",
+   "as": "What came ten years later."
   },
   {
    "from": "the-trees-on-the-lamphun-road",

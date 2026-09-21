@@ -228,6 +228,12 @@
      "type": "gate",
      "name": "Chang Moi Gate",
      "as": "The road it was removed for."
+    },
+    {
+     "from": "map-1890",
+     "type": "map",
+     "name": "The 1890 city map",
+     "as": "The road it dates."
     }
    ]
   },
@@ -1211,6 +1217,12 @@
      "as": "The road."
     },
     {
+     "from": "map-railways-1934",
+     "type": "map",
+     "name": "The Royal State Railways map, 1934",
+     "as": "What he built that year."
+    },
+    {
      "from": "the-monk-who-built-a-road",
      "type": "story",
      "name": "The monk who built a road in five months",
@@ -1484,6 +1496,12 @@
      "as": "What it carries."
     },
     {
+     "from": "map-1931",
+     "type": "map",
+     "name": "The 1931 city map",
+     "as": "Its spine."
+    },
+    {
      "from": "the-day-the-river-came-up-tha-phae",
      "type": "story",
      "name": "The day the river came up Tha Phae",
@@ -1666,6 +1684,18 @@
      "type": "era",
      "name": "1796–1900 — Kawila's rebuilding",
      "as": "The trees."
+    },
+    {
+     "from": "map-ams-saraphi",
+     "type": "map",
+     "name": "The Army Map Service sheet, Ban Saraphi",
+     "as": "The road on it."
+    },
+    {
+     "from": "map-mccarthy-1900",
+     "type": "map",
+     "name": "McCarthy's Siam, 1900",
+     "as": "What he had planted."
     },
     {
      "from": "built-up-area",

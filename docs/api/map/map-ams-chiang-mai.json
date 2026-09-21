@@ -1,0 +1,94 @@
+{
+ "id": "map-ams-chiang-mai",
+ "type": "map",
+ "names": {
+  "name": "The Army Map Service sheet, NE 47-6 Chiang Mai",
+  "th": "แผ่น NE 47-6 เชียงใหม่ ของ Army Map Service",
+  "said": "1:250,000, series L509, and the first sheet here with a road classification on it.",
+  "said_th": "1:250,000 ชุด L509 และเป็นแผ่นแรกที่นี่ที่มีการจำแนกชั้นถนน"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "era": "siam",
+  "year": "1954",
+  "order": 6
+ },
+ "sheet": {
+  "year": "1954",
+  "maker": "US Army Map Service",
+  "maker_th": "US Army Map Service",
+  "shows": "The regional road network fifteen years before Route 11, classified by whether it was passable in the rains.",
+  "shows_th": "โครงข่ายถนนภูมิภาคสิบห้าปีก่อนทางหลวง 11 จำแนกตามว่าฤดูฝนผ่านได้ก่อ",
+  "scale": "1:250,000",
+  "sheet_no": "NE 47-6, series L509"
+ },
+ "text": {
+  "what": "Sheet NE 47-6 of series L509, the US Army Map Service's 1:250,000 cover of Indochina and Thailand, from 1954. It carries the region at the moment before the Superhighway: roads classified by surface and weather, the Lamphun road as the main line south, and no ring of any kind around the city.",
+  "story": "*Inference —* an army map classifies a road by whether you can get a truck down it in the rains, which is the most useful thing anyone has ever put on a map of this province. The distinction has gone from modern maps, and the road it describes has not."
+ },
+ "text_th": {
+  "what": "แผ่น NE 47-6 ของชุด L509 แผนที่มาตราส่วน 1:250,000 ครอบคลุมอินโดจีนและประเทศไทยของ US Army Map Service ปี 2497 มันแสดงภูมิภาคในช่วงก่อนซุปเปอร์ไฮเวย์ ถนนจำแนกตามผิวทางและฤดู ถนนลำพูนเป็นเส้นหลักลงใต้ และไม่มีวงแหวนใด ๆ รอบเมือง",
+  "story": "*อนุมาน —* แผนที่ทหารจำแนกถนนด้วยว่าเอารถบรรทุกลงไปได้ก่อในฤดูฝน ซึ่งเป็นสิ่งมีประโยชน์ที่สุดที่ใครเคยใส่ลงบนแผนที่ของจังหวัดนี้ ความแตกต่างนั้นหายไปจากแผนที่สมัยใหม่แล้ว ส่วนถนนที่มันบรรยายยังไม่หาย"
+ },
+ "kin": [
+  {
+   "to": "route-106",
+   "as": "The main line south on it.",
+   "rel": "highway"
+  },
+  {
+   "to": "route-11",
+   "as": "What came fifteen years later.",
+   "rel": "highway"
+  },
+  {
+   "to": "era-superhighway-1969",
+   "as": "The era it precedes.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-ams-chiang-mai/map-ams-chiang-mai-map-by-the-us-army-map-service-ne-47-6-chiang-mai-in-d73ec02.jpg",
+   "source": "commons",
+   "title": "File:Map by the US Army Map Service - NE 47-6 Chiang Mai - indochina and thailand - txu-oclc-6535632-ne47-6.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Map_by_the_US_Army_Map_Service_-_NE_47-6_Chiang_Mai_-_indochina_and_thailand_-_txu-oclc-6535632-ne47-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_NE_47-6_Chiang_Mai_-_indochina_and_thailand_-_txu-oclc-6535632-ne47-6.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "United States Army Map Service",
+   "credit": "https://maps.lib.utexas.edu/maps/ams/indochina_and_thailand/ [1]",
+   "alt": "NE 47-6 Chiang Mai - (6.9 MB) - Indochina and Thailand, Series L509, 1:250,000, U.S. Army Map Service, 1954-",
+   "date": "",
+   "primary": true,
+   "sha256": "0d664a3f5e7065460e1fab6c719f8bc5dabbbdc327fff4106ebb3a566cfd3316"
+  }
+ ],
+ "kin_in": []
+}

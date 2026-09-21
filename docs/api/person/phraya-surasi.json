@@ -70,6 +70,24 @@
    "as": "Built the Hang Dong road."
   },
   {
+   "from": "map-1893",
+   "type": "map",
+   "name": "The 1893 map for Inthawichayanon",
+   "as": "The commissioner who followed."
+  },
+  {
+   "from": "map-mccarthy-1888",
+   "type": "map",
+   "name": "McCarthy's Siam, 1888",
+   "as": "The commissioner of the same decade."
+  },
+  {
+   "from": "map-mccarthy-1900",
+   "type": "map",
+   "name": "McCarthy's Siam, 1900",
+   "as": "The commissioner."
+  },
+  {
    "from": "the-trees-on-the-lamphun-road",
    "type": "story",
    "name": "The trees on the Lamphun road",

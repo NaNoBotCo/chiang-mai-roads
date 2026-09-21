@@ -143,6 +143,12 @@
    "as": "The square."
   },
   {
+   "from": "map-lanna",
+   "type": "map",
+   "name": "The Lanna city map",
+   "as": "The square it draws."
+  },
+  {
    "from": "grid-in-the-moat",
    "type": "measure",
    "name": "The grid score, zone by zone",

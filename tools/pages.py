@@ -125,6 +125,15 @@ def front(lang: str) -> str:
                   ("The founders built a kilometre from the bank because of exactly this. The square stayed dry." if en else "ผู้สร้างเมืองสร้างห่างตลิ่งหนึ่งกิโลเพราะสิ่งนี้แหละ สี่เหลี่ยมยังแห้ง"),
                   lang=lang, href=f"{r}stories/the-day-the-river-came-up-tha-phae/", cta=("The flood, as a list of roads" if en else "น้ำท่วม ในรูปรายการถนน")))
 
+    b.append(band("map1890",
+                  "On paper" if en else "บนกระดาษ",
+                  "Sixteen sheets, 1693 to 1959, at the size they can be read at" if en else "สิบหกแผ่น ตั้งแต่ พ.ศ. 2236 ถึง 2502 ในขนาดที่อ่านออก",
+                  ("The 1931 city map labels the moat KOO VIENG CANAL and names a gate after a short bridge. The 1945 sheet "
+                   "was compiled from air photographs taken that March." if en else
+                   "แผนที่เมืองปี 2474 กำกับคูเมืองว่า KOO VIENG CANAL และตั้งชื่อประตูตามขัวสั้น แผ่นปี 2488 จัดทำจากภาพถ่ายทางอากาศเดือนมีนาคมปีนั้น"),
+                  lang=lang, big="1693", big_label=("the oldest sheet" if en else "แผ่นเก่าสุด"),
+                  href=f"{r}old-maps/", cta=("The old maps" if en else "แผนที่เก่า")))
+
     b.append(f'<h2>{E("Fun" if en else "สนุก")}</h2>')
     b.append(f'<p><a class="btn" href="{r}quiz/">{E("Which Chiang Mai road are you?" if en else "คุณเป็นถนนสายไหนของเจียงใหม่")}</a> '
              f'<a class="btn" href="{r}words/">{E("Say it in Kam Mueang" if en else "อู้กำเมือง")}</a></p>')
@@ -587,4 +596,79 @@ def about(lang: str) -> str:
     b.append(f'<p class="mute small">{E("Built" if en else "สร้างเมื่อ")} {E(COV["built"])} · '
              f'<a href="{S.rel()}api/">API</a> · '
              f'<a href="https://github.com/NaNoBotCo/chiang-mai-roads" rel="noopener">GitHub</a></p>')
+    return "".join(b)
+
+
+# ---------------------------------------------------------------- old maps
+def maps_page(lang: str) -> str:
+    en = lang == "en"
+    r = lroot(lang)
+    ui = UI[lang]
+    rows = sorted(by_type("map"), key=lambda n: (n.get("facets") or {}).get("order", 0))
+    city = [n for n in rows if "moat" in n["region"] or "city" in n["region"] or "ring3" in n["region"] or "province" in n["region"]]
+    country = [n for n in rows if n not in city]
+    b = [hdr("Old maps", "แผนที่เก่า", lang,
+             f"{len(rows)} sheets, 1693 to 1959, at the size they can be read at. What each one shows about the roads is under it.",
+             f"{len(rows)} แผ่น ตั้งแต่ พ.ศ. 2236 ถึง 2502 ในขนาดที่อ่านออก ใต้แต่ละแผ่นคือสิ่งที่มันบอกเรื่องถนน")]
+    b.append(slab([(str(len(rows)), "sheets" if en else "แผ่น"),
+                   ("1693", "the oldest" if en else "เก่าสุด"),
+                   ("1959", "the newest" if en else "ใหม่สุด"),
+                   ("1:5,000", "the closest" if en else "ละเอียดสุด"),
+                   (str(len(city)), "of the city" if en else "ของเมือง")]))
+    b.append(prose(
+        ("**Two sheets are worth the visit on their own.** The 1931 city map is bilingual at 1:5,000 and labels the moat "
+         "คูเวียง KOO VIENG CANAL, names eight gates including ประตูขัวก้อม Kua Kom, the gate of the short bridge, and "
+         "marks the teak houses by name. The 1945 sheet was compiled from a Siamese map of 1930 and air photographs of "
+         "March 1945, and its glossary quietly translates every word this site is built on." if en else
+         "**สองแผ่นคุ้มค่าที่จะมาดูด้วยตัวมันเอง** แผนที่เมืองปี 2474 เป็นสองภาษา มาตราส่วน 1:5,000 กำกับคูเมืองว่า "
+         "คูเวียง KOO VIENG CANAL ตั้งชื่อประตูแปดประตูรวมถึงประตูขัวก้อม ประตูของขัวสั้น และทำเครื่องหมายห้างไม้สักไว้เป็นชื่อ "
+         "แผ่นปี 2488 จัดทำจากแผนที่ของสยามปี 2473 และภาพถ่ายทางอากาศเดือนมีนาคม 2488 และอภิธานของมันแปลทุกคำที่เว็บนี้สร้างขึ้นจาก")))
+    b.append(band("rapids", "Before the roads" if en else "ก่อนมีถนน",
+                  "You came up the Ping, and a boat is not a road" if en else "คุณขึ้นมาทางแม่ปิง และเรือบ่ใช่ถนน",
+                  "Carl Bock walked and floated to Chiang Saen in 1881 and drew the way he went as a strip. Everything either side of the line is blank." if en else
+                  "คาร์ล บ็อก เดินและล่องไปเชียงแสนปี 2424 แล้ววาดทางที่เขาไปเป็นแถบ ทุกอย่างสองข้างเส้นว่างเปล่า",
+                  lang=lang, href=f"{r}old-maps/#map-bock-1881", cta=("Bock's strip" if en else "แถบของบ็อก")))
+    for group, head_en, head_th in ((city, "The city", "เมือง"), (country, "The country", "ประเทศ")):
+        if not group:
+            continue
+        b.append(f'<h2>{E(head_en if en else head_th)}</h2>')
+        for n in group:
+            sh = n.get("sheet") or {}
+            ims = S.pictures(n)
+            im = next((i for i in ims if i.get("primary")), ims[0]) if ims else None
+            b.append(f'<h3 id="{E(n["id"])}"><a href="{r}{url_of(n)}">{E(T(n, "names.name", lang))}</a> '
+                     f'<span class="n">{E(sh.get("year", ""))}</span></h3>')
+            b.append(f'<p class="said">{E(T(n, "names.said", lang) or "")}</p>')
+            if im:
+                b.append(f'<figure class="sheet"><a href="{S.img_url(im)}"><img src="{S.img_url(im)}" '
+                         f'alt="{E(im.get("alt") or T(n, "names.name", lang))}" loading="lazy" decoding="async"></a>'
+                         f'<figcaption>{S.credit(im)}</figcaption></figure>')
+            meta = []
+            for k, label in (("maker", "drawn by" if en else "ผู้จัดทำ"), ("scale", "scale" if en else "มาตราส่วน"),
+                             ("sheet_no", "sheet" if en else "แผ่นที่"), ("holding", "held" if en else "เก็บที่"),
+                             ("extent", "size" if en else "ขนาด")):
+                v = sh.get(k + "_th" if lang == "th" and (k + "_th") in sh else k)
+                if v:
+                    meta.append(f"<b>{E(label)}</b> {E(v)}")
+            if meta:
+                b.append('<p class="mute small">' + " · ".join(meta) + "</p>")
+            shows = sh.get("shows_th" if lang == "th" else "shows")
+            if shows:
+                b.append(f'<p><b>{E("What it shows" if en else "มันแสดงอะไร")}:</b> {E(shows)}</p>')
+            if sh.get("year_note"):
+                b.append(f'<p class="mute small">{E(sh["year_note"])}</p>')
+            b.append(prose(T(n, "text.what", lang)))
+            b.append(f'<p class="small"><a href="{r}{url_of(n)}">'
+                     f'{E("The record, with what was read off the sheet" if en else "บันทึก พร้อมสิ่งที่อ่านจากแผ่น")}</a></p>')
+    b.append(f'<h2>{E("Where they came from" if en else "มาจากไหน")}</h2>')
+    b.append(prose(
+        ("Every sheet here is on Wikimedia Commons under a free licence, and the author and licence sit under each one. "
+         "The 1:250,000 and 1:50,000 sheets are US Army Map Service series L509 and L708, public domain, digitised by "
+         "the Perry-Castañeda Library at the University of Texas. The two railway maps are from the Bibliothèque "
+         "nationale de France. Nothing here was redrawn: they are the sheets, scanned." if en else
+         "ทุกแผ่นที่นี่อยู่บนวิกิมีเดียคอมมอนส์ภายใต้สัญญาอนุญาตเสรี และชื่อผู้ทำกับสัญญาอนุญาตอยู่ใต้แต่ละแผ่น "
+         "แผ่นมาตราส่วน 1:250,000 และ 1:50,000 คือชุด L509 และ L708 ของ US Army Map Service สาธารณสมบัติ "
+         "แปลงเป็นดิจิทัลโดยห้องสมุด Perry-Castañeda มหาวิทยาลัยเท็กซัส แผนที่รถไฟสองแผ่นมาจากหอสมุดแห่งชาติฝรั่งเศส "
+         "ไม่มีอะไรที่นี่ถูกวาดใหม่ มันคือแผ่นจริง ที่สแกนมา")))
+    b.append(share("old-maps/", "Old maps", "แผนที่เก่า", lang))
     return "".join(b)

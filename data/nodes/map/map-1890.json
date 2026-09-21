@@ -1,0 +1,89 @@
+{
+ "id": "map-1890",
+ "type": "map",
+ "names": {
+  "name": "The 1890 city map",
+  "th": "แผนที่เมือง 2433",
+  "said": "The sheet that names Chang Moi Road as newly built.",
+  "said_th": "แผ่นที่บอกว่าถนนช้างม่อยเพิ่งสร้าง"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "kawila",
+  "year": "1890",
+  "order": 2
+ },
+ "sheet": {
+  "year": "1890",
+  "maker": "James McCarthy",
+  "maker_th": "เจมส์ แม็กคาร์ธี",
+  "shows": "The moat square, the Ping, the earthen wall's line, and the first named streets outside the gates.",
+  "shows_th": "สี่เหลี่ยมคู แม่ปิง แนวกำแพงดิน และถนนมีชื่อสายแรก ๆ นอกประตู",
+  "year_note": "the file is titled 1890 and its own description says 1900; both are recorded and neither is resolved on this disk"
+ },
+ "text": {
+  "what": "A map of the city under the old spelling Chiengmai. Its own caption says a temple front faces east on the newly built Chang Moi Road, which dates that road to about this sheet and corroborates the chronicle: the outer gate and the earth bank came down between 1910 and 1915 so the street could run straight to the river, and the street was already being cut when this was drawn.",
+  "notes": "Commons credits the file to James McCarthy, the surveyor who mapped the kingdom for the Siamese government in the same years. This project has not seen that attribution confirmed on the sheet itself."
+ },
+ "text_th": {
+  "what": "แผนที่เมืองภายใต้การสะกดแบบเก่าว่า Chiengmai คำบรรยายของแผ่นเองบอกว่าหน้าวัดหันไปทางตะวันออกบนถนนช้างม่อยที่เพิ่งสร้าง ซึ่งลงวันที่ถนนสายนั้นไว้ราวแผ่นนี้ และยืนยันตำนาน ประตูชั้นนอกและคันดินถูกรื้อระหว่างปี 2453–2458 เพื่อให้ถนนวิ่งตรงไปแม่น้ำ และถนนถูกตัดอยู่แล้วตอนวาดแผ่นนี้",
+  "notes": "คอมมอนส์ให้เครดิตไฟล์นี้แก่เจมส์ แม็กคาร์ธี นักรังวัดที่ทำแผนที่อาณาจักรให้รัฐบาลสยามในช่วงปีเดียวกัน โครงการนี้ยังไม่เห็นการระบุนั้นยืนยันบนแผ่นเอง"
+ },
+ "kin": [
+  {
+   "to": "chang-moi-road",
+   "as": "The road it dates.",
+   "rel": "road"
+  },
+  {
+   "to": "chang-moi-gate",
+   "as": "What was removed for it.",
+   "rel": "gate"
+  },
+  {
+   "to": "kamphaeng-din",
+   "as": "The outer wall.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:commons-map"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:commons-map"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "map-1890/map-1890-chiang-mai-city-map-chiengmai-1890.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai City Map (Chiengmai) 1890.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiang_Mai_City_Map_%28Chiengmai%29_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_%28Chiengmai%29_1890.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "James McCarthy (1853–1919)",
+   "credit": "Pantip - https://pantip.com/topic/38106682 (Original map source: James McCarthy, Surveying and exploring in Siam, 1900)",
+   "alt": "Chiang Mai City map of 1900. The city was also called Chiengmai in Thailand. The front of the temple faces east on the newly built Chang Moi Road, where Mae Kha Canal flows through. Along the second c",
+   "date": "1900",
+   "primary": true,
+   "sha256": "9aa616856836f271faf9d9701b539284f0d11de5eca49fd45bb6da138f3861d9"
+  }
+ ]
+}

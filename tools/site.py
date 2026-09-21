@@ -103,13 +103,13 @@ TAG = {"en": f"The square of 1296, four rings around it, {_km} km of road betwee
              f"นับจากแผนที่ ลงวันที่จากบันทึก"}
 
 DIR_OF = {"road": "roads", "ring": "rings", "lane": "alleys", "gate": "gates", "junction": "junctions",
-          "bridge": "bridges", "highway": "highways", "plan": "plans", "era": "eras",
+          "bridge": "bridges", "highway": "highways", "plan": "plans", "era": "eras", "map": "old-maps",
           "measure": "measures", "traffic": "traffic", "word": "words", "story": "stories",
           "person": "people", "place": "places"}
 
 UI = {
  "en": {"home": "Roads", "map": "The map", "rings": "Rings", "oldcity": "Old city", "highways": "Highways out",
-        "timeline": "Timeline", "plans": "Plans", "traffic": "Traffic", "numbers": "Numbers", "words": "Words",
+        "oldmaps": "Old maps", "timeline": "Timeline", "plans": "Plans", "traffic": "Traffic", "numbers": "Numbers", "words": "Words",
         "quiz": "Which road are you", "stories": "Stories",
         "all": "Everything", "about": "How this was made",
         "kin": "Connected to", "said_here": "Named here by", "sources": "Sources",
@@ -124,7 +124,7 @@ UI = {
         "value": "the figure", "year": "year", "method": "How it was counted", "compare": "Against",
         "script": "Script", "rtgs": "RTGS", "sound": "Sound", "standard": "Standard Thai", "gloss": "Meaning", "tt": "Tai Tham", "example": "Example"},
  "th": {"home": "ถนน", "map": "แผนที่", "rings": "วงแหวน", "oldcity": "เวียงเก่า", "highways": "ทางหลวงออกเมือง",
-        "timeline": "ลำดับเวลา", "plans": "แผน", "traffic": "จราจร", "numbers": "ตัวเลข", "words": "กำเมือง",
+        "oldmaps": "แผนที่เก่า", "timeline": "ลำดับเวลา", "plans": "แผน", "traffic": "จราจร", "numbers": "ตัวเลข", "words": "กำเมือง",
         "quiz": "เป็นถนนสายไหน", "stories": "เรื่องเล่า",
         "all": "ทั้งหมด", "about": "ทำขึ้นอย่างไร",
         "kin": "เกี่ยวข้องกับ", "said_here": "ถูกอ้างถึงโดย", "sources": "แหล่งอ้างอิง",
@@ -140,8 +140,8 @@ UI = {
         "script": "ตัวเขียน", "rtgs": "RTGS", "sound": "เสียง", "standard": "ภาษากลาง", "gloss": "ความหมาย", "tt": "ตัวเมือง", "example": "ตัวอย่าง"},
 }
 
-NAV = [("", "home"), ("map/", "map"), ("rings/", "rings"), ("old-city/", "oldcity"), ("highways/", "highways"),
-       ("timeline/", "timeline"), ("plans/", "plans"), ("traffic/", "traffic"), ("numbers/", "numbers"),
+NAV = [("", "home"), ("map/", "map"), ("old-maps/", "oldmaps"), ("rings/", "rings"), ("old-city/", "oldcity"),
+       ("highways/", "highways"), ("timeline/", "timeline"), ("plans/", "plans"), ("traffic/", "traffic"), ("numbers/", "numbers"),
        ("words/", "words"), ("stories/", "stories"), ("quiz/", "quiz")]
 
 CSS_EXTRA = """
@@ -177,6 +177,9 @@ svg.mapsvg{width:100%;height:auto;display:block}
 .era-strip span{padding:.15rem .5rem;font-size:.75rem;font-weight:700;color:#fff;border-radius:2px}
 table.ladder td.num{text-align:right;font-variant-numeric:tabular-nums}
 .kv th{width:11rem}
+figure.sheet{margin:.8rem 0 1.2rem;border:3px solid var(--ink);background:var(--panel)}
+figure.sheet img{width:100%;display:block}
+figure.sheet figcaption{padding:.35rem .6rem;font-size:.76rem;color:var(--mute);border-top:3px solid var(--ink)}
 """
 
 
@@ -518,6 +521,12 @@ BANDS = {
     "route1095": ("route-1095", ""),
     "mekha":     ("mae-kha-canal", "khlong-mae-kha"),
     "station":   ("chiang-mai-station", ""),
+    "map1890":   ("map-1890", ""),
+    "mapams":    ("map-ams-chiang-mai", ""),
+    "mapbock":   ("map-bock-1881", ""),
+    "rapids":    ("ping-river", "athibai"),
+    "oxcart":    ("thang", "pearl-of-asia"),
+    "charoen":   ("thanon", "charoen-krung"),
 }
 
 
@@ -1032,6 +1041,7 @@ def main() -> int:
             ("map/", pages.map_page, ui["map"], None, "map", "map"),
             ("rings/", pages.rings_page, ui["rings"], None, "rings", "rings"),
             ("old-city/", pages.oldcity_page, ui["oldcity"], None, "oldcity", "old-city"),
+            ("old-maps/", pages.maps_page, ui["oldmaps"], None, "oldmaps", "old-maps"),
             ("highways/", pages.highways_page, ui["highways"], None, "highways", "highways"),
             ("timeline/", pages.timeline_page, ui["timeline"], None, "timeline", "timeline"),
             ("plans/", pages.plans_page, ui["plans"], None, "plans", "plans"),

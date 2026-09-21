@@ -1191,6 +1191,56 @@
    "url": "https://gasprice.kapook.com/",
    "accessed": "2026-09-21",
    "lang": "th"
+  },
+  {
+   "id": "s:commons-map",
+   "kind": "dataset",
+   "title": "Wikimedia Commons — the map and photograph files, each with its own licence on its file page",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "per file; only free licences are used here"
+  },
+  {
+   "id": "s:ams-l509",
+   "kind": "dataset",
+   "title": "Indochina and Thailand, Series L509, 1:250,000 — US Army Map Service, from the Perry-Castañeda Library map collection",
+   "publisher": "University of Texas Libraries",
+   "url": "https://maps.lib.utexas.edu/maps/ams/indochina_and_thailand/",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "public domain"
+  },
+  {
+   "id": "s:ams-l708",
+   "kind": "dataset",
+   "title": "Thailand, Series L708, 1:50,000 — US Army Map Service, from the Perry-Castañeda Library map collection",
+   "publisher": "University of Texas Libraries",
+   "url": "https://maps.lib.utexas.edu/maps/ams/thailand/",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "public domain"
+  },
+  {
+   "id": "s:bnf-railways",
+   "kind": "dataset",
+   "title": "Cartes des chemins de fer du Siam — Bibliothèque nationale de France, Gallica",
+   "publisher": "Bibliothèque nationale de France",
+   "url": "https://gallica.bnf.fr/",
+   "accessed": "2026-09-21",
+   "lang": "fr",
+   "licence": "public domain"
+  },
+  {
+   "id": "s:loc-thailand-views",
+   "kind": "dataset",
+   "title": "Photographic Views of Thailand — Prints and Photographs Division",
+   "publisher": "Library of Congress",
+   "url": "https://www.loc.gov/pictures/",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "no known restrictions"
   }
  ]
 }
