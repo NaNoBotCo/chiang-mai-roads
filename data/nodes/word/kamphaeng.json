@@ -1,0 +1,62 @@
+{
+ "id": "kamphaeng",
+ "type": "word",
+ "names": {
+  "name": "กำแพง kamphaeng",
+  "th": "กำแพง",
+  "rtgs": "kamphaeng"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "กำแพง kamphaeng ← Khmer កំពែង kampaeng. Kamphaeng Din, the earthen wall, is the outer one; the brick wall by the moat has no separate name because it is the wall.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The wall. In Chiang Mai there are two, and only the earthen one gets a qualifier."
+ },
+ "text_th": {
+  "what": "กำแพง ในเชียงใหม่มีสองชั้น และมีแค่ชั้นดินที่ต้องบอกว่าดิน"
+ },
+ "word": {
+  "th": "กำแพง",
+  "rtgs": "kamphaeng",
+  "ipa": "/kam.pʰɛːŋ/",
+  "standard": "กำแพง",
+  "standard_rtgs": "kamphaeng",
+  "gloss": "wall; city wall",
+  "gloss_th": "กำแพงเมือง",
+  "example": "กำแพงดิน",
+  "example_gloss": "Kamphaeng Din — the earth wall"
+ },
+ "kin": [
+  {
+   "to": "kamphaeng-din",
+   "as": "The earthen one.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

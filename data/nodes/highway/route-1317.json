@@ -1,0 +1,70 @@
+{
+ "id": "route-1317",
+ "type": "highway",
+ "names": {
+  "name": "Route 1317, the new San Kamphaeng road",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1317 — สันกำแพงสายใหม่",
+  "said": "37 km east, and the San Klang interchange half built.",
+  "said_th": "37 กิโลไปตะวันออก และแยกสันกลางสร้างไปครึ่ง"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "east",
+  "ref": "1317",
+  "km": 36.991,
+  "era": "siam"
+ },
+ "text": {
+  "what": "Don Chan on Mahidol Road east to Huay Kaew in San Kamphaeng, 36.991 km, the newer of the two roads to San Kamphaeng. 59,248 vehicles a day at km 1 in 2025. Its crossing of the outer ring at San Klang is getting a 1,425 million baht interchange, more than half built."
+ },
+ "text_th": {
+  "what": "ดอนจั่นบนถนนมหิดลไปตะวันออกถึงห้วยแก้ว สันกำแพง 36.991 กม. ถนนสายใหม่กว่าในสองสายไปสันกำแพง 59,248 คันต่อวันที่ กม.1 ปี 2568 จุดตัดวงแหวนรอบนอกที่สันกลางกำลังได้ทางแยกต่างระดับ 1,425 ล้านบาท สร้างไปกว่าครึ่ง"
+ },
+ "road": {
+  "ref": "1317",
+  "km": 36.991,
+  "km_source": "s:thwp-highway-list",
+  "from": "Don Chan",
+  "from_th": "ดอนจั่น",
+  "to": "Huay Kaew, San Kamphaeng",
+  "to_th": "ห้วยแก้ว สันกำแพง",
+  "osm_refs": [
+   "1317"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "route-1006",
+   "as": "The old road.",
+   "rel": "highway"
+  },
+  {
+   "to": "ring-3-interchanges",
+   "as": "San Klang.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:thwp-highway-list",
+  "s:doh-aadt",
+  "s:thaipbs-353092"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-highway-list"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

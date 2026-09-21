@@ -1,0 +1,127 @@
+{
+ "id": "what-a-road-does-to-an-old-city",
+ "type": "story",
+ "names": {
+  "name": "What a road does to an old city",
+  "th": "ถนนทำอะไรกับเมืองเก่า",
+  "said": "Measured, not argued: the square of 1296 against the rings around it.",
+  "said_th": "วัด บ่ใช่เถียง สี่เหลี่ยมปี 1839 เทียบวงแหวนรอบมัน"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "The site's spine. It takes every drivable way OpenStreetMap holds for the city and asks the same questions of the square inside the moat and of each ring outside it: how many intersections per square kilometre, how many lanes end in a dead end, how long a block is, how strongly the streets keep to a grid, how much of the network runs one way, how many wats sit in each zone. The measurements page has the numbers; this page reads them.",
+  "story": "**The square is the best-connected neighbourhood in the city, and it is the oldest.** The grid of 1296 was laid gate to gate on the cardinal directions, and seven centuries of infill have kept to it: the orientation measure on the measurements page shows the moat zone closest to a perfect grid of any zone, and the intersection density highest. A lane inside the moat comes out somewhere. Outside, in the rings, it does not: the dead-end share climbs ring by ring, because a hom out there is a shared driveway that stops at the last house.\n\n**Each ring was an edge that became a middle.** The Superhighway of 1969 was a bypass; the 700 Years Road of 2006 was a bypass; Route 121 was a bypass. The city grew past each in ten to fifteen years, and the bypass became a street with traffic lights, which the department then spent a decade digging under. Seven underpasses on ring two; three on ring one; five interchanges under tender on ring three. The pattern is not a failure of planning. It is what a ring road is for, and what it costs later.\n\n**The old city paid in walls.** 1910–15: Chang Moi Gate and its bank removed for a straight road to the river. 1948: the moat roads built and stretches of a registered monument demolished. The square that had been a fortification became a roundabout. Since then the direction has reversed: a 12 m height cap, a walking street from 2002, Ratchadamnoen one-way for pedestrians from 2021, a world-heritage nomination in 2026 whose file flags a tunnel under the old town as a conflict.\n\n**The roads grew by two thirds; the vehicles doubled.** The thesis this rests on counted main-road kilometres from 36.5 to 60.3 between 1992 and 2003 and registered vehicles from 465,659 to 933,733. Mahidol Road, built as a two-lane bypass in 1972, counted 121,403 vehicles a day in 2025. Every road in this catalogue was built to relieve the one before it.\n\n**And the trees are the exception.** The yang-na on the Lamphun road are alive partly because the Superhighway took the Bangkok traffic off them in 1969. One new road did an old one a favour; it is the only case here.\n\n*Inference —* the whole page is inference from counted things, and the counts are printed beside it with the method."
+ },
+ "text_th": {
+  "what": "กระดูกสันหลังของเว็บ มันเอาทุกทางที่รถวิ่งได้ที่ OpenStreetMap มีสำหรับเมือง แล้วถามคำถามเดียวกันกับสี่เหลี่ยมในคูและแต่ละวงแหวนข้างนอก แยกกี่แห่งต่อตารางกิโลเมตร ฮ่อมกี่สายจบด้วยทางตัน บล็อกยาวเท่าไร ถนนยึดตารางแค่ไหน โครงข่ายวิ่งทางเดียวกี่ส่วน วัดกี่วัดในแต่ละโซน หน้าการวัดมีตัวเลข หน้านี้อ่านมัน",
+  "story": "**เวียงคือย่านที่เชื่อมกันดีที่สุดในเมือง และเก่าที่สุด** ตารางปี 1839 วางจากประตูถึงประตูตามทิศหลัก และการเติมเจ็ดศตวรรษยังยึดมันไว้ ค่าการวางแนวบนหน้าการวัดแสดงว่าโซนในคูใกล้ตารางสมบูรณ์ที่สุดในทุกโซน และความหนาแน่นของแยกสูงสุด ฮ่อมในเวียงทะลุออกที่ไหนสักแห่ง ข้างนอกในวงแหวน มันบ่ทะลุ สัดส่วนทางตันไต่ขึ้นทีละวง เพราะฮ่อมข้างนอกคือทางเข้าบ้านที่ใช้ร่วมกันและหยุดที่บ้านหลังสุดท้าย\n\n**แต่ละวงแหวนคือขอบที่กลายเป็นกลาง** ซุปเปอร์ไฮเวย์ปี 2512 คือทางเลี่ยง ถนน 700 ปี ปี 2549 คือทางเลี่ยง ทางหลวง 121 คือทางเลี่ยง เมืองโตข้ามแต่ละวงในสิบถึงสิบห้าปี และทางเลี่ยงกลายเป็นถนนมีไฟแดง ซึ่งกรมใช้เวลาอีกทศวรรษขุดลอด ทางลอดเจ็ดแห่งบนวงสอง สามแห่งบนวงหนึ่ง ทางแยกต่างระดับห้าแห่งประมูลบนวงสาม แบบแผนนี้บ่ใช่ความล้มเหลวของการวางแผน มันคือสิ่งที่ถนนวงแหวนมีไว้ทำ และสิ่งที่มันคิดราคาทีหลัง\n\n**เวียงเก่าจ่ายด้วยกำแพง** 2453–58 ประตูช้างม่อยและคันดินถูกรื้อเพื่อถนนตรงไปแม่น้ำ 2491 ถนนรอบคูสร้าง และโบราณสถานที่ขึ้นทะเบียนแล้วถูกรื้อเป็นช่วง ๆ สี่เหลี่ยมที่เคยเป็นป้อมกลายเป็นวงเวียน ตั้งแต่นั้นทิศทางกลับข้าง เพดานสูง 12 เมตร ถนนคนเดินตั้งแต่ 2545 ราชดำเนินทางเดียวเพื่อคนเดินตั้งแต่ 2564 การเสนอมรดกโลกปี 2569 ที่เอกสารติงอุโมงค์ใต้เวียงเก่าว่าขัดแย้ง\n\n**ถนนโตสองในสาม รถโตสองเท่า** วิทยานิพนธ์ที่เรื่องนี้อิงนับกิโลเมตรถนนหลักจาก 36.5 เป็น 60.3 ระหว่าง 2535–2546 และรถจดทะเบียนจาก 465,659 เป็น 933,733 ถนนมหิดล สร้างเป็นทางเลี่ยงสองเลนปี 2515 นับได้ 121,403 คันต่อวันปี 2568 ถนนทุกสายในบัญชีนี้สร้างเพื่อแบ่งเบาสายก่อนหน้า\n\n**และต้นยางคือข้อยกเว้น** ยางนาบนถนนลำพูนยังอยู่ส่วนหนึ่งเพราะซุปเปอร์ไฮเวย์เอารถกรุงเทพฯ ออกไปปี 2512 ถนนใหม่สายหนึ่งทำคุณกับสายเก่า เป็นกรณีเดียวที่นี่\n\n*อนุมาน —* ทั้งหน้าคือการอนุมานจากสิ่งที่นับ และตัวเลขพิมพ์ไว้ข้าง ๆ พร้อมวิธี"
+ },
+ "kin": [
+  {
+   "to": "grid-in-the-moat",
+   "as": "The grid number.",
+   "rel": "measure"
+  },
+  {
+   "to": "dead-ends",
+   "as": "The dead-end number.",
+   "rel": "measure"
+  },
+  {
+   "to": "intersection-density",
+   "as": "The density number.",
+   "rel": "measure"
+  },
+  {
+   "to": "roads-versus-vehicles",
+   "as": "The thesis number.",
+   "rel": "traffic"
+  },
+  {
+   "to": "ton-yang-road",
+   "as": "The exception.",
+   "rel": "road"
+  },
+  {
+   "to": "era-siam-1900-1950",
+   "as": "When the walls went.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019",
+  "s:cmu-thesis-2548",
+  "s:cmocity-history",
+  "s:thwp-chang-moi",
+  "s:doh-aadt",
+  "s:citylife-unesco"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "what-a-road-does-to-an-old-city/what-a-road-does-to-an-old-city-chiang-mai-1945.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai 1945.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chiang_Mai_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_1945.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Survey of India Offices",
+   "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/6966/rec/1",
+   "alt": "Old map of Chiang Mai (Thailand) in 1945. Printed at the Survey of India Offices. Size: 57 x 87 cm. Scale: \t\n1:5,000. Repository: American Geographical Society Library, University of Wisconsin-Milwauk",
+   "date": "1945",
+   "primary": true,
+   "sha256": "b14a43683b9d987707671b08167af41aa288154c088f035fcf2e592c0021f7bb"
+  },
+  {
+   "file": "what-a-road-does-to-an-old-city/what-a-road-does-to-an-old-city-chiang-mai-city-map-for-inthawichayanon-1893.png",
+   "source": "commons",
+   "title": "File:Chiang Mai City Map for Inthawichayanon 1893.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chiang_Mai_City_Map_for_Inthawichayanon_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_for_Inthawichayanon_1893.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "The Fine Arts Office, Chiang Mai",
+   "alt": "Historic map of Chiang Mai city for King Inthawichayanon (1817-1897), dated 1893. The city was protected by an inner wall (brick wall), an outer wall (earth wall), 2 moats and multiple city gates. Eac",
+   "date": "1893",
+   "primary": false,
+   "sha256": "1513b50b74300e399cde6cb60deb16f943758d299834c4ca803063a8b3cea523"
+  },
+  {
+   "file": "what-a-road-does-to-an-old-city/what-a-road-does-to-an-old-city-map-of-chiengmai-chiang-mai-city-1931.jpg",
+   "source": "commons",
+   "title": "File:Map of Chiengmai (Chiang Mai) City 1931.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Map_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "Old Maps Online (stored at the British Library) - https://www.oldmapsonline.org/en/maps/b84b50de-cdf9-5c61-9d88-a76fcd5a8464?year=1850&amp;gid=b3777b75-7966-559f-85d0-b1b1aaa602d3#position=16.6004/18.",
+   "alt": "Map of Chiengmai (Chiang Mai) city, 1931. This is the capital of Chiang Mai province. The top left stamp says: \"Royal Insurance Company Limited, 26 October 1931 Liverpool.\"",
+   "date": "1931",
+   "primary": false,
+   "sha256": "346570ec642923738f47849e7c652c5cc04384285b4766edd918613345d1bbb1"
+  }
+ ]
+}

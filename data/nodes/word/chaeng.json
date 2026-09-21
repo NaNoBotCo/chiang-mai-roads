@@ -1,0 +1,67 @@
+{
+ "id": "chaeng",
+ "type": "word",
+ "names": {
+  "name": "แจ่ง chaeng",
+  "th": "แจ่ง",
+  "rtgs": "chaeng"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "แจ่ง chaeng — Kam Mueang for a corner or angle; standard Thai mum. The four corners of the moat are the four chaeng, each with its own name.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The word for the four corners of the moat. A songthaew driver navigates the square by its chaeng, not by street names, and so does this site."
+ },
+ "text_th": {
+  "what": "คำสำหรับสี่มุมคูเมือง คนขับรถแดงบอกทางในเวียงด้วยแจ่ง บ่ใช่ชื่อถนน เว็บนี้ก็เหมือนกัน"
+ },
+ "word": {
+  "th": "แจ่ง",
+  "rtgs": "chaeng",
+  "ipa": "/tɕɛ̀ŋ/",
+  "standard": "มุม · ป้อมมุมกำแพง",
+  "standard_rtgs": "mum · pom",
+  "gloss": "a corner; the bastion at a corner of the city wall",
+  "gloss_th": "มุม ป้อมมุมเวียง",
+  "example": "แจ่งศรีภูมิ",
+  "example_gloss": "Chaeng Si Phum — the northeast corner"
+ },
+ "kin": [
+  {
+   "to": "si-phum-corner",
+   "as": "One of the four.",
+   "rel": "gate"
+  },
+  {
+   "to": "katam-corner",
+   "as": "One of the four.",
+   "rel": "gate"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

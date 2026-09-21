@@ -1,0 +1,83 @@
+{
+ "id": "the-monk-who-built-a-road",
+ "type": "story",
+ "names": {
+  "name": "The monk who built a road in five months",
+  "th": "ตนบุญผู้สร้างถนนในห้าเดือน",
+  "said": "No department, no machine, no budget line: 11.53 km up a mountain by 30 April 1935.",
+  "said_th": "บ่มีกรม บ่มีเครื่องจักร บ่มีงบ 11.53 กิโลขึ้นดอยภายใน 30 เมษายน 2478"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "Kruba Srivichai's road to Wat Phra That Doi Suthep, the one road in this catalogue that a congregation built. Ground broken 9 November 1934, Chao Kaew Nawarat cutting the first sod; open to vehicles 30 April 1935; five months and twenty-two days; 11.53 km of earth and laterite; up to 4,000 volunteers a day by one account.",
+  "story": "*Inference —* the arithmetic is the story. 11,530 m in 173 days is 67 m of mountain road a day, every day, on a grade that the red trucks still take in low gear. The 700 Years Road, 26 km on the flat with seven underpasses, took twelve years and 10,070 million baht. Neither number shames the other; they measure different things. One is what a city can do when it wants a relic; the other is what it can do when it wants a ring.\n\nHis monument stands at the foot of the road at the spot where the first sod was cut, and the drivers wai it on the way up."
+ },
+ "text_th": {
+  "what": "ถนนของครูบาศรีวิชัยถึงวัดพระธาตุดอยสุเทพ ถนนสายเดียวในบัญชีนี้ที่ศรัทธาสร้าง เริ่มขุด 9 พฤศจิกายน 2477 เจ้าแก้วนวรัฐจกจอบแรก เปิดให้รถ 30 เมษายน 2478 ห้าเดือนยี่สิบสองวัน ดินและลูกรัง 11.53 กม. วันละถึง 4,000 คนตามบันทึกหนึ่ง",
+  "story": "*อนุมาน —* เลขคณิตคือเรื่องเล่า 11,530 เมตรใน 173 วันคือถนนภูเขาวันละ 67 เมตร ทุกวัน บนความชันที่รถแดงยังใช้เกียร์ต่ำ ถนน 700 ปี 26 กม. บนที่ราบมีทางลอดเจ็ดแห่ง ใช้เวลาสิบสองปีและ 10,070 ล้านบาท เลขสองตัวบ่ได้ทำให้กันอาย มันวัดคนละอย่าง อันหนึ่งคือสิ่งที่เมืองทำได้เมื่ออยากไปถึงพระธาตุ อีกอันคือสิ่งที่ทำได้เมื่ออยากได้วงแหวน\n\nอนุสาวรีย์ของท่านยืนตีนถนนตรงจุดที่จกจอบแรก และคนขับไหว้ตอนขึ้น"
+ },
+ "kin": [
+  {
+   "to": "kruba-srivichai",
+   "as": "The monk.",
+   "rel": "person"
+  },
+  {
+   "to": "si-wichai-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "ring-2",
+   "as": "The comparison.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "wat",
+  "heritage",
+  "fun"
+ ],
+ "sources": [
+  "s:thwp-si-wichai",
+  "s:citylife-elephant",
+  "s:thwp-700-years"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-si-wichai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "the-monk-who-built-a-road/the-monk-who-built-a-road-anusawwaree-khrubasriwichai.jpg",
+   "source": "commons",
+   "title": "File:AnuSawwaree Khrubasriwichai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/AnuSawwaree_Khrubasriwichai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAnuSawwaree_Khrubasriwichai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kimtuy",
+   "credit": "Own work",
+   "alt": "อนุสาวรีย์ครูบาศรีวิชัย สร้างขึ้น ณ จุดที่ขุดถนนจอบแรก เพื่อเป็นอนุสรน์สถานรำลึกถึงคุณของครูบาเจ้าศรีวิชัยในการนำกลุ่มชาวบ้าน ชาวเขา สร้างถนนขึ้นพระธาตุดอยสุเทพ",
+   "date": "2021-05-04",
+   "primary": true,
+   "sha256": "9259ab69a6f4cc226a7e56af8da0e9cf56cd49d1ee50ca4816f4be6716632611"
+  }
+ ]
+}

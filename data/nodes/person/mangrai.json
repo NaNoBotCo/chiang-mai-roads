@@ -1,0 +1,63 @@
+{
+ "id": "mangrai",
+ "type": "person",
+ "names": {
+  "name": "Mangrai",
+  "th": "พญามังราย",
+  "rtgs": "Phaya Mangrai",
+  "aliases": [
+   "King Mengrai",
+   "พ่อขุนเม็งราย"
+  ],
+  "said": "Drew a square in 1296 and every road since has had to deal with it.",
+  "said_th": "ขีดสี่เหลี่ยมไว้ปี 1839 แล้วถนนทุกสายตั้งแต่นั้นต้องมาว่ากับมัน"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "Founder of Chiang Mai, 1296, and of the Lanna kingdom. He had already built Wiang Kum Kam on the river and watched it flood; the new city went on the rise between the mountain and the Ping, a square with a gate in each side and the water led round it."
+ },
+ "text_th": {
+  "what": "ผู้สร้างเชียงใหม่ปี 1839 และอาณาจักรล้านนา ท่านสร้างเวียงกุมกามบนแม่น้ำมาก่อนและเห็นมันท่วม เมืองใหม่จึงไปอยู่บนที่ดอนระหว่างดอยกับแม่ปิง เป็นสี่เหลี่ยมมีประตูทุกด้าน และชักน้ำล้อมรอบ"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "What he dug.",
+   "rel": "place"
+  },
+  {
+   "to": "era-1296-the-square",
+   "as": "His era.",
+   "rel": "era"
+  },
+  {
+   "to": "wiang-kum-kam",
+   "as": "His first try.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:wp-mangrai",
+  "s:thwp-moat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mangrai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "wiang-kum-kam",
+ "type": "place",
+ "names": {
+  "name": "Wiang Kum Kam",
+  "th": "เวียงกุมกาม",
+  "rtgs": "Wiang Kum Kam",
+  "said": "The capital before the capital, drowned by the river, found under the fields.",
+  "said_th": "เวียงก่อนเวียง จมน้ำปิง เจอใต้ท้องนา"
+ },
+ "region": [
+  "ring2"
+ ],
+ "text": {
+  "what": "Mangrai's first city on this plain, founded 1286 on the Ping's bank south of the present city and abandoned after floods; the ruins were dug out of the fields of Saraphi from 1984. The middle ring road has an underpass named for it.",
+  "story": "*Inference —* it is the argument for the moat square's location in one ruin. A city on the bank drowned; a city a kilometre from the bank is still here."
+ },
+ "text_th": {
+  "what": "เมืองแรกของพญามังรายบนที่ราบนี้ สร้างปี 1829 บนฝั่งแม่ปิงทางใต้ของเมืองปัจจุบัน ทิ้งร้างหลังน้ำท่วม ซากถูกขุดจากท้องนาสารภีตั้งแต่ปี 2527 ถนนวงแหวนรอบกลางมีทางลอดชื่อตามมัน",
+  "story": "*อนุมาน —* มันคือข้อโต้แย้งเรื่องตำแหน่งของเวียงสี่เหลี่ยมในซากเดียว เมืองบนฝั่งจม เมืองห่างฝั่งหนึ่งกิโลยังอยู่"
+ },
+ "geo": {
+  "lat": 18.75,
+  "lon": 99.005,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "ping-river",
+   "as": "What drowned it.",
+   "rel": "place"
+  },
+  {
+   "to": "mangrai",
+   "as": "Who built it.",
+   "rel": "person"
+  },
+  {
+   "to": "ring-2",
+   "as": "The underpass named for it is on this ring.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "flood"
+ ],
+ "sources": [
+  "s:wp-wiang-kum-kam"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-wiang-kum-kam"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

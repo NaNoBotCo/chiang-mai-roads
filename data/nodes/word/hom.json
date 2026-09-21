@@ -1,0 +1,85 @@
+{
+ "id": "hom",
+ "type": "word",
+ "names": {
+  "name": "ฮ่อม hom",
+  "th": "ฮ่อม",
+  "rtgs": "hom"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ฮ่อม hom — a Kam Mueang word with no Bangkok cognate in this sense; standard Thai borrows soi from the verb 'to slice' and trok from Khmer. Kam Mueang keeps initial /h/ where Bangkok has /r/ or nothing: ฮ่อม, ฮ้าน (shop, ร้าน), ฮัก (love, รัก).",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The Lanna word for an alley. Where a Bangkok address says soi, the old city said hom, and a few lanes still carry it in their names. This site uses it for the whole class of lanes between houses, which is where most of the city's road-kilometres are."
+ },
+ "text_th": {
+  "what": "คำเมืองสำหรับซอย ที่อยู่แบบกรุงเทพว่าซอย เวียงเก่าว่าฮ่อม และยังมีบางฮ่อมที่ชื่อติดอยู่ คำนี้ใช้บนเว็บนี้แทนตางแคบระหว่างบ้านทั้งหมด ซึ่งเป็นตี้กิโลเมตรถนนส่วนใหญ่ของเมืองอยู่"
+ },
+ "word": {
+  "th": "ฮ่อม",
+  "rtgs": "hom",
+  "ipa": "/hɔ̂ːm/",
+  "standard": "ซอย · ตรอก",
+  "standard_rtgs": "soi · trok",
+  "gloss": "a narrow lane between houses",
+  "gloss_th": "ทางแคบระหว่างบ้าน",
+  "example": "ฮ่อมโพธิ์",
+  "example_gloss": "Hom Pho — the Bodhi-tree lane; a lane name still on the map"
+ },
+ "kin": [
+  {
+   "to": "hom-the-lane",
+   "as": "The lanes themselves.",
+   "rel": "lane"
+  },
+  {
+   "to": "soi",
+   "as": "The Bangkok word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai",
+  "s:thwp-soi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "hom/hom-soi-in-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Soi in Chiang Mai.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Soi_in_Chiang_Mai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASoi_in_Chiang_Mai.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Adbar",
+   "credit": "Own work",
+   "alt": "A soi in Chiang Mai (Moonmuang Soi 9).",
+   "date": "2013-04-27 16:39:05",
+   "primary": true,
+   "sha256": "c4c4603cbf6d8f910ace9172433ba8c66b6ed512e86884d89495017662253e5c"
+  }
+ ]
+}

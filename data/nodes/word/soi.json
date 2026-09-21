@@ -1,0 +1,68 @@
+{
+ "id": "soi",
+ "type": "word",
+ "names": {
+  "name": "ซอย soi",
+  "th": "ซอย",
+  "rtgs": "soi"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ซอย soi — from the verb to slice or cut into strips; a soi is a cut off a main road. Numbered along the road, even numbers on one side and odd on the other; a trok is the level below. Named sois often carry a landowner's name.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The Bangkok word and the postal one. Every lane on the map that has a number has it because of this system; the ones that have a name instead are older or prouder."
+ },
+ "text_th": {
+  "what": "คำกรุงเทพและคำไปรษณีย์ ทุกซอยบนแผนที่ที่มีเลขมีเพราะระบบนี้ ซอยที่มีชื่อแทนเลขนั้นเก่ากว่าหรือหยิ่งกว่า"
+ },
+ "word": {
+  "th": "ซอย",
+  "rtgs": "soi",
+  "ipa": "/sɔːj/",
+  "standard": "ซอย",
+  "standard_rtgs": "soi",
+  "gloss": "a side street off a main road, numbered along it",
+  "gloss_th": "ซอยแยกจากถนนหลัก",
+  "example": "ซอยนิมมานเหมินท์ 1",
+  "example_gloss": "Soi Nimmanhaemin 1 — the first cut off Nimman"
+ },
+ "kin": [
+  {
+   "to": "hom",
+   "as": "The northern word.",
+   "rel": "word"
+  },
+  {
+   "to": "soi-numbering",
+   "as": "How the numbers work.",
+   "rel": "lane"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai",
+  "s:thwp-soi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

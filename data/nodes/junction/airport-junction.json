@@ -1,0 +1,64 @@
+{
+ "id": "airport-junction",
+ "type": "junction",
+ "names": {
+  "name": "Airport junction",
+  "th": "แยกสนามบิน",
+  "rtgs": "Yaek Sanam Bin",
+  "said": "Where Mahidol Road meets the airport gate, at km 5.6 to 5.8, and the busiest count in the province sits a kilometre east.",
+  "said_th": "ตี้ถนนมหิดลพบประตูสนามบิน กม.5.6 ถึง 5.8 และจุดนับรถมากสุดของจังหวัดอยู่ห่างไปตะวันออกหนึ่งกิโล"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "rings"
+ },
+ "text": {
+  "what": "The junction of Mahidol Road with the airport approach and the road to Hang Dong, on the first ring's southern arc. It has an underpass; the year it opened is not on this disk. In the flood of 5 October 2024 the airport–cultural centre–Hai Ya stretch was impassable for small cars by early afternoon."
+ },
+ "text_th": {
+  "what": "แยกถนนมหิดลกับทางเข้าสนามบินและถนนไปหางดง บนส่วนโค้งใต้ของวงแหวนรอบแรก มีทางลอด ปีที่เปิดบ่มีในแผ่นนี้ น้ำท่วม 5 ตุลาคม 2567 ช่วงสนามบิน–ศูนย์วัฒนธรรม–หายยา รถเล็กผ่านบ่ได้ตั้งแต่บ่ายต้น"
+ },
+ "geo": {
+  "lat": 18.7735,
+  "lon": 98.9705,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "mahidol-road",
+   "as": "On it.",
+   "rel": "road"
+  },
+  {
+   "to": "chiang-mai-airport",
+   "as": "Its gate.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "airport",
+  "flood"
+ ],
+ "sources": [
+  "s:thwp-mahidol",
+  "s:naewna-833570"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-mahidol"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "schema": 1,
+ "updated": "2026-09-21"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "chang-phueak-gate",
+ "type": "gate",
+ "names": {
+  "name": "Chang Phueak Gate",
+  "th": "ประตูช้างเผือก",
+  "rtgs": "Pratu Chang Phueak",
+  "said": "The north gate, the king's gate.",
+  "said_th": "ปะตู๋ตางเหนือ ปะตู๋เจ้า"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The northern gate, formerly Hua Wiang, the head of the city. Kings entered here; the road north to Mae Rim and Fang, Route 107, still begins outside it.",
+  "story": "*Tradition holds —* the north is the auspicious direction in Lanna town planning, so the gate at the head of the city was the ceremonial one. The white elephant monument beside it is a separate thing, from a separate century."
+ },
+ "text_th": {
+  "what": "ประตูด้านเหนือ เดิมชื่อประตูหัวเวียง หัวของเมือง กษัตริย์เข้าเมืองทางนี้ ถนนขึ้นเหนือไปแม่ริมและฝาง ทางหลวง 107 ยังเริ่มหน้าประตูนี้",
+  "story": "*ตามธรรมเนียม —* ทิศเหนือคือทิศมงคลในการวางผังเมืองล้านนา ประตูที่หัวเวียงจึงเป็นประตูพิธี อนุสาวรีย์ช้างเผือกข้าง ๆ เป็นคนละเรื่อง คนละศตวรรษ"
+ },
+ "geo": {
+  "lat": 18.7962,
+  "lon": 98.986,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "route-107",
+   "as": "The road that leaves from here.",
+   "rel": "highway"
+  },
+  {
+   "to": "moat-loop",
+   "as": "On the ring.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "tradition"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chang-phueak-gate/chang-phueak-gate-201703291151b-p-chiang-mai-city-wall-chang-phuak-gate.jpg",
+   "source": "commons",
+   "title": "File:201703291151b P Chiang Mai, City Wall, Chang Phuak Gate.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/201703291151b_P_Chiang_Mai%2C_City_Wall%2C_Chang_Phuak_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291151b_P_Chiang_Mai%2C_City_Wall%2C_Chang_Phuak_Gate.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Pratu Chang Phuak or Chang Phuak Gate is the northern gate in the city wall of Chiang Mai.)",
+   "date": "2017-03-29 11:51:17",
+   "primary": true,
+   "sha256": "9e0632c7eba450be5b70c441591917f7fc440913644f5ebf53eaed3a280f5c25"
+  },
+  {
+   "file": "chang-phueak-gate/chang-phueak-gate-chang-phueak-gate-1.jpg",
+   "source": "commons",
+   "title": "File:Chang Phueak Gate (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Chang_Phueak_Gate_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChang_Phueak_Gate_%281%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Krzysztof Golik",
+   "credit": "Own work",
+   "alt": "Chang Phueak Gate in Chang Mai, Chang Mai Province, Thailand",
+   "date": "2015-11-16 04:57:14",
+   "primary": false,
+   "sha256": "1aff12351e5097b3bf242123d9e642569992b4e28a2259fd31dd63293274cc97"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "id": "motorcycle-share",
+ "type": "traffic",
+ "names": {
+  "name": "The motorcycle, counted and not counted",
+  "th": "มอเตอร์ไซค์ ที่นับและที่บ่นับ",
+  "said": "A quarter of the count on the highways, half of the vehicles in the country, four fifths of the dead.",
+  "said_th": "หนึ่งในสี่ของการนับบนทางหลวง ครึ่งหนึ่งของรถในประเทศ สี่ในห้าของผู้ตาย"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2025"
+ },
+ "text": {
+  "what": "The highway counts put motorcycles in a separate column, and across the province's stations they run at about a quarter of the four-wheeled figure; on the Hang Dong road at km 7.65 in 2024 it was 16,378 against 41,450, two fifths. Nationally, powered two- and three-wheelers were 21.9 million of 42.3 million registered vehicles in 2021, and 596 vehicles per thousand residents in 2022 of which 52 percent were two-wheelers. Of Chiang Mai's road deaths with a known vehicle, motorcycles were 79 to 89 percent in each year from 2022 to 2025.",
+  "story": "*Inference —* the highway department's headline number leaves out the vehicle most people in this city are on. A count that excludes motorcycles describes the road as the department sees it, not as the city rides it."
+ },
+ "text_th": {
+  "what": "การนับบนทางหลวงแยกจักรยานยนต์ไว้อีกคอลัมน์ และทั่วสถานีของจังหวัดมันอยู่ราวหนึ่งในสี่ของตัวเลขสี่ล้อ บนถนนหางดง กม.7.65 ปี 2567 เป็น 16,378 ต่อ 41,450 สองในห้า ทั้งประเทศ รถสองและสามล้อมีเครื่องยนต์ 21.9 ล้านจาก 42.3 ล้านคันจดทะเบียนปี 2564 และ 596 คันต่อพันคนปี 2565 ร้อยละ 52 เป็นสองล้อ ในผู้เสียชีวิตบนถนนของเชียงใหม่ที่ทราบพาหนะ จักรยานยนต์เป็นร้อยละ 79 ถึง 89 ทุกปีตั้งแต่ 2565 ถึง 2568",
+  "story": "*อนุมาน —* ตัวเลขหลักของกรมทางหลวงตัดพาหนะที่คนส่วนใหญ่ในเมืองนี้ขี่ออกไป การนับที่ไม่รวมจักรยานยนต์บรรยายถนนอย่างที่กรมเห็น ไม่ใช่อย่างที่เมืองขี่"
+ },
+ "figure": {
+  "value": "26%",
+  "unit": "motorcycles as a share of the four-wheeled count, all stations, 2025",
+  "unit_th": "จักรยานยนต์เทียบการนับสี่ล้อ ทุกสถานี 2568",
+  "year": "2025",
+  "source": "s:doh-aadt",
+  "series": [
+   {
+    "label": "on the highways, share of 4-wheel count",
+    "value": "26%",
+    "year": "2025",
+    "source": "s:doh-aadt"
+   },
+   {
+    "label": "of registered vehicles, Thailand",
+    "value": "52%",
+    "year": "2021",
+    "source": "s:who-tha-2023"
+   },
+   {
+    "label": "of Chiang Mai road deaths with a known vehicle",
+    "value": "83%",
+    "year": "2024",
+    "source": "s:ddc-rtddi"
+   }
+  ],
+  "method": "Three sources, three denominators, printed side by side rather than averaged.",
+  "method_th": "สามแหล่ง สามตัวหาร พิมพ์เคียงกันแทนการเฉลี่ย"
+ },
+ "kin": [
+  {
+   "to": "road-deaths",
+   "as": "The deaths.",
+   "rel": "traffic"
+  },
+  {
+   "to": "rot-daeng",
+   "as": "The other vehicle.",
+   "rel": "word"
+  }
+ ],
+ "sources": [
+  "s:doh-aadt",
+  "s:who-tha-2023",
+  "s:ato-thailand-2025",
+  "s:ddc-rtddi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:doh-aadt"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "motorcycle-share/motorcycle-share-chiang-mai-seven-eleven.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Seven-Eleven.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chiang_Mai_Seven-Eleven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Seven-Eleven.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Douglas Perkins",
+   "credit": "Own work",
+   "alt": "A Seven-Eleven store front complete with motorcycles.  Chiang Mai, Thailand.",
+   "date": "2014-12-26 12:27:06",
+   "primary": true,
+   "sha256": "0eabda8b131566b223afd559e866d40495d53d5515f5822c6a67e833e20bce6f"
+  },
+  {
+   "file": "motorcycle-share/motorcycle-share-wat-lok-molee-motorcycles.jpg",
+   "source": "commons",
+   "title": "File:Wat Lok Molee-Motorcycles.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wat_Lok_Molee-Motorcycles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWat_Lok_Molee-Motorcycles.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Immanuelle",
+   "credit": "Own work",
+   "alt": "September 2024 in Chiang Mai",
+   "date": "2024-09-01 13:53:52",
+   "primary": false,
+   "sha256": "0462aeda1f0148cd70f91c6447feaf1b05ab1bcb3802fe8d4fa8c695cb16a3a3"
+  }
+ ]
+}

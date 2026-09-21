@@ -1,0 +1,113 @@
+{
+ "id": "road-deaths",
+ "type": "traffic",
+ "names": {
+  "name": "Road deaths, by province and year",
+  "th": "ผู้เสียชีวิตบนถนน รายจังหวัด รายปี",
+  "said": "558 in 2024, 31 per 100,000, and four in five of them on a motorcycle.",
+  "said_th": "558 คนปี 2567 31 ต่อแสน และสี่ในห้าอยู่บนมอเตอร์ไซค์"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2024"
+ },
+ "text": {
+  "what": "The disease control department's three-database file, one row per death, filtered to the province of death: 595 in 2022, 616 in 2023, 558 in 2024, 513 in 2025 with that year's file still filling. Against a provincial population of 1,799,019 the 2024 figure is 31 per 100,000; Thailand's rate was 25.4 in 2021 by WHO, down from 45.8 in 2010. In 2024 the deaths were 60 under twenty, 350 aged twenty to fifty-nine, 132 sixty and over; the districts with most were Mueang 140, Mae Rim 80, San Sai 42, Fang 36, Hang Dong 25. The helmet field was empty on every Chiang Mai row.",
+  "story": "*Inference —* Mueang district's 140 is a quarter of the province's dead in a district with a fifth of its people, and Mae Rim's 80 is the Route 107 corridor. The file has coordinates for some rows; a map of them is a job this project did not do, and a page that says so is on the site."
+ },
+ "text_th": {
+  "what": "ไฟล์สามฐานของกรมควบคุมโรค หนึ่งแถวต่อหนึ่งการตาย กรองตามจังหวัดที่เสียชีวิต 595 ปี 2565 616 ปี 2566 558 ปี 2567 513 ปี 2568 ที่ไฟล์ปีนั้นยังเติมอยู่ เทียบประชากรจังหวัด 1,799,019 ตัวเลขปี 2567 คือ 31 ต่อแสน อัตราของประเทศไทย 25.4 ปี 2564 ตามองค์การอนามัยโลก ลดจาก 45.8 ปี 2553 ปี 2567 ผู้ตายอายุต่ำกว่ายี่สิบ 60 คน ยี่สิบถึงห้าสิบเก้า 350 หกสิบขึ้นไป 132 อำเภอที่มากสุด เมือง 140 แม่ริม 80 สันทราย 42 ฝาง 36 หางดง 25 ช่องหมวกกันน็อกว่างทุกแถวของเชียงใหม่",
+  "story": "*อนุมาน —* 140 ของอำเภอเมืองคือหนึ่งในสี่ของผู้ตายทั้งจังหวัดในอำเภอที่มีคนหนึ่งในห้า และ 80 ของแม่ริมคือแนวทางหลวง 107 ไฟล์มีพิกัดบางแถว แผนที่ของมันคืองานที่โครงการนี้บ่ได้ทำ และหน้าที่บอกอย่างนั้นอยู่บนเว็บ"
+ },
+ "figure": {
+  "value": 558,
+  "unit": "deaths in the province, 2024",
+  "unit_th": "ผู้เสียชีวิตในจังหวัด 2567",
+  "year": "2024",
+  "source": "s:ddc-rtddi",
+  "series": [
+   {
+    "label": "2022",
+    "value": 595
+   },
+   {
+    "label": "2023",
+    "value": 616
+   },
+   {
+    "label": "2024",
+    "value": 558
+   },
+   {
+    "label": "2025",
+    "value": 513,
+    "note": "file still filling as of May 2026"
+   }
+  ],
+  "method": "Rows of the DDC three-database CSV whose province-of-death field contains เชียงใหม่. Motorcycle share is of rows with a known vehicle. Rate uses the DOPA 2024 population.",
+  "method_th": "แถวใน CSV สามฐานของกรมควบคุมโรคที่ช่องจังหวัดที่เสียชีวิตมีคำว่าเชียงใหม่ สัดส่วนจักรยานยนต์คิดจากแถวที่ทราบพาหนะ อัตราใช้ประชากร ปค. 2567",
+  "compare": "Thailand 25.4 per 100,000 in 2021, WHO estimate; about 31 deaths per 1,000 road-km nationally.",
+  "compare_th": "ประเทศไทย 25.4 ต่อแสนปี 2564 ตามองค์การอนามัยโลก ราว 31 ศพต่อ 1,000 กม.ถนนทั้งประเทศ"
+ },
+ "kin": [
+  {
+   "to": "motorcycle-share",
+   "as": "Who dies.",
+   "rel": "traffic"
+  },
+  {
+   "to": "seven-dangerous-days",
+   "as": "The holidays.",
+   "rel": "traffic"
+  },
+  {
+   "to": "what-we-did-not-do",
+   "as": "No locations by road.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:ddc-rtddi",
+  "s:who-tha-2023",
+  "s:ato-thailand-2025",
+  "s:nation-40050817",
+  "s:wp-cm-province"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:ddc-rtddi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "road-deaths/road-deaths-2014-thai-traffic-police-fines-01.jpg",
+   "source": "commons",
+   "title": "File:2014 Thai traffic police fines 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2014_Thai_traffic_police_fines_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A2014_Thai_traffic_police_fines_01.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Fines for traffic offences posted outside the traffic police station in Chiang Mai",
+   "date": "2014-05-07 09:48:40",
+   "primary": true,
+   "sha256": "170dd103b7bbe33d0c4bc40361f3ac093229cd22bd9ebe494202319a106e3296"
+  }
+ ]
+}

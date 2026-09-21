@@ -1,0 +1,117 @@
+{
+ "id": "huay-kaew-road",
+ "type": "road",
+ "names": {
+  "name": "Huay Kaew Road",
+  "th": "ถนนห้วยแก้ว",
+  "rtgs": "Thanon Huai Kaeo",
+  "said": "The road to the mountain, and the lower half of Route 1004.",
+  "said_th": "ถนนไปดอย และครึ่งล่างของทางหลวง 1004"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam",
+  "ref": "1004"
+ },
+ "text": {
+  "what": "From Hua Lin Corner northwest past Kad Suan Kaew, the university gate and the zoo to the foot of Doi Suthep, where it becomes the monk's road. The lower section of Route 1004, Huay Kaew to Phu Phing Palace, 19.4 km in all. The 2024 count at km 4 gave 11,564 vehicles a day plus 2,701 motorcycles."
+ },
+ "text_th": {
+  "what": "จากแจ่งหัวลินไปทางตะวันตกเฉียงเหนือ ผ่านกาดสวนแก้ว ประตูมหาวิทยาลัย และสวนสัตว์ ถึงตีนดอยสุเทพ ตี้มันกลายเป็นถนนครูบา ช่วงล่างของทางหลวง 1004 ห้วยแก้วถึงพระตำหนักภูพิงค์ รวม 19.4 กม. นับปี 2567 ที่ กม.4 ได้ 11,564 คันต่อวัน บวกจักรยานยนต์ 2,701"
+ },
+ "road": {
+  "ref": "1004",
+  "km": 19.4,
+  "km_source": "s:thwp-1004",
+  "from": "Hua Lin Corner",
+  "from_th": "แจ่งหัวลิน",
+  "to": "Doi Suthep",
+  "to_th": "ดอยสุเทพ",
+  "osm_names": [
+   "ถนนห้วยแก้ว",
+   "Huay Kaew Road",
+   "Huai Kaeo Road"
+  ],
+  "osm_refs": [
+   "1004"
+  ]
+ },
+ "geo": {
+  "lat": 18.8015,
+  "lon": 98.966,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "si-wichai-road",
+   "as": "What it becomes at the foot of the mountain.",
+   "rel": "road"
+  },
+  {
+   "to": "hua-lin-corner",
+   "as": "Where it starts.",
+   "rel": "gate"
+  },
+  {
+   "to": "kat",
+   "as": "Kad Suan Kaew is on it.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "university"
+ ],
+ "sources": [
+  "s:thwp-1004",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-1004"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "huay-kaew-road/huay-kaew-road-kad-suan-kaew-shopping-centre-huay-kaew-road-chiang-bb40018.jpg",
+   "source": "commons",
+   "title": "File:Kad Suan Kaew Shopping Centre, Huay Kaew Road, Chiang Mai (6967844064).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kad_Suan_Kaew_Shopping_Centre%2C_Huay_Kaew_Road%2C_Chiang_Mai_%286967844064%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKad_Suan_Kaew_Shopping_Centre%2C_Huay_Kaew_Road%2C_Chiang_Mai_%286967844064%29.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "David McKelvey from Brisbane, Australia",
+   "credit": "Kad Suan Kaew Shopping Centre, Huay Kaew Road, Chiang Mai",
+   "alt": "&lt;a href=\"http://www.lonelyplanet.com/thailand/chiang-mai-province/chiang-mai/shopping/shopping-centre/kad-suan-kaew-shopping-centre\" rel=\"noreferrer nofollow\"&gt;Kad Suan Kaew&lt;/a&gt;  offers ret",
+   "date": "2012-03-11 13:05",
+   "primary": true,
+   "sha256": "d45c2621151781c40c8b08eab3fef939f13b9b4a88366fc892ce8ba94dea6c78"
+  },
+  {
+   "file": "huay-kaew-road/huay-kaew-road-school-run-of-thailand.jpg",
+   "source": "commons",
+   "title": "File:School Run of Thailand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/School_Run_of_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASchool_Run_of_Thailand.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "John Wigham",
+   "credit": "originally posted to Flickr as School Run",
+   "alt": "Huay Kaew Road, Chiang Mai, Thailand.",
+   "date": "2007-02-23 06:42:05",
+   "primary": false,
+   "sha256": "fe287ccb2b0b79afce29c3110ae9036b4580d118e31a13885f7fe3599d19add4"
+  }
+ ]
+}

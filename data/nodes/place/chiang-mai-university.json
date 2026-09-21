@@ -1,0 +1,58 @@
+{
+ "id": "chiang-mai-university",
+ "type": "place",
+ "names": {
+  "name": "Chiang Mai University",
+  "th": "มหาวิทยาลัยเชียงใหม่",
+  "rtgs": "Mahawitthayalai Chiang Mai",
+  "said": "The land gift of 1963 that produced a road.",
+  "said_th": "ที่ดินตี้หื้อปี 2506 ตี้เกิดเป็นถนน"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "The university at the foot of Doi Suthep, opened 1964 on land the Nimmanhaemin family gave to the government in 1963. The road along the gift's edge, linking Suthep Road to Huay Kaew, took the family's name."
+ },
+ "text_th": {
+  "what": "มหาวิทยาลัยตีนดอยสุเทพ เปิดปี 2507 บนที่ดินที่ตระกูลนิมมานเหมินท์มอบให้รัฐบาลปี 2506 ถนนตามขอบที่ดินที่ยกให้ เชื่อมถนนสุเทพกับห้วยแก้ว ได้ชื่อตระกูล"
+ },
+ "geo": {
+  "lat": 18.8005,
+  "lon": 98.952,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "nimmanhaemin-road",
+   "as": "The road it produced.",
+   "rel": "road"
+  },
+  {
+   "to": "nimmanhaemin-family",
+   "as": "Who gave the land.",
+   "rel": "person"
+  }
+ ],
+ "tags": [
+  "university"
+ ],
+ "sources": [
+  "s:thwp-nimman"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-nimman"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

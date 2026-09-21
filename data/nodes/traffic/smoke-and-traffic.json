@@ -1,0 +1,89 @@
+{
+ "id": "smoke-and-traffic",
+ "type": "traffic",
+ "names": {
+  "name": "What the air says about the roads",
+  "th": "อากาศบอกอะไรเรื่องถนน",
+  "said": "In the haze, burning is four times the traffic. Out of it, traffic is three quarters of what you breathe.",
+  "said_th": "ในฤดูควัน การเผาเป็นสี่เท่าของจราจร นอกฤดู จราจรเป็นสามในสี่ของสิ่งที่หายใจ"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2024"
+ },
+ "text": {
+  "what": "A 2024 source-apportionment study, seen only in its abstract: in the smoke-haze period biomass burning contributed 59.3 µg/m³ of PM2.5 and traffic 14.6; outside it traffic contributed 27.2 and biomass 2.5, traffic being about 76 percent of the total. Days over the standard at the Yupparaj school station: 43 in 2022, 101 in 2023, 80 in 2024. A 2026 emissions inventory puts the province's biomass-burning PM2.5 at 70,179 tonnes for January to April 2024, a quarter of the north's. In April 2026 the city ranked second worst in the world for a day and disaster zones were declared.",
+  "story": "*Inference —* eight months a year the road is the air. The plans on this site are judged on congestion; none of them is costed on breath."
+ },
+ "text_th": {
+  "what": "งานแบ่งแหล่งกำเนิดปี 2567 เห็นเพียงบทคัดย่อ ในฤดูหมอกควัน การเผาชีวมวลให้ PM2.5 59.3 ไมโครกรัมต่อลูกบาศก์เมตร จราจร 14.6 นอกฤดู จราจรให้ 27.2 ชีวมวล 2.5 จราจรราวร้อยละ 76 ของทั้งหมด วันเกินมาตรฐานที่สถานีโรงเรียนยุพราช 43 ปี 2565 101 ปี 2566 80 ปี 2567 บัญชีการปล่อยปี 2569 ให้ PM2.5 จากการเผาชีวมวลของจังหวัด 70,179 ตัน มกราคมถึงเมษายน 2567 หนึ่งในสี่ของภาคเหนือ เมษายน 2569 เมืองอยู่อันดับสองของโลกในวันหนึ่งและประกาศเขตภัยพิบัติ",
+  "story": "*อนุมาน —* แปดเดือนต่อปี ถนนคืออากาศ แผนบนเว็บนี้ถูกตัดสินด้วยความติดขัด บ่มีแผนไหนคิดราคาด้วยลมหายใจ"
+ },
+ "figure": {
+  "value": "76%",
+  "unit": "traffic's share of PM2.5 outside the haze season, one study",
+  "unit_th": "สัดส่วนจราจรใน PM2.5 นอกฤดูควัน งานวิจัยเดียว",
+  "year": "2024",
+  "source": "s:atmos-env-2024",
+  "series": [
+   {
+    "label": "haze season: burning µg/m³",
+    "value": 59.3
+   },
+   {
+    "label": "haze season: traffic µg/m³",
+    "value": 14.6
+   },
+   {
+    "label": "outside: traffic µg/m³",
+    "value": 27.2
+   },
+   {
+    "label": "outside: burning µg/m³",
+    "value": 2.5
+   }
+  ],
+  "method": "Abstract only; the full paper was not fetched. Marked as such.",
+  "method_th": "บทคัดย่อเท่านั้น ไม่ได้เปิดฉบับเต็ม ระบุไว้"
+ },
+ "kin": [
+  {
+   "to": "congestion-index",
+   "as": "The other seasonal number.",
+   "rel": "traffic"
+  }
+ ],
+ "sources": [
+  "s:atmos-env-2024",
+  "s:prachatai-11115",
+  "s:toxics-2026",
+  "s:wp-2026-smog",
+  "s:iqair-cm"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:atmos-env-2024"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "links": [
+  {
+   "label": "The Mae Hong Son Loop — the air page, 15,050 point-days of PM2.5 by month",
+   "url": "https://motdang.net/loop/air/"
+  }
+ ]
+}

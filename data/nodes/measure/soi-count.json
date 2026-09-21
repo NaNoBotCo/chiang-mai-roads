@@ -1,0 +1,125 @@
+{
+ "id": "soi-count",
+ "type": "measure",
+ "names": {
+  "name": "Sois, counted by name",
+  "th": "ซอย นับตามชื่อ",
+  "said": "3,236 named sois on the map, 694 km of them, 7 named for a wat.",
+  "said_th": "ซอยที่มีชื่อ 3,236 สายบนแผนที่ 694 กม. 7 สายชื่อตามวัด"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "A way whose name carries ซอย, ซ. or Soi, ways of one name summed: 3,236 names, 694 km. 3,158 carry a number; 7 carry a wat's name. The longest by name: ซอย 2 8.7 km, ซอย 4 7.8 km, ซอย 1 6.8 km, ซอย 3 6.3 km, ซอย 6 4.8 km. The municipality publishes no soi count, so this is the only one on this disk.",
+  "story": "*Inference —* a soi named for a wat is a lane that is older than its number. The share of them is a rough age of a neighbourhood, and it is highest where the map is oldest."
+ },
+ "text_th": {
+  "what": "เส้นทางที่ชื่อมี ซอย ซ. หรือ Soi รวมเส้นทางชื่อเดียวกัน 3,236 ชื่อ 694 กม. มีเลข 3,158 มีชื่อวัด 7 ยาวสุดตามชื่อ: ซอย 2 8.7 กม., ซอย 4 7.8 กม., ซอย 1 6.8 กม., ซอย 3 6.3 กม., ซอย 6 4.8 กม. เทศบาลไม่เผยแพร่จำนวนซอย นี่จึงเป็นจำนวนเดียวในแผ่นนี้",
+  "story": "*อนุมาน —* ซอยที่ชื่อตามวัดคือฮ่อมที่เก่ากว่าเลขของมัน สัดส่วนของมันคืออายุคร่าว ๆ ของย่าน และสูงสุดตี้แผนที่เก่าสุด"
+ },
+ "figure": {
+  "value": 3236,
+  "unit": "named sois in the box",
+  "unit_th": "ซอยที่มีชื่อในกรอบ",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "ซอย 2",
+    "value": 8.72
+   },
+   {
+    "label": "ซอย 4",
+    "value": 7.77
+   },
+   {
+    "label": "ซอย 1",
+    "value": 6.8
+   },
+   {
+    "label": "ซอย 3",
+    "value": 6.34
+   },
+   {
+    "label": "ซอย 6",
+    "value": 4.81
+   },
+   {
+    "label": "ซอย 5",
+    "value": 4.59
+   },
+   {
+    "label": "ซอย 7",
+    "value": 4.23
+   },
+   {
+    "label": "ซอย หมู่บ้านวังตาล",
+    "value": 4.14
+   },
+   {
+    "label": "ซอย 9",
+    "value": 3.61
+   },
+   {
+    "label": "ซอย 10",
+    "value": 2.92
+   },
+   {
+    "label": "ซอย 8",
+    "value": 2.69
+   },
+   {
+    "label": "CBP Soi 2",
+    "value": 2.64
+   }
+  ],
+  "method": "Regular expression on name, name:th and name:en; lengths summed per distinct name.",
+  "method_th": "นิพจน์ปรกติบน name, name:th และ name:en รวมความยาวต่อชื่อที่ต่างกัน"
+ },
+ "kin": [
+  {
+   "to": "soi",
+   "as": "The word.",
+   "rel": "word"
+  },
+  {
+   "to": "hom-the-lane",
+   "as": "The lanes.",
+   "rel": "lane"
+  },
+  {
+   "to": "soi-numbering",
+   "as": "The rule.",
+   "rel": "lane"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

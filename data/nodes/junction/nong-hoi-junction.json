@@ -1,0 +1,62 @@
+{
+ "id": "nong-hoi-junction",
+ "type": "junction",
+ "names": {
+  "name": "Nong Hoi junction",
+  "th": "แยกหนองหอย",
+  "rtgs": "Yaek Nong Hoi",
+  "said": "Mahidol meets the Lamphun road, km 2, and goes under it.",
+  "said_th": "มหิดลพบถนนลำพูน กม.2 แล้วลอดใต้"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "rings"
+ },
+ "text": {
+  "what": "Where Mahidol Road crosses Route 106, the old Lamphun road, at km 2, east of the river. There is an underpass; its opening year is not on this disk. The yang trees begin a little south of here."
+ },
+ "text_th": {
+  "what": "ตี้ถนนมหิดลตัดทางหลวง 106 ถนนลำพูนสายเก่า ที่ กม.2 ทางตะวันออกของแม่น้ำ มีทางลอด ปีที่เปิดบ่มีในแผ่นนี้ ต้นยางเริ่มถัดลงใต้จากตรงนี้ไม่ไกล"
+ },
+ "geo": {
+  "lat": 18.7735,
+  "lon": 99.011,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "mahidol-road",
+   "as": "On it.",
+   "rel": "road"
+  },
+  {
+   "to": "ton-yang-road",
+   "as": "Begins south of it.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "trees"
+ ],
+ "sources": [
+  "s:thwp-mahidol"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-mahidol"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "schema": 1,
+ "updated": "2026-09-21"
+}

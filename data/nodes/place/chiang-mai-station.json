@@ -1,0 +1,76 @@
+{
+ "id": "chiang-mai-station",
+ "type": "place",
+ "names": {
+  "name": "Chiang Mai railway station",
+  "th": "สถานีรถไฟเชียงใหม่",
+  "rtgs": "Sathani Rotfai Chiang Mai",
+  "said": "The train arrived on New Year's Day 1921, and the city moved east to meet it.",
+  "said_th": "รถไฟมาเถิงวันปีใหม่ 2464 แล้วเมืองก็ย้ายไปตะวันออกไปฮับมัน"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "The end of the northern line, east of the river. The first train ran on 1 January 1921 through the Khun Tan tunnel; Tha Phae became the commercial centre in the years after, and most of the surviving heritage houses on that road date from that period. Charoen Mueang Road links the station to the Nawarat Bridge."
+ },
+ "text_th": {
+  "what": "ปลายทางรถไฟสายเหนือ ฝั่งตะวันออกของแม่น้ำ รถไฟขบวนแรกวิ่งวันที่ 1 มกราคม 2464 ผ่านอุโมงค์ขุนตาน ท่าแพกลายเป็นศูนย์กลางการค้าในปีต่อ ๆ มา และเรือนเก่าส่วนใหญ่บนถนนนั้นมาจากยุคนี้ ถนนเจริญเมืองเชื่อมสถานีกับสะพานนวรัฐ"
+ },
+ "geo": {
+  "lat": 18.7846,
+  "lon": 99.0169,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "tha-phae-road",
+   "as": "What the train did to it.",
+   "rel": "road"
+  },
+  {
+   "to": "era-siam-1900-1950",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-cnx-station",
+  "s:thwp-tha-phae-road"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-cnx-station"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chiang-mai-station/chiang-mai-station-chiang-mai-thailand-chiang-mai-railway-station-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Thailand Chiang-Mai-Railway-Station-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Chiang_Mai_Thailand_Chiang-Mai-Railway-Station-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Thailand_Chiang-Mai-Railway-Station-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Chiang Mai Railway Station",
+   "date": "2017-04-17",
+   "primary": true,
+   "sha256": "48a928cd6a3236aa813a0ba8a1d1b422eb728d1ed0f114347d202eceae92135c"
+  }
+ ]
+}

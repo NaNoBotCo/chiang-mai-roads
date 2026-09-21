@@ -1,0 +1,86 @@
+{
+ "id": "route-106",
+ "type": "highway",
+ "names": {
+  "name": "Route 106, the old road south",
+  "th": "ทางหลวงแผ่นดินหมายเลข 106 — ถนนสายเก่าลงใต้",
+  "said": "256 km from Sukhothai, and the Saraphi stretch is the one with the trees.",
+  "said_th": "256 กิโลจากสุโขทัย และช่วงสารภีคือช่วงมีต้นยาง"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "south",
+  "ref": "106",
+  "km": 256.359,
+  "era": "kawila"
+ },
+ "text": {
+  "what": "Sukhothai to Lampang, Lamphun and Chiang Mai, 256.359 km. The Chiang Mai–Lamphun stretch is the Yang Tree Road, two to four lanes under the yang-na. It was the road to Bangkok until 1969, when Route 11 took the traffic."
+ },
+ "text_th": {
+  "what": "สุโขทัยถึงลำปาง ลำพูน เชียงใหม่ 256.359 กม. ช่วงเชียงใหม่–ลำพูนคือถนนต้นยาง สองถึงสี่เลนใต้ต้นยางนา เป็นถนนไปกรุงเทพฯ จนถึงปี 2512 เมื่อทางหลวง 11 เอารถไป"
+ },
+ "road": {
+  "ref": "106",
+  "km": 256.359,
+  "km_source": "s:thwp-106",
+  "from": "Sukhothai",
+  "from_th": "สุโขทัย",
+  "to": "Chiang Mai",
+  "to_th": "เชียงใหม่",
+  "osm_refs": [
+   "106"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "ton-yang-road",
+   "as": "Its famous stretch.",
+   "rel": "road"
+  },
+  {
+   "to": "route-11",
+   "as": "What replaced it.",
+   "rel": "highway"
+  }
+ ],
+ "sources": [
+  "s:thwp-106",
+  "s:cmu-thesis-2548"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-106"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-106/route-106-hoge-bomen-langs-weg-106-p-20161219-a.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P 20161219 a.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hoge_bomen_langs_weg_106_P_20161219_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P_20161219_a.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2016-12-19 16:13:08",
+   "primary": true,
+   "sha256": "6b1698d1f0e7e35e14854f7dd5d48a951cb038318695257df41521caaa7c8dbc"
+  }
+ ]
+}

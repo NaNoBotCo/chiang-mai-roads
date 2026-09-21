@@ -1,0 +1,102 @@
+{
+ "id": "grid-in-the-moat",
+ "type": "measure",
+ "names": {
+  "name": "The grid score, zone by zone",
+  "th": "คะแนนตาราง ทีละโซน",
+  "said": "Inside the moat 0.67. At the outer ring 0.07. A perfect grid is 1.",
+  "said_th": "ในเวียง 0.67 ที่วงแหวนรอบนอก 0.07 ตารางสมบูรณ์คือ 1"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "Boeing's orientation-order index φ on the street network of each zone: the bearings of every drivable way, service lanes excluded, in 36 bins over a half-circle, weighted by length, turned into an entropy and rescaled so that 1 is a perfect four-direction grid and 0 is streets running every way equally. The square inside the moat scores 0.67; the band out to 3 km 0.17; 3 to 5.5 km 0.09; 5.5 to 9 km 0.07; past 9 km 0.06.",
+  "story": "*Inference —* the founding grid of 1296 is still the strongest order in the city, by a factor of 10 over the outer ring. Outside the square the streets follow field boundaries, canals and whatever track was there before the ring came, which is what a score near zero means. Boeing's 2019 paper put Chicago near 0.9 and Charlotte near 0.0; the moat sits closer to the former, the suburbs to the latter, and the same city holds both."
+ },
+ "text_th": {
+  "what": "ดัชนีความเป็นระเบียบทิศทาง φ ของ Boeing บนโครงข่ายถนนแต่ละโซน ทิศของทุกเส้นทางที่รถวิ่งได้ ไม่รวมทางบริการ ใน 36 ช่องบนครึ่งวงกลม ถ่วงด้วยความยาว แปลงเป็นเอนโทรปีและปรับให้ 1 คือตารางสี่ทิศสมบูรณ์ 0 คือถนนวิ่งทุกทิศเท่ากัน สี่เหลี่ยมในคูได้ 0.67 แถบถึง 3 กม. 0.17 3 ถึง 5.5 กม. 0.09 5.5 ถึง 9 กม. 0.07 เกิน 9 กม. 0.06",
+  "story": "*อนุมาน —* ตารางตั้งเมืองปี 1839 ยังเป็นระเบียบที่แข็งแรงที่สุดในเมือง ราว 10 เท่าของวงแหวนรอบนอก นอกสี่เหลี่ยม ถนนเดินตามคันนา เหมืองฝาย และทางใด ๆ ที่มีอยู่ก่อนวงแหวนมา นี่คือความหมายของคะแนนใกล้ศูนย์ งานของ Boeing ปี 2019 ให้ชิคาโกใกล้ 0.9 และชาร์ลอตต์ใกล้ 0.0 เวียงอยู่ใกล้อันแรก ชานเมืองใกล้อันหลัง และเมืองเดียวกันถือทั้งสอง"
+ },
+ "figure": {
+  "value": 0.6666,
+  "unit": "grid score inside the moat (1 = perfect grid)",
+  "unit_th": "คะแนนตารางในเวียง (1 = ตารางสมบูรณ์)",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "inside the moat",
+    "label_th": "ในเวียง",
+    "value": 0.6666
+   },
+   {
+    "label": "moat to 3 km",
+    "label_th": "นอกคูเมืองถึง 3 กม.",
+    "value": 0.1665
+   },
+   {
+    "label": "3 to 5.5 km",
+    "label_th": "3 ถึง 5.5 กม.",
+    "value": 0.0942
+   },
+   {
+    "label": "5.5 to 9 km",
+    "label_th": "5.5 ถึง 9 กม.",
+    "value": 0.0699
+   },
+   {
+    "label": "past 9 km",
+    "label_th": "เกิน 9 กม.",
+    "value": 0.0629
+   }
+  ],
+  "method": "Segments of drivable ways minus service lanes, bearing modulo 180 in 5° bins, length-weighted; H = −Σ p ln p; φ = 1 − ((H − ln 4)/(ln 36 − ln 4))². Zones are the moat square and radii of 3, 5.5 and 9 km from its centre.",
+  "method_th": "ช่วงของเส้นทางรถวิ่งได้ไม่รวมทางบริการ ทิศมอดุโล 180 ในช่อง 5° ถ่วงด้วยความยาว H = −Σ p ln p φ = 1 − ((H − ln 4)/(ln 36 − ln 4))² โซนคือสี่เหลี่ยมคูและรัศมี 3, 5.5 และ 9 กม. จากกลางมัน"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "The square.",
+   "rel": "place"
+  },
+  {
+   "to": "what-a-road-does-to-an-old-city",
+   "as": "Where the number is argued.",
+   "rel": "story"
+  },
+  {
+   "to": "era-1296-the-square",
+   "as": "Who drew it.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

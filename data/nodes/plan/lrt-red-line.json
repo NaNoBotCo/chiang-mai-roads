@@ -1,0 +1,83 @@
+{
+ "id": "lrt-red-line",
+ "type": "plan",
+ "names": {
+  "name": "Chiang Mai light rail, the Red Line",
+  "th": "รถไฟฟ้าเชียงใหม่ สายสีแดง",
+  "said": "Approved 2018. Opening 2027, then 2031, then December 2032. 15.8 km, or 21, or 5.",
+  "said_th": "อนุมัติ 2561 เปิด 2570 แล้ว 2574 แล้วธันวาคม 2575 ยาว 15.8 กิโล หรือ 21 หรือ 5"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "study",
+  "era": "planned"
+ },
+ "text": {
+  "what": "Nakhon Ping Hospital to Mae Hia Saman Samakkhi. The MRTA's Thai page gives 15.8 km, 16 stations, seven underground, about 27,000 million baht; its English page gives 21 km, 21 stations, 24,727 trips a day at opening, cabinet April 2027, construction October 2028, opening December 2032; Railway Gazette in April 2026 describes the current scheme as a 5 km tram with six stops from Royal Park Rajapruek to Mae Hia, tenders 2027, opening December 2032; Prachachat has the whole line at about 32,000 million. All four are live. English Wikipedia still says construction 2020, completion 2027.",
+  "story": "*Inference —* a plan whose length has three published values is a plan being renegotiated in public. The hearing deck's own demand forecast runs from 3,301 to 5,773 passengers an hour per direction at opening depending on the case, which is a tram's worth, not a metro's, and the 5 km version reads as the department agreeing."
+ },
+ "text_th": {
+  "what": "โรงพยาบาลนครพิงค์ถึงแม่เหียะสมานสามัคคี หน้าไทยของ รฟม. ให้ 15.8 กม. 16 สถานี ใต้ดินเจ็ด ราว 27,000 ล้านบาท หน้าอังกฤษให้ 21 กม. 21 สถานี 24,727 เที่ยวต่อวันตอนเปิด ครม. เมษายน 2570 ก่อสร้างตุลาคม 2571 เปิดธันวาคม 2575 Railway Gazette เมษายน 2569 บรรยายแผนปัจจุบันเป็นแทรม 5 กม. หกป้ายจากอุทยานหลวงราชพฤกษ์ถึงแม่เหียะ ประมูล 2570 เปิดธันวาคม 2575 ประชาชาติให้ทั้งสายราว 32,000 ล้าน ทั้งสี่ยังออนไลน์อยู่ วิกิพีเดียอังกฤษยังว่าสร้าง 2563 เสร็จ 2570",
+  "story": "*อนุมาน —* แผนที่ความยาวมีค่าเผยแพร่สามค่าคือแผนที่กำลังถูกต่อรองในที่สาธารณะ การพยากรณ์ในเอกสารรับฟังเองให้ 3,301 ถึง 5,773 คนต่อชั่วโมงต่อทิศตอนเปิดแล้วแต่กรณี ซึ่งเป็นขนาดแทรม ไม่ใช่รถไฟใต้ดิน และฉบับ 5 กม. อ่านเหมือนกรมยอมรับ"
+ },
+ "plan": {
+  "status": "study",
+  "as_of": "2026-04",
+  "budget_thb": 27000000000,
+  "budget_note": "27,000 million on the MRTA Thai page; 32,000 million in Prachachat; the 5 km tram is uncosted on this disk",
+  "km": 15.8,
+  "agency": "MRTA",
+  "agency_th": "รฟม.",
+  "due": "2032-12",
+  "stations": 16
+ },
+ "kin": [
+  {
+   "to": "public-transport-share",
+   "as": "The share it is meant to lift.",
+   "rel": "traffic"
+  },
+  {
+   "to": "unesco-nomination",
+   "as": "The underground route under the old town was flagged as a conflict.",
+   "rel": "plan"
+  },
+  {
+   "to": "era-now",
+   "as": "The train that keeps moving.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:mrta-red-line",
+  "s:mrta-red-line-en",
+  "s:railway-gazette-2026",
+  "s:bkkbiz-1138649",
+  "s:mgr-9680000121126",
+  "s:mrta-hearing-deck",
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:mrta-red-line"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

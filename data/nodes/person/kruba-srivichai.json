@@ -1,0 +1,79 @@
+{
+ "id": "kruba-srivichai",
+ "type": "person",
+ "names": {
+  "name": "Kruba Srivichai",
+  "th": "ครูบาศรีวิชัย",
+  "rtgs": "Khruba Siwichai",
+  "aliases": [
+   "Khruba Srivichai",
+   "ครูบาเจ้าศรีวิชัย"
+  ],
+  "said": "Built eleven and a half kilometres of mountain road in five months and twenty-two days, with no machine.",
+  "said_th": "สร้างทางขึ้นดอยสิบเอ็ดกิโลครึ่งในห้าเดือนยี่สิบสองวัน บ่มีเครื่องจักร"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "The monk of Lanna, 1878–1938, who organised the road up Doi Suthep. Ground was broken on 9 November 1934, Chao Kaew Nawarat cutting the first sod, and the road opened to vehicles on 30 April 1935: 11.53 km of earth and laterite, by volunteers, as many as 4,000 a day by one account.",
+  "story": "*Inference —* it is the only road in this catalogue built by a congregation rather than a department, and it is the one the city is proudest of. His statue stands at its foot and the drivers of the red trucks still wai it on the way up."
+ },
+ "text_th": {
+  "what": "ตนบุญแห่งล้านนา 2421–2481 ผู้จัดการสร้างทางขึ้นดอยสุเทพ เริ่มขุดวันที่ 9 พฤศจิกายน 2477 เจ้าแก้วนวรัฐจกจอบแรก และเปิดให้รถขึ้นวันที่ 30 เมษายน 2478 ดินและลูกรัง 11.53 กม. ด้วยแรงศรัทธา วันละถึง 4,000 คนตามบันทึกหนึ่ง",
+  "story": "*อนุมาน —* เป็นถนนสายเดียวในบัญชีนี้ที่ศรัทธาสร้าง บ่ใช่กรม และเป็นสายที่เมืองภูมิใจที่สุด อนุสาวรีย์ของท่านยืนอยู่ตีนดอย และคนขับรถแดงยังไหว้ตอนขึ้น"
+ },
+ "kin": [
+  {
+   "to": "si-wichai-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "era-monks-road-1935",
+   "as": "The era named for it.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "wat"
+ ],
+ "sources": [
+  "s:thwp-si-wichai",
+  "s:thwp-srivichai",
+  "s:citylife-elephant"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-si-wichai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "kruba-srivichai/kruba-srivichai-anusawwaree-khrubasriwichai.jpg",
+   "source": "commons",
+   "title": "File:AnuSawwaree Khrubasriwichai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/AnuSawwaree_Khrubasriwichai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAnuSawwaree_Khrubasriwichai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kimtuy",
+   "credit": "Own work",
+   "alt": "อนุสาวรีย์ครูบาศรีวิชัย สร้างขึ้น ณ จุดที่ขุดถนนจอบแรก เพื่อเป็นอนุสรน์สถานรำลึกถึงคุณของครูบาเจ้าศรีวิชัยในการนำกลุ่มชาวบ้าน ชาวเขา สร้างถนนขึ้นพระธาตุดอยสุเทพ",
+   "date": "2021-05-04",
+   "primary": true,
+   "sha256": "9259ab69a6f4cc226a7e56af8da0e9cf56cd49d1ee50ca4816f4be6716632611"
+  }
+ ]
+}

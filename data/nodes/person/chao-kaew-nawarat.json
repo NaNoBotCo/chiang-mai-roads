@@ -1,0 +1,54 @@
+{
+ "id": "chao-kaew-nawarat",
+ "type": "person",
+ "names": {
+  "name": "Chao Kaew Nawarat",
+  "th": "เจ้าแก้วนวรัฐ",
+  "rtgs": "Chao Kaeo Nawarat",
+  "said": "The last ruler, and the bridge is named after him.",
+  "said_th": "เจ้าหลวงองค์สุดท้าย และขัวได้ชื่อท่าน"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "Ninth and last ruler of Chiang Mai, 1911–1939. He cut the first sod of the Doi Suthep road in 1934, and the Ping bridge at the foot of Tha Phae Road carries his name: a teak bridge from about 1890, a steel one opened 1923 after the wooden one burned, and the present concrete one opened 26 December 1967."
+ },
+ "text_th": {
+  "what": "เจ้าผู้ครองเชียงใหม่องค์ที่เก้าและองค์สุดท้าย 2454–2482 ท่านจกจอบแรกของถนนขึ้นดอยสุเทพปี 2477 และขัวข้ามแม่ปิงตีนถนนท่าแพใช้ชื่อท่าน ขัวไม้สักราวปี 2433 ขัวเหล็กเปิด 2466 หลังขัวไม้ไหม้ และขัวคอนกรีตปัจจุบันเปิด 26 ธันวาคม 2510"
+ },
+ "kin": [
+  {
+   "to": "nawarat-bridge",
+   "as": "Named for him.",
+   "rel": "bridge"
+  },
+  {
+   "to": "si-wichai-road",
+   "as": "He broke its ground.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-nawarat",
+  "s:thwp-si-wichai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-nawarat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

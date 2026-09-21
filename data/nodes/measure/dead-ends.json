@@ -1,0 +1,97 @@
+{
+ "id": "dead-ends",
+ "type": "measure",
+ "names": {
+  "name": "Dead ends, zone by zone",
+  "th": "ทางตัน ทีละโซน",
+  "said": "14% of lane ends inside the moat go nowhere. 35% at the outer ring.",
+  "said_th": "ปลายฮ่อม 14% ในเวียงไปบ่ถึงไหน 35% ที่วงแหวนรอบนอก"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "The share of network ends that are dead ends: nodes touched by one way only, divided by those plus the intersections, on drivable ways without service lanes. Inside the moat 14%; to 3 km 26%; 3 to 5.5 km 32%; 5.5 to 9 km 35%; beyond 34%. 12,326 dead ends in the box against 24,819 intersections.",
+  "story": "*Inference —* a hom in the old city was cut to let people through; a hom in the rings was cut to let people in. The share climbs ring by ring because each ring's land was subdivided by its owners one plot at a time, and a shared driveway to twenty houses ends at the twentieth. The consequence for the city is that a trip between two lanes 200 m apart in San Sai can be 2 km by road."
+ },
+ "text_th": {
+  "what": "สัดส่วนปลายโครงข่ายที่เป็นทางตัน จุดที่เส้นทางเดียวแตะ หารด้วยจุดเหล่านั้นบวกทางแยก บนเส้นทางรถวิ่งได้ไม่รวมทางบริการ ในคู 14% ถึง 3 กม. 26% 3 ถึง 5.5 กม. 32% 5.5 ถึง 9 กม. 35% เกินนั้น 34% ทางตัน 12,326 จุดในกรอบ เทียบทางแยก 24,819 จุด",
+  "story": "*อนุมาน —* ฮ่อมในเวียงเก่าตัดเพื่อให้คนผ่าน ฮ่อมในวงแหวนตัดเพื่อให้คนเข้า สัดส่วนไต่ขึ้นทีละวงเพราะที่ดินของแต่ละวงถูกแบ่งโดยเจ้าของทีละแปลง และทางเข้าร่วมของบ้านยี่สิบหลังจบที่หลังที่ยี่สิบ ผลต่อเมืองคือการเดินทางระหว่างฮ่อมสองสายห่างกัน 200 เมตรในสันทรายอาจเป็น 2 กม. ทางถนน"
+ },
+ "figure": {
+  "value": 0.137,
+  "unit": "dead-end share inside the moat",
+  "unit_th": "สัดส่วนทางตันในเวียง",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "inside the moat",
+    "label_th": "ในเวียง",
+    "value": 13.7
+   },
+   {
+    "label": "moat to 3 km",
+    "label_th": "นอกคูเมืองถึง 3 กม.",
+    "value": 25.6
+   },
+   {
+    "label": "3 to 5.5 km",
+    "label_th": "3 ถึง 5.5 กม.",
+    "value": 31.8
+   },
+   {
+    "label": "5.5 to 9 km",
+    "label_th": "5.5 ถึง 9 กม.",
+    "value": 35.1
+   },
+   {
+    "label": "past 9 km",
+    "label_th": "เกิน 9 กม.",
+    "value": 34.4
+   }
+  ],
+  "method": "Degree-1 nodes ÷ (degree-1 + degree≥3 nodes) per zone; nodes within 200 m of the harvest box edge are not counted as dead ends.",
+  "method_th": "จุดดีกรี 1 ÷ (จุดดีกรี 1 + จุดดีกรี ≥3) ต่อโซน จุดในระยะ 200 เมตรจากขอบกรอบไม่นับเป็นทางตัน"
+ },
+ "kin": [
+  {
+   "to": "hom-the-lane",
+   "as": "The lanes.",
+   "rel": "lane"
+  },
+  {
+   "to": "intersection-density",
+   "as": "The other half of the same count.",
+   "rel": "measure"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "phraya-surasi",
+ "type": "person",
+ "names": {
+  "name": "Chao Phraya Surasi Wisitsak",
+  "th": "เจ้าพระยาสุรสีห์วิสิษฐศักดิ์",
+  "rtgs": "Chao Phraya Surasi Wisitsak",
+  "aliases": [
+   "Choei Kalyanamit",
+   "เชย กัลยาณมิตร"
+  ],
+  "said": "Planted a thousand trees along a road, and the trees outlived the empire that sent him.",
+  "said_th": "ปลูกต้นยางพันต้นเลียบถนน แล้วต้นยางอยู่ยืนกว่าจักรวรรดิที่ส่งท่านมา"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "Siam's high commissioner for the northern circle, Monthon Phayap, in the reign of Inthawichayanon. Under his commission about a thousand yang-na trees were planted along the Chiang Mai–Lamphun road from the Nawarat Bridge to the provincial line, dated 20 October 1882 by one account; a telegram of 1900 in another. He is also credited with the Hang Dong road of 1899, lined with khi-lek trees for the trade to Burma."
+ },
+ "text_th": {
+  "what": "ข้าหลวงใหญ่มณฑลพายัพของสยามในรัชสมัยพระเจ้าอินทวิชยานนท์ ภายใต้ท่านมีการปลูกต้นยางนาราวพันต้นเลียบถนนเชียงใหม่–ลำพูน จากสะพานนวรัฐถึงเขตจังหวัด บันทึกหนึ่งให้วันที่ 20 ตุลาคม 2425 อีกบันทึกเป็นโทรเลขปี 2443 ท่านยังได้ชื่อว่าสร้างถนนหางดงปี 2442 ปลูกต้นขี้เหล็กสองข้างเพื่อการค้ากับพม่า"
+ },
+ "kin": [
+  {
+   "to": "ton-yang-road",
+   "as": "The trees.",
+   "rel": "road"
+  },
+  {
+   "to": "route-108",
+   "as": "The other road.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "trees"
+ ],
+ "sources": [
+  "s:thaipbs-308334",
+  "s:thwp-106",
+  "s:cmu-thesis-2548"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thaipbs-308334"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

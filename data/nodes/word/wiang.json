@@ -1,0 +1,79 @@
+{
+ "id": "wiang",
+ "type": "word",
+ "names": {
+  "name": "เวียง wiang",
+  "th": "เวียง",
+  "rtgs": "wiang"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "เวียง wiang — Tai root shared with Lao ວຽງ (Vientiane is Wiang Chan). Mueang is the polity; wiang is the fortified place inside it. 'Nai wiang', inside the wiang, is how the old city is said.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang."
+ },
+ "text_th": {
+  "what": "คำสำหรับเมืองมีกำแพง และเป็นคำที่เว็บนี้ใช้เรียกสี่เหลี่ยมในคู เชียงใหม่ที่เหลือคือเมือง สี่เหลี่ยมคือเวียง"
+ },
+ "word": {
+  "th": "เวียง",
+  "rtgs": "wiang",
+  "ipa": "/wiaŋ/",
+  "standard": "เมือง (ที่มีกำแพง)",
+  "standard_rtgs": "mueang",
+  "gloss": "a walled town; the old city inside the moat",
+  "gloss_th": "เมืองมีกำแพง เวียงในคู",
+  "example": "ในเวียง",
+  "example_gloss": "nai wiang — inside the walls"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "What surrounds it.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "wiang/wiang-chiangmai-thaphae-gate.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai Thaphae Gate.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chiangmai_Thaphae_Gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Thaphae_Gate.JPG",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Rinto Jiang",
+   "credit": "Own work",
+   "alt": "Tha Phae Gate of Chiang Mai",
+   "date": "2007-01-25",
+   "primary": true,
+   "sha256": "0750696de839a70c5591b041a9e77e6cb770f3c813690571c543f54b10e0e526"
+  }
+ ]
+}

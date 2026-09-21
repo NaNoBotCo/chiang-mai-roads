@@ -1,0 +1,92 @@
+{
+ "id": "roads-versus-vehicles",
+ "type": "traffic",
+ "names": {
+  "name": "Roads versus vehicles, 1992 to 2003",
+  "th": "ถนนกับรถ 2535 ถึง 2546",
+  "said": "Main roads 36.5 to 60.3 km. Registered vehicles 465,659 to 933,733.",
+  "said_th": "ถนนหลัก 36.5 เป็น 60.3 กม. รถจดทะเบียน 465,659 เป็น 933,733"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2003"
+ },
+ "text": {
+  "what": "A 2005 geography thesis at Chiang Mai University tabulated the city's main-road kilometres against the province's registered vehicles: 36.5 km and 465,659 vehicles in 1992; 49.5 km and 695,172 in 2000; 60.3 km and 933,733 in 2003. The roads grew by two thirds and the vehicles doubled. A current provincial registration figure is not on this disk: the land transport department's table is behind a form this project could not read."
+ },
+ "text_th": {
+  "what": "วิทยานิพนธ์ภูมิศาสตร์ ม.เชียงใหม่ ปี 2548 ทำตารางกิโลเมตรถนนหลักของเมืองเทียบรถจดทะเบียนของจังหวัด 36.5 กม. และ 465,659 คันปี 2535 49.5 กม. และ 695,172 ปี 2543 60.3 กม. และ 933,733 ปี 2546 ถนนโตสองในสาม รถโตสองเท่า ตัวเลขทะเบียนจังหวัดปัจจุบันบ่มีในแผ่นนี้ ตารางของกรมการขนส่งอยู่หลังฟอร์มที่โครงการนี้อ่านบ่ได้"
+ },
+ "figure": {
+  "value": 933733,
+  "unit": "registered vehicles, Chiang Mai province, 2003",
+  "unit_th": "รถจดทะเบียน จังหวัดเชียงใหม่ 2546",
+  "year": "2003",
+  "source": "s:cmu-thesis-2548",
+  "series": [
+   {
+    "label": "1992 roads km",
+    "value": 36.5
+   },
+   {
+    "label": "2000 roads km",
+    "value": 49.5
+   },
+   {
+    "label": "2003 roads km",
+    "value": 60.3
+   },
+   {
+    "label": "1992 vehicles",
+    "value": 465659
+   },
+   {
+    "label": "2000 vehicles",
+    "value": 695172
+   },
+   {
+    "label": "2003 vehicles",
+    "value": 933733
+   }
+  ],
+  "method": "Two series from one table in the thesis; the page draws them as two indexed lines.",
+  "method_th": "สองชุดจากตารางเดียวในวิทยานิพนธ์ หน้านี้วาดเป็นเส้นดัชนีสองเส้น"
+ },
+ "kin": [
+  {
+   "to": "era-rings-1984-2006",
+   "as": "The decade.",
+   "rel": "era"
+  },
+  {
+   "to": "what-a-road-does-to-an-old-city",
+   "as": "Where the number is used.",
+   "rel": "story"
+  },
+  {
+   "to": "what-we-did-not-do",
+   "as": "No current registration figure.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:cmu-thesis-2548"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmu-thesis-2548"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

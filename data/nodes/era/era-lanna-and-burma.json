@@ -1,0 +1,79 @@
+{
+ "id": "era-lanna-and-burma",
+ "type": "era",
+ "names": {
+  "name": "1300s–1700s — Lanna and Burma",
+  "th": "พุทธศตวรรษ 19–23 — ล้านนากับพม่า",
+  "said": "Four hundred years in which the roads were the rivers.",
+  "said_th": "สี่ร้อยปีที่ถนนคือแม่น้ำ"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "lanna",
+  "order": 2
+ },
+ "text": {
+  "what": "The kingdom's roads were tracks and its highways were the Ping and the Kok. Two centuries of Burmese rule from 1558 left the walls standing and the city, by the 1770s, nearly empty. The fifth gate, Suan Prung, was cut in the south wall under Sam Fang Kaen in this period.",
+  "story": "*Inference —* no road in the present catalogue is dated to these four centuries, which is a statement about the record rather than the roads. The trade tracks to Burma through Hang Dong, later Route 108, and north through Chiang Dao, later 107, are older than any document that names them."
+ },
+ "text_th": {
+  "what": "ถนนของอาณาจักรคือทางเดิน ทางหลวงคือแม่ปิงและแม่กก พม่าปกครองสองศตวรรษตั้งแต่ปี 2101 ทิ้งกำแพงไว้ยืน และเมืองในทศวรรษ 2310 แทบร้าง ประตูที่ห้า สวนปรุง ถูกเจาะในกำแพงใต้สมัยพญาสามฝั่งแกนในช่วงนี้",
+  "story": "*อนุมาน —* ไม่มีถนนในบัญชีนี้ที่ระบุอายุอยู่ในสี่ศตวรรษนี้ ซึ่งบอกเรื่องบันทึกมากกว่าเรื่องถนน ทางค้าไปพม่าผ่านหางดง ต่อมาคือ 108 และขึ้นเหนือผ่านเชียงดาว ต่อมาคือ 107 เก่ากว่าเอกสารใด ๆ ที่ตั้งชื่อมัน"
+ },
+ "kin": [
+  {
+   "to": "suan-prung-gate",
+   "as": "Cut in this era.",
+   "rel": "gate"
+  },
+  {
+   "to": "route-108",
+   "as": "The old track to Burma.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:wp-lanna",
+  "s:thwp-moat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-lanna"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-lanna-and-burma/era-lanna-and-burma-chiang-mai-city-old-map-lan-na-kingdom.png",
+   "source": "commons",
+   "title": "File:Chiang Mai City Old Map Lan Na Kingdom.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_City_Old_Map_Lan_Na_Kingdom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Old_Map_Lan_Na_Kingdom.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "www.shorthistoryoflanna.blogspot.com (see also: https://www.matichon.co.th/weekly/column/article_18712 (https://archive.vn/gI1uM).)",
+   "alt": "Chiang Mai City old map during the Lan Na kingdom (in Thailand). The portrait of a ruler (king) is on the left side. There is a castle, palace, temples, local houses, the treasury, the city wall with ",
+   "date": "Circa 19th century or earlier",
+   "primary": true,
+   "sha256": "0c9a1300458876a52c9b7ecd2ed908e1dc8d792d2ed1dedef03f42589fcf1773"
+  }
+ ]
+}

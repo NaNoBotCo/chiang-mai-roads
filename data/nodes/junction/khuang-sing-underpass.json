@@ -1,0 +1,74 @@
+{
+ "id": "khuang-sing-underpass",
+ "type": "junction",
+ "names": {
+  "name": "Khuang Sing underpass",
+  "th": "ทางลอดข่วงสิงห์",
+  "rtgs": "Thang Lot Khuang Sing",
+  "said": "The contractor walked off at sixty percent. The department finished it in six months.",
+  "said_th": "ผู้รับเหมาทิ้งงานตอนหกสิบเปอร์เซ็นต์ กรมมาทำเสร็จเองในหกเดือน"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "now",
+  "year": "2007"
+ },
+ "text": {
+  "what": "Where Chotana Road, Route 107, crosses the Superhighway at the northern edge of the first ring. Begun 2003 with the San Dek underpass; the contractor had bid 146 million under estimate, abandoned both at about sixty percent, and the contract was terminated in April 2007. The highway department's bridge centres finished the pair in six months for 240 million baht, and the transport minister opened them on 26 December 2007. Six lanes."
+ },
+ "text_th": {
+  "what": "ตี้ถนนโชตนา ทางหลวง 107 ตัดซุปเปอร์ไฮเวย์ที่ขอบเหนือของวงแหวนรอบแรก เริ่มปี 2546 พร้อมทางลอดสันเด็ก ผู้รับเหมาเสนอราคาต่ำกว่าประเมิน 146 ล้าน ทิ้งงานทั้งสองแห่งที่ราวหกสิบเปอร์เซ็นต์ และสัญญาถูกยกเลิกเมษายน 2550 ศูนย์สร้างสะพานของกรมทางหลวงทำเสร็จทั้งคู่ในหกเดือนด้วยงบ 240 ล้านบาท รัฐมนตรีคมนาคมเปิด 26 ธันวาคม 2550 หกช่องจราจร"
+ },
+ "geo": {
+  "lat": 18.8135,
+  "lon": 98.982,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "san-dek-underpass",
+   "as": "Its twin.",
+   "rel": "junction"
+  },
+  {
+   "to": "route-11",
+   "as": "Under it.",
+   "rel": "highway"
+  },
+  {
+   "to": "chotana-road",
+   "as": "Through it.",
+   "rel": "road"
+  },
+  {
+   "to": "lot",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "construction",
+  "controversy"
+ ],
+ "sources": [
+  "s:mgr-9500000153752",
+  "s:reviewcm-underpasses"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:mgr-9500000153752"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

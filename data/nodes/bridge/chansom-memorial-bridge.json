@@ -1,0 +1,91 @@
+{
+ "id": "chansom-memorial-bridge",
+ "type": "bridge",
+ "names": {
+  "name": "Chansom Memorial Bridge",
+  "th": "สะพานจันทร์สมอนุสรณ์",
+  "rtgs": "Saphan Chansom Anusorn",
+  "said": "The Ping crossing between Nawarat and the Iron Bridge.",
+  "said_th": "ขัวข้ามแม่ปิงระหว่างนวรัฐกับขัวเหล็ก"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "A road bridge over the Ping in the city centre, carrying the Chang Moi–Wat Ket link. Its date is not on this disk; it is counted with the rest on the crossings page and has a picture."
+ },
+ "text_th": {
+  "what": "ขัวรถข้ามแม่ปิงในใจกลางเมือง รับถนนเชื่อมช้างม่อย–วัดเกต วันที่บ่มีในแผ่นนี้ ถูกนับรวมกับขัวอื่นบนหน้าจุดข้าม และมีรูป"
+ },
+ "road": {
+  "osm_names": [
+   "สะพานจันทร์สมอนุสรณ์",
+   "Chansom Memorial Bridge"
+  ]
+ },
+ "geo": {
+  "lat": 18.793,
+  "lon": 99.0045,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "ping-crossings",
+   "as": "Counted.",
+   "rel": "measure"
+  }
+ ],
+ "sources": [
+  "s:osm"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chansom-memorial-bridge/chansom-memorial-bridge-chansom-memorial-bridge.jpg",
+   "source": "commons",
+   "title": "File:Chansom Memorial Bridge.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chansom_Memorial_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChansom_Memorial_Bridge.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "Chansom Memorial Bridge, Chiang Mai.",
+   "date": "2020-10-11 16:01:12",
+   "primary": true,
+   "sha256": "fe35d61d71e80de1ca8b34bdd853f27b4bb8dc1012ea526deeb297508662c1b5"
+  },
+  {
+   "file": "chansom-memorial-bridge/chansom-memorial-bridge-ping-river-in-chiang-mai-1.jpg",
+   "source": "commons",
+   "title": "File:Ping River in Chiang Mai 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ping_River_in_Chiang_Mai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "View of the Ping River from the Chansom Memorial Bridge in Chiang Mai.",
+   "date": "2018-09-06 14:36:03",
+   "primary": false,
+   "sha256": "a749aba609d0f43d5c778e00d1e430c17dc9d6985446ee1250d170ea2681aea1"
+  }
+ ]
+}

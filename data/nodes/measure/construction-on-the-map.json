@@ -1,0 +1,115 @@
+{
+ "id": "construction-on-the-map",
+ "type": "measure",
+ "names": {
+  "name": "What the map says is being built",
+  "th": "แผนที่บอกว่ากำลังสร้างอะไร",
+  "said": "101 ways tagged under construction, 14.6 km, on the day of the harvest.",
+  "said_th": "101 เส้นทางติดแท็กกำลังสร้าง 14.6 กม. วันที่เก็บข้อมูล"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "OpenStreetMap's highway=construction, in the box: 101 ways, 14.6 km. The longest: unnamed 0.8 km, unnamed 0.8 km, unnamed 0.63 km, unnamed 0.33 km, unnamed 0.33 km, unnamed 0.29 km. A volunteer tag, dated by the last person who looked; the plans page has what the departments say.",
+  "story": "*Inference —* the map and the ministry disagree on what is being built, and both are right on the day they were written. The interchanges on the outer ring are on one list; the lane behind a housing estate is on the other."
+ },
+ "text_th": {
+  "what": "highway=construction ของ OpenStreetMap ในกรอบ 101 เส้นทาง 14.6 กม. ยาวสุด: ไม่มีชื่อ 0.8 กม., ไม่มีชื่อ 0.8 กม., ไม่มีชื่อ 0.63 กม., ไม่มีชื่อ 0.33 กม., ไม่มีชื่อ 0.33 กม., ไม่มีชื่อ 0.29 กม. แท็กของอาสาสมัคร ลงวันที่โดยคนสุดท้ายที่ดู หน้าแผนมีสิ่งที่กรมบอก",
+  "story": "*อนุมาน —* แผนที่กับกระทรวงเห็นต่างกันว่ากำลังสร้างอะไร และทั้งคู่ถูกในวันที่เขียน ทางแยกต่างระดับบนวงแหวนรอบนอกอยู่ในรายการหนึ่ง ฮ่อมหลังหมู่บ้านจัดสรรอยู่อีกรายการ"
+ },
+ "figure": {
+  "value": 101,
+  "unit": "ways under construction",
+  "unit_th": "เส้นทางกำลังสร้าง",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "unnamed",
+    "value": 0.8
+   },
+   {
+    "label": "unnamed",
+    "value": 0.8
+   },
+   {
+    "label": "unnamed",
+    "value": 0.63
+   },
+   {
+    "label": "unnamed",
+    "value": 0.33
+   },
+   {
+    "label": "unnamed",
+    "value": 0.33
+   },
+   {
+    "label": "unnamed",
+    "value": 0.29
+   },
+   {
+    "label": "unnamed",
+    "value": 0.28
+   },
+   {
+    "label": "unnamed",
+    "value": 0.28
+   },
+   {
+    "label": "unnamed",
+    "value": 0.27
+   },
+   {
+    "label": "unnamed",
+    "value": 0.25
+   },
+   {
+    "label": "unnamed",
+    "value": 0.25
+   },
+   {
+    "label": "unnamed",
+    "value": 0.25
+   }
+  ],
+  "method": "highway=construction ways in the box, by length.",
+  "method_th": "เส้นทาง highway=construction ในกรอบ ตามความยาว"
+ },
+ "kin": [
+  {
+   "to": "ring-3-interchanges",
+   "as": "What the department says.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

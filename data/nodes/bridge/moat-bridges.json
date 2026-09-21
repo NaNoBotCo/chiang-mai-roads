@@ -1,0 +1,108 @@
+{
+ "id": "moat-bridges",
+ "type": "bridge",
+ "names": {
+  "name": "The bridges over the moat",
+  "th": "ขัวข้ามคูเมือง",
+  "rtgs": "khua kham khu mueang",
+  "said": "Every way into the square that is not a gate is a small bridge, and there are more of them than gates.",
+  "said_th": "ทุกทางเข้าเวียงตี้บ่ใช่ปะตู๋คือขัวน้อย และมีมากกว่าปะตู๋"
+ },
+ "region": [
+  "moat"
+ ],
+ "facets": {
+  "era": "siam"
+ },
+ "text": {
+  "what": "The moat is crossed by short road and foot bridges at the gates and between them. They are counted from the map on the crossings page alongside the Ping bridges; the Loi Kroh bridge and the one people call the rat bridge have pictures."
+ },
+ "text_th": {
+  "what": "คูเมืองถูกข้ามด้วยขัวรถและขัวคนสั้น ๆ ตรงประตูและระหว่างประตู ถูกนับจากแผนที่บนหน้าจุดข้ามพร้อมขัวแม่ปิง ขัวลอยเคราะห์และขัวที่คนเรียกขัวหนูมีรูป"
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "What they cross.",
+   "rel": "place"
+  },
+  {
+   "to": "ping-crossings",
+   "as": "Counted with the river bridges.",
+   "rel": "measure"
+  }
+ ],
+ "tags": [
+  "walk"
+ ],
+ "sources": [
+  "s:osm"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "moat-bridges/moat-bridges-chiang-mai-thailand-loi-krohi-road-bridge-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Loi-Krohi-Road-Bridge-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chiang-Mai_Thailand_Loi-Krohi-Road-Bridge-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Loi-Krohi-Road-Bridge-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Bridge over the moat at Loi Kroh Road, decorated with two golden lions",
+   "date": "2017-04-16",
+   "primary": true,
+   "sha256": "2883de65c09faa9e62cbc1634f48092d69284075e7d06355752d2cd0b850c6f7"
+  },
+  {
+   "file": "moat-bridges/moat-bridges-chiang-mai-thailand-rat-bridge-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Rat-Bridge-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Chiang-Mai_Thailand_Rat-Bridge-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Rat-Bridge-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: The \"Rat Bridge\" over a moat at Sridonchai Road",
+   "date": "2017-04-16",
+   "primary": false,
+   "sha256": "becec7b816ba65c34f9dc2b074b480cbe53ef56f550423e01babd1cd451b299d"
+  },
+  {
+   "file": "moat-bridges/moat-bridges-chiang-mai-moat-and-road.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Moat and Road.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiang_Mai_Moat_and_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Moat_and_Road.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Douglas Perkins",
+   "credit": "Own work",
+   "alt": "The moat of Chiang Mai during the day.  A road is on the left, and the moat is on the right.  This picture was taken on the north side of the city center.  Thailand.",
+   "date": "2014-12-26 10:51:47",
+   "primary": false,
+   "sha256": "065628ce8a62dd68f926bddabdd43e4ed02f785cda8f4a01d3d046d476b39cce"
+  }
+ ]
+}

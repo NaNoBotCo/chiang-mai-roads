@@ -1,0 +1,69 @@
+{
+ "source": "TomTom Traffic Index 2025, city pages",
+ "urls": {
+  "chiang_mai": "https://www.tomtom.com/traffic-index/city/chiang-mai",
+  "bangkok": "https://www.tomtom.com/traffic-index/bangkok-traffic/"
+ },
+ "fetched": "2026-09-21",
+ "licence": "quoted figures; TomTom's own terms",
+ "chiang_mai": {
+  "congestion_pct": 48.7,
+  "change_pp": -2.3,
+  "min_per_10km": "24:12",
+  "rush_speed_kmh": 21.6,
+  "morning": {
+   "min_per_10km": "24:41",
+   "congestion_pct": 55.8,
+   "kmh": 24.3
+  },
+  "evening": {
+   "min_per_10km": "29:42",
+   "congestion_pct": 82.4,
+   "kmh": 20.2
+  },
+  "hours_lost": 89,
+  "worst_day": "2025-11-03",
+  "km_in_15min": 6.2,
+  "monthly_2025": [
+   52,
+   51,
+   48,
+   50,
+   37,
+   39,
+   42,
+   43,
+   44,
+   45,
+   47,
+   51
+  ],
+  "monthly_2024": [
+   51,
+   51,
+   51,
+   54,
+   48,
+   51,
+   47,
+   56,
+   57,
+   58,
+   53,
+   57
+  ],
+  "monthly_note": "the page lists 24 values; which row is which year is this project's reading"
+ },
+ "bangkok": {
+  "congestion_pct": 67.9,
+  "change_pp": 1.3,
+  "min_per_10km": "22:59",
+  "rush_speed_kmh": 20.9,
+  "hours_lost": 115,
+  "evening": {
+   "min_per_10km": "31:25",
+   "congestion_pct": 126.5,
+   "kmh": 19.1
+  }
+ }
+}

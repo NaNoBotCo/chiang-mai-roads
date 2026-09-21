@@ -1,0 +1,68 @@
+{
+ "id": "nine-roads-programme",
+ "type": "plan",
+ "names": {
+  "name": "The nine roads, 2025–27",
+  "th": "เก้าสายทาง 2568–70",
+  "said": "The highway department's list for the province, three years, nine items.",
+  "said_th": "รายการของกรมทางหลวงสำหรับจังหวัด สามปี เก้ารายการ"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "funded",
+  "era": "planned"
+ },
+ "text": {
+  "what": "Announced on provincial radio: Route 116 Lamphun–Doi Lo to four lanes; Route 108 Chom Thong–Hot to four lanes; Hot–Mae Sariang; Route 1095 Mae Taeng–Pai; the Doi Suthep road, Route 1004; the outer ring to six lanes with an overpass at every junction; a Chom Thong bypass. Budgets per item are not in the broadcast."
+ },
+ "text_th": {
+  "what": "ประกาศทางวิทยุจังหวัด ทางหลวง 116 ลำพูน–ดอยหล่อ สี่เลน ทางหลวง 108 จอมทอง–ฮอด สี่เลน ฮอด–แม่สะเรียง ทางหลวง 1095 แม่แตง–ปาย ถนนขึ้นดอยสุเทพ ทางหลวง 1004 วงแหวนรอบนอกเป็นหกเลนพร้อมสะพานข้ามทุกแยก และทางเลี่ยงเมืองจอมทอง งบรายรายการไม่มีในการออกอากาศ"
+ },
+ "plan": {
+  "status": "funded",
+  "as_of": "2025",
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง",
+  "due": "2027"
+ },
+ "kin": [
+  {
+   "to": "ring-3",
+   "as": "Six lanes.",
+   "rel": "ring"
+  },
+  {
+   "to": "si-wichai-road",
+   "as": "On the list.",
+   "rel": "road"
+  },
+  {
+   "to": "route-1095",
+   "as": "On the list.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:prd-cm-369046"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:prd-cm-369046"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

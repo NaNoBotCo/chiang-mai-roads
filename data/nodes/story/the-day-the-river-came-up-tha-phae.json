@@ -1,0 +1,79 @@
+{
+ "id": "the-day-the-river-came-up-tha-phae",
+ "type": "story",
+ "names": {
+  "name": "The day the river came up Tha Phae",
+  "th": "วันที่แม่น้ำขึ้นมาถึงท่าแพ",
+  "said": "5 October 2024, 5.30 m at noon, 604 cubic metres a second, and the busiest road in the north under water.",
+  "said_th": "5 ตุลาคม 2567 5.30 เมตรตอนเที่ยง 604 ลูกบาศก์เมตรต่อวินาที และถนนตี้รถนักสุดของภาคเหนือจมน้ำ"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "The Ping's October 2024 flood as a list of roads. The gauge at Nawarat Bridge, P.1, bank level 3.70 m, read 4.93 on 26 September, 5.26 at eleven on the night of 4 October, and 5.30 at noon on the 5th, 1.10 m over the bank, the highest in fifty years by the newspapers and since the early 1970s by others. The irrigation department put the peak flow at 604 cubic metres a second and had it back to 3.70 by the morning of the 7th.",
+  "story": "Under water, from the reports: Tha Phae Road from the bridge to the Krung Thai bank; Kaew Nawarat Road from the Nakhon Ping bridge to San Dek junction and the Arcade, for the first time in over fifty years; the Superhighway; the Don Chan and Chiang Kham overpasses; all of Mahidol Road, closed at the Pa Daet bridge U-turn in the first round on 28 September; Chang Klan, closed to small cars; lanes on the middle ring; Warorot and Ton Lamyai markets and the Night Bazaar, more than a kilometre from the river on the west bank; the railway station; Nong Prathip junction; the airport–cultural centre–Hai Ya stretch impassable for small cars by 13:40 on the 5th. Water stood about 2 km east of the river. The university's water centre calibrated 5,000 flood marks to the 5.30 m level afterwards.\n\n*Inference —* the founders built a kilometre from the bank because of exactly this, and the square stayed dry. Everything the twentieth century built on the floodplain between the moat and the river, and across it, went under. The city's busiest road is on the wrong side of a decision made in 1296."
+ },
+ "text_th": {
+  "what": "น้ำท่วมแม่ปิงตุลาคม 2567 ในรูปรายการถนน สถานีวัดน้ำสะพานนวรัฐ P.1 ระดับตลิ่ง 3.70 เมตร อ่านได้ 4.93 วันที่ 26 กันยายน 5.26 ตอนห้าทุ่มคืน 4 ตุลาคม และ 5.30 ตอนเที่ยงวันที่ 5 สูงกว่าตลิ่ง 1.10 เมตร สูงสุดในห้าสิบปีตามหนังสือพิมพ์ และตั้งแต่ต้นทศวรรษ 2510 ตามแหล่งอื่น กรมชลประทานให้อัตราไหลสูงสุด 604 ลูกบาศก์เมตรต่อวินาที และกลับลง 3.70 เช้าวันที่ 7",
+  "story": "จมน้ำ ตามรายงาน ถนนท่าแพจากสะพานถึงธนาคารกรุงไทย ถนนแก้วนวรัฐจากสะพานนครพิงค์ถึงแยกสันเด็กและอาเขต ครั้งแรกในกว่าห้าสิบปี ซุปเปอร์ไฮเวย์ สะพานข้ามแยกดอนจั่นและเชียงคำ ถนนมหิดลทั้งสาย ปิดที่จุดกลับรถสะพานป่าแดดในรอบแรก 28 กันยายน ช้างคลาน ปิดรถเล็ก ช่องจราจรบนวงแหวนรอบกลาง กาดหลวงและกาดต้นลำไยและไนท์บาซาร์ ห่างแม่น้ำกว่าหนึ่งกิโลฝั่งตะวันตก สถานีรถไฟ แยกหนองประทีป ช่วงสนามบิน–ศูนย์วัฒนธรรม–หายยา รถเล็กผ่านบ่ได้ตั้งแต่ 13:40 วันที่ 5 น้ำแผ่ไปทางตะวันออกของแม่น้ำราว 2 กม. ศูนย์น้ำของมหาวิทยาลัยปรับหมุดน้ำท่วม 5,000 หมุดให้ตรงระดับ 5.30 เมตรหลังจากนั้น\n\n*อนุมาน —* ผู้สร้างเมืองสร้างห่างตลิ่งหนึ่งกิโลเพราะสิ่งนี้แหละ และสี่เหลี่ยมยังแห้ง ทุกอย่างที่ศตวรรษที่ยี่สิบสร้างบนที่ราบน้ำท่วมระหว่างคูกับแม่น้ำ และข้ามแม่น้ำ จมหมด ถนนที่รถนักสุดของเมืองอยู่ผิดฝั่งของการตัดสินใจที่ทำเมื่อปี 1839"
+ },
+ "kin": [
+  {
+   "to": "ping-river",
+   "as": "The river.",
+   "rel": "place"
+  },
+  {
+   "to": "mahidol-road",
+   "as": "Under water.",
+   "rel": "road"
+  },
+  {
+   "to": "tha-phae-road",
+   "as": "Under water.",
+   "rel": "road"
+  },
+  {
+   "to": "nawarat-bridge",
+   "as": "The gauge.",
+   "rel": "bridge"
+  },
+  {
+   "to": "wiang-kum-kam",
+   "as": "The precedent.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "flood"
+ ],
+ "sources": [
+  "s:lanner-flood",
+  "s:thaipbs-344954",
+  "s:thaipbs-344990",
+  "s:prachatai-110951",
+  "s:naewna-833570",
+  "s:thairath-2816966",
+  "s:cmu-flood-marks",
+  "s:bkkbiz-1147937"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:lanner-flood"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

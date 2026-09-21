@@ -1,0 +1,50 @@
+{
+ "note": "Where a record sits. Open list; the validator warns on an unknown key.",
+ "entries": [
+  {
+   "key": "moat",
+   "name": "Inside the moat",
+   "th": "ในเวียง"
+  },
+  {
+   "key": "city",
+   "name": "Chiang Mai city",
+   "th": "เมืองเชียงใหม่"
+  },
+  {
+   "key": "ring1",
+   "name": "Within the Superhighway ring",
+   "th": "ในวงซุปเปอร์ไฮเวย์"
+  },
+  {
+   "key": "ring2",
+   "name": "Middle ring",
+   "th": "วงแหวนรอบกลาง"
+  },
+  {
+   "key": "ring3",
+   "name": "Outer ring",
+   "th": "วงแหวนรอบนอก"
+  },
+  {
+   "key": "province",
+   "name": "Chiang Mai province",
+   "th": "จังหวัดเชียงใหม่"
+  },
+  {
+   "key": "lanna",
+   "name": "Lanna",
+   "th": "ล้านนา"
+  },
+  {
+   "key": "intercity",
+   "name": "Between cities",
+   "th": "ระหว่างเมือง"
+  },
+  {
+   "key": "thailand",
+   "name": "Thailand",
+   "th": "ประเทศไทย"
+  }
+ ]
+}

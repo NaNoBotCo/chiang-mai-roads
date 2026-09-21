@@ -1,0 +1,170 @@
+{
+ "note": "Known facet keys per type. Values are labels; a record may carry others.",
+ "facets": {
+  "era": {
+   "label": "Era",
+   "th": "ยุค",
+   "values": {
+    "mangrai": "1296 — the square",
+    "lanna": "Lanna and Burma, 1300s–1700s",
+    "kawila": "Kawila's rebuilding, 1796–1900",
+    "siam": "Siam and the railway, 1900–1950",
+    "srivichai": "The monk's road, 1935",
+    "superhighway": "The Superhighway, 1960s–70s",
+    "rings": "The rings, 1980s–2000s",
+    "now": "Now, 2010s–2020s",
+    "planned": "Planned"
+   },
+   "types": [
+    "road",
+    "ring",
+    "lane",
+    "gate",
+    "junction",
+    "bridge",
+    "highway",
+    "plan",
+    "era",
+    "measure",
+    "traffic",
+    "word",
+    "story",
+    "person",
+    "place"
+   ]
+  },
+  "direction": {
+   "label": "Direction out",
+   "th": "ทิศ",
+   "values": {
+    "north": "North — Mae Rim, Fang",
+    "northeast": "Northeast — Doi Saket, Chiang Rai",
+    "east": "East — San Kamphaeng",
+    "south": "South — Lamphun, Lampang, Bangkok",
+    "southwest": "Southwest — Hang Dong, Hot, Mae Hong Son",
+    "west": "West — Samoeng, Doi Suthep",
+    "northwest": "Northwest — Pai"
+   },
+   "types": [
+    "highway",
+    "road"
+   ]
+  },
+  "status": {
+   "label": "Status",
+   "th": "สถานะ",
+   "values": {
+    "built": "Built",
+    "building": "Under construction",
+    "funded": "Funded, not started",
+    "study": "Under study",
+    "shelved": "Shelved",
+    "cancelled": "Cancelled",
+    "unknown": "Status not on this disk"
+   },
+   "types": [
+    "plan",
+    "junction",
+    "ring"
+   ]
+  },
+  "surface": {
+   "label": "Surface",
+   "th": "ผิวทาง",
+   "types": [
+    "road",
+    "highway"
+   ],
+   "values": {}
+  },
+  "ref": {
+   "label": "Route number",
+   "th": "หมายเลขทางหลวง",
+   "types": [
+    "road",
+    "highway",
+    "ring",
+    "junction"
+   ],
+   "values": {}
+  },
+  "lanes": {
+   "label": "Lanes",
+   "th": "ช่องจราจร",
+   "types": [
+    "road",
+    "highway",
+    "ring"
+   ],
+   "values": {}
+  },
+  "oneway": {
+   "label": "One-way",
+   "th": "เดินรถทางเดียว",
+   "types": [
+    "road",
+    "ring",
+    "lane"
+   ],
+   "values": {}
+  },
+  "km": {
+   "label": "Length, km",
+   "th": "ความยาว กม.",
+   "types": [
+    "road",
+    "highway",
+    "ring",
+    "lane",
+    "bridge",
+    "plan"
+   ],
+   "values": {}
+  },
+  "year": {
+   "label": "Year",
+   "th": "ปี",
+   "types": [
+    "road",
+    "ring",
+    "junction",
+    "bridge",
+    "plan",
+    "traffic",
+    "measure",
+    "era"
+   ],
+   "values": {}
+  },
+  "kind": {
+   "label": "Kind",
+   "th": "ชนิด",
+   "types": [
+    "road",
+    "ring",
+    "lane",
+    "gate",
+    "junction",
+    "bridge",
+    "highway",
+    "plan",
+    "era",
+    "measure",
+    "traffic",
+    "word",
+    "story",
+    "person",
+    "place"
+   ],
+   "values": {}
+  },
+  "order": {
+   "label": "Order",
+   "th": "ลำดับ",
+   "types": [
+    "era"
+   ],
+   "values": {}
+  }
+ }
+}

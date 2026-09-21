@@ -1,0 +1,79 @@
+{
+ "id": "seven-dangerous-days",
+ "type": "traffic",
+ "names": {
+  "name": "The seven dangerous days",
+  "th": "เจ็ดวันอันตราย",
+  "said": "Songkran 2023 in the province: 63 crashes, 61 hurt, 7 dead. National Songkran 2026: 242 dead.",
+  "said_th": "สงกรานต์ 2566 ในจังหวัด ชน 63 เจ็บ 61 ตาย 7 สงกรานต์ 2569 ทั้งประเทศ ตาย 242"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2023"
+ },
+ "text": {
+  "what": "The provincial count for Songkran 2023, 11 to 17 April: 63 accidents, 61 injured, 7 deaths, down from 8 the year before, motorcycles most involved; the same week 116,159 visitors and 875.7 million baht of tourism spending. Later provincial figures on this disk are search snippets, not fetched pages: Songkran 2024, 39 accidents, 3 deaths, motorcycles 74 percent; New Year 2024, 62 accidents, 6 deaths, motorcycles 82 percent. National Songkran 2026: 1,242 accidents, 242 deaths, speeding 44 percent, drink 26 percent, motorcycles 68 percent."
+ },
+ "text_th": {
+  "what": "ตัวเลขจังหวัดสงกรานต์ 2566 11–17 เมษายน อุบัติเหตุ 63 บาดเจ็บ 61 เสียชีวิต 7 ลดจาก 8 ปีก่อน จักรยานยนต์เกี่ยวข้องมากสุด สัปดาห์เดียวกันมีผู้มาเยือน 116,159 คนและใช้จ่าย 875.7 ล้านบาท ตัวเลขจังหวัดปีหลังในแผ่นนี้เป็นข้อความจากผลค้นหา ไม่ใช่หน้าที่เปิดได้ สงกรานต์ 2567 อุบัติเหตุ 39 ตาย 3 จักรยานยนต์ร้อยละ 74 ปีใหม่ 2567 อุบัติเหตุ 62 ตาย 6 จักรยานยนต์ร้อยละ 82 สงกรานต์ 2569 ทั้งประเทศ อุบัติเหตุ 1,242 ตาย 242 ขับเร็วร้อยละ 44 เมาร้อยละ 26 จักรยานยนต์ร้อยละ 68"
+ },
+ "figure": {
+  "value": 7,
+  "unit": "deaths in the province, Songkran 2023",
+  "unit_th": "ผู้เสียชีวิตในจังหวัด สงกรานต์ 2566",
+  "year": "2023",
+  "source": "s:thaipost-361601",
+  "series": [
+   {
+    "label": "Songkran 2022",
+    "value": 8,
+    "source": "s:thaipost-361601"
+   },
+   {
+    "label": "Songkran 2023",
+    "value": 7,
+    "source": "s:thaipost-361601"
+   },
+   {
+    "label": "Songkran 2024",
+    "value": 3,
+    "note": "search snippet, not a fetched page"
+   },
+   {
+    "label": "New Year 2024",
+    "value": 6,
+    "note": "search snippet, not a fetched page"
+   }
+  ],
+  "method": "Provincial press release via Thai Post for 2023; later years marked as unfetched.",
+  "method_th": "ข่าวแจกจังหวัดผ่านไทยโพสต์สำหรับ 2566 ปีหลังระบุว่าไม่ได้เปิดหน้า"
+ },
+ "kin": [
+  {
+   "to": "road-deaths",
+   "as": "The year round.",
+   "rel": "traffic"
+  }
+ ],
+ "sources": [
+  "s:thaipost-361601",
+  "s:ddc-rtddi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thaipost-361601"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "hsr-bangkok-chiang-mai",
+ "type": "plan",
+ "names": {
+  "name": "Bangkok–Chiang Mai high-speed rail",
+  "th": "รถไฟความเร็วสูงกรุงเทพฯ–เชียงใหม่",
+  "said": "668 km, 445,303 million baht, and phase one postponed until another line is finished.",
+  "said_th": "668 กิโล 445,303 ล้านบาท และระยะแรกเลื่อนจนกว่าอีกสายจะเสร็จ"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "shelved",
+  "era": "planned"
+ },
+ "text": {
+  "what": "The northern Shinkansen line: Bangkok–Phitsanulok 380 km, Phitsanulok–Chiang Mai 288 km, 668 km in all (688 by Isranews), 445,303 million baht for both phases. Cabinet approvals 2012; a memorandum with Japan's transport ministry 2015. In October 2024 phase one was postponed until Bangkok–Nong Khai is done; phase two is targeted for 2033–42. There is no Chiang Mai–Lampang line on its own."
+ },
+ "text_th": {
+  "what": "รถไฟชินคันเซ็นสายเหนือ กรุงเทพฯ–พิษณุโลก 380 กม. พิษณุโลก–เชียงใหม่ 288 กม. รวม 668 กม. (อิศราให้ 688) 445,303 ล้านบาททั้งสองระยะ ครม. เห็นชอบ 2555 บันทึกความเข้าใจกับกระทรวงคมนาคมญี่ปุ่น 2558 ตุลาคม 2567 ระยะแรกเลื่อนจนกว่ากรุงเทพฯ–หนองคายจะเสร็จ ระยะสองตั้งเป้า 2576–85 ไม่มีสายเชียงใหม่–ลำปางแยกต่างหาก"
+ },
+ "plan": {
+  "status": "shelved",
+  "as_of": "2024-10",
+  "budget_thb": 445303000000,
+  "km": 668,
+  "agency": "State Railway of Thailand",
+  "agency_th": "การรถไฟแห่งประเทศไทย",
+  "due": "2033–42 (phase 2 target)"
+ },
+ "kin": [
+  {
+   "to": "route-1",
+   "as": "The 696 km it would replace.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:thwp-hsr",
+  "s:isranews-125644"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-hsr"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

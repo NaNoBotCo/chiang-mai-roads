@@ -1,0 +1,79 @@
+{
+ "id": "kat",
+ "type": "word",
+ "names": {
+  "name": "กาด kat",
+  "th": "กาด",
+  "rtgs": "kat"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "กาด kat — Kam Mueang; standard Thai talat is from Khmer. Kad Luang, the great market, is Warorot; Kad Suan Kaew is a shopping mall on Huay Kaew Road that took the northern word for a modern thing.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The word for a market, and the reason the biggest one in the city and a shopping mall both have kat in their names. Roads here are named after markets more than markets after roads."
+ },
+ "text_th": {
+  "what": "คำสำหรับตลาด และเหตุที่กาดใหญ่สุดของเมืองกับห้างสรรพสินค้ามีคำว่ากาดในชื่อทั้งคู่ ถนนที่นี่ตั้งชื่อตามกาดมากกว่ากาดตั้งตามถนน"
+ },
+ "word": {
+  "th": "กาด",
+  "rtgs": "kat",
+  "ipa": "/kàːt/",
+  "standard": "ตลาด",
+  "standard_rtgs": "talat",
+  "gloss": "market",
+  "gloss_th": "ตลาด",
+  "example": "กาดหลวง",
+  "example_gloss": "Kad Luang — the great market, Warorot"
+ },
+ "kin": [
+  {
+   "to": "huay-kaew-road",
+   "as": "Kad Suan Kaew is on it.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "kat/kat-waroros-market-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Waroros Market, Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Waroros_Market%2C_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWaroros_Market%2C_Chiang_Mai.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Manop",
+   "credit": "Own work",
+   "alt": "Waroros Market in Kad Luang, Chiang Mai City, Chiang Mai Province, Thailand\nตลาดวโรรส กาดหลวง อำเภอเมือง จังหวัดเชียงใหม่",
+   "date": "",
+   "primary": true,
+   "sha256": "149ca6807777ef106cd26455282767b937a66ab14e39dea7e9b3031533964ea8"
+  }
+ ]
+}

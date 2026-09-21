@@ -1,0 +1,92 @@
+{
+ "id": "ku-hueang-corner",
+ "type": "gate",
+ "names": {
+  "name": "Ku Hueang Corner",
+  "th": "แจ่งกู่เฮือง",
+  "rtgs": "Chaeng Ku Hueang",
+  "said": "The southwest bastion.",
+  "said_th": "แจ่งตะวันตกเฉียงใต้"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The southwest corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Ku Hueang is a reliquary: a chedi to a jailer, or a prince, depending on the telling."
+ },
+ "text_th": {
+  "what": "แจ่งตะวันตกเฉียงใต้ของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม กู่เฮืองคือกู่บรรจุอัฐิ ของผู้คุมคุกหรือของเจ้า แล้วแต่ตำนานที่เล่า"
+ },
+ "geo": {
+  "lat": 18.7808,
+  "lon": 98.9775,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The ring turns here.",
+   "rel": "ring"
+  },
+  {
+   "to": "chaeng",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ku-hueang-corner/ku-hueang-corner-201703281534b-p-chiang-mai-city-wall-ku-ruang-corner.jpg",
+   "source": "commons",
+   "title": "File:201703281534b P Chiang Mai, City Wall, Ku Ruang Corner.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/201703281534b_P_Chiang_Mai%2C_City_Wall%2C_Ku_Ruang_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703281534b_P_Chiang_Mai%2C_City_Wall%2C_Ku_Ruang_Corner.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Chiang Mai city wall, Ku Ruang Coner (southwestern fort)",
+   "date": "2017-03-28 15:34:12",
+   "primary": true,
+   "sha256": "32fae5e8d99c305bd989cc05dce1e79e97ded7fcd9b80422ae90c7baa1aec31f"
+  },
+  {
+   "file": "ku-hueang-corner/ku-hueang-corner-ku-huang-citadel-chiang-mai-02.jpg",
+   "source": "commons",
+   "title": "File:Ku Huang citadel Chiang Mai 02.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ku_Huang_citadel_Chiang_Mai_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKu_Huang_citadel_Chiang_Mai_02.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Ku Huang citadel: the south-west corner of the old city of Chiang Mai. Looking towards the east.",
+   "date": "2010-05-06",
+   "primary": false,
+   "sha256": "0b5d8aaec8c05cc45551986bef2120ca1514e9121d687ad0557a5bf75cb8ee3c"
+  }
+ ]
+}

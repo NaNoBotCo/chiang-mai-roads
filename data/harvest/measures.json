@@ -1,0 +1,2799 @@
+{
+ "method": "measure.py — what the road network says about the city, counted from the harvest.\n\nReads data/harvest/osm-city.json and osm-places.json, writes data/harvest/measures.json.\nEvery figure the site prints about the network comes from here, with the method beside\nit, so the page and the API cannot drift apart.\n\nZones. The old city is the square inside the moat. Outside it, the rings are taken as\ndistance from the moat's centre: to 3 km (the Superhighway and the canal road close a\nring at about that radius), 3 to 5.5 km (the middle ring), 5.5 to 9 km (the outer ring,\nRoute 121) and beyond. A radius is a stand-in for the road itself; the page says so.\n\nMeasures, per zone:\n  km by class · intersections per km² · dead-end share · median block length ·\n  orientation entropy (Boeing 2019, 36 bins) · one-way share · named share · soi share\nIntersections, dead ends, blocks and orientation use the network proper — drivable ways\nminus service lanes — so a car park's aisles do not count as streets.\n\n    python3 tools/measure.py",
+ "source": "OpenStreetMap via Overpass, © OpenStreetMap contributors, ODbL 1.0",
+ "fetched": "2026-09-21",
+ "box": [
+  18.66,
+  98.86,
+  18.92,
+  99.1
+ ],
+ "centre": [
+  18.7883,
+  98.9855
+ ],
+ "moat": [
+  18.7808,
+  98.9775,
+  18.7962,
+  98.9938
+ ],
+ "zones_km": [
+  3.0,
+  5.5,
+  9.0
+ ],
+ "ways": 52389,
+ "total_km": 8054.7,
+ "drive_km": 6934.4,
+ "walk_km": 1054.7,
+ "lane_km": 5972.5,
+ "unnamed_lane_km": 4756.6,
+ "by_class": {
+  "residential": 4280.4,
+  "service": 1238.1,
+  "track": 494.2,
+  "unclassified": 454.1,
+  "path": 337.2,
+  "tertiary": 312.2,
+  "primary": 288.3,
+  "secondary": 250.0,
+  "footway": 188.8,
+  "trunk": 48.1,
+  "primary_link": 35.9,
+  "construction": 16.9,
+  "pedestrian": 15.6,
+  "proposed": 15.0,
+  "cycleway": 14.2,
+  "secondary_link": 13.9,
+  "trunk_link": 12.3,
+  "services": 11.2,
+  "road": 9.8,
+  "busway": 8.0,
+  "steps": 4.6,
+  "raceway": 3.0,
+  "corridor": 1.6,
+  "tertiary_link": 1.2,
+  "elevator": 0.1,
+  "bus_stop": 0.0
+ },
+ "intersections": 31668,
+ "dead_ends": 15928,
+ "zones": {
+  "moat": {
+   "label": "inside the moat",
+   "label_th": "ในเวียง",
+   "area_km2": 2.94,
+   "km": {
+    "footway": 29.35,
+    "residential": 29.25,
+    "service": 19.38,
+    "secondary": 12.72,
+    "tertiary": 8.12,
+    "pedestrian": 2.68,
+    "path": 1.73,
+    "secondary_link": 1.72,
+    "unclassified": 0.23,
+    "primary": 0.16,
+    "construction": 0.11,
+    "steps": 0.07,
+    "track": 0.06,
+    "tertiary_link": 0.03
+   },
+   "km_group": {
+    "lane": 48.86,
+    "walk": 33.87,
+    "major": 14.61,
+    "tertiary": 8.15,
+    "construction": 0.11
+   },
+   "drive_km": 71.62,
+   "km_per_km2": 24.38,
+   "ways": 1206,
+   "intersections": 396,
+   "dead_ends": 63,
+   "inter_per_km2": 134.8,
+   "dead_end_share": 0.137,
+   "block_m_mean": 71,
+   "block_m_median": 59,
+   "orientation": {
+    "H": 2.6549,
+    "phi": 0.6666,
+    "Hmax": 3.5835,
+    "Hgrid": 1.3863
+   },
+   "bins": [
+    9.517,
+    2.238,
+    1.383,
+    0.974,
+    0.304,
+    0.56,
+    0.195,
+    0.187,
+    0.215,
+    0.28,
+    0.15,
+    0.245,
+    0.318,
+    0.537,
+    0.475,
+    0.67,
+    1.456,
+    4.664,
+    13.115,
+    3.163,
+    1.661,
+    0.704,
+    0.649,
+    0.309,
+    0.208,
+    0.126,
+    0.119,
+    0.1,
+    0.116,
+    0.229,
+    0.205,
+    0.478,
+    0.422,
+    0.529,
+    2.202,
+    3.546
+   ],
+   "oneway_share": 0.327,
+   "named_share": 0.628,
+   "soi_share": 0.216,
+   "lit_share": 0.472,
+   "signals": 0,
+   "wats": 0,
+   "wats_per_km2": 0.0,
+   "lanes_km": {
+    "2": 23.96,
+    "1": 23.11,
+    "3": 7.54,
+    "4": 1.37,
+    "5": 0.06
+   },
+   "surface_km": {
+    "asphalt": 41.11,
+    "concrete": 15.83,
+    "paving_stones": 5.64,
+    "unpaved": 0.44,
+    "gravel": 0.34,
+    "concrete:plates": 0.29
+   }
+  },
+  "ring1": {
+   "label": "moat to 3 km",
+   "label_th": "นอกคูเมืองถึง 3 กม.",
+   "area_km2": 25.34,
+   "km": {
+    "residential": 233.51,
+    "service": 180.26,
+    "footway": 48.09,
+    "tertiary": 33.39,
+    "secondary": 31.44,
+    "primary": 14.18,
+    "trunk": 8.13,
+    "path": 7.24,
+    "unclassified": 4.7,
+    "pedestrian": 3.2,
+    "track": 3.09,
+    "services": 1.7,
+    "corridor": 1.53,
+    "trunk_link": 1.02,
+    "busway": 0.93,
+    "primary_link": 0.62,
+    "secondary_link": 0.62,
+    "tertiary_link": 0.56,
+    "steps": 0.4,
+    "cycleway": 0.35,
+    "road": 0.06,
+    "elevator": 0.05
+   },
+   "km_group": {
+    "lane": 418.47,
+    "walk": 62.37,
+    "major": 56.01,
+    "tertiary": 33.95,
+    "other": 4.27
+   },
+   "drive_km": 508.43,
+   "km_per_km2": 20.07,
+   "ways": 5571,
+   "intersections": 2078,
+   "dead_ends": 715,
+   "inter_per_km2": 82.0,
+   "dead_end_share": 0.256,
+   "block_m_mean": 79,
+   "block_m_median": 59,
+   "orientation": {
+    "H": 3.3923,
+    "phi": 0.1665,
+    "Hmax": 3.5835,
+    "Hgrid": 1.3863
+   },
+   "bins": [
+    18.662,
+    17.092,
+    10.495,
+    10.822,
+    7.465,
+    6.111,
+    5.798,
+    3.47,
+    3.936,
+    7.005,
+    3.154,
+    3.657,
+    5.833,
+    4.596,
+    8.679,
+    8.323,
+    14.283,
+    19.934,
+    19.46,
+    23.981,
+    18.299,
+    11.007,
+    6.692,
+    8.944,
+    5.029,
+    2.854,
+    3.502,
+    3.183,
+    3.595,
+    3.394,
+    3.374,
+    5.44,
+    9.859,
+    9.422,
+    14.497,
+    16.319
+   ],
+   "oneway_share": 0.199,
+   "named_share": 0.414,
+   "soi_share": 0.107,
+   "lit_share": 0.112,
+   "signals": 0,
+   "wats": 0,
+   "wats_per_km2": 0.0,
+   "lanes_km": {
+    "2": 224.35,
+    "1": 53.7,
+    "3": 24.09,
+    "4": 17.4,
+    "6": 1.42,
+    "5": 0.9
+   },
+   "surface_km": {
+    "asphalt": 222.8,
+    "concrete": 151.02,
+    "paved": 15.93,
+    "unpaved": 5.69,
+    "paving_stones": 3.96,
+    "pebblestone": 0.85
+   }
+  },
+  "ring2": {
+   "label": "3 to 5.5 km",
+   "label_th": "3 ถึง 5.5 กม.",
+   "area_km2": 66.76,
+   "km": {
+    "residential": 636.93,
+    "service": 261.36,
+    "primary": 49.49,
+    "secondary": 46.66,
+    "footway": 44.37,
+    "unclassified": 35.78,
+    "tertiary": 26.55,
+    "path": 18.09,
+    "trunk": 12.01,
+    "track": 10.33,
+    "busway": 7.04,
+    "secondary_link": 6.9,
+    "primary_link": 5.69,
+    "pedestrian": 2.91,
+    "services": 1.31,
+    "trunk_link": 1.19,
+    "cycleway": 1.15,
+    "road": 0.44,
+    "steps": 0.27,
+    "tertiary_link": 0.18,
+    "elevator": 0.05,
+    "bus_stop": 0.04
+   },
+   "km_group": {
+    "lane": 934.06,
+    "major": 121.94,
+    "walk": 77.11,
+    "tertiary": 26.73,
+    "other": 8.89
+   },
+   "drive_km": 1082.73,
+   "km_per_km2": 16.22,
+   "ways": 9466,
+   "intersections": 5201,
+   "dead_ends": 2421,
+   "inter_per_km2": 77.9,
+   "dead_end_share": 0.318,
+   "block_m_mean": 79,
+   "block_m_median": 56,
+   "orientation": {
+    "H": 3.4775,
+    "phi": 0.0942,
+    "Hmax": 3.5835,
+    "Hgrid": 1.3863
+   },
+   "bins": [
+    39.408,
+    30.351,
+    24.542,
+    18.724,
+    17.594,
+    14.959,
+    15.37,
+    8.759,
+    12.379,
+    7.508,
+    13.886,
+    13.342,
+    12.21,
+    19.581,
+    24.95,
+    36.219,
+    33.292,
+    38.705,
+    51.757,
+    37.834,
+    32.202,
+    33.655,
+    23.348,
+    21.149,
+    14.203,
+    9.942,
+    12.927,
+    11.394,
+    17.509,
+    13.357,
+    17.489,
+    26.899,
+    21.274,
+    25.104,
+    32.643,
+    36.907
+   ],
+   "oneway_share": 0.161,
+   "named_share": 0.393,
+   "soi_share": 0.195,
+   "lit_share": 0.098,
+   "signals": 0,
+   "wats": 0,
+   "wats_per_km2": 0.0,
+   "lanes_km": {
+    "2": 431.25,
+    "1": 131.29,
+    "3": 59.76,
+    "4": 25.97,
+    "5": 0.53,
+    "6": 0.27
+   },
+   "surface_km": {
+    "asphalt": 379.8,
+    "concrete": 370.52,
+    "paved": 39.3,
+    "unpaved": 27.44,
+    "gravel": 4.31,
+    "paving_stones": 4.01
+   }
+  },
+  "ring3": {
+   "label": "5.5 to 9 km",
+   "label_th": "5.5 ถึง 9 กม.",
+   "area_km2": 159.44,
+   "km": {
+    "residential": 1170.23,
+    "service": 325.56,
+    "primary": 140.05,
+    "path": 101.26,
+    "unclassified": 78.61,
+    "track": 60.64,
+    "tertiary": 48.84,
+    "secondary": 44.17,
+    "primary_link": 25.81,
+    "footway": 24.87,
+    "trunk": 8.48,
+    "cycleway": 6.53,
+    "trunk_link": 6.5,
+    "construction": 4.98,
+    "pedestrian": 4.69,
+    "secondary_link": 3.32,
+    "road": 2.59,
+    "services": 2.58,
+    "raceway": 1.84,
+    "steps": 1.71,
+    "tertiary_link": 0.2
+   },
+   "km_group": {
+    "lane": 1574.4,
+    "major": 228.32,
+    "walk": 199.7,
+    "tertiary": 49.04,
+    "other": 7.01,
+    "construction": 4.98
+   },
+   "drive_km": 1851.75,
+   "km_per_km2": 11.61,
+   "ways": 14452,
+   "intersections": 9236,
+   "dead_ends": 4902,
+   "inter_per_km2": 57.9,
+   "dead_end_share": 0.347,
+   "block_m_mean": 81,
+   "block_m_median": 56,
+   "orientation": {
+    "H": 3.5034,
+    "phi": 0.0716,
+    "Hmax": 3.5835,
+    "Hgrid": 1.3863
+   },
+   "bins": [
+    63.351,
+    48.031,
+    43.125,
+    44.13,
+    32.377,
+    31.433,
+    38.889,
+    21.144,
+    24.53,
+    20.82,
+    20.742,
+    28.039,
+    35.8,
+    48.479,
+    50.114,
+    49.231,
+    63.641,
+    83.43,
+    84.561,
+    72.424,
+    57.859,
+    58.895,
+    45.189,
+    51.284,
+    45.837,
+    26.447,
+    19.716,
+    18.507,
+    22.936,
+    26.137,
+    28.984,
+    34.921,
+    49.499,
+    38.621,
+    46.006,
+    51.067
+   ],
+   "oneway_share": 0.139,
+   "named_share": 0.32,
+   "soi_share": 0.162,
+   "lit_share": 0.037,
+   "signals": 0,
+   "wats": 0,
+   "wats_per_km2": 0.0,
+   "lanes_km": {
+    "2": 697.45,
+    "1": 184.66,
+    "3": 69.88,
+    "4": 20.88,
+    "5": 0.18
+   },
+   "surface_km": {
+    "concrete": 573.34,
+    "asphalt": 518.7,
+    "paved": 146.55,
+    "unpaved": 53.15,
+    "gravel": 14.12,
+    "paving_stones": 4.87
+   }
+  },
+  "beyond": {
+   "label": "past 9 km",
+   "label_th": "เกิน 9 กม.",
+   "area_km2": 476.51,
+   "km": {
+    "residential": 2210.45,
+    "service": 451.5,
+    "track": 420.11,
+    "unclassified": 334.75,
+    "path": 208.93,
+    "tertiary": 195.32,
+    "secondary": 115.04,
+    "primary": 84.41,
+    "footway": 42.16,
+    "trunk": 19.43,
+    "proposed": 14.96,
+    "construction": 11.82,
+    "road": 6.76,
+    "cycleway": 6.21,
+    "services": 5.6,
+    "primary_link": 3.8,
+    "trunk_link": 3.64,
+    "steps": 2.17,
+    "pedestrian": 2.1,
+    "secondary_link": 1.34,
+    "raceway": 1.13,
+    "tertiary_link": 0.19,
+    "corridor": 0.03
+   },
+   "km_group": {
+    "lane": 2996.7,
+    "walk": 681.67,
+    "major": 227.66,
+    "tertiary": 195.51,
+    "other": 28.47,
+    "construction": 11.82
+   },
+   "drive_km": 3419.87,
+   "km_per_km2": 7.18,
+   "ways": 21694,
+   "intersections": 14757,
+   "dead_ends": 7827,
+   "inter_per_km2": 31.0,
+   "dead_end_share": 0.347,
+   "block_m_mean": 101,
+   "block_m_median": 65,
+   "orientation": {
+    "H": 3.5486,
+    "phi": 0.0316,
+    "Hmax": 3.5835,
+    "Hgrid": 1.3863
+   },
+   "bins": [
+    118.628,
+    102.946,
+    94.179,
+    100.768,
+    96.993,
+    99.195,
+    79.925,
+    75.987,
+    66.145,
+    52.077,
+    59.379,
+    67.742,
+    59.118,
+    61.386,
+    59.104,
+    64.025,
+    82.571,
+    94.757,
+    103.098,
+    123.447,
+    101.88,
+    125.685,
+    113.911,
+    113.77,
+    89.081,
+    79.442,
+    60.792,
+    50.41,
+    48.409,
+    59.241,
+    65.065,
+    70.173,
+    74.431,
+    74.816,
+    78.961,
+    100.826
+   ],
+   "oneway_share": 0.055,
+   "named_share": 0.166,
+   "soi_share": 0.067,
+   "lit_share": 0.02,
+   "signals": 0,
+   "wats": 0,
+   "wats_per_km2": 0.0,
+   "lanes_km": {
+    "2": 890.62,
+    "1": 209.32,
+    "3": 44.35,
+    "4": 9.57,
+    "5": 0.17
+   },
+   "surface_km": {
+    "paved": 675.52,
+    "asphalt": 611.57,
+    "concrete": 525.31,
+    "unpaved": 108.93,
+    "gravel": 30.03,
+    "dirt": 10.68
+   }
+  }
+ },
+ "soi": {
+  "named_count": 3733,
+  "km": 811.2,
+  "with_wat_in_name": 8,
+  "numbered": 3650,
+  "longest": [
+   {
+    "name": "ซอย หมู่บ้านวังตาล",
+    "km": 4.14
+   },
+   {
+    "name": "CBP Soi 2",
+    "km": 2.64
+   },
+   {
+    "name": "บ้านป่าเดื่อ หมู่ 1 ซอย 3",
+    "km": 2.59
+   },
+   {
+    "name": "หนองป่าแสะ ซอย 4",
+    "km": 2.23
+   },
+   {
+    "name": "ซอย สายลมชายคลอง 19",
+    "km": 2.02
+   },
+   {
+    "name": "ซอย ถ",
+    "km": 1.94
+   },
+   {
+    "name": "บ้านแม่โจ้ ซอย 9",
+    "km": 1.93
+   },
+   {
+    "name": "บ้านฟ้ามุ่ย ซอย 10",
+    "km": 1.91
+   },
+   {
+    "name": "หนองแฝก ซอย 8",
+    "km": 1.81
+   },
+   {
+    "name": "บ้านใหม่สามัคคี ซอย 7",
+    "km": 1.54
+   },
+   {
+    "name": "CBP Soi 1",
+    "km": 1.44
+   },
+   {
+    "name": "ซอย 4 แม่สาหลวง",
+    "km": 1.39
+   },
+   {
+    "name": "บ้านไร่ดง หมู่ 7 ซอย 8/2",
+    "km": 1.34
+   },
+   {
+    "name": "สันกับตองใต้ ซอย 2",
+    "km": 1.33
+   },
+   {
+    "name": "ถนนเชียงใหม่-ลำพูน ซอย 10",
+    "km": 1.31
+   },
+   {
+    "name": "ป่าแคโยง หมู่ 5 ซอย 1",
+    "km": 1.29
+   },
+   {
+    "name": "เทศบาลตำบลหางดง ซอย 2",
+    "km": 1.23
+   },
+   {
+    "name": "ต้นงิ้วคันคลอง ซอย 2",
+    "km": 1.23
+   },
+   {
+    "name": "ซอย 16/5 ช่างเคิ่ง",
+    "km": 1.22
+   },
+   {
+    "name": "Hang Dong Soi 13",
+    "km": 1.2
+   },
+   {
+    "name": "San Sai Luang Soi 1",
+    "km": 1.19
+   },
+   {
+    "name": "บ้านแม่โจ้ ซอย 7",
+    "km": 1.18
+   },
+   {
+    "name": "บ้านฟ้ามุ่ย ซอย 11",
+    "km": 1.16
+   },
+   {
+    "name": "เวิลด์คลับ ซอย 12",
+    "km": 1.15
+   },
+   {
+    "name": "ข่วงเปา ซอย 13",
+    "km": 1.15
+   }
+  ]
+ },
+ "longest_names": [
+  {
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "km": 52.73
+  },
+  {
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "km": 47.99
+  },
+  {
+   "name": "ถนนวงแหวนรอบนอก",
+   "km": 36.35
+  },
+  {
+   "name": "ถนนเลียบคลองชลประทาน",
+   "km": 31.41
+  },
+  {
+   "name": "Outer Ring Road",
+   "km": 30.27
+  },
+  {
+   "name": "ถนนเลี่ยงเมืองสันป่าตอง-หางดง",
+   "km": 27.19
+  },
+  {
+   "name": "ถนนโชตนา",
+   "km": 26.52
+  },
+  {
+   "name": "ถนนเชียงใหม่-พร้าว",
+   "km": 25.84
+  },
+  {
+   "name": "ถนนห้วยแก้ว",
+   "km": 22.75
+  },
+  {
+   "name": "ถนนเชียงใหม่-หางดง",
+   "km": 21.16
+  },
+  {
+   "name": "Lamphun Chiangmai New Road East",
+   "km": 20.53
+  },
+  {
+   "name": "ถนนมหิดล",
+   "km": 18.54
+  },
+  {
+   "name": "ถนนเชียงใหม่-ลำพูน",
+   "km": 17.51
+  },
+  {
+   "name": "ถนนสันกำแพงสายใหม่",
+   "km": 17.23
+  },
+  {
+   "name": "ถนนแก้วนวรัฐ",
+   "km": 16.46
+  },
+  {
+   "name": "ถนนสันทรายสายเก่า",
+   "km": 15.89
+  },
+  {
+   "name": "ถนนเจริญเมือง",
+   "km": 14.03
+  },
+  {
+   "name": "ถนนบ่อสร้าง",
+   "km": 11.81
+  },
+  {
+   "name": "ซอย 2",
+   "km": 10.52
+  },
+  {
+   "name": "ถนนเลี่ยงเมืองแม่ริม",
+   "km": 10.43
+  },
+  {
+   "name": "ซอย 4",
+   "km": 9.61
+  },
+  {
+   "name": "ซอย 1",
+   "km": 9.4
+  },
+  {
+   "name": "ซอย 3",
+   "km": 7.81
+  },
+  {
+   "name": "ถนนเชียงใหม่-ดอยสะเก็ด",
+   "km": 7.24
+  },
+  {
+   "name": "Lamphun Chiangmai New Road West",
+   "km": 6.36
+  },
+  {
+   "name": "ถนนป่าแดด",
+   "km": 6.17
+  },
+  {
+   "name": "ถนน เกาะกลาง",
+   "km": 5.88
+  },
+  {
+   "name": "ทางหลวงชนบทเชียงใหม่ 3013",
+   "km": 5.79
+  },
+  {
+   "name": "เลียบถนนคลองชลประทาน",
+   "km": 5.57
+  },
+  {
+   "name": "Koolpunt Ville 9",
+   "km": 5.54
+  },
+  {
+   "name": "ซอย 6",
+   "km": 5.43
+  },
+  {
+   "name": "ซอย 5",
+   "km": 5.4
+  },
+  {
+   "name": "ถนนบ้านท่าเดื่อ",
+   "km": 4.71
+  },
+  {
+   "name": "ซอย 9",
+   "km": 4.71
+  },
+  {
+   "name": "Nam Cho Road",
+   "km": 4.66
+  },
+  {
+   "name": "ซอย 7",
+   "km": 4.6
+  },
+  {
+   "name": "ซอยวัดข้าวแท่น32",
+   "km": 4.58
+  },
+  {
+   "name": "ซอย หมู่บ้านวังตาล",
+   "km": 4.14
+  },
+  {
+   "name": "ถนนหนองฮ่อ",
+   "km": 4.12
+  },
+  {
+   "name": "ถนนซีรีนเลค",
+   "km": 4.02
+  }
+ ],
+ "construction": [
+  {
+   "id": 1371950190,
+   "name": "",
+   "construction": null,
+   "km": 0.8,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.750617,
+   "lon": 99.055289
+  },
+  {
+   "id": 1371950191,
+   "name": "",
+   "construction": null,
+   "km": 0.8,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.755838,
+   "lon": 99.060548
+  },
+  {
+   "id": 1388533292,
+   "name": "",
+   "construction": null,
+   "km": 0.63,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.729009,
+   "lon": 99.093252
+  },
+  {
+   "id": 927610995,
+   "name": "",
+   "construction": null,
+   "km": 0.56,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.880267,
+   "lon": 99.027793
+  },
+  {
+   "id": 1327438616,
+   "name": "",
+   "construction": null,
+   "km": 0.45,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.87696,
+   "lon": 99.027939
+  },
+  {
+   "id": 1327438614,
+   "name": "",
+   "construction": null,
+   "km": 0.35,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.879039,
+   "lon": 99.025678
+  },
+  {
+   "id": 1327438610,
+   "name": "",
+   "construction": null,
+   "km": 0.34,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.879275,
+   "lon": 99.023777
+  },
+  {
+   "id": 1371950218,
+   "name": "",
+   "construction": null,
+   "km": 0.33,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.752567,
+   "lon": 99.05902
+  },
+  {
+   "id": 1371950219,
+   "name": "",
+   "construction": null,
+   "km": 0.33,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.752452,
+   "lon": 99.058971
+  },
+  {
+   "id": 1388533294,
+   "name": "",
+   "construction": null,
+   "km": 0.29,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.723991,
+   "lon": 99.089163
+  },
+  {
+   "id": 1388533279,
+   "name": "",
+   "construction": null,
+   "km": 0.28,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724984,
+   "lon": 99.089823
+  },
+  {
+   "id": 1329775337,
+   "name": "",
+   "construction": null,
+   "km": 0.28,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.764262,
+   "lon": 99.09347
+  },
+  {
+   "id": 1478736270,
+   "name": "",
+   "construction": null,
+   "km": 0.27,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.752957,
+   "lon": 99.058164
+  },
+  {
+   "id": 753176101,
+   "name": "",
+   "construction": null,
+   "km": 0.25,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.729584,
+   "lon": 99.082487
+  },
+  {
+   "id": 753176102,
+   "name": "",
+   "construction": null,
+   "km": 0.25,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730526,
+   "lon": 99.082711
+  },
+  {
+   "id": 753176108,
+   "name": "",
+   "construction": null,
+   "km": 0.25,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.73,
+   "lon": 99.081865
+  },
+  {
+   "id": 1388533297,
+   "name": "",
+   "construction": null,
+   "km": 0.24,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.723708,
+   "lon": 99.090631
+  },
+  {
+   "id": 1296044455,
+   "name": "",
+   "construction": null,
+   "km": 0.23,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.689332,
+   "lon": 98.933734
+  },
+  {
+   "id": 1478736859,
+   "name": "",
+   "construction": null,
+   "km": 0.23,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.751615,
+   "lon": 99.060929
+  },
+  {
+   "id": 1478736860,
+   "name": "",
+   "construction": null,
+   "km": 0.23,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.751496,
+   "lon": 99.060888
+  },
+  {
+   "id": 1329775338,
+   "name": "",
+   "construction": null,
+   "km": 0.22,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.764337,
+   "lon": 99.092037
+  },
+  {
+   "id": 753176175,
+   "name": "",
+   "construction": null,
+   "km": 0.21,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730661,
+   "lon": 99.08086
+  },
+  {
+   "id": 1388533306,
+   "name": "",
+   "construction": null,
+   "km": 0.21,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725306,
+   "lon": 99.088763
+  },
+  {
+   "id": 753176176,
+   "name": "",
+   "construction": null,
+   "km": 0.2,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730204,
+   "lon": 99.083204
+  },
+  {
+   "id": 1388533288,
+   "name": "",
+   "construction": null,
+   "km": 0.2,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725422,
+   "lon": 99.086766
+  },
+  {
+   "id": 1327438615,
+   "name": "",
+   "construction": null,
+   "km": 0.2,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.880176,
+   "lon": 99.031093
+  },
+  {
+   "id": 1304786760,
+   "name": "",
+   "construction": null,
+   "km": 0.19,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.666894,
+   "lon": 98.925369
+  },
+  {
+   "id": 1388533291,
+   "name": "",
+   "construction": null,
+   "km": 0.19,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724702,
+   "lon": 99.088237
+  },
+  {
+   "id": 1388533305,
+   "name": "",
+   "construction": null,
+   "km": 0.19,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.726248,
+   "lon": 99.091144
+  },
+  {
+   "id": 1298713800,
+   "name": "",
+   "construction": null,
+   "km": 0.19,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.773769,
+   "lon": 99.057556
+  },
+  {
+   "id": 1416349897,
+   "name": "",
+   "construction": null,
+   "km": 0.18,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.771291,
+   "lon": 99.055777
+  },
+  {
+   "id": 1474750988,
+   "name": "",
+   "construction": null,
+   "km": 0.17,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765398,
+   "lon": 99.097792
+  },
+  {
+   "id": 1327438612,
+   "name": "",
+   "construction": null,
+   "km": 0.17,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.878652,
+   "lon": 99.027656
+  },
+  {
+   "id": 1289253135,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.685209,
+   "lon": 98.970264
+  },
+  {
+   "id": 1064232265,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.70139,
+   "lon": 98.928273
+  },
+  {
+   "id": 1296044690,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.689073,
+   "lon": 98.934127
+  },
+  {
+   "id": 753176105,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.729537,
+   "lon": 99.080053
+  },
+  {
+   "id": 1478736979,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.756903,
+   "lon": 99.061599
+  },
+  {
+   "id": 1478736980,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.757005,
+   "lon": 99.061452
+  },
+  {
+   "id": 1491148008,
+   "name": "",
+   "construction": null,
+   "km": 0.16,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.839116,
+   "lon": 99.044723
+  },
+  {
+   "id": 1264057966,
+   "name": "",
+   "construction": "residential",
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.731444,
+   "lon": 98.99309
+  },
+  {
+   "id": 753176103,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.73046,
+   "lon": 99.08117
+  },
+  {
+   "id": 753176104,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730661,
+   "lon": 99.08086
+  },
+  {
+   "id": 753176106,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730251,
+   "lon": 99.081492
+  },
+  {
+   "id": 753176107,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730867,
+   "lon": 99.080545
+  },
+  {
+   "id": 1069491607,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.729848,
+   "lon": 99.079552
+  },
+  {
+   "id": 1024441605,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.833456,
+   "lon": 99.062221
+  },
+  {
+   "id": 1458662007,
+   "name": "",
+   "construction": null,
+   "km": 0.15,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.895511,
+   "lon": 98.958388
+  },
+  {
+   "id": 1064232269,
+   "name": "",
+   "construction": null,
+   "km": 0.14,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.701046,
+   "lon": 98.928189
+  },
+  {
+   "id": 1474749613,
+   "name": "",
+   "construction": null,
+   "km": 0.14,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765244,
+   "lon": 99.093729
+  },
+  {
+   "id": 1491148009,
+   "name": "",
+   "construction": null,
+   "km": 0.14,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.839478,
+   "lon": 99.044948
+  },
+  {
+   "id": 1024441611,
+   "name": "",
+   "construction": null,
+   "km": 0.14,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.833057,
+   "lon": 99.062333
+  },
+  {
+   "id": 1482535726,
+   "name": "",
+   "construction": null,
+   "km": 0.13,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.680393,
+   "lon": 98.904894
+  },
+  {
+   "id": 1388533283,
+   "name": "",
+   "construction": null,
+   "km": 0.13,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.723678,
+   "lon": 99.088977
+  },
+  {
+   "id": 1474749608,
+   "name": "",
+   "construction": null,
+   "km": 0.13,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.764577,
+   "lon": 99.093324
+  },
+  {
+   "id": 1388533277,
+   "name": "",
+   "construction": null,
+   "km": 0.12,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724145,
+   "lon": 99.087957
+  },
+  {
+   "id": 1388533280,
+   "name": "",
+   "construction": null,
+   "km": 0.11,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724708,
+   "lon": 99.088428
+  },
+  {
+   "id": 1388533300,
+   "name": "",
+   "construction": null,
+   "km": 0.11,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.72654,
+   "lon": 99.091718
+  },
+  {
+   "id": 1416349895,
+   "name": "",
+   "construction": null,
+   "km": 0.11,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.770894,
+   "lon": 99.055837
+  },
+  {
+   "id": 1416349896,
+   "name": "",
+   "construction": null,
+   "km": 0.11,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.771291,
+   "lon": 99.055777
+  },
+  {
+   "id": 331471619,
+   "name": "",
+   "construction": "service",
+   "km": 0.11,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "moat",
+   "lat": 18.793538,
+   "lon": 98.981307
+  },
+  {
+   "id": 1025399628,
+   "name": "",
+   "construction": null,
+   "km": 0.11,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.821448,
+   "lon": 99.060052
+  },
+  {
+   "id": 1064232268,
+   "name": "",
+   "construction": null,
+   "km": 0.1,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.701501,
+   "lon": 98.92917
+  },
+  {
+   "id": 1388533303,
+   "name": "",
+   "construction": null,
+   "km": 0.1,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.726223,
+   "lon": 99.09094
+  },
+  {
+   "id": 1478736858,
+   "name": "",
+   "construction": null,
+   "km": 0.1,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.754247,
+   "lon": 99.055438
+  },
+  {
+   "id": 1416349894,
+   "name": "",
+   "construction": null,
+   "km": 0.1,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.770508,
+   "lon": 99.055895
+  },
+  {
+   "id": 1491148010,
+   "name": "",
+   "construction": null,
+   "km": 0.1,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.839216,
+   "lon": 99.044785
+  },
+  {
+   "id": 753176174,
+   "name": "",
+   "construction": null,
+   "km": 0.09,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.728697,
+   "lon": 99.081391
+  },
+  {
+   "id": 1388533286,
+   "name": "",
+   "construction": null,
+   "km": 0.09,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724978,
+   "lon": 99.089499
+  },
+  {
+   "id": 1388533298,
+   "name": "",
+   "construction": null,
+   "km": 0.09,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724688,
+   "lon": 99.089306
+  },
+  {
+   "id": 1388533304,
+   "name": "",
+   "construction": null,
+   "km": 0.09,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.726512,
+   "lon": 99.091218
+  },
+  {
+   "id": 1478736857,
+   "name": "",
+   "construction": null,
+   "km": 0.09,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.754356,
+   "lon": 99.055494
+  },
+  {
+   "id": 1024441602,
+   "name": "",
+   "construction": null,
+   "km": 0.09,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.833057,
+   "lon": 99.062333
+  },
+  {
+   "id": 1388533296,
+   "name": "",
+   "construction": null,
+   "km": 0.08,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725979,
+   "lon": 99.090607
+  },
+  {
+   "id": 1474750987,
+   "name": "",
+   "construction": null,
+   "km": 0.08,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765839,
+   "lon": 99.098197
+  },
+  {
+   "id": 1064232038,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.701495,
+   "lon": 98.928786
+  },
+  {
+   "id": 753177656,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.730204,
+   "lon": 99.083204
+  },
+  {
+   "id": 1388533289,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725257,
+   "lon": 99.089727
+  },
+  {
+   "id": 1388533293,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725794,
+   "lon": 99.090251
+  },
+  {
+   "id": 1474749610,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.764577,
+   "lon": 99.093324
+  },
+  {
+   "id": 1474750985,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765124,
+   "lon": 99.098118
+  },
+  {
+   "id": 1298710323,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.796063,
+   "lon": 99.080815
+  },
+  {
+   "id": 1251432742,
+   "name": "",
+   "construction": null,
+   "km": 0.07,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.832652,
+   "lon": 99.062429
+  },
+  {
+   "id": 1304786757,
+   "name": "",
+   "construction": null,
+   "km": 0.06,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.667231,
+   "lon": 98.925216
+  },
+  {
+   "id": 1304786762,
+   "name": "",
+   "construction": null,
+   "km": 0.06,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.666537,
+   "lon": 98.925116
+  },
+  {
+   "id": 1304786763,
+   "name": "",
+   "construction": null,
+   "km": 0.06,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.666894,
+   "lon": 98.925369
+  },
+  {
+   "id": 1388533284,
+   "name": "",
+   "construction": null,
+   "km": 0.06,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725548,
+   "lon": 99.089908
+  },
+  {
+   "id": 1327438611,
+   "name": "",
+   "construction": null,
+   "km": 0.06,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.880355,
+   "lon": 99.025178
+  },
+  {
+   "id": 1327438578,
+   "name": "",
+   "construction": null,
+   "km": 0.06,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.874527,
+   "lon": 99.056442
+  },
+  {
+   "id": 1388533278,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725867,
+   "lon": 99.090594
+  },
+  {
+   "id": 1388533287,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725099,
+   "lon": 99.088334
+  },
+  {
+   "id": 1388533299,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.726073,
+   "lon": 99.090894
+  },
+  {
+   "id": 1416349893,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.77169,
+   "lon": 99.055717
+  },
+  {
+   "id": 1474749609,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.764612,
+   "lon": 99.093251
+  },
+  {
+   "id": 1474750984,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765652,
+   "lon": 99.097491
+  },
+  {
+   "id": 1298710324,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.795705,
+   "lon": 99.080658
+  },
+  {
+   "id": 1025399627,
+   "name": "",
+   "construction": null,
+   "km": 0.05,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.821261,
+   "lon": 99.060821
+  },
+  {
+   "id": 1069502062,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.729353,
+   "lon": 99.082823
+  },
+  {
+   "id": 1388533281,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724984,
+   "lon": 99.089823
+  },
+  {
+   "id": 1388533295,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.725248,
+   "lon": 99.090043
+  },
+  {
+   "id": 1388533301,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.72551,
+   "lon": 99.090262
+  },
+  {
+   "id": 1388533302,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.724709,
+   "lon": 99.089593
+  },
+  {
+   "id": 1329775339,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.764248,
+   "lon": 99.09289
+  },
+  {
+   "id": 1327438579,
+   "name": "",
+   "construction": null,
+   "km": 0.04,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.874195,
+   "lon": 99.056553
+  },
+  {
+   "id": 1388533285,
+   "name": "",
+   "construction": null,
+   "km": 0.03,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.726164,
+   "lon": 99.091237
+  },
+  {
+   "id": 1388533290,
+   "name": "",
+   "construction": null,
+   "km": 0.03,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.726401,
+   "lon": 99.091194
+  },
+  {
+   "id": 1474749611,
+   "name": "",
+   "construction": null,
+   "km": 0.03,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765467,
+   "lon": 99.094061
+  },
+  {
+   "id": 1474749612,
+   "name": "",
+   "construction": null,
+   "km": 0.03,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.765244,
+   "lon": 99.093729
+  },
+  {
+   "id": 1025399630,
+   "name": "",
+   "construction": null,
+   "km": 0.03,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "ring3",
+   "lat": 18.821345,
+   "lon": 99.060478
+  },
+  {
+   "id": 1069491608,
+   "name": "",
+   "construction": null,
+   "km": 0.02,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.72917,
+   "lon": 99.081269
+  },
+  {
+   "id": 1064232270,
+   "name": "",
+   "construction": null,
+   "km": 0.01,
+   "opening_date": null,
+   "start_date": null,
+   "zone": "beyond",
+   "lat": 18.70141,
+   "lon": 98.929426
+  }
+ ],
+ "construction_km": 16.94,
+ "bridges_total": 1329,
+ "tunnels": [
+  {
+   "id": 1123569257,
+   "name": "",
+   "highway": "residential",
+   "km": 0.015,
+   "zone": "beyond",
+   "lat": 18.707152,
+   "lon": 98.913234
+  },
+  {
+   "id": 1153649716,
+   "name": "",
+   "highway": "residential",
+   "km": 0.018,
+   "zone": "beyond",
+   "lat": 18.707452,
+   "lon": 98.913129
+  },
+  {
+   "id": 1153649720,
+   "name": "",
+   "highway": "residential",
+   "km": 0.018,
+   "zone": "beyond",
+   "lat": 18.707515,
+   "lon": 98.913306
+  },
+  {
+   "id": 1153649723,
+   "name": "",
+   "highway": "residential",
+   "km": 0.011,
+   "zone": "beyond",
+   "lat": 18.707229,
+   "lon": 98.913374
+  },
+  {
+   "id": 1102635017,
+   "name": "",
+   "highway": "primary",
+   "km": 0.284,
+   "zone": "beyond",
+   "lat": 18.723252,
+   "lon": 98.927488
+  },
+  {
+   "id": 1102635024,
+   "name": "",
+   "highway": "primary",
+   "km": 0.284,
+   "zone": "beyond",
+   "lat": 18.725725,
+   "lon": 98.926785
+  },
+  {
+   "id": 1327778230,
+   "name": "",
+   "highway": "service",
+   "km": 0.055,
+   "zone": "beyond",
+   "lat": 18.720854,
+   "lon": 99.044958
+  },
+  {
+   "id": 87911029,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.083,
+   "zone": "ring3",
+   "lat": 18.743022,
+   "lon": 98.959858
+  },
+  {
+   "id": 689225368,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.082,
+   "zone": "ring3",
+   "lat": 18.743378,
+   "lon": 98.959162
+  },
+  {
+   "id": 254304016,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.031,
+   "zone": "ring3",
+   "lat": 18.744189,
+   "lon": 99.013396
+  },
+  {
+   "id": 254304017,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.03,
+   "zone": "ring3",
+   "lat": 18.744314,
+   "lon": 99.013654
+  },
+  {
+   "id": 77058564,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.171,
+   "zone": "ring3",
+   "lat": 18.762519,
+   "lon": 99.038667
+  },
+  {
+   "id": 77058569,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.172,
+   "zone": "ring3",
+   "lat": 18.764048,
+   "lon": 99.038998
+  },
+  {
+   "id": 1327277176,
+   "name": "",
+   "highway": "service",
+   "km": 0.013,
+   "zone": "ring3",
+   "lat": 18.760212,
+   "lon": 99.042475
+  },
+  {
+   "id": 83229302,
+   "name": "",
+   "highway": "service",
+   "km": 0.021,
+   "zone": "beyond",
+   "lat": 18.759198,
+   "lon": 99.078346
+  },
+  {
+   "id": 474586318,
+   "name": "",
+   "highway": "service",
+   "km": 0.014,
+   "zone": "ring1",
+   "lat": 18.789913,
+   "lon": 98.970849
+  },
+  {
+   "id": 1452767837,
+   "name": "",
+   "highway": "service",
+   "km": 0.019,
+   "zone": "ring1",
+   "lat": 18.773861,
+   "lon": 98.977117
+  },
+  {
+   "id": 697816768,
+   "name": "",
+   "highway": "service",
+   "km": 0.005,
+   "zone": "ring1",
+   "lat": 18.780943,
+   "lon": 98.997752
+  },
+  {
+   "id": 697820528,
+   "name": "",
+   "highway": "service",
+   "km": 0.006,
+   "zone": "ring1",
+   "lat": 18.781775,
+   "lon": 99.003641
+  },
+  {
+   "id": 749659923,
+   "name": "",
+   "highway": "service",
+   "km": 0.005,
+   "zone": "ring1",
+   "lat": 18.784478,
+   "lon": 99.001839
+  },
+  {
+   "id": 793158516,
+   "name": "",
+   "highway": "service",
+   "km": 0.019,
+   "zone": "moat",
+   "lat": 18.786836,
+   "lon": 98.992963
+  },
+  {
+   "id": 1215944255,
+   "name": "",
+   "highway": "service",
+   "km": 0.016,
+   "zone": "ring1",
+   "lat": 18.775063,
+   "lon": 98.983315
+  },
+  {
+   "id": 1327860347,
+   "name": "",
+   "highway": "service",
+   "km": 0.024,
+   "zone": "ring1",
+   "lat": 18.782725,
+   "lon": 99.000446
+  },
+  {
+   "id": 87895320,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.059,
+   "zone": "ring2",
+   "lat": 18.783207,
+   "lon": 99.026923
+  },
+  {
+   "id": 87895330,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.06,
+   "zone": "ring2",
+   "lat": 18.783724,
+   "lon": 99.026703
+  },
+  {
+   "id": 1212175979,
+   "name": "",
+   "highway": "service",
+   "km": 0.012,
+   "zone": "ring2",
+   "lat": 18.778004,
+   "lon": 99.014399
+  },
+  {
+   "id": 58002193,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.054,
+   "zone": "ring3",
+   "lat": 18.78014,
+   "lon": 99.042211
+  },
+  {
+   "id": 58002198,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.057,
+   "zone": "ring3",
+   "lat": 18.780634,
+   "lon": 99.042081
+  },
+  {
+   "id": 88507331,
+   "name": "",
+   "highway": "service",
+   "km": 0.156,
+   "zone": "ring2",
+   "lat": 18.76918,
+   "lon": 99.029422
+  },
+  {
+   "id": 623770756,
+   "name": "",
+   "highway": "service",
+   "km": 0.16,
+   "zone": "ring2",
+   "lat": 18.769201,
+   "lon": 99.029414
+  },
+  {
+   "id": 266824850,
+   "name": "",
+   "highway": "service",
+   "km": 0.06,
+   "zone": "ring1",
+   "lat": 18.802684,
+   "lon": 98.967599
+  },
+  {
+   "id": 314524546,
+   "name": "",
+   "highway": "service",
+   "km": 0.036,
+   "zone": "ring1",
+   "lat": 18.803001,
+   "lon": 98.966955
+  },
+  {
+   "id": 323672784,
+   "name": "",
+   "highway": "service",
+   "km": 0.026,
+   "zone": "ring1",
+   "lat": 18.800303,
+   "lon": 98.970445
+  },
+  {
+   "id": 773909197,
+   "name": "",
+   "highway": "service",
+   "km": 0.008,
+   "zone": "ring1",
+   "lat": 18.805375,
+   "lon": 98.963781
+  },
+  {
+   "id": 813813639,
+   "name": "",
+   "highway": "service",
+   "km": 0.015,
+   "zone": "moat",
+   "lat": 18.795231,
+   "lon": 98.977925
+  },
+  {
+   "id": 813813640,
+   "name": "",
+   "highway": "service",
+   "km": 0.046,
+   "zone": "moat",
+   "lat": 18.794898,
+   "lon": 98.978014
+  },
+  {
+   "id": 1155954739,
+   "name": "",
+   "highway": "service",
+   "km": 0.017,
+   "zone": "ring1",
+   "lat": 18.799003,
+   "lon": 98.971163
+  },
+  {
+   "id": 1211991360,
+   "name": "",
+   "highway": "service",
+   "km": 0.02,
+   "zone": "ring1",
+   "lat": 18.794765,
+   "lon": 98.977348
+  },
+  {
+   "id": 1278065182,
+   "name": "",
+   "highway": "service",
+   "km": 0.07,
+   "zone": "ring1",
+   "lat": 18.796156,
+   "lon": 98.9754
+  },
+  {
+   "id": 1327232343,
+   "name": "",
+   "highway": "service",
+   "km": 0.01,
+   "zone": "ring1",
+   "lat": 18.80456,
+   "lon": 98.968938
+  },
+  {
+   "id": 58306928,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.054,
+   "zone": "ring1",
+   "lat": 18.81193,
+   "lon": 98.983854
+  },
+  {
+   "id": 58306935,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.055,
+   "zone": "ring1",
+   "lat": 18.811808,
+   "lon": 98.98388
+  },
+  {
+   "id": 261852618,
+   "name": "",
+   "highway": "service",
+   "km": 0.058,
+   "zone": "ring1",
+   "lat": 18.810655,
+   "lon": 98.981399
+  },
+  {
+   "id": 1212022945,
+   "name": "",
+   "highway": "service",
+   "km": 0.021,
+   "zone": "moat",
+   "lat": 18.796003,
+   "lon": 98.985032
+  },
+  {
+   "id": 49124581,
+   "name": "",
+   "highway": "service",
+   "km": 0.059,
+   "zone": "ring2",
+   "lat": 18.798833,
+   "lon": 99.023047
+  },
+  {
+   "id": 70080555,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.101,
+   "zone": "ring2",
+   "lat": 18.809856,
+   "lon": 99.026016
+  },
+  {
+   "id": 70080560,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.1,
+   "zone": "ring2",
+   "lat": 18.809572,
+   "lon": 99.026355
+  },
+  {
+   "id": 87890654,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.061,
+   "zone": "ring2",
+   "lat": 18.803605,
+   "lon": 99.018296
+  },
+  {
+   "id": 87890656,
+   "name": "ทางลอดแยกศาลเด็ก",
+   "highway": "trunk",
+   "km": 0.059,
+   "zone": "ring2",
+   "lat": 18.803676,
+   "lon": 99.018427
+  },
+  {
+   "id": 323078822,
+   "name": "",
+   "highway": "service",
+   "km": 0.107,
+   "zone": "ring2",
+   "lat": 18.798965,
+   "lon": 99.022407
+  },
+  {
+   "id": 333522064,
+   "name": "",
+   "highway": "service",
+   "km": 0.026,
+   "zone": "ring1",
+   "lat": 18.791898,
+   "lon": 99.00549
+  },
+  {
+   "id": 533165790,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.093,
+   "zone": "ring2",
+   "lat": 18.809523,
+   "lon": 99.011334
+  },
+  {
+   "id": 533582977,
+   "name": "ถนนซุปเปอร์ไฮเวย์",
+   "highway": "trunk",
+   "km": 0.091,
+   "zone": "ring2",
+   "lat": 18.809522,
+   "lon": 99.010428
+  },
+  {
+   "id": 698872803,
+   "name": "",
+   "highway": "service",
+   "km": 0.045,
+   "zone": "ring2",
+   "lat": 18.798776,
+   "lon": 99.021731
+  },
+  {
+   "id": 702547575,
+   "name": "",
+   "highway": "service",
+   "km": 0.022,
+   "zone": "ring2",
+   "lat": 18.805992,
+   "lon": 99.018262
+  },
+  {
+   "id": 764052764,
+   "name": "",
+   "highway": "service",
+   "km": 0.059,
+   "zone": "ring2",
+   "lat": 18.791874,
+   "lon": 99.018126
+  },
+  {
+   "id": 777886016,
+   "name": "",
+   "highway": "service",
+   "km": 0.008,
+   "zone": "ring2",
+   "lat": 18.803865,
+   "lon": 99.019572
+  },
+  {
+   "id": 777886017,
+   "name": "",
+   "highway": "service",
+   "km": 0.008,
+   "zone": "ring2",
+   "lat": 18.80394,
+   "lon": 99.019661
+  },
+  {
+   "id": 777886018,
+   "name": "",
+   "highway": "service",
+   "km": 0.011,
+   "zone": "ring2",
+   "lat": 18.803737,
+   "lon": 99.019995
+  },
+  {
+   "id": 1104899265,
+   "name": "",
+   "highway": "service",
+   "km": 0.027,
+   "zone": "ring2",
+   "lat": 18.808128,
+   "lon": 99.016536
+  },
+  {
+   "id": 1275963849,
+   "name": "",
+   "highway": "service",
+   "km": 0.007,
+   "zone": "ring2",
+   "lat": 18.810258,
+   "lon": 99.020533
+  },
+  {
+   "id": 1275963850,
+   "name": "",
+   "highway": "service",
+   "km": 0.006,
+   "zone": "ring2",
+   "lat": 18.810327,
+   "lon": 99.020512
+  },
+  {
+   "id": 72455217,
+   "name": "",
+   "highway": "service",
+   "km": 0.048,
+   "zone": "ring2",
+   "lat": 18.795474,
+   "lon": 99.036133
+  },
+  {
+   "id": 701162007,
+   "name": "",
+   "highway": "service",
+   "km": 0.048,
+   "zone": "ring2",
+   "lat": 18.795521,
+   "lon": 99.036534
+  },
+  {
+   "id": 55463860,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.075,
+   "zone": "ring3",
+   "lat": 18.839846,
+   "lon": 98.973729
+  },
+  {
+   "id": 58566631,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.067,
+   "zone": "ring3",
+   "lat": 18.839904,
+   "lon": 98.973846
+  },
+  {
+   "id": 940227868,
+   "name": "",
+   "highway": "service",
+   "km": 0.071,
+   "zone": "ring2",
+   "lat": 18.826435,
+   "lon": 98.961352
+  },
+  {
+   "id": 193637311,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.076,
+   "zone": "ring2",
+   "lat": 18.823089,
+   "lon": 99.012295
+  },
+  {
+   "id": 193638945,
+   "name": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "highway": "primary",
+   "km": 0.075,
+   "zone": "ring2",
+   "lat": 18.823049,
+   "lon": 99.011572
+  },
+  {
+   "id": 1099750983,
+   "name": "",
+   "highway": "service",
+   "km": 0.076,
+   "zone": "ring2",
+   "lat": 18.824032,
+   "lon": 99.009061
+  },
+  {
+   "id": 1068147835,
+   "name": "",
+   "highway": "primary_link",
+   "km": 0.098,
+   "zone": "beyond",
+   "lat": 18.842034,
+   "lon": 99.071476
+  },
+  {
+   "id": 341811981,
+   "name": "ถนนโชตนา",
+   "highway": "primary",
+   "km": 0.169,
+   "zone": "ring3",
+   "lat": 18.866273,
+   "lon": 98.964436
+  },
+  {
+   "id": 341811984,
+   "name": "ถนนโชตนา",
+   "highway": "primary",
+   "km": 0.17,
+   "zone": "beyond",
+   "lat": 18.866939,
+   "lon": 98.964191
+  },
+  {
+   "id": 1328705057,
+   "name": "",
+   "highway": "service",
+   "km": 0.051,
+   "zone": "ring3",
+   "lat": 18.852564,
+   "lon": 98.968316
+  },
+  {
+   "id": 1020234506,
+   "name": "",
+   "highway": "unclassified",
+   "km": 0.045,
+   "zone": "ring3",
+   "lat": 18.8666,
+   "lon": 98.982662
+  },
+  {
+   "id": 939585879,
+   "name": "",
+   "highway": "residential",
+   "km": 0.004,
+   "zone": "beyond",
+   "lat": 18.889294,
+   "lon": 98.982067
+  }
+ ],
+ "ping_bridges": [],
+ "signals": 0,
+ "wats": 0
+}

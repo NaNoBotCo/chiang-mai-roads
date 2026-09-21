@@ -1,0 +1,64 @@
+{
+ "id": "san-dek-underpass",
+ "type": "junction",
+ "names": {
+  "name": "San Dek underpass",
+  "th": "ทางลอดสันเด็ก",
+  "rtgs": "Thang Lot San Dek",
+  "said": "Opened the same day as Khuang Sing, after the same contractor left.",
+  "said_th": "เปิดวันเดียวกับข่วงสิงห์ หลังผู้รับเหมาคนเดียวกันทิ้งไป"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "now",
+  "year": "2007"
+ },
+ "text": {
+  "what": "Where the road to the Arcade bus station and Kaew Nawarat cross the Superhighway on the east. Same contract, same abandonment and same six-month rescue as Khuang Sing; opened 26 December 2007. Its original estimate was 350 million baht. In October 2024 the flood reached it from the river."
+ },
+ "text_th": {
+  "what": "ตี้ถนนไปสถานีขนส่งอาเขตและแก้วนวรัฐตัดซุปเปอร์ไฮเวย์ด้านตะวันออก สัญญาเดียวกัน ทิ้งงานเหมือนกัน และกู้งานหกเดือนเหมือนกันกับข่วงสิงห์ เปิด 26 ธันวาคม 2550 ประเมินเดิม 350 ล้านบาท ตุลาคม 2567 น้ำจากแม่น้ำมาถึงมัน"
+ },
+ "geo": {
+  "lat": 18.8005,
+  "lon": 99.018,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "khuang-sing-underpass",
+   "as": "Its twin.",
+   "rel": "junction"
+  },
+  {
+   "to": "arcade-bus-terminal",
+   "as": "Beside it.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "construction",
+  "flood"
+ ],
+ "sources": [
+  "s:mgr-9500000153752",
+  "s:lanner-flood"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:mgr-9500000153752"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

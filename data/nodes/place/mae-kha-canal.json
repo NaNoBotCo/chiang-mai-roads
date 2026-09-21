@@ -1,0 +1,93 @@
+{
+ "id": "mae-kha-canal",
+ "type": "place",
+ "names": {
+  "name": "Mae Kha canal",
+  "th": "คลองแม่ข่า",
+  "rtgs": "Khlong Mae Kha",
+  "said": "The outer moat that became a drain, and is being made a canal again.",
+  "said_th": "คูชั้นนอกตี้กลายเป็นท่อ แล้วกำลังถูกทำเป็นคลองแหม"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "A stream of about 31 km that Mangrai counted among the site's seven auspicious features and used as the outer moat, east of the earthen wall. By the 2010s its water was in the worst pollution class. The municipality began a restoration in 2017 with 50 million baht and a master plan for 2018–22; the stretch behind Chang Klan is now a walkway."
+ },
+ "text_th": {
+  "what": "ลำน้ำราว 31 กม. ที่พญามังรายนับเป็นหนึ่งในชัยมงคลเจ็ดประการของที่ตั้งเมือง และใช้เป็นคูชั้นนอก ทางตะวันออกของกำแพงดิน ถึงทศวรรษ 2550 น้ำอยู่ในชั้นคุณภาพแย่ที่สุด เทศบาลเริ่มฟื้นฟูปี 2560 ด้วยงบ 50 ล้านบาทและแผนแม่บท 2561–65 ช่วงหลังช้างคลานตอนนี้เป็นทางเดิน"
+ },
+ "geo": {
+  "lat": 18.783,
+  "lon": 99.0,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "kamphaeng-din",
+   "as": "Ran outside it.",
+   "rel": "place"
+  },
+  {
+   "to": "unesco-nomination",
+   "as": "Inside the nominated core.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "walk",
+  "flood"
+ ],
+ "sources": [
+  "s:thwp-mae-kha",
+  "s:citylife-unesco"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-mae-kha"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "mae-kha-canal/mae-kha-canal-khlong-mae-kha.jpg",
+   "source": "commons",
+   "title": "File:Khlong Mae Kha.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Khlong_Mae_Kha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKhlong_Mae_Kha.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Vano111ru",
+   "credit": "Own work",
+   "alt": "Khlong Mae Kha",
+   "date": "6 February 2024 (according to Exif data)",
+   "primary": true,
+   "sha256": "b1ce43998407aa535eb4ddba74edfe2970c3800179da7cda1e126562bf3c038a"
+  },
+  {
+   "file": "mae-kha-canal/mae-kha-canal-khlong-mae-kha-bridge-ragang-rd-img-20230225-172728.jpg",
+   "source": "commons",
+   "title": "File:Khlong Mae Kha bridge Ragang Rd IMG 20230225 172728.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Khlong_Mae_Kha_bridge_Ragang_Rd_IMG_20230225_172728.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKhlong_Mae_Kha_bridge_Ragang_Rd_IMG_20230225_172728.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Dit is de brug aan de verkeersweg (Ragang Road).",
+   "date": "2023-02-25 17:27:30",
+   "primary": false,
+   "sha256": "78eb9ba09a3b9084481abff205bff4a2a16fcb17e3e5e827020ab89a70c6e2a0"
+  }
+ ]
+}

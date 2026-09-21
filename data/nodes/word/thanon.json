@@ -1,0 +1,62 @@
+{
+ "id": "thanon",
+ "type": "word",
+ "names": {
+  "name": "ถนน thanon",
+  "th": "ถนน",
+  "rtgs": "thanon"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ถนน thanon ← Khmer ថ្នល់ thnal, a raised road. The word for a made road, as against thang, a way.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The standard word, used in both registers. A thanon is built; a thang is only gone along."
+ },
+ "text_th": {
+  "what": "คำมาตรฐาน ใช้ทั้งสองสำเนียง ถนนคือสิ่งที่ถูกสร้าง ทางคือสิ่งที่แค่เดินไป"
+ },
+ "word": {
+  "th": "ถนน",
+  "rtgs": "thanon",
+  "ipa": "/tʰa.nǒn/",
+  "standard": "ถนน",
+  "standard_rtgs": "thanon",
+  "gloss": "road, street",
+  "gloss_th": "ถนน",
+  "example": "ถนนท่าแพ",
+  "example_gloss": "Thanon Tha Phae — Tha Phae Road"
+ },
+ "kin": [
+  {
+   "to": "thang",
+   "as": "The other word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

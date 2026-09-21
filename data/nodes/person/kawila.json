@@ -1,0 +1,54 @@
+{
+ "id": "kawila",
+ "type": "person",
+ "names": {
+  "name": "Kawila",
+  "th": "พระเจ้ากาวิละ",
+  "rtgs": "Phra Chao Kawila",
+  "said": "Re-peopled an empty city and re-dug its moat, 1796.",
+  "said_th": "เอาคนกลับมาใส่เวียงฮ้าง แล้วขุดคูแหม ปี 2339"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "First ruler of Chiang Mai under Siam. The city had stood nearly empty for two decades after the Burmese wars; he re-entered it in 1796, restored the walls and moat, and added the corner bastions in the form they have now. The gates and corners a driver turns at today are largely his."
+ },
+ "text_th": {
+  "what": "เจ้าผู้ครองเชียงใหม่องค์แรกภายใต้สยาม เมืองร้างเกือบยี่สิบปีหลังสงครามพม่า ท่านกลับเข้าเวียงปี 2339 บูรณะกำแพงและคู และเพิ่มแจ่งในรูปที่เป็นอยู่ตอนนี้ ประตูและแจ่งที่คนขับรถเลี้ยวผ่านวันนี้ส่วนใหญ่เป็นของท่าน"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "What he restored.",
+   "rel": "place"
+  },
+  {
+   "to": "era-kawila-1796-1900",
+   "as": "His era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:wp-kawila",
+  "s:onep-278"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-kawila"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

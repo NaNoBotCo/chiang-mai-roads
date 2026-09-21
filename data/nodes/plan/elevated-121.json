@@ -1,0 +1,64 @@
+{
+ "id": "elevated-121",
+ "type": "plan",
+ "names": {
+  "name": "An elevated road on the outer ring, Don Kaew to Mueang Kaew",
+  "th": "ทางยกระดับบนทางหลวง 121 ดอนแก้ว–เมืองแก้ว",
+  "said": "20.9 km on stilts along the canal road, about 2,000 million baht, and it might block the mountain.",
+  "said_th": "20.9 กิโลบนเสาเลียบถนนคลองชลประทาน ราว 2,000 ล้านบาท และอาจบังดอย"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "study",
+  "era": "planned"
+ },
+ "text": {
+  "what": "The highway department, not the expressway authority, studied six models from March 2025 for an elevated road on the west side of Route 121, 20.857 km. Model five was preferred at about 2,000 million baht, 1,000 to build, 500 for land and 500 to operate, about two and a half years, with congestion cut by more than half; the objection recorded is that it may block the view of Doi Suthep. An initial and then a full environmental assessment are required. Separately the department held a hearing on redesigning the canal road for congestion."
+ },
+ "text_th": {
+  "what": "กรมทางหลวง ไม่ใช่การทางพิเศษ ศึกษาหกรูปแบบตั้งแต่มีนาคม 2568 สำหรับทางยกระดับด้านตะวันตกของทางหลวง 121 ยาว 20.857 กม. รูปแบบที่ห้าเป็นที่ต้องการ ราว 2,000 ล้านบาท ก่อสร้าง 1,000 ที่ดิน 500 ดำเนินการ 500 ราวสองปีครึ่ง ลดการติดขัดกว่าครึ่ง ข้อคัดค้านที่บันทึกไว้คืออาจบังวิวดอยสุเทพ ต้องทำรายงานสิ่งแวดล้อมเบื้องต้นแล้วฉบับเต็ม อีกทางหนึ่งกรมจัดรับฟังความเห็นเรื่องออกแบบถนนคลองชลประทานใหม่แก้รถติด"
+ },
+ "plan": {
+  "status": "study",
+  "as_of": "2025",
+  "budget_thb": 2000000000,
+  "km": 20.857,
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง"
+ },
+ "kin": [
+  {
+   "to": "ring-3",
+   "as": "On it.",
+   "rel": "ring"
+  },
+  {
+   "to": "doi-suthep",
+   "as": "What it might hide.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:citylife-big-development"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:citylife-big-development"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

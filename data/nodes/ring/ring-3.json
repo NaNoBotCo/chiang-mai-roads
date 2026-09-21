@@ -1,0 +1,124 @@
+{
+ "id": "ring-3",
+ "type": "ring",
+ "names": {
+  "name": "Ring 3, Route 121",
+  "th": "วงแหวนรอบนอก — ทางหลวง 121",
+  "rtgs": "Thanon Wong Waen Rop Nok",
+  "aliases": [
+   "Outer ring",
+   "Canal Road (west side)",
+   "ถนนเลียบคลองชลประทาน"
+  ],
+  "said": "52.96 km round, begun 1994, closed in the 2000s, and now being given five interchanges for 3,145 million baht.",
+  "said_th": "ยาวรอบ 52.96 กิโล เริ่ม 2537 ปิดวงในทศวรรษ 2540 และกำลังได้ทางแยกต่างระดับห้าแห่ง 3,145 ล้านบาท"
+ },
+ "region": [
+  "ring3"
+ ],
+ "facets": {
+  "era": "rings",
+  "ref": "121",
+  "km": 52.957,
+  "year": "1994–2000s"
+ },
+ "text": {
+  "what": "The outer ring, about 9 km out: a 52.957 km closed loop through Hang Dong, Saraphi, San Kamphaeng, Doi Saket, San Sai and Mae Rim, crossing the Ping twice. The west side runs along the irrigation canal, a 9.3 km road the Royal Irrigation Department built and handed to the highway department on 9 April 1998. Begun 1994 by the Lampang highway centre as two lanes, Ping to Hang Dong first, delayed by expropriation and the 1997 crash. The Hang Dong–university section, 11 km and four lanes, was built April 2002 to June 2004 for 332 million baht. The 2024 counts read 42,336 vehicles a day at km 1 and 21,476 at km 38.",
+  "story": "Five interchanges are under tender for 3,145 million baht in total, due 2027: Samoeng at Route 108 (920 million), the Superhighway at Route 11 (700), Louis at Route 1006 (650), Kong Sai at Route 106 (445) and San Klang at Route 1317, phase 2 (430). The 16.3 km from Route 108 to Route 1006 is being widened to four and six lanes for 1,500 million. A 20.9 km elevated road along the Don Kaew–Mueang Kaew stretch is under study.\n\n*Inference —* this is the ring where the city's road money is going in the 2020s, and where the argument about what a road does to a view is being had."
+ },
+ "text_th": {
+  "what": "วงแหวนรอบนอก ราว 9 กม. จากใจกลาง วงปิดยาว 52.957 กม. ผ่านหางดง สารภี สันกำแพง ดอยสะเก็ด สันทราย แม่ริม ข้ามแม่ปิงสองครั้ง ด้านตะวันตกวิ่งเลียบคลองชลประทาน ถนน 9.3 กม. ที่กรมชลประทานสร้างและมอบให้กรมทางหลวง 9 เมษายน 2541 เริ่ม 2537 โดยศูนย์สร้างทางลำปางเป็นสองเลน ช่วงแม่ปิง–หางดงก่อน ล่าช้าเพราะเวนคืนและวิกฤต 2540 ช่วงหางดง–มหาวิทยาลัย 11 กม. สี่เลน สร้างเมษายน 2545 ถึงมิถุนายน 2547 332 ล้านบาท จุดนับปี 2567 อ่านได้ 42,336 คันต่อวันที่ กม.1 และ 21,476 ที่ กม.38",
+  "story": "ทางแยกต่างระดับห้าแห่งกำลังประมูล รวม 3,145 ล้านบาท กำหนดเสร็จ 2570 สะเมิงที่ทางหลวง 108 (920 ล้าน) ซุปเปอร์ไฮเวย์ที่ทางหลวง 11 (700) หลุยส์ที่ทางหลวง 1006 (650) กองทรายที่ทางหลวง 106 (445) และสันกลางที่ทางหลวง 1317 ระยะสอง (430) ช่วง 16.3 กม. จาก 108 ถึง 1006 กำลังขยายเป็นสี่และหกเลน 1,500 ล้าน ทางยกระดับ 20.9 กม. ช่วงดอนแก้ว–เมืองแก้ว อยู่ระหว่างศึกษา\n\n*อนุมาน —* นี่คือวงที่เงินถนนของเมืองไหลไปในทศวรรษ 2560 และตี้ข้อถกเถียงว่าถนนทำอะไรกับวิวกำลังเกิดขึ้น"
+ },
+ "road": {
+  "ref": "121",
+  "km": 52.957,
+  "km_source": "s:thwp-121",
+  "opened": "1994 begun",
+  "osm_names": [
+   "ถนนวงแหวนรอบนอก",
+   "ถนนเลียบคลองชลประทาน",
+   "Canal Road",
+   "Outer Ring Road"
+  ],
+  "osm_refs": [
+   "121"
+  ]
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "ring-2",
+   "as": "Inside it.",
+   "rel": "ring"
+  },
+  {
+   "to": "ring-4",
+   "as": "The one drawn beyond it.",
+   "rel": "ring"
+  },
+  {
+   "to": "ring-3-interchanges",
+   "as": "The five.",
+   "rel": "plan"
+  },
+  {
+   "to": "elevated-121",
+   "as": "The road on top.",
+   "rel": "plan"
+  },
+  {
+   "to": "doi-suthep",
+   "as": "What its west side runs under.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "construction",
+  "controversy"
+ ],
+ "sources": [
+  "s:thwp-121",
+  "s:cmu-thesis-2548",
+  "s:dailynews-4380049",
+  "s:constructionth-121",
+  "s:doh-aadt",
+  "s:citylife-big-development"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-121"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ring-3/ring-3-canal-in-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Canal in Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACanal_in_Chiang_Mai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Canal located in the west of Chiang Mai, along Road 121.",
+   "date": "2018-09-03 14:28:10",
+   "primary": true,
+   "sha256": "09ef533d9a7322500845550d5c20741d22eb073285d35cebf92c3a604d5e0092"
+  }
+ ]
+}

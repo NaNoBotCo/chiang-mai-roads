@@ -1,0 +1,102 @@
+{
+ "id": "mahidol-road",
+ "type": "road",
+ "names": {
+  "name": "Mahidol Road",
+  "th": "ถนนมหิดล",
+  "rtgs": "Thanon Mahidon",
+  "aliases": [
+   "Route 1141"
+  ],
+  "said": "The busiest count in the province: 121,403 vehicles a day at km 7, and 26,366 motorcycles on top.",
+  "said_th": "จุดนับตี้รถนักสุดในจังหวัด วันละ 121,403 คันที่ กม.7 บวกมอเตอร์ไซค์อีก 26,366"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "superhighway",
+  "ref": "1141",
+  "km": 7.565,
+  "lanes": "6"
+ },
+ "text": {
+  "what": "Route 1141, 7.565 km, Don Chan on the Superhighway west past Nong Hoi, over the railway and the Ping, past the airport junction to Suan Prung. Surveyed 1970, built 1972 as a two-lane bypass fixed in the comprehensive plan of the day, widened to six lanes in 1998–2001. The southern arc of the first ring. The 2025 count at km 7 read 121,403 four-wheeled vehicles a day and 26,366 motorcycles.",
+  "story": "*Inference —* the whole of it went under water in October 2024. The busiest road in the north sits on the floodplain the city's founders avoided."
+ },
+ "text_th": {
+  "what": "ทางหลวง 1141 ยาว 7.565 กม. จากดอนจั่นบนซุปเปอร์ไฮเวย์ไปตะวันตกผ่านหนองหอย ข้ามทางรถไฟและแม่ปิง ผ่านแยกสนามบินถึงสวนปรุง สำรวจ 2513 สร้าง 2515 เป็นทางเลี่ยงสองเลนตามผังเมืองสมัยนั้น ขยายหกเลน 2541–44 ส่วนโค้งด้านใต้ของวงแหวนรอบแรก จุดนับ กม.7 ปี 2568 อ่านได้ 121,403 คันสี่ล้อต่อวัน และจักรยานยนต์ 26,366",
+  "story": "*อนุมาน —* ทั้งสายจมน้ำตุลาคม 2567 ถนนที่รถนักสุดของภาคเหนืออยู่บนที่ราบน้ำท่วมที่ผู้สร้างเมืองหลบ"
+ },
+ "road": {
+  "ref": "1141",
+  "km": 7.565,
+  "km_source": "s:thwp-mahidol",
+  "lanes": "6",
+  "from": "Don Chan",
+  "from_th": "ดอนจั่น",
+  "to": "Suan Prung",
+  "to_th": "สวนปรุง",
+  "opened": "1972",
+  "widened": "1998–2001",
+  "osm_names": [
+   "ถนนมหิดล",
+   "Mahidol Road"
+  ],
+  "osm_refs": [
+   "1141"
+  ]
+ },
+ "geo": {
+  "lat": 18.77,
+  "lon": 98.99,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "ring-1",
+   "as": "Its southern arc.",
+   "rel": "ring"
+  },
+  {
+   "to": "aadt-busiest",
+   "as": "The count.",
+   "rel": "traffic"
+  },
+  {
+   "to": "airport-junction",
+   "as": "On it.",
+   "rel": "junction"
+  },
+  {
+   "to": "nong-hoi-junction",
+   "as": "On it.",
+   "rel": "junction"
+  }
+ ],
+ "tags": [
+  "airport",
+  "flood"
+ ],
+ "sources": [
+  "s:thwp-mahidol",
+  "s:cmu-thesis-2548",
+  "s:doh-aadt",
+  "s:lanner-flood"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-mahidol"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

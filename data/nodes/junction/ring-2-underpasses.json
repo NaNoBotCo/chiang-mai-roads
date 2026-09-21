@@ -1,0 +1,63 @@
+{
+ "id": "ring-2-underpasses",
+ "type": "junction",
+ "names": {
+  "name": "The seven underpasses of the middle ring",
+  "th": "ทางลอดเจ็ดแห่งของวงแหวนรอบกลาง",
+  "rtgs": "thang lot chet haeng",
+  "said": "Sanam Luang, Ruam Chok, Mae Khao, Buak Khrok, Sri Bua Ngoen, Wiang Kum Kam, Mae Hia. Four lanes each, all done by October 2005.",
+  "said_th": "สนามหลวง รวมโชค แม่เขา บวกครก ศรีบัวเงิน เวียงกุมกาม แม่เหียะ สี่เลนทุกแห่ง เสร็จตุลาคม 2548"
+ },
+ "region": [
+  "ring2"
+ ],
+ "facets": {
+  "era": "rings",
+  "year": "2005"
+ },
+ "text": {
+  "what": "The middle ring dives under each radial highway it crosses: Routes 107, 1001, 118, 1006, 1317, 106 and 108, seven underpasses of four lanes finished by October 2005, plus an interchange at Route 11. Their names are the neighbourhoods: Sanam Luang at the government centre, Ruam Chok, Mae Khao, Buak Khrok, Sri Bua Ngoen, Wiang Kum Kam, and Mae Hia Saman Samakkhi."
+ },
+ "text_th": {
+  "what": "วงแหวนรอบกลางลอดใต้ทางหลวงรัศมีทุกสายที่ตัด ทางหลวง 107, 1001, 118, 1006, 1317, 106 และ 108 ทางลอดสี่เลนเจ็ดแห่งเสร็จตุลาคม 2548 บวกทางแยกต่างระดับที่ทางหลวง 11 ชื่อคือชื่อย่าน สนามหลวงที่ศูนย์ราชการ รวมโชค แม่เขา บวกครก ศรีบัวเงิน เวียงกุมกาม และแม่เหียะสมานสามัคคี"
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "ring-2",
+   "as": "The ring.",
+   "rel": "ring"
+  },
+  {
+   "to": "lot",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:reviewcm-underpasses",
+  "s:thwp-700-years"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:reviewcm-underpasses"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

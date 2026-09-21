@@ -1,0 +1,66 @@
+{
+ "id": "motorway-chiang-mai-chiang-rai",
+ "type": "plan",
+ "names": {
+  "name": "Chiang Mai–Chiang Rai motorway, MR1-3",
+  "th": "มอเตอร์เวย์เชียงใหม่–เชียงราย MR1-3",
+  "said": "184 km, 101,174 million baht, 12,000 rai, and the department's own line: high cost, low return, maybe no investor.",
+  "said_th": "184 กิโล 101,174 ล้านบาท 12,000 ไร่ และประโยคของกรมเอง ต้นทุนสูง ผลตอบแทนต่ำ อาจไม่มีเอกชนลงทุน"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "study",
+  "era": "planned"
+ },
+ "text": {
+  "what": "An intercity motorway from Saraphi to Wiang Chai under the MR-MAP plan, three alignments of 178 to 217 km put to hearing on 20 September 2022. The highway department's own summary: 184 km, 101,174 million baht, about 12,000 rai to expropriate, high cost and low return, and it may attract no private investor. An earlier study ran it via Lampang and Phayao.",
+  "story": "*Inference —* the department has written the obituary into the proposal. Filed here as a study, because that is what it is until someone puts money against it."
+ },
+ "text_th": {
+  "what": "มอเตอร์เวย์ระหว่างเมืองจากสารภีถึงเวียงชัยภายใต้แผน MR-MAP สามแนว 178 ถึง 217 กม. รับฟังความเห็น 20 กันยายน 2565 สรุปของกรมทางหลวงเอง 184 กม. 101,174 ล้านบาท เวนคืนราว 12,000 ไร่ ต้นทุนสูง ผลตอบแทนต่ำ และอาจไม่มีเอกชนลงทุน การศึกษาก่อนหน้าให้ผ่านลำปางและพะเยา",
+  "story": "*อนุมาน —* กรมเขียนคำไว้อาลัยไว้ในข้อเสนอแล้ว บันทึกไว้เป็นการศึกษา เพราะมันเป็นแค่นั้นจนกว่าจะมีใครวางเงิน"
+ },
+ "plan": {
+  "status": "study",
+  "as_of": "2025",
+  "budget_thb": 101174000000,
+  "km": 184,
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง",
+  "announced": "2022"
+ },
+ "kin": [
+  {
+   "to": "route-118",
+   "as": "What it would bypass.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:bkkauction-expropriate",
+  "s:prd-121972"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:bkkauction-expropriate"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

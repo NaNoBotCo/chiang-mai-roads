@@ -1,0 +1,158 @@
+{
+ "note": "Fifteen kinds of record. `path` is the URL directory; `one` the singular label; `group_by` a facet the index groups by.",
+ "entries": [
+  {
+   "key": "road",
+   "name": "Roads",
+   "th": "ถนน",
+   "one": "road",
+   "path": "road",
+   "blurb": "The named streets of the city, from Tha Phae to the airport road. What each is for, what it was before, and what it carries.",
+   "th_blurb": "ถนนที่มีชื่อของเมือง จากท่าแพถึงถนนสนามบิน แต่ละสายมีไว้ทำอะไร เคยเป็นอะไร และรับอะไรอยู่",
+   "group_by": "facets.era",
+   "icon": "road"
+  },
+  {
+   "key": "ring",
+   "name": "Rings",
+   "th": "วงแหวน",
+   "one": "ring",
+   "path": "ring",
+   "blurb": "The moat loop and the three ring roads around it. Each one a decision about where the city ends.",
+   "th_blurb": "ถนนรอบคูเมืองและถนนวงแหวนสามวงที่ล้อมมัน แต่ละวงคือการตัดสินใจว่าเมืองจบตรงไหน",
+   "icon": "ring"
+  },
+  {
+   "key": "lane",
+   "name": "Lanes and alleys",
+   "th": "ฮ่อม · ซอย",
+   "one": "lane",
+   "path": "lane",
+   "blurb": "The hom and the soi. Where the city is lived rather than driven through.",
+   "th_blurb": "ฮ่อมและซอย ตี้เมืองถูกอยู่อาศัยมากกว่าถูกขับผ่าน",
+   "icon": "lane"
+  },
+  {
+   "key": "gate",
+   "name": "Gates and corners",
+   "th": "ประตู · แจ่ง",
+   "one": "gate",
+   "path": "gate",
+   "blurb": "Five gates, four corners. Where the roads of 1296 still meet the roads of now.",
+   "th_blurb": "ห้าประตู สี่แจ่ง ตี้ถนนของปี 1839 ยังพบถนนของวันนี้",
+   "icon": "gate"
+  },
+  {
+   "key": "junction",
+   "name": "Junctions",
+   "th": "แยก · อุโมงค์",
+   "one": "junction",
+   "path": "junction",
+   "blurb": "The named intersections, underpasses and flyovers. Each one a place the city argued about.",
+   "th_blurb": "แยกที่มีชื่อ ทางลอดและสะพานข้ามแยก แต่ละแห่งคือตี้ที่เมืองเคยเถียงกัน",
+   "icon": "junction"
+  },
+  {
+   "key": "bridge",
+   "name": "Bridges",
+   "th": "ขัว · สะพาน",
+   "one": "bridge",
+   "path": "bridge",
+   "blurb": "Every road crossing of the Ping, counted from the map, and the ones with a story.",
+   "th_blurb": "ทุกขัวข้ามแม่ปิง นับจากแผนที่ และขัวที่มีเรื่องเล่า",
+   "icon": "bridge"
+  },
+  {
+   "key": "highway",
+   "name": "Highways out",
+   "th": "ทางหลวงออกเมือง",
+   "one": "highway",
+   "path": "highway",
+   "blurb": "The numbered roads to Lampang, Lamphun, Chiang Rai, Mae Hong Son, Fang and Bangkok.",
+   "th_blurb": "ทางหลวงหมายเลขไปลำปาง ลำพูน เชียงราย แม่ฮ่องสอน ฝาง และกรุงเทพฯ",
+   "group_by": "facets.direction",
+   "icon": "highway"
+  },
+  {
+   "key": "plan",
+   "name": "Plans",
+   "th": "แผน · โครงการ",
+   "one": "plan",
+   "path": "plan",
+   "blurb": "What is proposed, funded, under construction, or quietly shelved. Status and date on each.",
+   "th_blurb": "อะไรที่เสนอ ได้งบ กำลังสร้าง หรือเงียบไป พร้อมสถานะและวันที่",
+   "group_by": "facets.status",
+   "icon": "plan"
+  },
+  {
+   "key": "era",
+   "name": "Eras",
+   "th": "ยุค",
+   "one": "era",
+   "path": "era",
+   "blurb": "Seven chapters of road-building, 1296 to now, and what each one did to the city.",
+   "th_blurb": "เจ็ดยุคของการสร้างถนน จาก พ.ศ. 1839 ถึงวันนี้ และแต่ละยุคทำอะไรกับเมือง",
+   "icon": "era"
+  },
+  {
+   "key": "measure",
+   "name": "Measurements",
+   "th": "การวัด",
+   "one": "measurement",
+   "path": "measure",
+   "blurb": "What the network shows when it is counted: grid, dead ends, block length, and where the rings cut.",
+   "th_blurb": "โครงข่ายบอกอะไรเมื่อถูกนับ ตาราง ทางตัน ความยาวบล็อก และวงแหวนตัดตรงไหน",
+   "icon": "measure"
+  },
+  {
+   "key": "traffic",
+   "name": "Traffic",
+   "th": "จราจร",
+   "one": "traffic figure",
+   "path": "traffic",
+   "blurb": "Counts, registrations, deaths, and the songthaew. Each with its year and its source.",
+   "th_blurb": "ปริมาณรถ ทะเบียน ผู้เสียชีวิต และรถแดง แต่ละอย่างมีปีและแหล่งที่มา",
+   "icon": "traffic"
+  },
+  {
+   "key": "word",
+   "name": "Words",
+   "th": "กำเมือง",
+   "one": "word",
+   "path": "word",
+   "blurb": "The road words of Kam Mueang, the northern speech: hom, khua, chaeng, kat. Script, sound, root.",
+   "th_blurb": "คำเรื่องถนนในกำเมือง ฮ่อม ขัว แจ่ง กาด ตัวเขียน เสียง รากศัพท์",
+   "icon": "word"
+  },
+  {
+   "key": "story",
+   "name": "Stories",
+   "th": "เรื่องเล่า",
+   "one": "story",
+   "path": "story",
+   "blurb": "The long reads: what a road does to an old city, why the moat runs one way, what the trees on the Lamphun road are for.",
+   "th_blurb": "ฉบับยาว ถนนทำอะไรกับเมืองเก่า ทำไมรอบคูเมืองวิ่งทางเดียว ต้นยางถนนลำพูนมีไว้เพื่ออะไร",
+   "icon": "story"
+  },
+  {
+   "key": "person",
+   "name": "People",
+   "th": "บุคคล",
+   "one": "person",
+   "path": "person",
+   "blurb": "The king who drew the square, the monk who built the mountain road, the family that gave a street its name.",
+   "th_blurb": "กษัตริย์ผู้วางผังสี่เหลี่ยม ครูบาผู้สร้างทางขึ้นดอย และตระกูลที่ให้ชื่อถนน",
+   "icon": "person"
+  },
+  {
+   "key": "place",
+   "name": "Places",
+   "th": "สถานที่",
+   "one": "place",
+   "path": "place",
+   "blurb": "The moat, the river, the mountain, the airport, the station: the things the roads go around.",
+   "th_blurb": "คูเมือง แม่น้ำ ดอย สนามบิน สถานีรถไฟ สิ่งที่ถนนต้องอ้อม",
+   "icon": "place"
+  }
+ ]
+}

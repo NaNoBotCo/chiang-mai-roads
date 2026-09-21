@@ -1,0 +1,66 @@
+{
+ "id": "ring-3-interchanges",
+ "type": "plan",
+ "names": {
+  "name": "Five interchanges on the outer ring",
+  "th": "ทางแยกต่างระดับห้าแห่งบนวงแหวนรอบนอก",
+  "said": "3,145 million baht, five junctions, all due 2027.",
+  "said_th": "3,145 ล้านบาท ห้าแยก กำหนดเสร็จ 2570 ทั้งหมด"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "funded",
+  "era": "planned"
+ },
+ "text": {
+  "what": "Tendered as a set: Samoeng at Route 108 in Hang Dong, 920 million; the Superhighway at Route 11, 700 million; Louis at Route 1006, 650 million, a four-lane bridge on a 1,080-day contract 2025–27; Kong Sai at Route 106 in Saraphi, 445 million; San Klang at Route 1317, phase two, 430 million. Two more, San Khayom at Route 1367 and Likhit Chiwan at Route 1001, were presented in November 2025 as an overpass on the ring with a tunnel on the cross road and a roundabout, no signals, possible construction 2026."
+ },
+ "text_th": {
+  "what": "ประมูลเป็นชุด สะเมิงที่ทางหลวง 108 หางดง 920 ล้าน ซุปเปอร์ไฮเวย์ที่ทางหลวง 11 700 ล้าน หลุยส์ที่ทางหลวง 1006 650 ล้าน สะพานสี่เลน สัญญา 1,080 วัน 2568–70 กองทรายที่ทางหลวง 106 สารภี 445 ล้าน สันกลางที่ทางหลวง 1317 ระยะสอง 430 ล้าน อีกสองแห่ง สันขะยอมที่ทางหลวง 1367 และลิขิตชีวันที่ทางหลวง 1001 นำเสนอพฤศจิกายน 2568 เป็นสะพานข้ามบนวงแหวน อุโมงค์บนถนนตัด และวงเวียน ไม่มีสัญญาณไฟ อาจก่อสร้าง 2569"
+ },
+ "plan": {
+  "status": "funded",
+  "as_of": "2025",
+  "budget_thb": 3145000000,
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง",
+  "due": "2027"
+ },
+ "kin": [
+  {
+   "to": "ring-3",
+   "as": "The ring.",
+   "rel": "ring"
+  },
+  {
+   "to": "san-klang-interchange",
+   "as": "The one half built.",
+   "rel": "junction"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:dailynews-4380049",
+  "s:cmnews-3593263",
+  "s:saranae-32032"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:dailynews-4380049"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

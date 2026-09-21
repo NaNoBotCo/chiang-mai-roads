@@ -1,0 +1,79 @@
+{
+ "id": "lot",
+ "type": "word",
+ "names": {
+  "name": "ลอด lot",
+  "th": "ลอด",
+  "rtgs": "lot"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ลอด lot — to pass beneath. The highway department's word for what it built at every junction of the middle ring: thang lot, the way under. Newspapers say umong, tunnel, for the same thing.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The underpass. Chiang Mai chose to go under its junctions rather than over them, seven times on the middle ring alone, and the word is on every green sign."
+ },
+ "text_th": {
+  "what": "ทางลอด เชียงใหม่เลือกลอดใต้แยกแทนข้าม บนวงแหวนรอบกลางวงเดียวเจ็ดครั้ง และคำนี้อยู่บนป้ายเขียวทุกป้าย"
+ },
+ "word": {
+  "th": "ลอด",
+  "rtgs": "lot",
+  "ipa": "/lɔ̂ːt/",
+  "standard": "ทางลอด · อุโมงค์",
+  "standard_rtgs": "thang lot · umong",
+  "gloss": "to pass under; an underpass",
+  "gloss_th": "ลอดใต้ ทางลอด",
+  "example": "ทางลอดข่วงสิงห์",
+  "example_gloss": "thang lot Khuang Sing — the underpass at the northern gate of the Superhighway"
+ },
+ "kin": [
+  {
+   "to": "ring-2",
+   "as": "Seven of them.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "lot/lot-chiang-mai-thailand-speed-limit-road-sign-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Speed-limit-road-sign-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chiang-Mai_Thailand_Speed-limit-road-sign-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Speed-limit-road-sign-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Railway water tank of Chiang Mai Railway Station",
+   "date": "2017-04-17",
+   "primary": true,
+   "sha256": "8b6e7cd0877e325f6c3b36d14a0025e7683b003adc7ee6e8488a949178873ecd"
+  }
+ ]
+}

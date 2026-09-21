@@ -1,0 +1,67 @@
+{
+ "id": "thang",
+ "type": "word",
+ "names": {
+  "name": "ทาง thang",
+  "th": "ทาง",
+  "rtgs": "thang"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ทาง thang — Tai root. Thang luang, the royal way, is a national highway; thang lot, the way under, is an underpass; thang khuen doi, the way up the mountain.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The general word for a way, which the highway department uses for everything it builds: thang luang for a national highway, thang lot for an underpass, thang yok radap for an elevated road."
+ },
+ "text_th": {
+  "what": "คำทั่วไปสำหรับทาง ซึ่งกรมทางหลวงใช้เรียกทุกอย่างที่สร้าง ทางหลวง ทางลอด ทางยกระดับ"
+ },
+ "word": {
+  "th": "ทาง",
+  "rtgs": "thang",
+  "ipa": "/tʰaːŋ/",
+  "standard": "ทาง",
+  "standard_rtgs": "thang",
+  "gloss": "way, path, direction; in compounds, a road of a certain kind",
+  "gloss_th": "ทาง ทิศทาง",
+  "example": "ทางลอด",
+  "example_gloss": "thang lot — an underpass"
+ },
+ "kin": [
+  {
+   "to": "thanon",
+   "as": "The other word.",
+   "rel": "word"
+  },
+  {
+   "to": "khuang-sing-underpass",
+   "as": "A thang lot.",
+   "rel": "junction"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

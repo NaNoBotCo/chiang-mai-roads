@@ -1,0 +1,89 @@
+{
+ "id": "suthep-road",
+ "type": "road",
+ "names": {
+  "name": "Suthep Road",
+  "th": "ถนนสุเทพ",
+  "rtgs": "Thanon Suthep",
+  "said": "West from Suan Dok Gate, past the hospital, to the university's back gate.",
+  "said_th": "ตกจากปะตู๋สวนดอก ผ่านโฮงยา เถิงปะตู๋หลังมหาวิทยาลัย"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam"
+ },
+ "text": {
+  "what": "From Suan Dok Gate west past Wat Suan Dok and the Maharaj hospital to the university and the canal road. A count of it is not in the highway data because it is a municipal street; a public-domain photograph of its traffic is the one this record carries."
+ },
+ "text_th": {
+  "what": "จากประตูสวนดอกไปตะวันตก ผ่านวัดสวนดอกและโรงพยาบาลมหาราชถึงมหาวิทยาลัยและถนนคลองชลประทาน ไม่มีจุดนับในข้อมูลกรมทางหลวงเพราะเป็นถนนเทศบาล รูปสาธารณสมบัติของรถบนถนนนี้คือรูปที่บันทึกนี้ถือ"
+ },
+ "road": {
+  "from": "Suan Dok Gate",
+  "from_th": "ประตูสวนดอก",
+  "to": "Canal Road",
+  "to_th": "ถนนคลองชลประทาน",
+  "osm_names": [
+   "ถนนสุเทพ",
+   "Suthep Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.7885,
+  "lon": 98.97,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "suan-dok-gate",
+   "as": "Its head.",
+   "rel": "gate"
+  },
+  {
+   "to": "nimmanhaemin-road",
+   "as": "Ends on it.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "university",
+  "wat"
+ ],
+ "sources": [
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wp-chiang-mai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "suthep-road/suthep-road-chiangmai-traffic.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai traffic.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chiangmai_traffic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_traffic.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Love Krittaya",
+   "credit": "Own work",
+   "alt": "Traffic on Suthep road in Chiang Mai, Thailand",
+   "date": "2007-09-01 16:49:13",
+   "primary": true,
+   "sha256": "5fbf69e62a455681c1dcf830394d033656871f89c69883d3ef4c03371c0ac5a6"
+  }
+ ]
+}

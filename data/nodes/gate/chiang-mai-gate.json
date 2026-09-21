@@ -1,0 +1,78 @@
+{
+ "id": "chiang-mai-gate",
+ "type": "gate",
+ "names": {
+  "name": "Chiang Mai Gate",
+  "th": "ประตูเชียงใหม่",
+  "rtgs": "Pratu Chiang Mai",
+  "said": "The south gate, and a market.",
+  "said_th": "ปะตู๋ตางใต้ กับกาด"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The southern gate, formerly Tai Wiang, the foot of the city. A market sits against it, open before dawn, and Wua Lai Road runs south from it."
+ },
+ "text_th": {
+  "what": "ประตูด้านใต้ เดิมชื่อประตูท้ายเวียง ท้ายของเมือง มีกาดตั้งชิดประตู เปิดก่อนฟ้าสาง และถนนวัวลายวิ่งลงใต้จากตรงนี้"
+ },
+ "geo": {
+  "lat": 18.7809,
+  "lon": 98.9865,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "wua-lai-road",
+   "as": "Runs south from here.",
+   "rel": "road"
+  },
+  {
+   "to": "moat-loop",
+   "as": "On the ring.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "market"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chiang-mai-gate/chiang-mai-gate-pratoo-chiang-mai-market-panoramio-gary4now.jpg",
+   "source": "commons",
+   "title": "File:Pratoo Chiang Mai market - panoramio - gary4now.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pratoo_Chiang_Mai_market_-_panoramio_-_gary4now.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APratoo_Chiang_Mai_market_-_panoramio_-_gary4now.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "gary4now",
+   "credit": "https://web.archive.org/web/20161111061207/http://www.panoramio.com/photo/47718689",
+   "alt": "Pratoo Chiang Mai market",
+   "date": "Taken on 27 September 2008",
+   "primary": true,
+   "sha256": "09add3e4c935a485657bfc53c63e450f2983c5760a68619853e4f46e995c15e0"
+  }
+ ]
+}

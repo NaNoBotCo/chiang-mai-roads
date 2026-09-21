@@ -1,0 +1,62 @@
+{
+ "id": "pratu",
+ "type": "word",
+ "names": {
+  "name": "ประตู pratu",
+  "th": "ประตู",
+  "rtgs": "pratu"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ประตู pratu ← Khmer ទ្វារ / Sanskrit dvāra by way of Khmer pratu; the same word in both registers, but in Chiang Mai it means one of five specific places before it means a door.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "Shared with standard Thai, but in this city 'pratu' is a place name first: five gates, and everyone knows which one you mean."
+ },
+ "text_th": {
+  "what": "ใช้ร่วมกับภาษากลาง แต่ในเมืองนี้ ประตูเป็นชื่อสถานที่ก่อน ห้าประตู และใผ ๆ ก็ฮู้ว่าหมายเถิงอันไหน"
+ },
+ "word": {
+  "th": "ประตู",
+  "rtgs": "pratu",
+  "ipa": "/pa.tǔː/",
+  "standard": "ประตู",
+  "standard_rtgs": "pratu",
+  "gloss": "gate; city gate",
+  "gloss_th": "ประตูเมือง",
+  "example": "ประตูท่าแพ",
+  "example_gloss": "Pratu Tha Phae — the east gate"
+ },
+ "kin": [
+  {
+   "to": "tha-phae-gate",
+   "as": "The one everyone means.",
+   "rel": "gate"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

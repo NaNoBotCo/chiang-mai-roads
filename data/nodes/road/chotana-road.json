@@ -1,0 +1,80 @@
+{
+ "id": "chotana-road",
+ "type": "road",
+ "names": {
+  "name": "Chotana Road",
+  "th": "ถนนโชตนา",
+  "rtgs": "Thanon Chotana",
+  "said": "Route 107 inside the city, named for a highway supervisor in 1950.",
+  "said_th": "ทางหลวง 107 ช่วงในเมือง ตั้งชื่อตามนายช่างแขวงปี 2493"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam",
+  "ref": "107"
+ },
+ "text": {
+  "what": "The city stretch of Route 107 from Chang Phueak Gate north through Khuang Sing to Mae Rim, named on 12 December 1950 after Tim Chotana. The 2024 count at km 9 gave 42,144 vehicles a day and 6,604 motorcycles."
+ },
+ "text_th": {
+  "what": "ทางหลวง 107 ช่วงในเมือง จากประตูช้างเผือกขึ้นเหนือผ่านข่วงสิงห์ถึงแม่ริม ตั้งชื่อ 12 ธันวาคม 2493 ตามนายทิม โชตนา จุดนับ กม.9 ปี 2567 ได้ 42,144 คันต่อวัน และจักรยานยนต์ 6,604"
+ },
+ "road": {
+  "ref": "107",
+  "from": "Chang Phueak Gate",
+  "from_th": "ประตูช้างเผือก",
+  "to": "Mae Rim",
+  "to_th": "แม่ริม",
+  "opened": "named 1950-12-12",
+  "osm_names": [
+   "ถนนโชตนา",
+   "Chotana Road"
+  ],
+  "osm_refs": [
+   "107"
+  ]
+ },
+ "geo": {
+  "lat": 18.81,
+  "lon": 98.983,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "tim-chotana",
+   "as": "Who it is named for.",
+   "rel": "person"
+  },
+  {
+   "to": "route-107",
+   "as": "The whole road.",
+   "rel": "highway"
+  },
+  {
+   "to": "khuang-sing-underpass",
+   "as": "Goes under the Superhighway here.",
+   "rel": "junction"
+  }
+ ],
+ "sources": [
+  "s:thwp-107",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-107"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

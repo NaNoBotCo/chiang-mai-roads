@@ -1,0 +1,95 @@
+{
+ "id": "rot-daeng",
+ "type": "word",
+ "names": {
+  "name": "รถแดง rot daeng",
+  "th": "รถแดง",
+  "rtgs": "rot daeng"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "รถ rot, vehicle ← Sanskrit ratha, chariot + แดง daeng, red. Elsewhere in Thailand a songthaew, two rows, for the benches in the back. Here the colour is the name.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The red pickup with two benches that is the city's bus, taxi and school run. It has no route, only a direction and a fare, which is why it is on a site about roads: it is how most of them are used."
+ },
+ "text_th": {
+  "what": "รถกระบะแดงมีม้านั่งสองแถวที่เป็นรถเมล์ แท็กซี่ และรถรับส่งนักเรียนของเมือง มันบ่มีเส้นทาง มีแต่ทิศกับค่าโดยสาร นี่คือเหตุที่มันอยู่บนเว็บเรื่องถนน มันคือวิธีที่ถนนส่วนใหญ่ถูกใช้"
+ },
+ "word": {
+  "th": "รถแดง",
+  "rtgs": "rot daeng",
+  "ipa": "/rót.dɛːŋ/",
+  "standard": "รถสองแถว",
+  "standard_rtgs": "rot song thaeo",
+  "gloss": "the red truck; Chiang Mai's shared taxi",
+  "gloss_th": "รถสองแถวแดงของเชียงใหม่",
+  "example": "ขึ้นรถแดง",
+  "example_gloss": "khuen rot daeng — get in a red truck"
+ },
+ "kin": [
+  {
+   "to": "songthaew-count",
+   "as": "How many, counted.",
+   "rel": "traffic"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai",
+  "s:wp-songthaew"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "rot-daeng/rot-daeng-red-car-chiang-mai-4.jpg",
+   "source": "commons",
+   "title": "File:Red Car Chiang Mai (4).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Red_Car_Chiang_Mai_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARed_Car_Chiang_Mai_%284%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Patiparn.Nice2002bkk",
+   "credit": "Own work",
+   "alt": "Red Car Chiang Mai",
+   "date": "2022-04-10 16:40:14",
+   "primary": true,
+   "sha256": "1fe3219e3e5e9a89b5bb7fbb29ca4df3f170727a127c2a5ae118d55b87c3246d"
+  },
+  {
+   "file": "rot-daeng/rot-daeng-rot-daeng-in-downtown-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Rot Daeng in downtown Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rot_Daeng_in_downtown_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARot_Daeng_in_downtown_Chiang_Mai.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Manop",
+   "credit": "Own work",
+   "alt": "การจราจรในเมืองเชียงใหม่",
+   "date": "2008-07-26",
+   "primary": false,
+   "sha256": "d3d47acacf7bf6839d4866c7146473d458262d4772c1469189187dbde807adfd"
+  }
+ ]
+}

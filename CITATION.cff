@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Roads of Chiang Mai — the square of 1296, four rings, and what each one did to the city"
+message: "If you use this dataset, cite it."
+type: dataset
+authors:
+  - name: "NaN"
+  - name: "Hongdam"
+    city: "Chiang Rai"
+    country: TH
+    website: "https://hongdam.net/"
+url: "https://motdang.net/roads"
+repository-code: "https://github.com/NaNoBotCo/chiang-mai-roads"
+license: CC-BY-4.0
+keywords:
+  - Chiang Mai
+  - roads
+  - ring roads
+  - street network
+  - OpenStreetMap
+  - traffic
+  - Lanna
+  - Kam Mueang

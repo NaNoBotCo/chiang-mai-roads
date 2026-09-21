@@ -1,0 +1,70 @@
+{
+ "id": "kamphaeng-din-road",
+ "type": "road",
+ "names": {
+  "name": "Kamphaeng Din Road",
+  "th": "ถนนกำแพงดิน",
+  "rtgs": "Thanon Kamphaeng Din",
+  "said": "A road on the line of a wall, beside the bazaar, with a past.",
+  "said_th": "ถนนบนแนวกำแพง ข้างบาซาร์ มีอดีต"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam"
+ },
+ "text": {
+  "what": "Runs on the line of the earthen outer wall between Loi Kroh and the Night Bazaar; a stretch of the rampart survives beside it. Historically the city's red-light quarter, the ban sao, which the road's reputation still carries."
+ },
+ "text_th": {
+  "what": "วิ่งบนแนวกำแพงดินชั้นนอกระหว่างลอยเคราะห์กับไนท์บาซาร์ มีคันดินเหลืออยู่ข้าง ๆ ช่วงหนึ่ง เคยเป็นย่านบ้านสาวของเมือง ซึ่งชื่อเสียงของถนนยังติดอยู่"
+ },
+ "road": {
+  "osm_names": [
+   "ถนนกำแพงดิน",
+   "Kamphaeng Din Road",
+   "Kampangdin Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.785,
+  "lon": 98.9985,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "kamphaeng-din",
+   "as": "The wall.",
+   "rel": "place"
+  },
+  {
+   "to": "chang-klan-road",
+   "as": "Its neighbour.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "night"
+ ],
+ "sources": [
+  "s:sumup-kamphaeng-din",
+  "s:onep-277"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:sumup-kamphaeng-din"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

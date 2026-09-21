@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+build/
+data/corpus/
+data/harvest/_raw/
+data/images/_triage/

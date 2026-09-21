@@ -1,0 +1,76 @@
+{
+ "id": "san-klang-interchange",
+ "type": "junction",
+ "names": {
+  "name": "San Klang interchange",
+  "th": "ทางแยกต่างระดับสันกลาง",
+  "rtgs": "Thang Yaek Tang Radap San Klang",
+  "said": "1,425 million baht where the new San Kamphaeng road crosses the outer ring, more than half built.",
+  "said_th": "1,425 ล้านบาท ตี้ถนนสันกำแพงสายใหม่ตัดวงแหวนรอบนอก สร้างไปกว่าครึ่ง"
+ },
+ "region": [
+  "ring3"
+ ],
+ "facets": {
+  "era": "now",
+  "status": "building"
+ },
+ "text": {
+  "what": "Route 1317 across Route 121, east of the city. Thai PBS reported it more than half built in 2025 at 1,425 million baht; a second phase of 430 million is in the five-interchange tender due 2027."
+ },
+ "text_th": {
+  "what": "ทางหลวง 1317 ตัดทางหลวง 121 ทางตะวันออกของเมือง ไทยพีบีเอสรายงานสร้างไปกว่าครึ่งในปี 2568 ที่ 1,425 ล้านบาท ระยะสอง 430 ล้านอยู่ในการประมูลห้าทางแยกกำหนด 2570"
+ },
+ "plan": {
+  "status": "building",
+  "as_of": "2025",
+  "budget_thb": 1425000000,
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง",
+  "due": "2027"
+ },
+ "geo": {
+  "lat": 18.776,
+  "lon": 99.07,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "ring-3",
+   "as": "On it.",
+   "rel": "ring"
+  },
+  {
+   "to": "route-1317",
+   "as": "Through it.",
+   "rel": "highway"
+  },
+  {
+   "to": "ring-3-interchanges",
+   "as": "One of five.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:thaipbs-353092",
+  "s:dailynews-4380049"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thaipbs-353092"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

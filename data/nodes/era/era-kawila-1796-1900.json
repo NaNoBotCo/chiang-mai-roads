@@ -1,0 +1,101 @@
+{
+ "id": "era-kawila-1796-1900",
+ "type": "era",
+ "names": {
+  "name": "1796–1900 — Kawila's rebuilding",
+  "th": "2339–2443 — ยุคพระเจ้ากาวิละ",
+  "said": "The city is re-peopled, the moat re-dug, and the first trees planted along a road.",
+  "said_th": "เมืองถูกเติมคน คูถูกขุดแหม และต้นไม้แรกถูกปลูกเลียบถนน"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "kawila",
+  "order": 3
+ },
+ "text": {
+  "what": "Kawila re-enters the empty city in 1796, restores the walls and gives the corners their bastions. Through the century Siam's hold tightens; the first teak bridge crosses the Ping about 1890; the yang-na trees go in along the Lamphun road, 1882 by one account; the Hang Dong road is built in 1899 with khi-lek trees for the Burma trade.",
+  "story": "*Inference —* the century's road-building is all outside the moat and all radial: a bridge east, an avenue south, a trade road southwest. The square was left alone. That pattern held for another fifty years."
+ },
+ "text_th": {
+  "what": "พระเจ้ากาวิละกลับเข้าเวียงร้างปี 2339 บูรณะกำแพงและทำแจ่งให้มุม ตลอดศตวรรษสยามกุมแน่นขึ้น ขัวไม้สักแรกข้ามแม่ปิงราวปี 2433 ต้นยางนาลงเลียบถนนลำพูน บันทึกหนึ่งว่าปี 2425 ถนนหางดงสร้างปี 2442 พร้อมต้นขี้เหล็กเพื่อการค้ากับพม่า",
+  "story": "*อนุมาน —* การสร้างถนนของศตวรรษนี้อยู่นอกคูทั้งหมดและเป็นรัศมีทั้งหมด ขัวไปตะวันออก ถนนใหญ่ลงใต้ ทางค้าไปตะวันตกเฉียงใต้ สี่เหลี่ยมถูกปล่อยไว้ แบบแผนนี้อยู่ต่ออีกห้าสิบปี"
+ },
+ "kin": [
+  {
+   "to": "kawila",
+   "as": "The ruler.",
+   "rel": "person"
+  },
+  {
+   "to": "ton-yang-road",
+   "as": "The trees.",
+   "rel": "road"
+  },
+  {
+   "to": "nawarat-bridge",
+   "as": "The first bridge.",
+   "rel": "bridge"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:wp-kawila",
+  "s:thaipbs-308334",
+  "s:cmu-thesis-2548",
+  "s:thwp-nawarat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-kawila"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-kawila-1796-1900/era-kawila-1796-1900-hoge-bomen-langs-weg-106-p1160022.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P1160022.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hoge_bomen_langs_weg_106_P1160022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P1160022.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2013-02-24 15:11:41",
+   "primary": true,
+   "sha256": "f6165923a61ac8d423a3a1d7eec315fa5736afa02915058305e4f736d2cefb20"
+  },
+  {
+   "file": "era-kawila-1796-1900/era-kawila-1796-1900-ku-huang-citadel-chiang-mai-02.jpg",
+   "source": "commons",
+   "title": "File:Ku Huang citadel Chiang Mai 02.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ku_Huang_citadel_Chiang_Mai_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKu_Huang_citadel_Chiang_Mai_02.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Ku Huang citadel: the south-west corner of the old city of Chiang Mai. Looking towards the east.",
+   "date": "2010-05-06",
+   "primary": false,
+   "sha256": "0b5d8aaec8c05cc45551986bef2120ca1514e9121d687ad0557a5bf75cb8ee3c"
+  }
+ ]
+}

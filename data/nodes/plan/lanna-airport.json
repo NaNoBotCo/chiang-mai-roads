@@ -1,0 +1,83 @@
+{
+ "id": "lanna-airport",
+ "type": "plan",
+ "names": {
+  "name": "Lanna Airport, the second airport at Ban Thi",
+  "th": "สนามบินล้านนา สนามบินแห่งที่สองที่บ้านธิ",
+  "said": "8,050 rai, 70,000 million baht, 24 million passengers a year, build 2027 to 2032.",
+  "said_th": "8,050 ไร่ 70,000 ล้านบาท 24 ล้านคนต่อปี สร้าง 2570 ถึง 2575"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "status": "study",
+  "era": "planned"
+ },
+ "text": {
+  "what": "A second airport across the provincial line at Ban Thi, Lamphun, beside San Kamphaeng: about 8,050 rai, about 70,000 million baht, 24 million passengers a year, two runways, 41 movements an hour, 38 stands. Design and expropriation decree Q4 2025, tender Q1 2027, construction Q2 2027, completion Q3 2032. Residents' concerns are on record at the feasibility stage. The existing airport gets a 24,000 million baht upgrade from 2025 to reach 20 million a year by 2027."
+ },
+ "text_th": {
+  "what": "สนามบินแห่งที่สองข้ามเขตจังหวัดที่บ้านธิ ลำพูน ข้างสันกำแพง ราว 8,050 ไร่ ราว 70,000 ล้านบาท 24 ล้านคนต่อปี สองทางวิ่ง 41 เที่ยวต่อชั่วโมง 38 หลุมจอด ออกแบบและพระราชกฤษฎีกาเวนคืนไตรมาส 4 ปี 2568 ประมูลไตรมาส 1 ปี 2570 ก่อสร้างไตรมาส 2 ปี 2570 เสร็จไตรมาส 3 ปี 2575 ความกังวลของชาวบ้านมีบันทึกในขั้นศึกษาความเป็นไปได้ สนามบินเดิมได้งบปรับปรุง 24,000 ล้านบาทตั้งแต่ 2568 เพื่อรับ 20 ล้านคนต่อปีภายใน 2570"
+ },
+ "plan": {
+  "status": "study",
+  "as_of": "2025",
+  "budget_thb": 70000000000,
+  "agency": "Airports of Thailand",
+  "agency_th": "ทอท.",
+  "due": "2032"
+ },
+ "kin": [
+  {
+   "to": "chiang-mai-airport",
+   "as": "What it would relieve.",
+   "rel": "place"
+  },
+  {
+   "to": "route-1317",
+   "as": "The road that would serve it.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:bkkbiz-1153345",
+  "s:thaipbs-353092",
+  "s:citylife-aot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:bkkbiz-1153345"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "lanna-airport/lanna-airport-panoramic-view-of-chiang-mai-international-airport-i.jpg",
+   "source": "commons",
+   "title": "File:Panoramic view of Chiang Mai International Airport (I).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Panoramic_view_of_Chiang_Mai_International_Airport_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_Chiang_Mai_International_Airport_%28I%29.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "Panoramic view of Chiang Mai International Airport from Doi Suthep.",
+   "date": "2022-08-01 14:25:52",
+   "primary": true,
+   "sha256": "82eb6450ea78e0a1aeea97379eb0634656c5f74a5608c6d70759cb6d5c28b01b"
+  }
+ ]
+}

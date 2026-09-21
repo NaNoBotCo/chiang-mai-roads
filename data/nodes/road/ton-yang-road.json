@@ -1,0 +1,146 @@
+{
+ "id": "ton-yang-road",
+ "type": "road",
+ "names": {
+  "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+  "th": "ถนนต้นยาง เชียงใหม่–ลำพูน",
+  "rtgs": "Thanon Ton Yang",
+  "aliases": [
+   "Route 106, Saraphi stretch"
+  ],
+  "said": "A thousand trees planted in 1882, and a poll in 2020 on whether to keep them.",
+  "said_th": "ต้นยางพันต้นปลูกปี 2425 และโพลปี 2563 ว่าจะเก็บไว้ก่อ"
+ },
+ "region": [
+  "ring2",
+  "intercity"
+ ],
+ "facets": {
+  "era": "kawila",
+  "ref": "106",
+  "direction": "south"
+ },
+ "text": {
+  "what": "The old road south to Lamphun, the Saraphi stretch of Route 106, lined with yang-na, Dipterocarpus alatus. About a thousand were planted from the Nawarat Bridge to the provincial line under Chao Phraya Surasi, dated 20 October 1882 by Thai PBS and by a telegram of 1900 in Thai Wikipedia; the two dates are not reconciled in any source on this disk. Infill planting in 1954; a protected-environment zone 40 m each side since 2015; storm damage in 2016. Counts of the surviving trees run from 800 to 900.",
+  "story": "A Mae Jo poll in October 2020, 403 respondents: 54 percent said the trees were not a problem, 61 percent wanted them conserved, 4 percent wanted them removed, and of the critics 59 percent cited branches over the traffic.\n\n*Inference —* the Superhighway of 1969 was built to take the Bangkok traffic off this road, and the thesis this rests on says traffic on it fell sharply as a result. The trees are alive partly because a bypass was built past them. That is the clearest case on this site of a new road doing an old one a favour."
+ },
+ "text_th": {
+  "what": "ถนนเก่าลงใต้ไปลำพูน ช่วงสารภีของทางหลวง 106 เรียงด้วยต้นยางนา ปลูกราวพันต้นจากสะพานนวรัฐถึงเขตจังหวัดภายใต้เจ้าพระยาสุรสีห์ ไทยพีบีเอสให้วันที่ 20 ตุลาคม 2425 วิกิพีเดียไทยให้โทรเลขปี 2443 สองวันที่ยังไม่มีแหล่งไหนในแผ่นนี้ปรับให้ตรงกัน ปลูกซ่อมปี 2497 เขตคุ้มครองสิ่งแวดล้อม 40 เมตรสองข้างตั้งแต่ 2558 พายุทำเสียหาย 2559 จำนวนที่เหลือนับได้ 800 ถึง 900 ต้น",
+  "story": "แม่โจ้โพล ตุลาคม 2563 ผู้ตอบ 403 คน ร้อยละ 54 ว่าต้นยางบ่เป็นปัญหา ร้อยละ 61 อยากอนุรักษ์ ร้อยละ 4 อยากเอาออก และในกลุ่มที่ติ ร้อยละ 59 ว่ากิ่งยื่นทับถนน\n\n*อนุมาน —* ซุปเปอร์ไฮเวย์ปี 2512 สร้างเพื่อเอารถกรุงเทพฯ ออกจากถนนสายนี้ และวิทยานิพนธ์ที่เรื่องนี้อิงว่ารถบนถนนลดฮวบเพราะอย่างนั้น ต้นยางยังอยู่ส่วนหนึ่งเพราะมีทางเลี่ยงสร้างผ่านไป นี่คือกรณีชัดที่สุดบนเว็บนี้ที่ถนนใหม่ทำคุณกับถนนเก่า"
+ },
+ "road": {
+  "ref": "106",
+  "from": "Nawarat Bridge",
+  "from_th": "สะพานนวรัฐ",
+  "to": "Lamphun provincial line",
+  "to_th": "เขตจังหวัดลำพูน",
+  "opened": "1882 (trees)",
+  "osm_names": [
+   "ถนนเชียงใหม่-ลำพูน",
+   "Chiang Mai-Lamphun Road"
+  ],
+  "osm_refs": [
+   "106"
+  ]
+ },
+ "geo": {
+  "lat": 18.745,
+  "lon": 99.015,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "phraya-surasi",
+   "as": "Who had them planted.",
+   "rel": "person"
+  },
+  {
+   "to": "route-106",
+   "as": "The whole road.",
+   "rel": "highway"
+  },
+  {
+   "to": "route-11",
+   "as": "The bypass that spared it.",
+   "rel": "highway"
+  },
+  {
+   "to": "the-trees-on-the-lamphun-road",
+   "as": "The long version.",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  "trees",
+  "heritage",
+  "controversy"
+ ],
+ "sources": [
+  "s:thaipbs-308334",
+  "s:thwp-106",
+  "s:mgr-9630000112206",
+  "s:cmu-thesis-2548"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thaipbs-308334"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ton-yang-road/ton-yang-road-dipterocarpus-alatus-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Dipterocarpus alatus (Chiang Mai).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Dipterocarpus_alatus_%28Chiang_Mai%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ADipterocarpus_alatus_%28Chiang_Mai%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "DSwarthout",
+   "credit": "Own work",
+   "alt": "This is a mature Dipterocarpus alatus tree. In Thailand it is known as a Yang na (ยางนา)",
+   "date": "2015-11-28 10:25:24",
+   "primary": true,
+   "sha256": "a6213b4853dd008987ddef50a2c3a2dbaf7d5eb8479360e489f00c0cc2d9c026"
+  },
+  {
+   "file": "ton-yang-road/ton-yang-road-hoge-bomen-langs-weg-106-p1160022.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P1160022.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hoge_bomen_langs_weg_106_P1160022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P1160022.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2013-02-24 15:11:41",
+   "primary": false,
+   "sha256": "f6165923a61ac8d423a3a1d7eec315fa5736afa02915058305e4f736d2cefb20"
+  },
+  {
+   "file": "ton-yang-road/ton-yang-road-hoge-bomen-langs-weg-106-p-20161219-b.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P 20161219 b.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hoge_bomen_langs_weg_106_P_20161219_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P_20161219_b.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2016-12-19 16:13:15",
+   "primary": false,
+   "sha256": "a34303d8bb7fc70a1e84388573c2561d458fc420753d78d2bb3be080c14ed87c"
+  }
+ ]
+}

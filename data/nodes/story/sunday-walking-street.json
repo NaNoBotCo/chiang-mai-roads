@@ -1,0 +1,82 @@
+{
+ "id": "sunday-walking-street",
+ "type": "story",
+ "names": {
+  "name": "The walking street, and how a road becomes a floor",
+  "th": "ถนนคนเดิน และถนนกลายเป็นพื้นได้อย่างไร",
+  "said": "Ten Sundays in 2002 as a pilot; every Sunday since; moved once for the cables.",
+  "said_th": "สิบวันอาทิตย์ปี 2545 เป็นนำร่อง ทุกวันอาทิตย์ตั้งแต่นั้น ย้ายครั้งเดียวเพราะสายไฟ"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "A pilot called Ten Wonders of Lanna at Tha Phae ran on Sundays from 3 February to 7 April 2002; the municipality took it over weekly from 14 April, 13:00 to 22:00; it moved to Ratchadamnoen on 31 August 2004 when Tha Phae's cables went underground; about 1.5 km, 15:00 to 22:00. The Saturday street on Wua Lai followed.",
+  "story": "*Inference —* it is the reverse of every other item on this site: a road taken away from vehicles rather than built for them, and the most-visited kilometre in the province because of it. Ratchadamnoen's one-way order of 2021 extends the same idea to the other six days."
+ },
+ "text_th": {
+  "what": "โครงการนำร่อง 10 มหัศจรรย์ล้านนาที่ท่าแพ จัดวันอาทิตย์ 3 กุมภาพันธ์ถึง 7 เมษายน 2545 เทศบาลรับมาจัดทุกสัปดาห์ตั้งแต่ 14 เมษายน 13:00–22:00 ย้ายไปราชดำเนิน 31 สิงหาคม 2547 เมื่อสายไฟท่าแพลงดิน ราว 1.5 กม. 15:00–22:00 ถนนคนเดินวันเสาร์ที่วัวลายตามมา",
+  "story": "*อนุมาน —* มันคือด้านกลับของทุกรายการบนเว็บนี้ ถนนที่ถูกเอาไปจากรถแทนที่จะสร้างเพื่อรถ และเป็นกิโลเมตรที่คนมาเยือนมากสุดในจังหวัดเพราะอย่างนั้น คำสั่งทางเดียวของราชดำเนินปี 2564 ขยายความคิดเดียวกันไปอีกหกวัน"
+ },
+ "kin": [
+  {
+   "to": "ratchadamnoen-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "tha-phae-gate",
+   "as": "Where it starts.",
+   "rel": "gate"
+  },
+  {
+   "to": "wua-lai-road",
+   "as": "The Saturday one.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "walk",
+  "market",
+  "fun"
+ ],
+ "sources": [
+  "s:cmcity-8198",
+  "s:cmnews-1651264"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmcity-8198"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "sunday-walking-street/sunday-walking-street-chiang-mai-sunday-evening-walking-street.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai sunday evening walking street.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chiang_Mai_sunday_evening_walking_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_sunday_evening_walking_street.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "The Sunday evening walking street is a market which is held in Chiang Mai on Rachadamnoen road, the main road through the old city which leads from Tapae gate to Wat Phra Singh, and its side streets. ",
+   "date": "2010-02-28",
+   "primary": true,
+   "sha256": "06448d35c917606dbb148fa321d263c511aab206209be7da53db01742bbbc26e"
+  }
+ ]
+}

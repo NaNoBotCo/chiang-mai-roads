@@ -1,0 +1,106 @@
+{
+ "id": "wua-lai-road",
+ "type": "road",
+ "names": {
+  "name": "Wua Lai Road",
+  "th": "ถนนวัวลาย",
+  "rtgs": "Thanon Wua Lai",
+  "said": "The silversmiths' road, south from Chiang Mai Gate; the Saturday market.",
+  "said_th": "ถนนช่างเงิน ลงใต้จากปะตู๋เจียงใหม่ กาดวันเสาร์"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "kawila"
+ },
+ "text": {
+  "what": "South from Chiang Mai Gate through the silversmiths' quarter, whose craft came with the people Kawila resettled from the Salween side. The Saturday walking street runs on it. Its naming date and any Wikipedia page are not on this disk."
+ },
+ "text_th": {
+  "what": "ลงใต้จากประตูเชียงใหม่ผ่านย่านช่างเงิน ฝีมือที่มากับผู้คนที่พระเจ้ากาวิละกวาดมาจากฝั่งสาละวิน ถนนคนเดินวันเสาร์อยู่บนถนนนี้ วันที่ตั้งชื่อและหน้าวิกิพีเดียบ่มีในแผ่นนี้"
+ },
+ "road": {
+  "from": "Chiang Mai Gate",
+  "from_th": "ประตูเชียงใหม่",
+  "to": "Route 108",
+  "to_th": "ทางหลวง 108",
+  "osm_names": [
+   "ถนนวัวลาย",
+   "Wua Lai Road",
+   "Wualai Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.777,
+  "lon": 98.986,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "chiang-mai-gate",
+   "as": "Its head.",
+   "rel": "gate"
+  },
+  {
+   "to": "kawila",
+   "as": "Whose resettlement gave it its craft.",
+   "rel": "person"
+  }
+ ],
+ "tags": [
+  "walk",
+  "market",
+  "night"
+ ],
+ "sources": [
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wp-chiang-mai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "wua-lai-road/wua-lai-road-chiangmai-walking-street-saturday-only-wualai-rd-panoramio-2.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai walking street (Saturday only, Wualai Rd.) - panoramio (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiangmai_walking_street_%28Saturday_only%2C_Wualai_Rd.%29_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_walking_street_%28Saturday_only%2C_Wualai_Rd.%29_-_panoramio_%282%29.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "chootrong",
+   "credit": "https://web.archive.org/web/20161021204022/http://www.panoramio.com/photo/50571062",
+   "alt": "chiangmai walking street  (Saturday only,  Wualai Rd.)",
+   "date": "Taken on 2 April 2011",
+   "primary": true,
+   "sha256": "201fe6169ccf3f05f7b6bc7436500fbcfe49333ba5117a6bb91b7410e555d2bd"
+  },
+  {
+   "file": "wua-lai-road/wua-lai-road-night-market-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Night Market Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Night_Market_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANight_Market_Chiang_Mai.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Adbar",
+   "credit": "Own work",
+   "alt": "Night Market on Wua Lai Road in Chiang Mai, so-called Saturday Walking Street Market.",
+   "date": "2013-04-27 19:51:57",
+   "primary": false,
+   "sha256": "a1933a0f92ef02719799f1db247e79620e9ab4aadb540ffc099ca6f69906423b"
+  }
+ ]
+}

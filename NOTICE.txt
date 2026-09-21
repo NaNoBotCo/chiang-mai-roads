@@ -1,0 +1,18 @@
+# NOTICE
+
+Roads of Chiang Mai — https://motdang.net/roads
+Made by hongdam.net, a bilingual web studio in Chiang Rai.
+
+Records, prose and pages: CC BY 4.0. Code: MIT.
+
+Third-party data, each under its own terms, named beside its use:
+- OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0 — every road, lane, wat, bridge and
+  water line; data/harvest/osm-*.json and everything computed from them
+- Department of Highways (กรมทางหลวง), annual average daily traffic, via datagov.mot.go.th —
+  Open Government Data of Thailand; data/harvest/doh-aadt.json
+- Department of Disease Control, three-database road deaths, via data.go.th —
+  Open Government Data of Thailand; data/harvest/road-deaths.json
+- Open-Meteo Elevation API (Copernicus DEM GLO-90), CC BY 4.0; data/harvest/elevation.json
+- TomTom Traffic Index, quoted figures; data/harvest/tomtom.json
+- Wikipedia (th, en), CC BY-SA 4.0 — the drafting corpus, not published
+- Wikimedia Commons — pictures, licensed per file; the licence and author sit beside each

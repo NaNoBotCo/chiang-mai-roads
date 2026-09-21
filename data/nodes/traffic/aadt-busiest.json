@@ -1,0 +1,86 @@
+{
+ "id": "aadt-busiest",
+ "type": "traffic",
+ "names": {
+  "name": "The busiest count in the province",
+  "th": "จุดนับที่รถมากสุดในจังหวัด",
+  "said": "Mahidol Road, km 7: 121,403 four-wheeled vehicles a day in 2025, plus 26,366 motorcycles.",
+  "said_th": "ถนนมหิดล กม.7 วันละ 121,403 คันสี่ล้อปี 2568 บวกมอเตอร์ไซค์ 26,366"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "year": "2025"
+ },
+ "text": {
+  "what": "The highway department counts traffic at 81 stations in the province and publishes the annual average daily total, motorcycles apart. The Don Chan–Chiang Mai station on Route 1141, Mahidol Road, at km 7 is the largest: 102,499 in 2020, 121,403 in 2025. The provincial traffic subcommittee's April 2026 minutes cite the same station at 120,000. Second is Route 118 at its first half-kilometre out of the city; third and fourth the two Superhighway stations."
+ },
+ "text_th": {
+  "what": "กรมทางหลวงนับรถที่ 81 สถานีในจังหวัดและเผยแพร่ค่าเฉลี่ยรายวันทั้งปี ไม่รวมจักรยานยนต์ สถานีดอนจั่น–เชียงใหม่บนทางหลวง 1141 ถนนมหิดล กม.7 ใหญ่สุด 102,499 ปี 2563 121,403 ปี 2568 รายงานการประชุมอนุกรรมการจราจรจังหวัดเมษายน 2569 อ้างสถานีเดียวกันที่ 120,000 อันดับสองคือทางหลวง 118 ที่ครึ่งกิโลเมตรแรกออกจากเมือง สามและสี่คือสองสถานีบนซุปเปอร์ไฮเวย์"
+ },
+ "figure": {
+  "value": 121403,
+  "unit": "vehicles a day, motorcycles apart",
+  "unit_th": "คันต่อวัน ไม่รวมจักรยานยนต์",
+  "year": "2025",
+  "source": "s:doh-aadt",
+  "series": [
+   {
+    "label": "2020",
+    "value": 102499
+   },
+   {
+    "label": "2022",
+    "value": 103812
+   },
+   {
+    "label": "2023",
+    "value": 118853
+   },
+   {
+    "label": "2024",
+    "value": 112509
+   },
+   {
+    "label": "2025",
+    "value": 121403
+   }
+  ],
+  "method": "DOH open-data CSVs 2563–2568 BE, filtered to Chiang Mai stations; the station is Route 1141 section 100 at km 7+000.",
+  "method_th": "ไฟล์ CSV เปิดของกรมทางหลวง 2563–2568 กรองสถานีเชียงใหม่ สถานีคือทางหลวง 1141 ตอน 100 กม.7+000",
+  "compare": "Bangkok's busiest counts are several times this; the comparison the page draws is with the road's own past.",
+  "compare_th": "จุดนับที่มากสุดของกรุงเทพฯ สูงกว่านี้หลายเท่า หน้านี้เทียบกับอดีตของถนนเอง"
+ },
+ "kin": [
+  {
+   "to": "mahidol-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "aadt-stations",
+   "as": "All 81 stations.",
+   "rel": "traffic"
+  }
+ ],
+ "sources": [
+  "s:doh-aadt",
+  "s:cm-traffic-minutes-2569"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:doh-aadt"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

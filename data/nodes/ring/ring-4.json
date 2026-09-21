@@ -1,0 +1,71 @@
+{
+ "id": "ring-4",
+ "type": "ring",
+ "names": {
+  "name": "Ring 4, drawn but not dug",
+  "th": "วงแหวนรอบที่ 4",
+  "rtgs": "Wong Waen Rop Thi Si",
+  "said": "Fifty kilometres, five thousand million baht, and a public hearing.",
+  "said_th": "ห้าสิบกิโล ห้าพันล้านบาท และเวทีรับฟังความเห็น"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "era": "planned",
+  "km": 50,
+  "status": "study"
+ },
+ "text": {
+  "what": "A fourth ring of about 50 km through Hang Dong, Saraphi, San Kamphaeng, Doi Saket, San Sai and Mae Rim, costed at about 5,000 million baht, at the public-consultation stage as of 2025. It exists as a line on a plan and a hearing; no contract is on this disk."
+ },
+ "text_th": {
+  "what": "วงแหวนที่สี่ยาวราว 50 กม. ผ่านหางดง สารภี สันกำแพง ดอยสะเก็ด สันทราย แม่ริม ประเมินราว 5,000 ล้านบาท อยู่ขั้นรับฟังความเห็นในปี 2568 มีอยู่เป็นเส้นบนผังและเวทีรับฟัง สัญญาบ่มีในแผ่นนี้"
+ },
+ "plan": {
+  "status": "study",
+  "as_of": "2025",
+  "km": 50,
+  "budget_thb": 5000000000,
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง"
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "region"
+ },
+ "kin": [
+  {
+   "to": "ring-3",
+   "as": "The last ring built.",
+   "rel": "ring"
+  },
+  {
+   "to": "era-now",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:thaipbs-353092"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thaipbs-353092"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21"
+}

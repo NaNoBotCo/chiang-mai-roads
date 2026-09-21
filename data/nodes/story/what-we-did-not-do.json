@@ -1,0 +1,68 @@
+{
+ "id": "what-we-did-not-do",
+ "type": "story",
+ "names": {
+  "name": "What this site does not have",
+  "th": "สิ่งที่เว็บนี้บ่มี",
+  "said": "A list, so nobody has to guess.",
+  "said_th": "รายการ เปื้อบ่ต้องมีใผเดา"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "No live traffic. No accident locations by road: nobody publishes them for these roads, so the deaths page is by province and year. No registered-vehicle count for the province: the land transport department's table sits behind a form this project could not read, and the figure on the traffic page is from a 2005 thesis. No year for the moat's one-way system, no length for the earthen wall, no opening years for the airport and Nong Hoi underpasses, no count of sois from the municipality. No bus timetable; the songthaew has none. No motorway that exists.",
+  "story": "Everything above is a gap in what was found, not a claim that it does not exist. The disk is a subset of the world."
+ },
+ "text_th": {
+  "what": "บ่มีจราจรสด บ่มีจุดเกิดอุบัติเหตุรายถนน บ่มีใครเผยแพร่สำหรับถนนเหล่านี้ หน้าผู้เสียชีวิตจึงเป็นรายจังหวัดรายปี บ่มีจำนวนรถจดทะเบียนของจังหวัด ตารางของกรมการขนส่งอยู่หลังฟอร์มที่โครงการนี้อ่านบ่ได้ และตัวเลขบนหน้าจราจรมาจากวิทยานิพนธ์ปี 2548 บ่มีปีของระบบทางเดียวรอบคู บ่มีความยาวกำแพงดิน บ่มีปีเปิดทางลอดสนามบินและหนองหอย บ่มีจำนวนซอยจากเทศบาล บ่มีตารางรถเมล์ รถแดงบ่มีตาราง บ่มีมอเตอร์เวย์ที่มีอยู่จริง",
+  "story": "ทุกอย่างข้างบนคือช่องว่างในสิ่งที่หาเจอ บ่ใช่คำอ้างว่ามันบ่มี แผ่นนี้คือส่วนย่อยของโลก"
+ },
+ "kin": [
+  {
+   "to": "road-deaths",
+   "as": "By province, not by road.",
+   "rel": "traffic"
+  },
+  {
+   "to": "moat-loop",
+   "as": "No year for the one-way.",
+   "rel": "ring"
+  }
+ ],
+ "sources": [
+  "s:osm"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "what-we-did-not-do/what-we-did-not-do-police-hut-in-thailand-2013-2394.jpg",
+   "source": "commons",
+   "title": "File:Police Hut in Thailand 2013 2394.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Police_Hut_in_Thailand_2013_2394.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APolice_Hut_in_Thailand_2013_2394.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "User:Amada44",
+   "credit": "Own work",
+   "alt": "a police hut with a police helmet as a roof",
+   "date": "2013-07-25 08:34:19",
+   "primary": true,
+   "sha256": "824be51b67ee2e15672db87b60f993ffe46d15e39f63f057b01a0e3c1affe94f"
+  }
+ ]
+}

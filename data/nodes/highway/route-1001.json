@@ -1,0 +1,64 @@
+{
+ "id": "route-1001",
+ "type": "highway",
+ "names": {
+  "name": "Route 1001, to Phrao",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1001 — เชียงใหม่–พร้าว",
+  "said": "93.7 km, and 55,708 vehicles a day at its first kilometre.",
+  "said_th": "93.7 กิโล และ 55,708 คันต่อวันที่กิโลแรก"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "north",
+  "ref": "1001",
+  "km": 93.657,
+  "era": "siam"
+ },
+ "text": {
+  "what": "From the Fa Ham junction on the Superhighway north through San Sai and Mae Jo to Phrao, 93.657 km. The first kilometre is one of the busiest counts in the province, 55,708 vehicles a day in 2025 plus 22,601 motorcycles, and the reason the Fa Ham underpass was dug."
+ },
+ "text_th": {
+  "what": "จากแยกฟ้าฮ่ามบนซุปเปอร์ไฮเวย์ขึ้นเหนือผ่านสันทราย แม่โจ้ ถึงพร้าว 93.657 กม. กิโลเมตรแรกเป็นจุดนับที่รถมากสุดจุดหนึ่งของจังหวัด 55,708 คันต่อวันปี 2568 บวกจักรยานยนต์ 22,601 และเป็นเหตุที่ขุดทางลอดฟ้าฮ่าม"
+ },
+ "road": {
+  "ref": "1001",
+  "km": 93.657,
+  "km_source": "s:thwp-highway-list",
+  "from": "Fa Ham, Chiang Mai",
+  "from_th": "ฟ้าฮ่าม เชียงใหม่",
+  "to": "Phrao",
+  "to_th": "พร้าว",
+  "osm_refs": [
+   "1001"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "fa-ham-underpass",
+   "as": "Its junction.",
+   "rel": "junction"
+  }
+ ],
+ "sources": [
+  "s:thwp-highway-list",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-highway-list"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21"
+}
