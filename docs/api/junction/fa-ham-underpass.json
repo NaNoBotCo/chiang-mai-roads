@@ -1,0 +1,97 @@
+{
+ "id": "fa-ham-underpass",
+ "type": "junction",
+ "names": {
+  "name": "Fa Ham underpass",
+  "th": "ทางลอดฟ้าฮ่าม",
+  "rtgs": "Thang Lot Fa Ham",
+  "aliases": [
+   "Mae Jo junction underpass"
+  ],
+  "said": "533 metres, 31 metres wide, 1,172.8 million baht, Lanna-styled lamps.",
+  "said_th": "533 เมตร กว้าง 31 เมตร 1,172.8 ล้านบาท โคมแบบล้านนา"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "now",
+  "year": "2018"
+ },
+ "text": {
+  "what": "Where Route 1001, the Mae Jo and Phrao road, crosses the Superhighway northeast of the city. Highway department; built from March 2015; opened 9 June 2018; a tunnel 533 m long and 31 m wide, at 1,172,771,000 baht. The busiest radial count on this side of the city passes through it: 55,708 vehicles a day at Route 1001's first kilometre in 2025."
+ },
+ "text_th": {
+  "what": "ตี้ทางหลวง 1001 ถนนแม่โจ้และพร้าว ตัดซุปเปอร์ไฮเวย์ทางตะวันออกเฉียงเหนือของเมือง กรมทางหลวง สร้างตั้งแต่มีนาคม 2558 เปิด 9 มิถุนายน 2561 อุโมงค์ยาว 533 เมตร กว้าง 31 เมตร 1,172,771,000 บาท จุดนับรัศมีที่รถมากสุดฝั่งนี้ของเมืองผ่านมัน 55,708 คันต่อวันที่กิโลเมตรแรกของทางหลวง 1001 ปี 2568"
+ },
+ "geo": {
+  "lat": 18.808,
+  "lon": 99.01,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "route-1001",
+   "as": "Through it.",
+   "rel": "highway"
+  },
+  {
+   "to": "route-11",
+   "as": "Under it.",
+   "rel": "highway"
+  },
+  {
+   "to": "era-now",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:mgr-9610000057357",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:mgr-9610000057357"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "route-1001",
+   "type": "highway",
+   "name": "Route 1001, to Phrao",
+   "as": "Its junction."
+  },
+  {
+   "from": "route-11",
+   "type": "highway",
+   "name": "Route 11, the Superhighway",
+   "as": "Dug under it."
+  },
+  {
+   "from": "route-118",
+   "type": "highway",
+   "name": "Route 118, to Chiang Rai",
+   "as": "Its junction with the Superhighway."
+  },
+  {
+   "from": "era-now",
+   "type": "era",
+   "name": "2010s–2020s — going under, and going up",
+   "as": "2018."
+  }
+ ]
+}

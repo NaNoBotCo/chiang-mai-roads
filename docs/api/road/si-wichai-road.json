@@ -1,0 +1,172 @@
+{
+ "id": "si-wichai-road",
+ "type": "road",
+ "names": {
+  "name": "Si Wichai Road, the road up Doi Suthep",
+  "th": "ถนนศรีวิชัย",
+  "rtgs": "Thanon Si Wichai",
+  "aliases": [
+   "Doi Suthep road",
+   "ถนนขึ้นดอยสุเทพ"
+  ],
+  "said": "Five months and twenty-two days, 11.53 km, no machine.",
+  "said_th": "ห้าเดือนยี่สิบสองวัน 11.53 กิโล บ่มีเครื่องจักร"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "srivichai",
+  "ref": "1004",
+  "km": 11.53
+ },
+ "text": {
+  "what": "The upper half of Route 1004, from the Kruba Srivichai monument at the foot of the mountain to Wat Phra That Doi Suthep. Ground broken 9 November 1934 with Chao Kaew Nawarat cutting the first sod; open to vehicles 30 April 1935; 11.53 km of earth and laterite by volunteers.",
+  "story": "*Inference —* the red trucks that carry visitors up it are the road's economy, and the curves are the reason the bikes on the Mae Hong Son loop rehearse here. It is in the highway department's 2025–27 programme for improvement, which means its surface, not its line."
+ },
+ "text_th": {
+  "what": "ครึ่งบนของทางหลวง 1004 จากอนุสาวรีย์ครูบาศรีวิชัยตีนดอยถึงวัดพระธาตุดอยสุเทพ เริ่มขุด 9 พฤศจิกายน 2477 เจ้าแก้วนวรัฐจกจอบแรก เปิดให้รถ 30 เมษายน 2478 ดินและลูกรัง 11.53 กม. ด้วยแรงศรัทธา",
+  "story": "*อนุมาน —* รถแดงที่พาคนขึ้นคือเศรษฐกิจของถนนสายนี้ และโค้งคือเหตุที่มอเตอร์ไซค์ที่จะไปวงรอบแม่ฮ่องสอนมาซ้อมตรงนี้ มันอยู่ในแผนกรมทางหลวง 2568–70 เพื่อปรับปรุง ซึ่งหมายถึงผิวทาง ไม่ใช่แนว"
+ },
+ "road": {
+  "ref": "1004",
+  "km": 11.53,
+  "km_source": "s:thwp-si-wichai",
+  "from": "Kruba Srivichai monument",
+  "from_th": "อนุสาวรีย์ครูบาศรีวิชัย",
+  "to": "Wat Phra That Doi Suthep",
+  "to_th": "วัดพระธาตุดอยสุเทพ",
+  "opened": "1935-04-30",
+  "osm_names": [
+   "ถนนศรีวิชัย",
+   "Si Wichai Road",
+   "Srivichai Road"
+  ],
+  "osm_refs": [
+   "1004"
+  ]
+ },
+ "geo": {
+  "lat": 18.81,
+  "lon": 98.935,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "kruba-srivichai",
+   "as": "Who built it.",
+   "rel": "person"
+  },
+  {
+   "to": "huay-kaew-road",
+   "as": "What leads to it.",
+   "rel": "road"
+  },
+  {
+   "to": "doi-suthep",
+   "as": "The mountain.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "wat",
+  "motorbike"
+ ],
+ "sources": [
+  "s:thwp-si-wichai",
+  "s:citylife-elephant",
+  "s:prd-cm-369046"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-si-wichai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "si-wichai-road/si-wichai-road-20171106-road-below-wat-phrathat-doi-suthep-monaster-2049445.jpg",
+   "source": "commons",
+   "title": "File:20171106 Road below Wat Phrathat Doi Suthep monastery 0058 DxO.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/20171106_Road_below_Wat_Phrathat_Doi_Suthep_monastery_0058_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A20171106_Road_below_Wat_Phrathat_Doi_Suthep_monastery_0058_DxO.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Jakub Hałun",
+   "credit": "Own work",
+   "alt": "A road below Wat Phrathat Doi Suthep monastery in Doi Suthep-Pui National Park",
+   "date": "2017-11-06 10:19:03",
+   "primary": true,
+   "sha256": "17e18e84aaada2e97b99aa50bb5275008a780d71518effa4f35487b507610ac6"
+  },
+  {
+   "file": "si-wichai-road/si-wichai-road-anusawwaree-khrubasriwichai.jpg",
+   "source": "commons",
+   "title": "File:AnuSawwaree Khrubasriwichai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/AnuSawwaree_Khrubasriwichai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAnuSawwaree_Khrubasriwichai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kimtuy",
+   "credit": "Own work",
+   "alt": "อนุสาวรีย์ครูบาศรีวิชัย สร้างขึ้น ณ จุดที่ขุดถนนจอบแรก เพื่อเป็นอนุสรน์สถานรำลึกถึงคุณของครูบาเจ้าศรีวิชัยในการนำกลุ่มชาวบ้าน ชาวเขา สร้างถนนขึ้นพระธาตุดอยสุเทพ",
+   "date": "2021-05-04",
+   "primary": false,
+   "sha256": "9259ab69a6f4cc226a7e56af8da0e9cf56cd49d1ee50ca4816f4be6716632611"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "huay-kaew-road",
+   "type": "road",
+   "name": "Huay Kaew Road",
+   "as": "What it becomes at the foot of the mountain."
+  },
+  {
+   "from": "nine-roads-programme",
+   "type": "plan",
+   "name": "The nine roads, 2025–27",
+   "as": "On the list."
+  },
+  {
+   "from": "era-monks-road-1935",
+   "type": "era",
+   "name": "1935 — the monk's road",
+   "as": "The road."
+  },
+  {
+   "from": "the-monk-who-built-a-road",
+   "type": "story",
+   "name": "The monk who built a road in five months",
+   "as": "The road."
+  },
+  {
+   "from": "chao-kaew-nawarat",
+   "type": "person",
+   "name": "Chao Kaew Nawarat",
+   "as": "He broke its ground."
+  },
+  {
+   "from": "kruba-srivichai",
+   "type": "person",
+   "name": "Kruba Srivichai",
+   "as": "The road."
+  },
+  {
+   "from": "doi-suthep",
+   "type": "place",
+   "name": "Doi Suthep",
+   "as": "The road up it."
+  }
+ ]
+}

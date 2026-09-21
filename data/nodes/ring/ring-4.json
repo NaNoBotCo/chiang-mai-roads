@@ -67,5 +67,22 @@
  },
  "confidence": "low",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ring-4/ring-4-chiang-mai-panoramic.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Panoramic.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chiang_Mai_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panoramic.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Ssuri",
+   "credit": "Own work",
+   "alt": "Taken from a viewpoint on the way to the Doi Suthep temple in Chiang Mai.",
+   "date": "2009-10-29",
+   "primary": true,
+   "sha256": "cbb39157fade452b282d7267308ea4a9ba79349c2e4e14a8b1a9c90754534b84"
+  }
+ ]
 }

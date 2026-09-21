@@ -1,0 +1,98 @@
+{
+ "id": "wats-and-rings",
+ "type": "measure",
+ "names": {
+  "name": "Wats, zone by zone",
+  "th": "วัด ทีละโซน",
+  "said": "44 wats inside the moat, 15 per km². 88 in the outer band.",
+  "said_th": "วัด 44 วัดในเวียง 15 ต่อตร.กม. 88 ในแถบนอก"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "Buddhist places of worship on the map, by zone: 44 inside the moat (15.0 per km²), 52 to 3 km, 50 to 5.5, 88 to 9, 1139 beyond; 420 in the box. Traffic signals the same way: 24, 73, 57, 61, 46.",
+  "story": "*Inference —* the wat density inside the moat is the reason the UNESCO file counts seven temples, five gates and four bastions in one square. A ring road through it would have been unthinkable, which is why every ring was drawn outside, and why the one thing the 2019 heritage review objected to was a tunnel underneath."
+ },
+ "text_th": {
+  "what": "ศาสนสถานพุทธบนแผนที่ ตามโซน ในคู 44 (15.0 ต่อตร.กม.) ถึง 3 กม. 52 ถึง 5.5 50 ถึง 9 88 เกินนั้น 1139 ในกรอบ 420 ไฟสัญญาณแบบเดียวกัน 24, 73, 57, 61, 46",
+  "story": "*อนุมาน —* ความหนาแน่นของวัดในคูคือเหตุที่เอกสารยูเนสโกนับเจ็ดวัด ห้าประตู สี่แจ่งในสี่เหลี่ยมเดียว วงแหวนผ่านมันเป็นเรื่องคิดบ่ได้ นี่คือเหตุที่ทุกวงถูกวาดข้างนอก และเหตุที่สิ่งเดียวที่การทบทวนมรดกปี 2562 คัดค้านคืออุโมงค์ข้างใต้"
+ },
+ "figure": {
+  "value": 44,
+  "unit": "wats inside the moat",
+  "unit_th": "วัดในเวียง",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "inside the moat",
+    "label_th": "ในเวียง",
+    "value": 44
+   },
+   {
+    "label": "moat to 3 km",
+    "label_th": "นอกคูเมืองถึง 3 กม.",
+    "value": 52
+   },
+   {
+    "label": "3 to 5.5 km",
+    "label_th": "3 ถึง 5.5 กม.",
+    "value": 50
+   },
+   {
+    "label": "5.5 to 9 km",
+    "label_th": "5.5 ถึง 9 กม.",
+    "value": 88
+   },
+   {
+    "label": "past 9 km",
+    "label_th": "เกิน 9 กม.",
+    "value": 1139
+   }
+  ],
+  "method": "amenity=place_of_worship + religion=buddhist nodes, ways and relations by centre, per zone.",
+  "method_th": "amenity=place_of_worship + religion=buddhist จุด เส้น และความสัมพันธ์ตามจุดกลาง ต่อโซน"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "The square.",
+   "rel": "place"
+  },
+  {
+   "to": "unesco-nomination",
+   "as": "The file.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": []
+}

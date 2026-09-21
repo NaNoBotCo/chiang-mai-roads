@@ -1,0 +1,173 @@
+{
+ "id": "ring-2",
+ "type": "ring",
+ "names": {
+  "name": "Ring 2, the 700 Years Road",
+  "th": "วงแหวนรอบกลาง — ถนนสมโภชเชียงใหม่ 700 ปี",
+  "rtgs": "Thanon Somphot Chiang Mai Chet Roi Pi",
+  "aliases": [
+   "Middle ring",
+   "Rural Road ChM.3029"
+  ],
+  "said": "26.13 km, six lanes, seven underpasses, twelve years, 10,070 million baht.",
+  "said_th": "26.13 กิโล หกเลน ทางลอดเจ็ดแห่ง สิบสองปี 10,070 ล้านบาท"
+ },
+ "region": [
+  "ring2"
+ ],
+ "facets": {
+  "era": "rings",
+  "km": 26.13,
+  "lanes": "6",
+  "year": "2006"
+ },
+ "text": {
+  "what": "The middle ring, about 5 km out, named for the city's 700th anniversary of 1996. Laid out in the first comprehensive plan of 1984 and fixed by Interior Ministry Regulation 78 of 1989; designed by the Department of Town Planning, built by the Public Works Department; ground broken 11 January 1994 on a 30 m right of way; opened 6 February 2006 by the prime minister. 26.13 km, six lanes, seven underpasses at the radial roads (107, 1001, 118, 1006, 1317, 106, 108) and one interchange at Route 11. Run by the Department of Rural Roads as ChM.3029. Cost 10,070 million baht including land by Thai Wikipedia, 5,060 million in the 2005 thesis; the two figures are both recorded.",
+  "story": "*Inference —* seven underpasses is the design decision that defines this ring: the radial roads keep their signals and the ring goes under them, so a driver on the ring never stops and a driver crossing it never notices. It is the road in the city that most behaves like a motorway, and it is not a national highway at all."
+ },
+ "text_th": {
+  "what": "วงแหวนรอบกลาง ราว 5 กม. จากใจกลาง ตั้งชื่อตามงานสมโภชเมือง 700 ปี พ.ศ. 2539 วางในผังเมืองรวมฉบับแรก 2527 กำหนดโดยกฎกระทรวงมหาดไทยฉบับที่ 78 ปี 2532 ออกแบบโดยกรมการผังเมือง สร้างโดยกรมโยธาธิการ วางศิลาฤกษ์ 11 มกราคม 2537 เขตทาง 30 เมตร เปิด 6 กุมภาพันธ์ 2549 โดยนายกรัฐมนตรี 26.13 กม. หกเลน ทางลอดเจ็ดแห่งตรงถนนรัศมี (107, 1001, 118, 1006, 1317, 106, 108) และทางแยกต่างระดับหนึ่งแห่งที่ทางหลวง 11 ดูแลโดยกรมทางหลวงชนบทเป็น ชม.3029 ค่าก่อสร้างรวมที่ดิน 10,070 ล้านบาทตามวิกิพีเดียไทย 5,060 ล้านตามวิทยานิพนธ์ปี 2548 บันทึกไว้ทั้งสองตัวเลข",
+  "story": "*อนุมาน —* ทางลอดเจ็ดแห่งคือการออกแบบที่นิยามวงนี้ ถนนรัศมีเก็บสัญญาณไฟไว้ และวงแหวนลอดใต้ คนขับบนวงจึงบ่เคยหยุด และคนขับข้ามวงบ่เคยสังเกต มันคือถนนในเมืองที่ทำตัวเหมือนมอเตอร์เวย์มากที่สุด และมันบ่ใช่ทางหลวงแผ่นดินเลย"
+ },
+ "road": {
+  "ref": "ชม.3029",
+  "km": 26.13,
+  "km_source": "s:thwp-700-years",
+  "lanes": "6",
+  "opened": "2006-02-06",
+  "osm_names": [
+   "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "ถนนวงแหวนรอบกลาง",
+   "700 Years Road",
+   "Chiang Mai 700th Anniversary Road",
+   "Middle Ring Road"
+  ],
+  "osm_refs": [
+   "ชม.3029",
+   "3029"
+  ]
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "ring-1",
+   "as": "Inside it.",
+   "rel": "ring"
+  },
+  {
+   "to": "ring-3",
+   "as": "Outside it.",
+   "rel": "ring"
+  },
+  {
+   "to": "ring-2-underpasses",
+   "as": "The seven.",
+   "rel": "junction"
+  },
+  {
+   "to": "lot",
+   "as": "The word on the signs.",
+   "rel": "word"
+  },
+  {
+   "to": "wiang-kum-kam",
+   "as": "An underpass is named for it.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:thwp-700-years",
+  "s:cmu-thesis-2548",
+  "s:urbanis-5712",
+  "s:reviewcm-underpasses"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-700-years"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ring-2/ring-2-view-of-cmx-i.jpg",
+   "source": "commons",
+   "title": "File:View of CMX (I).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/View_of_CMX_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AView_of_CMX_%28I%29.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "Some view of Mueang Chiang Mai district from Doi Suthep.",
+   "date": "2022-08-01 14:26:23",
+   "primary": true,
+   "sha256": "36aa7059a4e45cfae1fba3a9729535a07f5d4623116a3606f927d326a54a75cf"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ring-1",
+   "type": "ring",
+   "name": "Ring 1, the Superhighway ring",
+   "as": "The next ring out."
+  },
+  {
+   "from": "ring-3",
+   "type": "ring",
+   "name": "Ring 3, Route 121",
+   "as": "Inside it."
+  },
+  {
+   "from": "ring-2-underpasses",
+   "type": "junction",
+   "name": "The seven underpasses of the middle ring",
+   "as": "The ring."
+  },
+  {
+   "from": "comprehensive-plan-2026",
+   "type": "plan",
+   "name": "The new comprehensive plan, 2026",
+   "as": "Drawn by its 1984 ancestor."
+  },
+  {
+   "from": "era-rings-1984-2006",
+   "type": "era",
+   "name": "1984–2006 — the rings",
+   "as": "The middle ring."
+  },
+  {
+   "from": "lot",
+   "type": "word",
+   "name": "ลอด lot",
+   "as": "Seven of them."
+  },
+  {
+   "from": "the-monk-who-built-a-road",
+   "type": "story",
+   "name": "The monk who built a road in five months",
+   "as": "The comparison."
+  },
+  {
+   "from": "wiang-kum-kam",
+   "type": "place",
+   "name": "Wiang Kum Kam",
+   "as": "The underpass named for it is on this ring."
+  }
+ ]
+}

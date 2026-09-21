@@ -1,0 +1,15 @@
+{
+ "name": "Roads of Chiang Mai",
+ "short_name": "CM Roads",
+ "start_url": "/chiang-mai-roads/",
+ "display": "standalone",
+ "background_color": "#fdfbf4",
+ "theme_color": "#17110c",
+ "icons": [
+  {
+   "src": "/chiang-mai-roads/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

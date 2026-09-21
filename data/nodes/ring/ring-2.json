@@ -102,5 +102,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ring-2/ring-2-view-of-cmx-i.jpg",
+   "source": "commons",
+   "title": "File:View of CMX (I).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/View_of_CMX_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AView_of_CMX_%28I%29.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "Some view of Mueang Chiang Mai district from Doi Suthep.",
+   "date": "2022-08-01 14:26:23",
+   "primary": true,
+   "sha256": "36aa7059a4e45cfae1fba3a9729535a07f5d4623116a3606f927d326a54a75cf"
+  }
+ ]
 }

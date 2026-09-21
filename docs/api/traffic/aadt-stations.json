@@ -1,0 +1,96 @@
+{
+ "id": "aadt-stations",
+ "type": "traffic",
+ "names": {
+  "name": "Eighty-one counting stations",
+  "th": "สถานีนับรถแปดสิบเอ็ดแห่ง",
+  "said": "1,133,811 vehicles a day across every station in 2025, and 291,761 motorcycles: a quarter of the four-wheeled figure.",
+  "said_th": "1,133,811 คันต่อวันรวมทุกสถานีปี 2568 และจักรยานยนต์ 291,761 หนึ่งในสี่ของตัวเลขสี่ล้อ"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2025"
+ },
+ "text": {
+  "what": "The sum across all Chiang Mai stations, which double-counts a vehicle that passes two of them and is therefore a scale, not a total: 1,057,788 four-wheeled and 277,800 motorcycles in 2020; 967,608 and 272,124 in 2022; 1,074,431 and 276,463 in 2023; 1,095,501 and 282,816 in 2024; 1,133,811 and 291,761 in 2025. The full table, every station with its route, kilometre, heavy-vehicle share and motorcycles, is on the traffic page and in the API."
+ },
+ "text_th": {
+  "what": "ผลรวมทุกสถานีเชียงใหม่ ซึ่งนับซ้ำรถที่ผ่านสองสถานี จึงเป็นมาตรวัด ไม่ใช่ยอดรวม สี่ล้อ 1,057,788 และจักรยานยนต์ 277,800 ปี 2563 967,608 และ 272,124 ปี 2565 1,074,431 และ 276,463 ปี 2566 1,095,501 และ 282,816 ปี 2567 1,133,811 และ 291,761 ปี 2568 ตารางเต็ม ทุกสถานีพร้อมทางหลวง กิโลเมตร สัดส่วนรถหนัก และจักรยานยนต์ อยู่บนหน้าจราจรและใน API"
+ },
+ "figure": {
+  "value": 1133811,
+  "unit": "vehicles a day, summed over 81 stations",
+  "unit_th": "คันต่อวัน รวม 81 สถานี",
+  "year": "2025",
+  "source": "s:doh-aadt",
+  "series": [
+   {
+    "label": "2020",
+    "value": 1057788,
+    "note": "79 stations"
+   },
+   {
+    "label": "2022",
+    "value": 967608,
+    "note": "77 stations"
+   },
+   {
+    "label": "2023",
+    "value": 1074431,
+    "note": "77 stations"
+   },
+   {
+    "label": "2024",
+    "value": 1095501,
+    "note": "81 stations"
+   },
+   {
+    "label": "2025",
+    "value": 1133811,
+    "note": "81 stations"
+   }
+  ],
+  "method": "Sum of the AADT column over rows whose district field reads Chiang Mai, per year file. 2021 was not parsed.",
+  "method_th": "ผลรวมคอลัมน์ AADT ของแถวที่ช่องแขวงอ่านว่าเชียงใหม่ ตามไฟล์รายปี ไม่ได้อ่านปี 2564"
+ },
+ "kin": [
+  {
+   "to": "aadt-busiest",
+   "as": "The top of the table.",
+   "rel": "traffic"
+  },
+  {
+   "to": "motorcycle-share",
+   "as": "The motorcycle column.",
+   "rel": "traffic"
+  }
+ ],
+ "sources": [
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:doh-aadt"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "aadt-busiest",
+   "type": "traffic",
+   "name": "The busiest count in the province",
+   "as": "All 81 stations."
+  }
+ ]
+}

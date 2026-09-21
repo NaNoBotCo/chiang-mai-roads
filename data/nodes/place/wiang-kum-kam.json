@@ -62,5 +62,37 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "wiang-kum-kam/wiang-kum-kam-wiang-kum-kam-174064203.jpg",
+   "source": "commons",
+   "title": "File:Wiang Kum Kam (174064203).jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Wiang_Kum_Kam_%28174064203%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWiang_Kum_Kam_%28174064203%29.jpeg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Mathew Schwartz",
+   "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "alt": "500px provided description: Chiangmai Thailand, one of the many sites part of the Wiang Kum Kam. This site was excavated and its original form. Really amazing to see something so old and well preserve",
+   "date": "17 September 2016, 17:19:49 (UTC)",
+   "primary": true,
+   "sha256": "ef422cadb42358860a0f9f9a02d81400761e717dfb523f26343b3c13da060ce5"
+  },
+  {
+   "file": "wiang-kum-kam/wiang-kum-kam-wiang-kum-kam-1.jpg",
+   "source": "commons",
+   "title": "File:Wiang Kum Kam 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wiang_Kum_Kam_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWiang_Kum_Kam_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Mathew Schwartz",
+   "credit": "Own work",
+   "alt": "Wiang Kum Kam 1.jpg",
+   "date": "2016-09-17 13:25:33",
+   "primary": false,
+   "sha256": "e280e442ae886ba2e1f52c35c302f7621125c16b8e5642bf8c0982afe612daad"
+  }
+ ]
 }

@@ -59,5 +59,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "mangrai/mangrai-king-mangrai-monument-october-2021-img-01.jpg",
+   "source": "commons",
+   "title": "File:King Mangrai Monument อนุสาวรีย์พ่อขุนมังราย ห้าแยกพ่อขุนฯ (October 2021) - img 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKing_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "alt": "King Mangrai (Mengrai) Monument at Pho Khun intersection, Chiang Rai",
+   "date": "2021-10-26 09:24:00",
+   "primary": true,
+   "sha256": "04ad8a99bd85e71a45708e97c0780074a824fc8db98dca3a3fcd736759e5f084"
+  }
+ ]
 }

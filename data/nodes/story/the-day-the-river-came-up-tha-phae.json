@@ -75,5 +75,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "the-day-the-river-came-up-tha-phae/the-day-the-river-came-up-tha-phae-ping-river-in-chiang-mai-1.jpg",
+   "source": "commons",
+   "title": "File:Ping River in Chiang Mai 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ping_River_in_Chiang_Mai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "View of the Ping River from the Chansom Memorial Bridge in Chiang Mai.",
+   "date": "2018-09-06 14:36:03",
+   "primary": true,
+   "sha256": "a749aba609d0f43d5c778e00d1e430c17dc9d6985446ee1250d170ea2681aea1"
+  }
+ ]
 }

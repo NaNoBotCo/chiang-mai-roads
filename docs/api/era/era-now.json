@@ -1,0 +1,134 @@
+{
+ "id": "era-now",
+ "type": "era",
+ "names": {
+  "name": "2010s–2020s — going under, and going up",
+  "th": "ทศวรรษ 2550–2560 — ลอดใต้ และยกขึ้น",
+  "said": "Tunnels at the junctions, four lanes to Chiang Rai, and a light rail that keeps moving its opening date.",
+  "said_th": "อุโมงค์ตามแยก สี่เลนไปเชียงราย และรถไฟฟ้าที่เลื่อนวันเปิดไปเรื่อย"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "now",
+  "order": 8
+ },
+ "text": {
+  "what": "Fa Ham underpass opens 2018 at 1,172.8 million baht. Route 118 is four-laned section by section, the last 17.5 km due 2026. Five interchanges on the outer ring are tendered for 3,145 million baht, due 2027. The old city gets a 12 m height cap and Ratchadamnoen goes one-way in 2021 for a walkable-district pilot. UNESCO tentative listing 2015, nomination filed January 2026. The Ping floods in October 2024 to 5.30 m at Nawarat. A new comprehensive plan is approved 17 March 2026 with 51 project roads.",
+  "story": "*Inference —* the pattern of the decade is grade separation: the city has decided to go under its junctions rather than build a fourth ring, while the fourth ring is drawn anyway. The plans page carries each item with its status and its date, because half of them have moved."
+ },
+ "text_th": {
+  "what": "อุโมงค์ฟ้าฮ่ามเปิด 2561 ที่ 1,172.8 ล้านบาท ทางหลวง 118 ขยายสี่เลนทีละช่วง 17.5 กม. สุดท้ายกำหนด 2569 ทางแยกต่างระดับห้าแห่งบนวงแหวนรอบนอกประมูล 3,145 ล้านบาท กำหนด 2570 เวียงเก่าได้เพดานความสูง 12 เมตร และราชดำเนินเป็นทางเดียวปี 2564 เพื่อนำร่องย่านเดินได้ บัญชีเบื้องต้นยูเนสโก 2558 ยื่นเสนอมกราคม 2569 แม่ปิงท่วมตุลาคม 2567 ถึง 5.30 เมตรที่นวรัฐ ผังเมืองรวมฉบับใหม่ผ่าน ครม. 17 มีนาคม 2569 มีถนนโครงการ 51 สาย",
+  "story": "*อนุมาน —* แบบแผนของทศวรรษคือการแยกระดับ เมืองตัดสินใจลอดใต้แยกแทนสร้างวงแหวนที่สี่ ขณะที่วงแหวนที่สี่ก็ถูกวาดอยู่ดี หน้าแผนมีแต่ละรายการพร้อมสถานะและวันที่ เพราะครึ่งหนึ่งเลื่อนแล้ว"
+ },
+ "kin": [
+  {
+   "to": "fa-ham-underpass",
+   "as": "2018.",
+   "rel": "junction"
+  },
+  {
+   "to": "ring-3-interchanges",
+   "as": "2027.",
+   "rel": "plan"
+  },
+  {
+   "to": "comprehensive-plan-2026",
+   "as": "The plan.",
+   "rel": "plan"
+  },
+  {
+   "to": "lrt-red-line",
+   "as": "The train that keeps moving.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:mgr-9610000057357",
+  "s:cri108-15492",
+  "s:dailynews-4380049",
+  "s:cmnews-1651264",
+  "s:prd-485975",
+  "s:lanner-flood"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:mgr-9610000057357"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-now/era-now-panoramic-view-of-cmx.jpg",
+   "source": "commons",
+   "title": "File:Panoramic view of CMX.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Panoramic_view_of_CMX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_CMX.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "The panoramic view of Mueang Chiang Mai district from Doi Suthep.",
+   "date": "2022-08-01 14:25:52",
+   "primary": true,
+   "sha256": "825a2441b43c81c60218c29a1475cf79b20168b355848ee333e856daab5d152d"
+  },
+  {
+   "file": "era-now/era-now-view-of-cmx-i.jpg",
+   "source": "commons",
+   "title": "File:View of CMX (I).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/View_of_CMX_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AView_of_CMX_%28I%29.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "Some view of Mueang Chiang Mai district from Doi Suthep.",
+   "date": "2022-08-01 14:26:23",
+   "primary": false,
+   "sha256": "36aa7059a4e45cfae1fba3a9729535a07f5d4623116a3606f927d326a54a75cf"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ring-4",
+   "type": "ring",
+   "name": "Ring 4, drawn but not dug",
+   "as": "Its era."
+  },
+  {
+   "from": "fa-ham-underpass",
+   "type": "junction",
+   "name": "Fa Ham underpass",
+   "as": "Its era."
+  },
+  {
+   "from": "comprehensive-plan-2026",
+   "type": "plan",
+   "name": "The new comprehensive plan, 2026",
+   "as": "Its era."
+  },
+  {
+   "from": "lrt-red-line",
+   "type": "plan",
+   "name": "Chiang Mai light rail, the Red Line",
+   "as": "The train that keeps moving."
+  }
+ ]
+}

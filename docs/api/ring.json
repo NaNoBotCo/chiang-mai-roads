@@ -1,0 +1,840 @@
+{
+ "type": "ring",
+ "count": 5,
+ "nodes": [
+  {
+   "id": "moat-loop",
+   "type": "ring",
+   "names": {
+    "name": "The moat loop",
+    "th": "ถนนรอบคูเมือง",
+    "rtgs": "Thanon Rop Khu Mueang",
+    "aliases": [
+     "Ring 0"
+    ],
+    "said": "6.54 km, two roads, one clockwise and one counter, since 1948.",
+    "said_th": "6.54 กิโล สองถนน วงนอกตามเข็ม วงในทวน ตั้งแต่ 2491"
+   },
+   "region": [
+    "moat"
+   ],
+   "facets": {
+    "era": "siam",
+    "km": 6.54,
+    "oneway": true
+   },
+   "text": {
+    "what": "The pair of one-way roads on the two banks of the moat: the outer bank runs clockwise, the inner counter-clockwise, so that the square is a roundabout 6.54 km round. The municipality built the roads in 1948, demolishing stretches of the wall to do it. The year the one-way system began is not on this disk.",
+    "story": "*Inference —* the loop is the city's first ring and its smallest, and the only one that is not a bypass: it does not take traffic round the centre, it takes traffic round the centre's edge and lets it in at the gates and the corners. A driver who misses a turn drives the whole square again. Everyone who has lived here has done it.\n\nThe story page argues what the loop did to the old city; the measurements page counts what is inside it."
+   },
+   "text_th": {
+    "what": "ถนนทางเดียวคู่บนสองฝั่งคูเมือง ฝั่งนอกวิ่งตามเข็มนาฬิกา ฝั่งในทวนเข็ม สี่เหลี่ยมจึงเป็นวงเวียนยาว 6.54 กม. เทศบาลสร้างถนนปี 2491 โดยรื้อกำแพงบางช่วง ปีที่ระบบทางเดียวเริ่มบ่มีในแผ่นนี้",
+    "story": "*อนุมาน —* วงรอบคือวงแหวนแรกและเล็กสุดของเมือง และวงเดียวที่ไม่ใช่ทางเลี่ยง มันบ่ได้พารถอ้อมใจกลาง มันพารถอ้อมขอบใจกลางแล้วปล่อยเข้าที่ประตูและแจ่ง คนขับที่พลาดทางเลี้ยวต้องวนสี่เหลี่ยมอีกรอบ ใครที่เคยอยู่ที่นี่ก็เคยทำ\n\nหน้าเรื่องเล่าเถียงว่าวงรอบทำอะไรกับเวียงเก่า หน้าการวัดนับสิ่งที่อยู่ข้างใน"
+   },
+   "road": {
+    "km": 6.54,
+    "km_source": "s:thwp-moat",
+    "oneway": true,
+    "opened": "1948",
+    "osm_names": [
+     "ถนนมูลเมือง",
+     "ถนนอารักษ์",
+     "ถนนบุญเรืองฤทธิ์",
+     "ถนนบำรุงบุรี",
+     "ถนนศรีภูมิ",
+     "ถนนช้างเผือก",
+     "ถนนมณีนพรัตน์",
+     "ถนนชัยภูมิ",
+     "Moon Muang Road",
+     "Arak Road",
+     "Bunruangrit Road",
+     "Bamrung Buri Road",
+     "Si Phum Road",
+     "Chang Phueak Road",
+     "Mani Nopparat Road",
+     "Chaiyaphum Road",
+     "ถนนคชสาร",
+     "Kotchasarn Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "The water.",
+     "rel": "place"
+    },
+    {
+     "to": "why-the-moat-runs-one-way",
+     "as": "The argument.",
+     "rel": "story"
+    },
+    {
+     "to": "grid-in-the-moat",
+     "as": "What is inside.",
+     "rel": "measure"
+    },
+    {
+     "to": "ring-1",
+     "as": "The next ring out.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "one-way",
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "moat-loop/moat-loop-201703291126a-chiang-mai-city-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291126a Chiang Mai, City Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/201703291126a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291126a_Chiang_Mai%2C_City_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "City moat of Chiang Mai between Sri Phum Corner and Tha Phae Gate",
+     "date": "2017-03-29 11:26:16",
+     "primary": true,
+     "sha256": "82838166f4241113c54d08f38dd9903986041c33afa99c6260e3a3954776cb3b"
+    },
+    {
+     "file": "moat-loop/moat-loop-chiang-mai-moat-and-road.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Moat and Road.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiang_Mai_Moat_and_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Moat_and_Road.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Douglas Perkins",
+     "credit": "Own work",
+     "alt": "The moat of Chiang Mai during the day.  A road is on the left, and the moat is on the right.  This picture was taken on the north side of the city center.  Thailand.",
+     "date": "2014-12-26 10:51:47",
+     "primary": false,
+     "sha256": "065628ce8a62dd68f926bddabdd43e4ed02f785cda8f4a01d3d046d476b39cce"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ratchadamnoen-road",
+     "type": "road",
+     "name": "Ratchadamnoen Road",
+     "as": "The other one-way system."
+    },
+    {
+     "from": "chang-phueak-gate",
+     "type": "gate",
+     "name": "Chang Phueak Gate",
+     "as": "On the ring."
+    },
+    {
+     "from": "chiang-mai-gate",
+     "type": "gate",
+     "name": "Chiang Mai Gate",
+     "as": "On the ring."
+    },
+    {
+     "from": "hua-lin-corner",
+     "type": "gate",
+     "name": "Hua Lin Corner",
+     "as": "The ring turns here."
+    },
+    {
+     "from": "katam-corner",
+     "type": "gate",
+     "name": "Katam Corner",
+     "as": "The ring turns here."
+    },
+    {
+     "from": "ku-hueang-corner",
+     "type": "gate",
+     "name": "Ku Hueang Corner",
+     "as": "The ring turns here."
+    },
+    {
+     "from": "si-phum-corner",
+     "type": "gate",
+     "name": "Si Phum Corner",
+     "as": "The ring turns here."
+    },
+    {
+     "from": "suan-dok-gate",
+     "type": "gate",
+     "name": "Suan Dok Gate",
+     "as": "On the ring."
+    },
+    {
+     "from": "suan-prung-gate",
+     "type": "gate",
+     "name": "Suan Prung Gate",
+     "as": "On the ring."
+    },
+    {
+     "from": "tha-phae-gate",
+     "type": "gate",
+     "name": "Tha Phae Gate",
+     "as": "The ring it opens onto."
+    },
+    {
+     "from": "era-siam-1900-1950",
+     "type": "era",
+     "name": "1900–1950 — Siam and the railway",
+     "as": "Built 1948."
+    },
+    {
+     "from": "one-way-share",
+     "type": "measure",
+     "name": "How much of the road runs one way",
+     "as": "The loop."
+    },
+    {
+     "from": "municipal-roads",
+     "type": "traffic",
+     "name": "The municipality's roads, counted by the municipality",
+     "as": "Municipal roads."
+    },
+    {
+     "from": "khu",
+     "type": "word",
+     "name": "คู khu",
+     "as": "The roads on it."
+    },
+    {
+     "from": "what-we-did-not-do",
+     "type": "story",
+     "name": "What this site does not have",
+     "as": "No year for the one-way."
+    },
+    {
+     "from": "why-the-moat-runs-one-way",
+     "type": "story",
+     "name": "Why the moat runs one way",
+     "as": "The loop."
+    },
+    {
+     "from": "the-moat",
+     "type": "place",
+     "name": "The moat",
+     "as": "The roads on its banks."
+    }
+   ]
+  },
+  {
+   "id": "ring-1",
+   "type": "ring",
+   "names": {
+    "name": "Ring 1, the Superhighway ring",
+    "th": "วงแหวนรอบที่ 1",
+    "rtgs": "Wong Waen Rop Thi Nueng",
+    "aliases": [
+     "Inner ring",
+     "วงแหวนรอบใน"
+    ],
+    "said": "A bypass of 1969 plus a bypass of 1972 plus a gift of 1963, and the city grew past all three.",
+    "said_th": "ทางเลี่ยงปี 2512 บวกทางเลี่ยงปี 2515 บวกของขวัญปี 2506 แล้วเมืองก็โตข้ามทั้งสาม"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "superhighway"
+   },
+   "text": {
+    "what": "The ring about 3 km out: the last ten kilometres of Route 11, the Superhighway, on the north and east; Mahidol Road, Route 1141, on the south; Nimmanhaemin on the west. Nobody planned it as a ring. Route 11 was built two-lane in 1968–69 to shorten the road to Bangkok and four-laned from 2001; Mahidol was built 1972 and six-laned 1998–2001; Nimmanhaemin was absorbed into Route 11 and returned to the municipality in 2022.",
+    "story": "*Inference —* the airport, the university, the bus station, the railway station and the Night Bazaar all sit inside this ring. It is where the twentieth-century city is. The underpasses at Khuang Sing, San Dek and Fa Ham were dug under it in 2007 and 2018 because the ring became a street."
+   },
+   "text_th": {
+    "what": "วงแหวนราว 3 กม. จากใจกลาง สิบกิโลเมตรสุดท้ายของทางหลวง 11 ซุปเปอร์ไฮเวย์ ด้านเหนือและตะวันออก ถนนมหิดล ทางหลวง 1141 ด้านใต้ นิมมานเหมินท์ด้านตะวันตก บ่มีใครวางแผนให้เป็นวงแหวน ทางหลวง 11 สร้างสองเลนปี 2511–12 เพื่อย่นทางไปกรุงเทพฯ ขยายสี่เลนตั้งแต่ 2544 มหิดลสร้าง 2515 ขยายหกเลน 2541–44 นิมมานเหมินท์ถูกรวมเข้าทางหลวง 11 แล้วคืนเทศบาล 2565",
+    "story": "*อนุมาน —* สนามบิน มหาวิทยาลัย สถานีขนส่ง สถานีรถไฟ และไนท์บาซาร์ อยู่ในวงนี้ทั้งหมด มันคือตี้เมืองศตวรรษที่ยี่สิบอยู่ ทางลอดข่วงสิงห์ สันเด็ก และฟ้าฮ่ามถูกขุดใต้มันปี 2550 และ 2561 เพราะวงแหวนกลายเป็นถนนในเมือง"
+   },
+   "road": {
+    "osm_refs": [
+     "11",
+     "1141"
+    ],
+    "osm_names": [
+     "ถนนซุปเปอร์ไฮเวย์",
+     "Superhighway",
+     "ถนนมหิดล",
+     "ถนนนิมมานเหมินท์"
+    ]
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "town"
+   },
+   "kin": [
+    {
+     "to": "route-11",
+     "as": "North and east.",
+     "rel": "highway"
+    },
+    {
+     "to": "mahidol-road",
+     "as": "South.",
+     "rel": "road"
+    },
+    {
+     "to": "nimmanhaemin-road",
+     "as": "West.",
+     "rel": "road"
+    },
+    {
+     "to": "ring-2",
+     "as": "The next ring out.",
+     "rel": "ring"
+    },
+    {
+     "to": "khuang-sing-underpass",
+     "as": "Under it.",
+     "rel": "junction"
+    }
+   ],
+   "sources": [
+    "s:thwp-11",
+    "s:thwp-mahidol",
+    "s:thwp-nimman",
+    "s:cmu-thesis-2548"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-11"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ring-1/ring-1-panoramic-view-of-cmx.jpg",
+     "source": "commons",
+     "title": "File:Panoramic view of CMX.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Panoramic_view_of_CMX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_CMX.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+     "credit": "Own work",
+     "alt": "The panoramic view of Mueang Chiang Mai district from Doi Suthep.",
+     "date": "2022-08-01 14:25:52",
+     "primary": true,
+     "sha256": "825a2441b43c81c60218c29a1475cf79b20168b355848ee333e856daab5d152d"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "mahidol-road",
+     "type": "road",
+     "name": "Mahidol Road",
+     "as": "Its southern arc."
+    },
+    {
+     "from": "nimmanhaemin-road",
+     "type": "road",
+     "name": "Nimmanhaemin Road",
+     "as": "Its western arc."
+    },
+    {
+     "from": "moat-loop",
+     "type": "ring",
+     "name": "The moat loop",
+     "as": "The next ring out."
+    },
+    {
+     "from": "ring-2",
+     "type": "ring",
+     "name": "Ring 2, the 700 Years Road",
+     "as": "Inside it."
+    },
+    {
+     "from": "route-11",
+     "type": "highway",
+     "name": "Route 11, the Superhighway",
+     "as": "What its last ten km became."
+    },
+    {
+     "from": "era-superhighway-1969",
+     "type": "era",
+     "name": "1960s–70s — the Superhighway",
+     "as": "What it became."
+    }
+   ]
+  },
+  {
+   "id": "ring-2",
+   "type": "ring",
+   "names": {
+    "name": "Ring 2, the 700 Years Road",
+    "th": "วงแหวนรอบกลาง — ถนนสมโภชเชียงใหม่ 700 ปี",
+    "rtgs": "Thanon Somphot Chiang Mai Chet Roi Pi",
+    "aliases": [
+     "Middle ring",
+     "Rural Road ChM.3029"
+    ],
+    "said": "26.13 km, six lanes, seven underpasses, twelve years, 10,070 million baht.",
+    "said_th": "26.13 กิโล หกเลน ทางลอดเจ็ดแห่ง สิบสองปี 10,070 ล้านบาท"
+   },
+   "region": [
+    "ring2"
+   ],
+   "facets": {
+    "era": "rings",
+    "km": 26.13,
+    "lanes": "6",
+    "year": "2006"
+   },
+   "text": {
+    "what": "The middle ring, about 5 km out, named for the city's 700th anniversary of 1996. Laid out in the first comprehensive plan of 1984 and fixed by Interior Ministry Regulation 78 of 1989; designed by the Department of Town Planning, built by the Public Works Department; ground broken 11 January 1994 on a 30 m right of way; opened 6 February 2006 by the prime minister. 26.13 km, six lanes, seven underpasses at the radial roads (107, 1001, 118, 1006, 1317, 106, 108) and one interchange at Route 11. Run by the Department of Rural Roads as ChM.3029. Cost 10,070 million baht including land by Thai Wikipedia, 5,060 million in the 2005 thesis; the two figures are both recorded.",
+    "story": "*Inference —* seven underpasses is the design decision that defines this ring: the radial roads keep their signals and the ring goes under them, so a driver on the ring never stops and a driver crossing it never notices. It is the road in the city that most behaves like a motorway, and it is not a national highway at all."
+   },
+   "text_th": {
+    "what": "วงแหวนรอบกลาง ราว 5 กม. จากใจกลาง ตั้งชื่อตามงานสมโภชเมือง 700 ปี พ.ศ. 2539 วางในผังเมืองรวมฉบับแรก 2527 กำหนดโดยกฎกระทรวงมหาดไทยฉบับที่ 78 ปี 2532 ออกแบบโดยกรมการผังเมือง สร้างโดยกรมโยธาธิการ วางศิลาฤกษ์ 11 มกราคม 2537 เขตทาง 30 เมตร เปิด 6 กุมภาพันธ์ 2549 โดยนายกรัฐมนตรี 26.13 กม. หกเลน ทางลอดเจ็ดแห่งตรงถนนรัศมี (107, 1001, 118, 1006, 1317, 106, 108) และทางแยกต่างระดับหนึ่งแห่งที่ทางหลวง 11 ดูแลโดยกรมทางหลวงชนบทเป็น ชม.3029 ค่าก่อสร้างรวมที่ดิน 10,070 ล้านบาทตามวิกิพีเดียไทย 5,060 ล้านตามวิทยานิพนธ์ปี 2548 บันทึกไว้ทั้งสองตัวเลข",
+    "story": "*อนุมาน —* ทางลอดเจ็ดแห่งคือการออกแบบที่นิยามวงนี้ ถนนรัศมีเก็บสัญญาณไฟไว้ และวงแหวนลอดใต้ คนขับบนวงจึงบ่เคยหยุด และคนขับข้ามวงบ่เคยสังเกต มันคือถนนในเมืองที่ทำตัวเหมือนมอเตอร์เวย์มากที่สุด และมันบ่ใช่ทางหลวงแผ่นดินเลย"
+   },
+   "road": {
+    "ref": "ชม.3029",
+    "km": 26.13,
+    "km_source": "s:thwp-700-years",
+    "lanes": "6",
+    "opened": "2006-02-06",
+    "osm_names": [
+     "ถนนสมโภชเชียงใหม่ 700 ปี",
+     "ถนนวงแหวนรอบกลาง",
+     "700 Years Road",
+     "Chiang Mai 700th Anniversary Road",
+     "Middle Ring Road"
+    ],
+    "osm_refs": [
+     "ชม.3029",
+     "3029"
+    ]
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "town"
+   },
+   "kin": [
+    {
+     "to": "ring-1",
+     "as": "Inside it.",
+     "rel": "ring"
+    },
+    {
+     "to": "ring-3",
+     "as": "Outside it.",
+     "rel": "ring"
+    },
+    {
+     "to": "ring-2-underpasses",
+     "as": "The seven.",
+     "rel": "junction"
+    },
+    {
+     "to": "lot",
+     "as": "The word on the signs.",
+     "rel": "word"
+    },
+    {
+     "to": "wiang-kum-kam",
+     "as": "An underpass is named for it.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:thwp-700-years",
+    "s:cmu-thesis-2548",
+    "s:urbanis-5712",
+    "s:reviewcm-underpasses"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-700-years"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ring-2/ring-2-view-of-cmx-i.jpg",
+     "source": "commons",
+     "title": "File:View of CMX (I).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/View_of_CMX_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AView_of_CMX_%28I%29.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+     "credit": "Own work",
+     "alt": "Some view of Mueang Chiang Mai district from Doi Suthep.",
+     "date": "2022-08-01 14:26:23",
+     "primary": true,
+     "sha256": "36aa7059a4e45cfae1fba3a9729535a07f5d4623116a3606f927d326a54a75cf"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-1",
+     "type": "ring",
+     "name": "Ring 1, the Superhighway ring",
+     "as": "The next ring out."
+    },
+    {
+     "from": "ring-3",
+     "type": "ring",
+     "name": "Ring 3, Route 121",
+     "as": "Inside it."
+    },
+    {
+     "from": "ring-2-underpasses",
+     "type": "junction",
+     "name": "The seven underpasses of the middle ring",
+     "as": "The ring."
+    },
+    {
+     "from": "comprehensive-plan-2026",
+     "type": "plan",
+     "name": "The new comprehensive plan, 2026",
+     "as": "Drawn by its 1984 ancestor."
+    },
+    {
+     "from": "era-rings-1984-2006",
+     "type": "era",
+     "name": "1984–2006 — the rings",
+     "as": "The middle ring."
+    },
+    {
+     "from": "lot",
+     "type": "word",
+     "name": "ลอด lot",
+     "as": "Seven of them."
+    },
+    {
+     "from": "the-monk-who-built-a-road",
+     "type": "story",
+     "name": "The monk who built a road in five months",
+     "as": "The comparison."
+    },
+    {
+     "from": "wiang-kum-kam",
+     "type": "place",
+     "name": "Wiang Kum Kam",
+     "as": "The underpass named for it is on this ring."
+    }
+   ]
+  },
+  {
+   "id": "ring-3",
+   "type": "ring",
+   "names": {
+    "name": "Ring 3, Route 121",
+    "th": "วงแหวนรอบนอก — ทางหลวง 121",
+    "rtgs": "Thanon Wong Waen Rop Nok",
+    "aliases": [
+     "Outer ring",
+     "Canal Road (west side)",
+     "ถนนเลียบคลองชลประทาน"
+    ],
+    "said": "52.96 km round, begun 1994, closed in the 2000s, and now being given five interchanges for 3,145 million baht.",
+    "said_th": "ยาวรอบ 52.96 กิโล เริ่ม 2537 ปิดวงในทศวรรษ 2540 และกำลังได้ทางแยกต่างระดับห้าแห่ง 3,145 ล้านบาท"
+   },
+   "region": [
+    "ring3"
+   ],
+   "facets": {
+    "era": "rings",
+    "ref": "121",
+    "km": 52.957,
+    "year": "1994–2000s"
+   },
+   "text": {
+    "what": "The outer ring, about 9 km out: a 52.957 km closed loop through Hang Dong, Saraphi, San Kamphaeng, Doi Saket, San Sai and Mae Rim, crossing the Ping twice. The west side runs along the irrigation canal, a 9.3 km road the Royal Irrigation Department built and handed to the highway department on 9 April 1998. Begun 1994 by the Lampang highway centre as two lanes, Ping to Hang Dong first, delayed by expropriation and the 1997 crash. The Hang Dong–university section, 11 km and four lanes, was built April 2002 to June 2004 for 332 million baht. The 2024 counts read 42,336 vehicles a day at km 1 and 21,476 at km 38.",
+    "story": "Five interchanges are under tender for 3,145 million baht in total, due 2027: Samoeng at Route 108 (920 million), the Superhighway at Route 11 (700), Louis at Route 1006 (650), Kong Sai at Route 106 (445) and San Klang at Route 1317, phase 2 (430). The 16.3 km from Route 108 to Route 1006 is being widened to four and six lanes for 1,500 million. A 20.9 km elevated road along the Don Kaew–Mueang Kaew stretch is under study.\n\n*Inference —* this is the ring where the city's road money is going in the 2020s, and where the argument about what a road does to a view is being had."
+   },
+   "text_th": {
+    "what": "วงแหวนรอบนอก ราว 9 กม. จากใจกลาง วงปิดยาว 52.957 กม. ผ่านหางดง สารภี สันกำแพง ดอยสะเก็ด สันทราย แม่ริม ข้ามแม่ปิงสองครั้ง ด้านตะวันตกวิ่งเลียบคลองชลประทาน ถนน 9.3 กม. ที่กรมชลประทานสร้างและมอบให้กรมทางหลวง 9 เมษายน 2541 เริ่ม 2537 โดยศูนย์สร้างทางลำปางเป็นสองเลน ช่วงแม่ปิง–หางดงก่อน ล่าช้าเพราะเวนคืนและวิกฤต 2540 ช่วงหางดง–มหาวิทยาลัย 11 กม. สี่เลน สร้างเมษายน 2545 ถึงมิถุนายน 2547 332 ล้านบาท จุดนับปี 2567 อ่านได้ 42,336 คันต่อวันที่ กม.1 และ 21,476 ที่ กม.38",
+    "story": "ทางแยกต่างระดับห้าแห่งกำลังประมูล รวม 3,145 ล้านบาท กำหนดเสร็จ 2570 สะเมิงที่ทางหลวง 108 (920 ล้าน) ซุปเปอร์ไฮเวย์ที่ทางหลวง 11 (700) หลุยส์ที่ทางหลวง 1006 (650) กองทรายที่ทางหลวง 106 (445) และสันกลางที่ทางหลวง 1317 ระยะสอง (430) ช่วง 16.3 กม. จาก 108 ถึง 1006 กำลังขยายเป็นสี่และหกเลน 1,500 ล้าน ทางยกระดับ 20.9 กม. ช่วงดอนแก้ว–เมืองแก้ว อยู่ระหว่างศึกษา\n\n*อนุมาน —* นี่คือวงที่เงินถนนของเมืองไหลไปในทศวรรษ 2560 และตี้ข้อถกเถียงว่าถนนทำอะไรกับวิวกำลังเกิดขึ้น"
+   },
+   "road": {
+    "ref": "121",
+    "km": 52.957,
+    "km_source": "s:thwp-121",
+    "opened": "1994 begun",
+    "osm_names": [
+     "ถนนวงแหวนรอบนอก",
+     "ถนนเลียบคลองชลประทาน",
+     "Canal Road",
+     "Outer Ring Road"
+    ],
+    "osm_refs": [
+     "121"
+    ]
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "town"
+   },
+   "kin": [
+    {
+     "to": "ring-2",
+     "as": "Inside it.",
+     "rel": "ring"
+    },
+    {
+     "to": "ring-4",
+     "as": "The one drawn beyond it.",
+     "rel": "ring"
+    },
+    {
+     "to": "ring-3-interchanges",
+     "as": "The five.",
+     "rel": "plan"
+    },
+    {
+     "to": "elevated-121",
+     "as": "The road on top.",
+     "rel": "plan"
+    },
+    {
+     "to": "doi-suthep",
+     "as": "What its west side runs under.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "construction",
+    "controversy"
+   ],
+   "sources": [
+    "s:thwp-121",
+    "s:cmu-thesis-2548",
+    "s:dailynews-4380049",
+    "s:constructionth-121",
+    "s:doh-aadt",
+    "s:citylife-big-development"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-121"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ring-3/ring-3-canal-in-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Canal in Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACanal_in_Chiang_Mai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Canal located in the west of Chiang Mai, along Road 121.",
+     "date": "2018-09-03 14:28:10",
+     "primary": true,
+     "sha256": "09ef533d9a7322500845550d5c20741d22eb073285d35cebf92c3a604d5e0092"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-2",
+     "type": "ring",
+     "name": "Ring 2, the 700 Years Road",
+     "as": "Outside it."
+    },
+    {
+     "from": "ring-4",
+     "type": "ring",
+     "name": "Ring 4, drawn but not dug",
+     "as": "The last ring built."
+    },
+    {
+     "from": "san-klang-interchange",
+     "type": "junction",
+     "name": "San Klang interchange",
+     "as": "On it."
+    },
+    {
+     "from": "san-pa-tong-underpass",
+     "type": "junction",
+     "name": "San Pa Tong–Hang Dong bypass underpass",
+     "as": "Off it."
+    },
+    {
+     "from": "elevated-121",
+     "type": "plan",
+     "name": "An elevated road on the outer ring, Don Kaew to Mueang Kaew",
+     "as": "On it."
+    },
+    {
+     "from": "nine-roads-programme",
+     "type": "plan",
+     "name": "The nine roads, 2025–27",
+     "as": "Six lanes."
+    },
+    {
+     "from": "ring-3-interchanges",
+     "type": "plan",
+     "name": "Five interchanges on the outer ring",
+     "as": "The ring."
+    },
+    {
+     "from": "era-rings-1984-2006",
+     "type": "era",
+     "name": "1984–2006 — the rings",
+     "as": "The outer ring."
+    }
+   ]
+  },
+  {
+   "id": "ring-4",
+   "type": "ring",
+   "names": {
+    "name": "Ring 4, drawn but not dug",
+    "th": "วงแหวนรอบที่ 4",
+    "rtgs": "Wong Waen Rop Thi Si",
+    "said": "Fifty kilometres, five thousand million baht, and a public hearing.",
+    "said_th": "ห้าสิบกิโล ห้าพันล้านบาท และเวทีรับฟังความเห็น"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "era": "planned",
+    "km": 50,
+    "status": "study"
+   },
+   "text": {
+    "what": "A fourth ring of about 50 km through Hang Dong, Saraphi, San Kamphaeng, Doi Saket, San Sai and Mae Rim, costed at about 5,000 million baht, at the public-consultation stage as of 2025. It exists as a line on a plan and a hearing; no contract is on this disk."
+   },
+   "text_th": {
+    "what": "วงแหวนที่สี่ยาวราว 50 กม. ผ่านหางดง สารภี สันกำแพง ดอยสะเก็ด สันทราย แม่ริม ประเมินราว 5,000 ล้านบาท อยู่ขั้นรับฟังความเห็นในปี 2568 มีอยู่เป็นเส้นบนผังและเวทีรับฟัง สัญญาบ่มีในแผ่นนี้"
+   },
+   "plan": {
+    "status": "study",
+    "as_of": "2025",
+    "km": 50,
+    "budget_thb": 5000000000,
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง"
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "region"
+   },
+   "kin": [
+    {
+     "to": "ring-3",
+     "as": "The last ring built.",
+     "rel": "ring"
+    },
+    {
+     "to": "era-now",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:thaipbs-353092"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thaipbs-353092"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ring-4/ring-4-chiang-mai-panoramic.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Panoramic.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chiang_Mai_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panoramic.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Ssuri",
+     "credit": "Own work",
+     "alt": "Taken from a viewpoint on the way to the Doi Suthep temple in Chiang Mai.",
+     "date": "2009-10-29",
+     "primary": true,
+     "sha256": "cbb39157fade452b282d7267308ea4a9ba79349c2e4e14a8b1a9c90754534b84"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-3",
+     "type": "ring",
+     "name": "Ring 3, Route 121",
+     "as": "The one drawn beyond it."
+    }
+   ]
+  }
+ ]
+}

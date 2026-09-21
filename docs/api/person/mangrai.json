@@ -1,0 +1,94 @@
+{
+ "id": "mangrai",
+ "type": "person",
+ "names": {
+  "name": "Mangrai",
+  "th": "พญามังราย",
+  "rtgs": "Phaya Mangrai",
+  "aliases": [
+   "King Mengrai",
+   "พ่อขุนเม็งราย"
+  ],
+  "said": "Drew a square in 1296 and every road since has had to deal with it.",
+  "said_th": "ขีดสี่เหลี่ยมไว้ปี 1839 แล้วถนนทุกสายตั้งแต่นั้นต้องมาว่ากับมัน"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "Founder of Chiang Mai, 1296, and of the Lanna kingdom. He had already built Wiang Kum Kam on the river and watched it flood; the new city went on the rise between the mountain and the Ping, a square with a gate in each side and the water led round it."
+ },
+ "text_th": {
+  "what": "ผู้สร้างเชียงใหม่ปี 1839 และอาณาจักรล้านนา ท่านสร้างเวียงกุมกามบนแม่น้ำมาก่อนและเห็นมันท่วม เมืองใหม่จึงไปอยู่บนที่ดอนระหว่างดอยกับแม่ปิง เป็นสี่เหลี่ยมมีประตูทุกด้าน และชักน้ำล้อมรอบ"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "What he dug.",
+   "rel": "place"
+  },
+  {
+   "to": "era-1296-the-square",
+   "as": "His era.",
+   "rel": "era"
+  },
+  {
+   "to": "wiang-kum-kam",
+   "as": "His first try.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:wp-mangrai",
+  "s:thwp-moat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mangrai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "mangrai/mangrai-king-mangrai-monument-october-2021-img-01.jpg",
+   "source": "commons",
+   "title": "File:King Mangrai Monument อนุสาวรีย์พ่อขุนมังราย ห้าแยกพ่อขุนฯ (October 2021) - img 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKing_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "alt": "King Mangrai (Mengrai) Monument at Pho Khun intersection, Chiang Rai",
+   "date": "2021-10-26 09:24:00",
+   "primary": true,
+   "sha256": "04ad8a99bd85e71a45708e97c0780074a824fc8db98dca3a3fcd736759e5f084"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "era-1296-the-square",
+   "type": "era",
+   "name": "1296 — the square",
+   "as": "The king."
+  },
+  {
+   "from": "wiang-kum-kam",
+   "type": "place",
+   "name": "Wiang Kum Kam",
+   "as": "Who built it."
+  }
+ ]
+}

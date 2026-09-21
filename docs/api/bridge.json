@@ -1,0 +1,503 @@
+{
+ "type": "bridge",
+ "count": 4,
+ "nodes": [
+  {
+   "id": "chansom-memorial-bridge",
+   "type": "bridge",
+   "names": {
+    "name": "Chansom Memorial Bridge",
+    "th": "สะพานจันทร์สมอนุสรณ์",
+    "rtgs": "Saphan Chansom Anusorn",
+    "said": "The Ping crossing between Nawarat and the Iron Bridge.",
+    "said_th": "ขัวข้ามแม่ปิงระหว่างนวรัฐกับขัวเหล็ก"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "A road bridge over the Ping in the city centre, carrying the Chang Moi–Wat Ket link. Its date is not on this disk; it is counted with the rest on the crossings page and has a picture."
+   },
+   "text_th": {
+    "what": "ขัวรถข้ามแม่ปิงในใจกลางเมือง รับถนนเชื่อมช้างม่อย–วัดเกต วันที่บ่มีในแผ่นนี้ ถูกนับรวมกับขัวอื่นบนหน้าจุดข้าม และมีรูป"
+   },
+   "road": {
+    "osm_names": [
+     "สะพานจันทร์สมอนุสรณ์",
+     "Chansom Memorial Bridge"
+    ]
+   },
+   "geo": {
+    "lat": 18.793,
+    "lon": 99.0045,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "ping-crossings",
+     "as": "Counted.",
+     "rel": "measure"
+    }
+   ],
+   "sources": [
+    "s:osm"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chansom-memorial-bridge/chansom-memorial-bridge-chansom-memorial-bridge.jpg",
+     "source": "commons",
+     "title": "File:Chansom Memorial Bridge.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chansom_Memorial_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChansom_Memorial_Bridge.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+     "credit": "Own work",
+     "alt": "Chansom Memorial Bridge, Chiang Mai.",
+     "date": "2020-10-11 16:01:12",
+     "primary": true,
+     "sha256": "fe35d61d71e80de1ca8b34bdd853f27b4bb8dc1012ea526deeb297508662c1b5"
+    },
+    {
+     "file": "chansom-memorial-bridge/chansom-memorial-bridge-ping-river-in-chiang-mai-1.jpg",
+     "source": "commons",
+     "title": "File:Ping River in Chiang Mai 1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ping_River_in_Chiang_Mai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_1.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "View of the Ping River from the Chansom Memorial Bridge in Chiang Mai.",
+     "date": "2018-09-06 14:36:03",
+     "primary": false,
+     "sha256": "a749aba609d0f43d5c778e00d1e430c17dc9d6985446ee1250d170ea2681aea1"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "iron-bridge",
+   "type": "bridge",
+   "names": {
+    "name": "Khua Lek, the Iron Bridge",
+    "th": "ขัวเหล็ก",
+    "rtgs": "Khua Lek",
+    "aliases": [
+     "Iron Bridge",
+     "สะพานเหล็ก"
+    ],
+    "said": "The one bridge everybody calls by its Kam Mueang name.",
+    "said_th": "ขัวเดียวตี้ใผ ๆ ก็เอิ้นชื่อกำเมือง"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam"
+   },
+   "text": {
+    "what": "The steel truss bridge south of Nawarat, at the end of Loi Kroh Road, painted and lit and mostly walked. Its dates and its builder are on the English Wikipedia page this record cites and are not repeated here without checking; what this site vouches for is that the name is khua, not saphan, in every mouth in the city."
+   },
+   "text_th": {
+    "what": "ขัวเหล็กโครงถักทางใต้ของนวรัฐ ปลายถนนลอยเคราะห์ ทาสี ติดไฟ และส่วนใหญ่ใช้เดิน วันที่และผู้สร้างอยู่ในหน้าวิกิพีเดียอังกฤษที่บันทึกนี้อ้าง และไม่นำมาพูดซ้ำโดยไม่ตรวจ สิ่งที่เว็บนี้รับรองคือชื่อมันคือขัว ไม่ใช่สะพาน ในทุกปากในเมือง"
+   },
+   "road": {
+    "osm_names": [
+     "ขัวเหล็ก",
+     "Iron Bridge",
+     "สะพานเหล็ก"
+    ]
+   },
+   "geo": {
+    "lat": 18.784,
+    "lon": 99.0035,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "khua",
+     "as": "The word.",
+     "rel": "word"
+    },
+    {
+     "to": "nawarat-bridge",
+     "as": "Its neighbour upstream.",
+     "rel": "bridge"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "walk",
+    "lanna"
+   ],
+   "sources": [
+    "s:wp-iron-bridge"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:wp-iron-bridge"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "iron-bridge/iron-bridge-iron-bridge-in-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Iron Bridge in Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Iron_Bridge_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AIron_Bridge_in_Chiang_Mai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "View of the Iron Bridge in Chiang Mai.",
+     "date": "2018-09-06 15:49:49",
+     "primary": true,
+     "sha256": "50ed2b3d2909e1261dabad7e4753de2030a17b11e2ab6575e29ef66532135e47"
+    },
+    {
+     "file": "iron-bridge/iron-bridge-ping-river-in-chiang-mai-panoramio-erebusso-7.jpg",
+     "source": "commons",
+     "title": "File:Ping River in Chiang Mai - panoramio - Erebusso. (7).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ping_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Erebusso.",
+     "credit": "https://web.archive.org/web/20161015061345/http://www.panoramio.com/photo/32519486",
+     "alt": "Ping River in Chiang Mai with Khua Lek (Iron Bridge) and Diamond Riverside Hotel.",
+     "date": "Taken on 4 December 2009",
+     "primary": false,
+     "sha256": "f67deb8164818d873c5945dad0a8667744f40ac6e43eea7cb440e0c6e92aa962"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ping-crossings",
+     "type": "measure",
+     "name": "Road bridges over the Ping, counted",
+     "as": "The one with the Kam Mueang name."
+    },
+    {
+     "from": "khua",
+     "type": "word",
+     "name": "ขัว khua",
+     "as": "The bridge everyone calls by this word."
+    }
+   ]
+  },
+  {
+   "id": "moat-bridges",
+   "type": "bridge",
+   "names": {
+    "name": "The bridges over the moat",
+    "th": "ขัวข้ามคูเมือง",
+    "rtgs": "khua kham khu mueang",
+    "said": "Every way into the square that is not a gate is a small bridge, and there are more of them than gates.",
+    "said_th": "ทุกทางเข้าเวียงตี้บ่ใช่ปะตู๋คือขัวน้อย และมีมากกว่าปะตู๋"
+   },
+   "region": [
+    "moat"
+   ],
+   "facets": {
+    "era": "siam"
+   },
+   "text": {
+    "what": "The moat is crossed by short road and foot bridges at the gates and between them. They are counted from the map on the crossings page alongside the Ping bridges; the Loi Kroh bridge and the one people call the rat bridge have pictures."
+   },
+   "text_th": {
+    "what": "คูเมืองถูกข้ามด้วยขัวรถและขัวคนสั้น ๆ ตรงประตูและระหว่างประตู ถูกนับจากแผนที่บนหน้าจุดข้ามพร้อมขัวแม่ปิง ขัวลอยเคราะห์และขัวที่คนเรียกขัวหนูมีรูป"
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "town"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "What they cross.",
+     "rel": "place"
+    },
+    {
+     "to": "ping-crossings",
+     "as": "Counted with the river bridges.",
+     "rel": "measure"
+    }
+   ],
+   "tags": [
+    "walk"
+   ],
+   "sources": [
+    "s:osm"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "moat-bridges/moat-bridges-chiang-mai-thailand-loi-krohi-road-bridge-01.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Loi-Krohi-Road-Bridge-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chiang-Mai_Thailand_Loi-Krohi-Road-Bridge-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Loi-Krohi-Road-Bridge-01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: Bridge over the moat at Loi Kroh Road, decorated with two golden lions",
+     "date": "2017-04-16",
+     "primary": true,
+     "sha256": "2883de65c09faa9e62cbc1634f48092d69284075e7d06355752d2cd0b850c6f7"
+    },
+    {
+     "file": "moat-bridges/moat-bridges-chiang-mai-thailand-rat-bridge-01.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Rat-Bridge-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Chiang-Mai_Thailand_Rat-Bridge-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Rat-Bridge-01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: The \"Rat Bridge\" over a moat at Sridonchai Road",
+     "date": "2017-04-16",
+     "primary": false,
+     "sha256": "becec7b816ba65c34f9dc2b074b480cbe53ef56f550423e01babd1cd451b299d"
+    },
+    {
+     "file": "moat-bridges/moat-bridges-chiang-mai-moat-and-road.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Moat and Road.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiang_Mai_Moat_and_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Moat_and_Road.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Douglas Perkins",
+     "credit": "Own work",
+     "alt": "The moat of Chiang Mai during the day.  A road is on the left, and the moat is on the right.  This picture was taken on the north side of the city center.  Thailand.",
+     "date": "2014-12-26 10:51:47",
+     "primary": false,
+     "sha256": "065628ce8a62dd68f926bddabdd43e4ed02f785cda8f4a01d3d046d476b39cce"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "nawarat-bridge",
+   "type": "bridge",
+   "names": {
+    "name": "Nawarat Bridge",
+    "th": "สะพานนวรัฐ",
+    "rtgs": "Saphan Nawarat",
+    "aliases": [
+     "ขัวแขก"
+    ],
+    "said": "Teak about 1890, steel 1923 after the teak burned, concrete 1967. The gauge that read 5.30 m is on it.",
+    "said_th": "ไม้สักราว 2433 เหล็ก 2466 หลังไม้ไหม้ คอนกรีต 2510 สถานีวัดน้ำตี้อ่านได้ 5.30 เมตรอยู่บนมัน"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "superhighway",
+    "year": "1967"
+   },
+   "text": {
+    "what": "The bridge at the foot of Tha Phae Road, named for Chao Kaew Nawarat, the last ruler. A teak bridge about 1890; a steel one begun 1921 after the wooden one burned and opened 1923; the present reinforced-concrete bridge completed 1967 and opened 26 December that year. The Ping gauge P.1 is here, and it read 5.30 m at noon on 5 October 2024."
+   },
+   "text_th": {
+    "what": "ขัวตีนถนนท่าแพ ตั้งชื่อตามเจ้าแก้วนวรัฐ เจ้าหลวงองค์สุดท้าย ขัวไม้สักราว 2433 ขัวเหล็กเริ่ม 2464 หลังขัวไม้ไหม้ เปิด 2466 ขัวคอนกรีตเสริมเหล็กปัจจุบันเสร็จ 2510 เปิด 26 ธันวาคมปีนั้น สถานีวัดน้ำ P.1 อยู่ตรงนี้ และอ่านได้ 5.30 เมตรตอนเที่ยง 5 ตุลาคม 2567"
+   },
+   "road": {
+    "opened": "1967-12-26",
+    "osm_names": [
+     "สะพานนวรัฐ",
+     "Nawarat Bridge",
+     "Nawarat"
+    ]
+   },
+   "geo": {
+    "lat": 18.7877,
+    "lon": 99.0033,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "chao-kaew-nawarat",
+     "as": "Who it is named for.",
+     "rel": "person"
+    },
+    {
+     "to": "tha-phae-road",
+     "as": "What it carries.",
+     "rel": "road"
+    },
+    {
+     "to": "ping-crossings",
+     "as": "Counted with the rest.",
+     "rel": "measure"
+    },
+    {
+     "to": "khua",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "flood"
+   ],
+   "sources": [
+    "s:thwp-nawarat",
+    "s:prachatai-110951"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-nawarat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "nawarat-bridge/nawarat-bridge-nawarat-bridge-1.jpg",
+     "source": "commons",
+     "title": "File:Nawarat Bridge 1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nawarat_Bridge_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ANawarat_Bridge_1.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Rinto Jiang",
+     "credit": "Own work",
+     "alt": "Nawarat Bridge in the night",
+     "date": "2007-01-25",
+     "primary": true,
+     "sha256": "017f589cdf2f902b2ad3789e06044acfa4b611f6f583b1fd779867040125a186"
+    },
+    {
+     "file": "nawarat-bridge/nawarat-bridge-.jpg",
+     "source": "commons",
+     "title": "File:สะพานนวรัฐ อ.เมือง จ.เชียงใหม่.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%90_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%90_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "กสิณธร ราชโอรส",
+     "credit": "Own work",
+     "alt": "สะพานนวรัฐ อ.เมือง จ.เชียงใหม่.jpg",
+     "date": "2023-04-03 16:34:25",
+     "primary": false,
+     "sha256": "6d2a89bec6380428a196bdab7a44aceeec9953a0dd86245746ab1c3a54e49f14"
+    },
+    {
+     "file": "nawarat-bridge/nawarat-bridge-navarat-bridge-chiangmai-1954.jpg",
+     "source": "commons",
+     "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+     "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+     "alt": "Navarat Bridge in 1954",
+     "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+     "primary": false,
+     "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "tha-phae-road",
+     "type": "road",
+     "name": "Tha Phae Road",
+     "as": "Its foot."
+    },
+    {
+     "from": "iron-bridge",
+     "type": "bridge",
+     "name": "Khua Lek, the Iron Bridge",
+     "as": "Its neighbour upstream."
+    },
+    {
+     "from": "era-kawila-1796-1900",
+     "type": "era",
+     "name": "1796–1900 — Kawila's rebuilding",
+     "as": "The first bridge."
+    },
+    {
+     "from": "ping-crossings",
+     "type": "measure",
+     "name": "Road bridges over the Ping, counted",
+     "as": "The one with the gauge."
+    },
+    {
+     "from": "the-day-the-river-came-up-tha-phae",
+     "type": "story",
+     "name": "The day the river came up Tha Phae",
+     "as": "The gauge."
+    },
+    {
+     "from": "chao-kaew-nawarat",
+     "type": "person",
+     "name": "Chao Kaew Nawarat",
+     "as": "Named for him."
+    },
+    {
+     "from": "ping-river",
+     "type": "place",
+     "name": "The Ping",
+     "as": "The gauge is on it."
+    }
+   ]
+  }
+ ]
+}

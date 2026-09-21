@@ -85,5 +85,22 @@
    "label": "The Mae Hong Son Loop — the air page, 15,050 point-days of PM2.5 by month",
    "url": "https://motdang.net/loop/air/"
   }
+ ],
+ "images": [
+  {
+   "file": "smoke-and-traffic/smoke-and-traffic-chiang-mai-pano-2010-0128.jpg",
+   "source": "commons",
+   "title": "File:Chiang mai pano 2010 0128.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Chiang_mai_pano_2010_0128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_mai_pano_2010_0128.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Panorama of the city of Chiang Mai, part of the surrounding valley and the mountains east of the city of Chiang Mai. The photo was made from the viewpoint halfway up the road towards Wat Phrathat Doi ",
+   "date": "2010-01-28",
+   "primary": true,
+   "sha256": "bfa7949df2c61c9594f4f9ee00c86e6c76e0d3cfd03eb964e7334f732508e5e5"
+  }
  ]
 }

@@ -1,0 +1,874 @@
+{
+ "type": "plan",
+ "count": 10,
+ "nodes": [
+  {
+   "id": "comprehensive-plan-2026",
+   "type": "plan",
+   "names": {
+    "name": "The new comprehensive plan, 2026",
+    "th": "ผังเมืองรวมเมืองเชียงใหม่ ฉบับใหม่ 2569",
+    "said": "1,428.9 km², fifteen land-use classes, 51 project roads: 18 added, 7 dropped.",
+    "said_th": "1,428.9 ตร.กม. สิบห้าประเภทการใช้ที่ดิน ถนนโครงการ 51 สาย เพิ่ม 18 ตัด 7"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "status": "funded",
+    "era": "planned"
+   },
+   "text": {
+    "what": "The cabinet approved the draft on 17 March 2026: 1,428.90 km² over Mueang, San Sai, Mae Rim, Hang Dong, Saraphi and parts of Doi Saket and San Kamphaeng; land-use classes from eleven to fifteen; 18 project roads added and 7 dropped. The draft carries 51 project roads by right of way: class ก 12 m, 11 routes; ข 16 m, 29; ค 20 m, 8; ง 60 m, 3. The old city keeps its 12 m height cap. The first plan of 1984 drew rings two and three; the 1989 revision fixed them; the 2012 plan's height rules were amended in 2019 in named low-density zones.",
+    "story": "*Inference —* three roads of 60 m right of way is the line to read twice. A 60 m corridor is a motorway reservation, and the plan does not say where they go; the Isranews summary does not either. Not on this disk."
+   },
+   "text_th": {
+    "what": "ครม. เห็นชอบร่าง 17 มีนาคม 2569 1,428.90 ตร.กม. ครอบคลุมเมือง สันทราย แม่ริม หางดง สารภี และบางส่วนของดอยสะเก็ดกับสันกำแพง ประเภทการใช้ที่ดินจากสิบเอ็ดเป็นสิบห้า เพิ่มถนนโครงการ 18 สาย ตัด 7 ร่างมีถนนโครงการ 51 สายตามเขตทาง ประเภท ก 12 เมตร 11 สาย ข 16 เมตร 29 สาย ค 20 เมตร 8 สาย ง 60 เมตร 3 สาย เวียงเก่าคงเพดาน 12 เมตร ผังแรกปี 2527 วาดวงแหวนสองและสาม ฉบับแก้ 2532 กำหนดแนว กฎความสูงของผัง 2555 แก้ปี 2562 ในย่านความหนาแน่นต่ำที่ระบุชื่อ",
+    "story": "*อนุมาน —* ถนนเขตทาง 60 เมตรสามสายคือบรรทัดที่ควรอ่านสองรอบ เขตทาง 60 เมตรคือการกันที่สำหรับมอเตอร์เวย์ และผังไม่บอกว่ามันไปไหน สรุปของอิศราก็บ่บอก บ่มีในแผ่นนี้"
+   },
+   "plan": {
+    "status": "funded",
+    "as_of": "2026-03",
+    "agency": "Department of Public Works and Town & Country Planning",
+    "agency_th": "กรมโยธาธิการและผังเมือง",
+    "announced": "2026-03-17"
+   },
+   "kin": [
+    {
+     "to": "ring-2",
+     "as": "Drawn by its 1984 ancestor.",
+     "rel": "ring"
+    },
+    {
+     "to": "era-now",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:prd-485975",
+    "s:isranews-146077",
+    "s:cmnews-1374432",
+    "s:mgr-9620000055662",
+    "s:urbanis-5712"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:prd-485975"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "era-now",
+     "type": "era",
+     "name": "2010s–2020s — going under, and going up",
+     "as": "The plan."
+    }
+   ]
+  },
+  {
+   "id": "elevated-121",
+   "type": "plan",
+   "names": {
+    "name": "An elevated road on the outer ring, Don Kaew to Mueang Kaew",
+    "th": "ทางยกระดับบนทางหลวง 121 ดอนแก้ว–เมืองแก้ว",
+    "said": "20.9 km on stilts along the canal road, about 2,000 million baht, and it might block the mountain.",
+    "said_th": "20.9 กิโลบนเสาเลียบถนนคลองชลประทาน ราว 2,000 ล้านบาท และอาจบังดอย"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "study",
+    "era": "planned"
+   },
+   "text": {
+    "what": "The highway department, not the expressway authority, studied six models from March 2025 for an elevated road on the west side of Route 121, 20.857 km. Model five was preferred at about 2,000 million baht, 1,000 to build, 500 for land and 500 to operate, about two and a half years, with congestion cut by more than half; the objection recorded is that it may block the view of Doi Suthep. An initial and then a full environmental assessment are required. Separately the department held a hearing on redesigning the canal road for congestion."
+   },
+   "text_th": {
+    "what": "กรมทางหลวง ไม่ใช่การทางพิเศษ ศึกษาหกรูปแบบตั้งแต่มีนาคม 2568 สำหรับทางยกระดับด้านตะวันตกของทางหลวง 121 ยาว 20.857 กม. รูปแบบที่ห้าเป็นที่ต้องการ ราว 2,000 ล้านบาท ก่อสร้าง 1,000 ที่ดิน 500 ดำเนินการ 500 ราวสองปีครึ่ง ลดการติดขัดกว่าครึ่ง ข้อคัดค้านที่บันทึกไว้คืออาจบังวิวดอยสุเทพ ต้องทำรายงานสิ่งแวดล้อมเบื้องต้นแล้วฉบับเต็ม อีกทางหนึ่งกรมจัดรับฟังความเห็นเรื่องออกแบบถนนคลองชลประทานใหม่แก้รถติด"
+   },
+   "plan": {
+    "status": "study",
+    "as_of": "2025",
+    "budget_thb": 2000000000,
+    "km": 20.857,
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง"
+   },
+   "kin": [
+    {
+     "to": "ring-3",
+     "as": "On it.",
+     "rel": "ring"
+    },
+    {
+     "to": "doi-suthep",
+     "as": "What it might hide.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:citylife-big-development"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:citylife-big-development"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "ring-3",
+     "type": "ring",
+     "name": "Ring 3, Route 121",
+     "as": "The road on top."
+    },
+    {
+     "from": "doi-suthep",
+     "type": "place",
+     "name": "Doi Suthep",
+     "as": "The plan judged against its view."
+    }
+   ]
+  },
+  {
+   "id": "hsr-bangkok-chiang-mai",
+   "type": "plan",
+   "names": {
+    "name": "Bangkok–Chiang Mai high-speed rail",
+    "th": "รถไฟความเร็วสูงกรุงเทพฯ–เชียงใหม่",
+    "said": "668 km, 445,303 million baht, and phase one postponed until another line is finished.",
+    "said_th": "668 กิโล 445,303 ล้านบาท และระยะแรกเลื่อนจนกว่าอีกสายจะเสร็จ"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "shelved",
+    "era": "planned"
+   },
+   "text": {
+    "what": "The northern Shinkansen line: Bangkok–Phitsanulok 380 km, Phitsanulok–Chiang Mai 288 km, 668 km in all (688 by Isranews), 445,303 million baht for both phases. Cabinet approvals 2012; a memorandum with Japan's transport ministry 2015. In October 2024 phase one was postponed until Bangkok–Nong Khai is done; phase two is targeted for 2033–42. There is no Chiang Mai–Lampang line on its own."
+   },
+   "text_th": {
+    "what": "รถไฟชินคันเซ็นสายเหนือ กรุงเทพฯ–พิษณุโลก 380 กม. พิษณุโลก–เชียงใหม่ 288 กม. รวม 668 กม. (อิศราให้ 688) 445,303 ล้านบาททั้งสองระยะ ครม. เห็นชอบ 2555 บันทึกความเข้าใจกับกระทรวงคมนาคมญี่ปุ่น 2558 ตุลาคม 2567 ระยะแรกเลื่อนจนกว่ากรุงเทพฯ–หนองคายจะเสร็จ ระยะสองตั้งเป้า 2576–85 ไม่มีสายเชียงใหม่–ลำปางแยกต่างหาก"
+   },
+   "plan": {
+    "status": "shelved",
+    "as_of": "2024-10",
+    "budget_thb": 445303000000,
+    "km": 668,
+    "agency": "State Railway of Thailand",
+    "agency_th": "การรถไฟแห่งประเทศไทย",
+    "due": "2033–42 (phase 2 target)"
+   },
+   "kin": [
+    {
+     "to": "route-1",
+     "as": "The 696 km it would replace.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:thwp-hsr",
+    "s:isranews-125644"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-hsr"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "route-1",
+     "type": "highway",
+     "name": "Route 1, Phahonyothin, and the 696 km to Bangkok",
+     "as": "The train that would replace the drive."
+    }
+   ]
+  },
+  {
+   "id": "lanna-airport",
+   "type": "plan",
+   "names": {
+    "name": "Lanna Airport, the second airport at Ban Thi",
+    "th": "สนามบินล้านนา สนามบินแห่งที่สองที่บ้านธิ",
+    "said": "8,050 rai, 70,000 million baht, 24 million passengers a year, build 2027 to 2032.",
+    "said_th": "8,050 ไร่ 70,000 ล้านบาท 24 ล้านคนต่อปี สร้าง 2570 ถึง 2575"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "study",
+    "era": "planned"
+   },
+   "text": {
+    "what": "A second airport across the provincial line at Ban Thi, Lamphun, beside San Kamphaeng: about 8,050 rai, about 70,000 million baht, 24 million passengers a year, two runways, 41 movements an hour, 38 stands. Design and expropriation decree Q4 2025, tender Q1 2027, construction Q2 2027, completion Q3 2032. Residents' concerns are on record at the feasibility stage. The existing airport gets a 24,000 million baht upgrade from 2025 to reach 20 million a year by 2027."
+   },
+   "text_th": {
+    "what": "สนามบินแห่งที่สองข้ามเขตจังหวัดที่บ้านธิ ลำพูน ข้างสันกำแพง ราว 8,050 ไร่ ราว 70,000 ล้านบาท 24 ล้านคนต่อปี สองทางวิ่ง 41 เที่ยวต่อชั่วโมง 38 หลุมจอด ออกแบบและพระราชกฤษฎีกาเวนคืนไตรมาส 4 ปี 2568 ประมูลไตรมาส 1 ปี 2570 ก่อสร้างไตรมาส 2 ปี 2570 เสร็จไตรมาส 3 ปี 2575 ความกังวลของชาวบ้านมีบันทึกในขั้นศึกษาความเป็นไปได้ สนามบินเดิมได้งบปรับปรุง 24,000 ล้านบาทตั้งแต่ 2568 เพื่อรับ 20 ล้านคนต่อปีภายใน 2570"
+   },
+   "plan": {
+    "status": "study",
+    "as_of": "2025",
+    "budget_thb": 70000000000,
+    "agency": "Airports of Thailand",
+    "agency_th": "ทอท.",
+    "due": "2032"
+   },
+   "kin": [
+    {
+     "to": "chiang-mai-airport",
+     "as": "What it would relieve.",
+     "rel": "place"
+    },
+    {
+     "to": "route-1317",
+     "as": "The road that would serve it.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:bkkbiz-1153345",
+    "s:thaipbs-353092",
+    "s:citylife-aot"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:bkkbiz-1153345"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "lanna-airport/lanna-airport-panoramic-view-of-chiang-mai-international-airport-i.jpg",
+     "source": "commons",
+     "title": "File:Panoramic view of Chiang Mai International Airport (I).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Panoramic_view_of_Chiang_Mai_International_Airport_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_Chiang_Mai_International_Airport_%28I%29.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+     "credit": "Own work",
+     "alt": "Panoramic view of Chiang Mai International Airport from Doi Suthep.",
+     "date": "2022-08-01 14:25:52",
+     "primary": true,
+     "sha256": "82eb6450ea78e0a1aeea97379eb0634656c5f74a5608c6d70759cb6d5c28b01b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "airport-passengers",
+     "type": "traffic",
+     "name": "The airport, by passengers",
+     "as": "The second one."
+    },
+    {
+     "from": "chiang-mai-airport",
+     "type": "place",
+     "name": "Chiang Mai Airport",
+     "as": "Its planned successor."
+    }
+   ]
+  },
+  {
+   "id": "lrt-red-line",
+   "type": "plan",
+   "names": {
+    "name": "Chiang Mai light rail, the Red Line",
+    "th": "รถไฟฟ้าเชียงใหม่ สายสีแดง",
+    "said": "Approved 2018. Opening 2027, then 2031, then December 2032. 15.8 km, or 21, or 5.",
+    "said_th": "อนุมัติ 2561 เปิด 2570 แล้ว 2574 แล้วธันวาคม 2575 ยาว 15.8 กิโล หรือ 21 หรือ 5"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "study",
+    "era": "planned"
+   },
+   "text": {
+    "what": "Nakhon Ping Hospital to Mae Hia Saman Samakkhi. The MRTA's Thai page gives 15.8 km, 16 stations, seven underground, about 27,000 million baht; its English page gives 21 km, 21 stations, 24,727 trips a day at opening, cabinet April 2027, construction October 2028, opening December 2032; Railway Gazette in April 2026 describes the current scheme as a 5 km tram with six stops from Royal Park Rajapruek to Mae Hia, tenders 2027, opening December 2032; Prachachat has the whole line at about 32,000 million. All four are live. English Wikipedia still says construction 2020, completion 2027.",
+    "story": "*Inference —* a plan whose length has three published values is a plan being renegotiated in public. The hearing deck's own demand forecast runs from 3,301 to 5,773 passengers an hour per direction at opening depending on the case, which is a tram's worth, not a metro's, and the 5 km version reads as the department agreeing."
+   },
+   "text_th": {
+    "what": "โรงพยาบาลนครพิงค์ถึงแม่เหียะสมานสามัคคี หน้าไทยของ รฟม. ให้ 15.8 กม. 16 สถานี ใต้ดินเจ็ด ราว 27,000 ล้านบาท หน้าอังกฤษให้ 21 กม. 21 สถานี 24,727 เที่ยวต่อวันตอนเปิด ครม. เมษายน 2570 ก่อสร้างตุลาคม 2571 เปิดธันวาคม 2575 Railway Gazette เมษายน 2569 บรรยายแผนปัจจุบันเป็นแทรม 5 กม. หกป้ายจากอุทยานหลวงราชพฤกษ์ถึงแม่เหียะ ประมูล 2570 เปิดธันวาคม 2575 ประชาชาติให้ทั้งสายราว 32,000 ล้าน ทั้งสี่ยังออนไลน์อยู่ วิกิพีเดียอังกฤษยังว่าสร้าง 2563 เสร็จ 2570",
+    "story": "*อนุมาน —* แผนที่ความยาวมีค่าเผยแพร่สามค่าคือแผนที่กำลังถูกต่อรองในที่สาธารณะ การพยากรณ์ในเอกสารรับฟังเองให้ 3,301 ถึง 5,773 คนต่อชั่วโมงต่อทิศตอนเปิดแล้วแต่กรณี ซึ่งเป็นขนาดแทรม ไม่ใช่รถไฟใต้ดิน และฉบับ 5 กม. อ่านเหมือนกรมยอมรับ"
+   },
+   "plan": {
+    "status": "study",
+    "as_of": "2026-04",
+    "budget_thb": 27000000000,
+    "budget_note": "27,000 million on the MRTA Thai page; 32,000 million in Prachachat; the 5 km tram is uncosted on this disk",
+    "km": 15.8,
+    "agency": "MRTA",
+    "agency_th": "รฟม.",
+    "due": "2032-12",
+    "stations": 16
+   },
+   "kin": [
+    {
+     "to": "public-transport-share",
+     "as": "The share it is meant to lift.",
+     "rel": "traffic"
+    },
+    {
+     "to": "unesco-nomination",
+     "as": "The underground route under the old town was flagged as a conflict.",
+     "rel": "plan"
+    },
+    {
+     "to": "era-now",
+     "as": "The train that keeps moving.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:mrta-red-line",
+    "s:mrta-red-line-en",
+    "s:railway-gazette-2026",
+    "s:bkkbiz-1138649",
+    "s:mgr-9680000121126",
+    "s:mrta-hearing-deck",
+    "s:wp-chiang-mai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:mrta-red-line"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "lrt-red-line/lrt-red-line-chiang-mai-thailand-chiang-mai-railway-station-08.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Thailand Chiang-Mai-Railway-Station-08.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chiang_Mai_Thailand_Chiang-Mai-Railway-Station-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Thailand_Chiang-Mai-Railway-Station-08.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: Steam locomotive in front of the Chiang Mai Railway Station",
+     "date": "2017-04-17",
+     "primary": true,
+     "sha256": "b9af48c6f1a15365ff7a1b93635be3d84b384bdd86d962c13e5820e8d698df44"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "unesco-nomination",
+     "type": "plan",
+     "name": "The UNESCO nomination and the roads under it",
+     "as": "The plan with the tunnel."
+    },
+    {
+     "from": "era-now",
+     "type": "era",
+     "name": "2010s–2020s — going under, and going up",
+     "as": "The train that keeps moving."
+    },
+    {
+     "from": "public-transport-share",
+     "type": "traffic",
+     "name": "The public-transport share, and the target",
+     "as": "The plan."
+    },
+    {
+     "from": "songthaew-count",
+     "type": "traffic",
+     "name": "The red trucks, counted",
+     "as": "The rail that would join them."
+    }
+   ]
+  },
+  {
+   "id": "motorway-chiang-mai-chiang-rai",
+   "type": "plan",
+   "names": {
+    "name": "Chiang Mai–Chiang Rai motorway, MR1-3",
+    "th": "มอเตอร์เวย์เชียงใหม่–เชียงราย MR1-3",
+    "said": "184 km, 101,174 million baht, 12,000 rai, and the department's own line: high cost, low return, maybe no investor.",
+    "said_th": "184 กิโล 101,174 ล้านบาท 12,000 ไร่ และประโยคของกรมเอง ต้นทุนสูง ผลตอบแทนต่ำ อาจไม่มีเอกชนลงทุน"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "study",
+    "era": "planned"
+   },
+   "text": {
+    "what": "An intercity motorway from Saraphi to Wiang Chai under the MR-MAP plan, three alignments of 178 to 217 km put to hearing on 20 September 2022. The highway department's own summary: 184 km, 101,174 million baht, about 12,000 rai to expropriate, high cost and low return, and it may attract no private investor. An earlier study ran it via Lampang and Phayao.",
+    "story": "*Inference —* the department has written the obituary into the proposal. Filed here as a study, because that is what it is until someone puts money against it."
+   },
+   "text_th": {
+    "what": "มอเตอร์เวย์ระหว่างเมืองจากสารภีถึงเวียงชัยภายใต้แผน MR-MAP สามแนว 178 ถึง 217 กม. รับฟังความเห็น 20 กันยายน 2565 สรุปของกรมทางหลวงเอง 184 กม. 101,174 ล้านบาท เวนคืนราว 12,000 ไร่ ต้นทุนสูง ผลตอบแทนต่ำ และอาจไม่มีเอกชนลงทุน การศึกษาก่อนหน้าให้ผ่านลำปางและพะเยา",
+    "story": "*อนุมาน —* กรมเขียนคำไว้อาลัยไว้ในข้อเสนอแล้ว บันทึกไว้เป็นการศึกษา เพราะมันเป็นแค่นั้นจนกว่าจะมีใครวางเงิน"
+   },
+   "plan": {
+    "status": "study",
+    "as_of": "2025",
+    "budget_thb": 101174000000,
+    "km": 184,
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง",
+    "announced": "2022"
+   },
+   "kin": [
+    {
+     "to": "route-118",
+     "as": "What it would bypass.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:bkkauction-expropriate",
+    "s:prd-121972"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:bkkauction-expropriate"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "route-118",
+     "type": "highway",
+     "name": "Route 118, to Chiang Rai",
+     "as": "The road that would bypass it."
+    }
+   ]
+  },
+  {
+   "id": "nine-roads-programme",
+   "type": "plan",
+   "names": {
+    "name": "The nine roads, 2025–27",
+    "th": "เก้าสายทาง 2568–70",
+    "said": "The highway department's list for the province, three years, nine items.",
+    "said_th": "รายการของกรมทางหลวงสำหรับจังหวัด สามปี เก้ารายการ"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "funded",
+    "era": "planned"
+   },
+   "text": {
+    "what": "Announced on provincial radio: Route 116 Lamphun–Doi Lo to four lanes; Route 108 Chom Thong–Hot to four lanes; Hot–Mae Sariang; Route 1095 Mae Taeng–Pai; the Doi Suthep road, Route 1004; the outer ring to six lanes with an overpass at every junction; a Chom Thong bypass. Budgets per item are not in the broadcast."
+   },
+   "text_th": {
+    "what": "ประกาศทางวิทยุจังหวัด ทางหลวง 116 ลำพูน–ดอยหล่อ สี่เลน ทางหลวง 108 จอมทอง–ฮอด สี่เลน ฮอด–แม่สะเรียง ทางหลวง 1095 แม่แตง–ปาย ถนนขึ้นดอยสุเทพ ทางหลวง 1004 วงแหวนรอบนอกเป็นหกเลนพร้อมสะพานข้ามทุกแยก และทางเลี่ยงเมืองจอมทอง งบรายรายการไม่มีในการออกอากาศ"
+   },
+   "plan": {
+    "status": "funded",
+    "as_of": "2025",
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง",
+    "due": "2027"
+   },
+   "kin": [
+    {
+     "to": "ring-3",
+     "as": "Six lanes.",
+     "rel": "ring"
+    },
+    {
+     "to": "si-wichai-road",
+     "as": "On the list.",
+     "rel": "road"
+    },
+    {
+     "to": "route-1095",
+     "as": "On the list.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:prd-cm-369046"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:prd-cm-369046"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  },
+  {
+   "id": "ring-3-interchanges",
+   "type": "plan",
+   "names": {
+    "name": "Five interchanges on the outer ring",
+    "th": "ทางแยกต่างระดับห้าแห่งบนวงแหวนรอบนอก",
+    "said": "3,145 million baht, five junctions, all due 2027.",
+    "said_th": "3,145 ล้านบาท ห้าแยก กำหนดเสร็จ 2570 ทั้งหมด"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "status": "funded",
+    "era": "planned"
+   },
+   "text": {
+    "what": "Tendered as a set: Samoeng at Route 108 in Hang Dong, 920 million; the Superhighway at Route 11, 700 million; Louis at Route 1006, 650 million, a four-lane bridge on a 1,080-day contract 2025–27; Kong Sai at Route 106 in Saraphi, 445 million; San Klang at Route 1317, phase two, 430 million. Two more, San Khayom at Route 1367 and Likhit Chiwan at Route 1001, were presented in November 2025 as an overpass on the ring with a tunnel on the cross road and a roundabout, no signals, possible construction 2026."
+   },
+   "text_th": {
+    "what": "ประมูลเป็นชุด สะเมิงที่ทางหลวง 108 หางดง 920 ล้าน ซุปเปอร์ไฮเวย์ที่ทางหลวง 11 700 ล้าน หลุยส์ที่ทางหลวง 1006 650 ล้าน สะพานสี่เลน สัญญา 1,080 วัน 2568–70 กองทรายที่ทางหลวง 106 สารภี 445 ล้าน สันกลางที่ทางหลวง 1317 ระยะสอง 430 ล้าน อีกสองแห่ง สันขะยอมที่ทางหลวง 1367 และลิขิตชีวันที่ทางหลวง 1001 นำเสนอพฤศจิกายน 2568 เป็นสะพานข้ามบนวงแหวน อุโมงค์บนถนนตัด และวงเวียน ไม่มีสัญญาณไฟ อาจก่อสร้าง 2569"
+   },
+   "plan": {
+    "status": "funded",
+    "as_of": "2025",
+    "budget_thb": 3145000000,
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง",
+    "due": "2027"
+   },
+   "kin": [
+    {
+     "to": "ring-3",
+     "as": "The ring.",
+     "rel": "ring"
+    },
+    {
+     "to": "san-klang-interchange",
+     "as": "The one half built.",
+     "rel": "junction"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:dailynews-4380049",
+    "s:cmnews-3593263",
+    "s:saranae-32032"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:dailynews-4380049"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "ring-3",
+     "type": "ring",
+     "name": "Ring 3, Route 121",
+     "as": "The five."
+    },
+    {
+     "from": "san-klang-interchange",
+     "type": "junction",
+     "name": "San Klang interchange",
+     "as": "One of five."
+    },
+    {
+     "from": "route-108",
+     "type": "highway",
+     "name": "Route 108, southwest to Mae Hong Son",
+     "as": "The Samoeng interchange is on it."
+    },
+    {
+     "from": "route-1317",
+     "type": "highway",
+     "name": "Route 1317, the new San Kamphaeng road",
+     "as": "San Klang."
+    },
+    {
+     "from": "era-now",
+     "type": "era",
+     "name": "2010s–2020s — going under, and going up",
+     "as": "2027."
+    },
+    {
+     "from": "construction-on-the-map",
+     "type": "measure",
+     "name": "What the map says is being built",
+     "as": "What the department says."
+    }
+   ]
+  },
+  {
+   "id": "route-118-four-lanes",
+   "type": "plan",
+   "names": {
+    "name": "Four-laning Route 118 to Chiang Rai",
+    "th": "ขยายทางหลวง 118 เป็นสี่เลนถึงเชียงราย",
+    "said": "158 km in pieces since 2008, and the last piece under contract for 2026.",
+    "said_th": "158 กิโลทีละชิ้นตั้งแต่ 2551 และชิ้นสุดท้ายในสัญญากำหนด 2569"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "status": "building",
+    "era": "planned"
+   },
+   "text": {
+    "what": "The whole 158.473 km to be four lanes. Done: Chiang Mai–Doi Saket 20.2 km, October 2008; Pong Pha Tong–Ban Pong 28.5 km, October 2019; Pa Miang–Pang Nam Thu 9.25 km, March 2020; five sections of 42.8 km, 2020–21, at about 2,500 million baht. The last: Mae Suai, km 141, to Route 1 at km 158.473, 17.473 km, 2,000 million baht, contract completion 2026."
+   },
+   "text_th": {
+    "what": "ทั้ง 158.473 กม. ให้เป็นสี่เลน เสร็จแล้ว เชียงใหม่–ดอยสะเก็ด 20.2 กม. ตุลาคม 2551 โป่งผาทอง–บ้านโป่ง 28.5 กม. ตุลาคม 2562 ป่าเมี่ยง–ปางน้ำถุ 9.25 กม. มีนาคม 2563 ห้าช่วง 42.8 กม. 2563–64 ราว 2,500 ล้านบาท ช่วงสุดท้าย แม่สรวย กม.141 ถึงทางหลวง 1 กม.158.473 ยาว 17.473 กม. 2,000 ล้านบาท สัญญาเสร็จ 2569"
+   },
+   "plan": {
+    "status": "building",
+    "as_of": "2026",
+    "budget_thb": 2000000000,
+    "budget_note": "the last section only",
+    "km": 17.473,
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง",
+    "due": "2026"
+   },
+   "kin": [
+    {
+     "to": "route-118",
+     "as": "The road.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:feasy-118",
+    "s:cri108-15492",
+    "s:bkkauction-expropriate"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:feasy-118"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  },
+  {
+   "id": "unesco-nomination",
+   "type": "plan",
+   "names": {
+    "name": "The UNESCO nomination and the roads under it",
+    "th": "การเสนอมรดกโลกและถนนใต้มัน",
+    "said": "Tentative 2015, nominated January 2026, and a transport plan flagged for a tunnel under the old town.",
+    "said_th": "บัญชีเบื้องต้น 2558 เสนอมกราคม 2569 และแผนขนส่งถูกติงเรื่องอุโมงค์ใต้เวียงเก่า"
+   },
+   "region": [
+    "moat"
+   ],
+   "facets": {
+    "status": "study",
+    "era": "planned"
+   },
+   "text": {
+    "what": "Chiang Mai went on the tentative list in 2015 as Monuments, Sites and Cultural Landscape of Chiang Mai, Capital of Lanna: a nominated core of the old city to the outer walls and the Mae Kha canal, 5.30 km², with a Doi Suthep buffer of 165.84 km², 33 attributes, seven temples, five gates and four bastions. A twenty-year transport plan with one underground route directly under the old town was flagged as a conflict in 2019. The cabinet approved the nomination in January 2026 for the 30 January deadline."
+   },
+   "text_th": {
+    "what": "เชียงใหม่ขึ้นบัญชีเบื้องต้นปี 2558 ในชื่อ อนุสรณ์สถาน แหล่ง และภูมิทัศน์วัฒนธรรมของเชียงใหม่ นครหลวงแห่งล้านนา พื้นที่เสนอคือเวียงเก่าถึงกำแพงชั้นนอกและคลองแม่ข่า 5.30 ตร.กม. พื้นที่กันชนดอยสุเทพ 165.84 ตร.กม. 33 คุณลักษณะ เจ็ดวัด ห้าประตู สี่แจ่ง แผนขนส่งยี่สิบปีที่มีเส้นทางใต้ดินหนึ่งสายลอดใต้เวียงเก่าถูกติงว่าขัดแย้งในปี 2562 ครม. เห็นชอบการเสนอมกราคม 2569 ทันกำหนด 30 มกราคม"
+   },
+   "plan": {
+    "status": "study",
+    "as_of": "2026-01",
+    "agency": "Fine Arts Department / Chiang Mai province",
+    "agency_th": "กรมศิลปากร / จังหวัดเชียงใหม่",
+    "announced": "2026-01"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "The core.",
+     "rel": "place"
+    },
+    {
+     "to": "mae-kha-canal",
+     "as": "In the core.",
+     "rel": "place"
+    },
+    {
+     "to": "lrt-red-line",
+     "as": "The plan with the tunnel.",
+     "rel": "plan"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:citylife-unesco",
+    "s:unesco-6003",
+    "s:wp-chiang-mai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:citylife-unesco"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "unesco-nomination/unesco-nomination-201703291126a-chiang-mai-city-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291126a Chiang Mai, City Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/201703291126a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291126a_Chiang_Mai%2C_City_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "City moat of Chiang Mai between Sri Phum Corner and Tha Phae Gate",
+     "date": "2017-03-29 11:26:16",
+     "primary": true,
+     "sha256": "82838166f4241113c54d08f38dd9903986041c33afa99c6260e3a3954776cb3b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "lrt-red-line",
+     "type": "plan",
+     "name": "Chiang Mai light rail, the Red Line",
+     "as": "The underground route under the old town was flagged as a conflict."
+    },
+    {
+     "from": "wats-and-rings",
+     "type": "measure",
+     "name": "Wats, zone by zone",
+     "as": "The file."
+    },
+    {
+     "from": "mae-kha-canal",
+     "type": "place",
+     "name": "Mae Kha canal",
+     "as": "Inside the nominated core."
+    }
+   ]
+  }
+ ]
+}

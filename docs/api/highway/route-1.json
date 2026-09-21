@@ -1,0 +1,100 @@
+{
+ "id": "route-1",
+ "type": "highway",
+ "names": {
+  "name": "Route 1, Phahonyothin, and the 696 km to Bangkok",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1 พหลโยธิน — 696 กม. ถึงกรุงเทพฯ",
+  "said": "Bangkok is 696 km by road. The number has not changed since the Superhighway.",
+  "said_th": "กรุงเทพฯ ห่าง 696 กิโลทางถนน ตัวเลขบ่เปลี่ยนตั้งแต่ซุปเปอร์ไฮเวย์"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "south",
+  "ref": "1",
+  "km": 1005,
+  "era": "siam"
+ },
+ "text": {
+  "what": "Thailand's first highway, 1,005 km from the Victory Monument to Mae Sai, named 1938. Chiang Mai is not on it; the run to Bangkok leaves Route 1 at Lampang for Route 11, or at Tak for Route 1 via Lampang, and comes to about 696 km either way."
+ },
+ "text_th": {
+  "what": "ทางหลวงสายแรกของประเทศ 1,005 กม. จากอนุสาวรีย์ชัยสมรภูมิถึงแม่สาย ตั้งชื่อ 2481 เชียงใหม่บ่ได้อยู่บนสายนี้ ทางไปกรุงเทพฯ ออกจากทางหลวง 1 ที่ลำปางเข้าทางหลวง 11 หรือใช้ทางหลวง 1 ผ่านตากและลำปาง ได้ราว 696 กม. ทั้งสองทาง"
+ },
+ "road": {
+  "ref": "1",
+  "km": 1005,
+  "km_source": "s:wp-route-1",
+  "from": "Bangkok",
+  "from_th": "กรุงเทพฯ",
+  "to": "Mae Sai",
+  "to_th": "แม่สาย",
+  "osm_refs": [
+   "1"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "route-11",
+   "as": "The road that joins it.",
+   "rel": "highway"
+  },
+  {
+   "to": "hsr-bangkok-chiang-mai",
+   "as": "The train that would replace the drive.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:wp-route-1",
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-route-1"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-1/route-1-hgwy1amphoekokha090515.jpg",
+   "source": "commons",
+   "title": "File:Hgwy1amphoekokha090515.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hgwy1amphoekokha090515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHgwy1amphoekokha090515.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Hdamm",
+   "credit": "Own work",
+   "alt": "Highway 1 in Amphoe Ko Kha, Lampang Province, northern Thailand",
+   "date": "2009-05-15",
+   "primary": true,
+   "sha256": "29f45c03948002c8cac4772d3cd734be47a8fcd635942053b9ae20f2b3e9516a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hsr-bangkok-chiang-mai",
+   "type": "plan",
+   "name": "Bangkok–Chiang Mai high-speed rail",
+   "as": "The 696 km it would replace."
+  },
+  {
+   "from": "fuel-today",
+   "type": "traffic",
+   "name": "What a litre cost on the day this was built",
+   "as": "696 km to Bangkok, at this price."
+  }
+ ]
+}

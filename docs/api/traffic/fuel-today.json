@@ -1,0 +1,86 @@
+{
+ "id": "fuel-today",
+ "type": "traffic",
+ "names": {
+  "name": "What a litre cost on the day this was built",
+  "th": "ลิตรละเท่าไรวันที่สร้างเว็บนี้",
+  "said": "Gasohol 95 at 39.94 baht, diesel at 40.69, on 21 September 2026.",
+  "said_th": "แก๊สโซฮอล์ 95 ลิตรละ 39.94 ดีเซล 40.69 วันที่ 21 กันยายน 2569"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "PTT retail on the build date: Gasohol 95 39.94; Gasohol 91 39.57; E20 34.94; E85 30.88; diesel B7 40.69; premium diesel 50.05 baht a litre. No regional differential is published. A number that expires the day after it is printed, kept here because a road page with no price on it is a road page for people who do not pay."
+ },
+ "text_th": {
+  "what": "ราคาขายปลีก ปตท. วันที่สร้าง แก๊สโซฮอล์ 95 39.94 แก๊สโซฮอล์ 91 39.57 E20 34.94 E85 30.88 ดีเซล B7 40.69 ดีเซลพรีเมียม 50.05 บาทต่อลิตร ไม่มีส่วนต่างรายภาค ตัวเลขที่หมดอายุวันถัดจากวันพิมพ์ เก็บไว้เพราะหน้าถนนที่บ่มีราคาคือหน้าถนนสำหรับคนที่บ่ต้องจ่าย"
+ },
+ "figure": {
+  "value": 39.94,
+  "unit": "baht a litre, Gasohol 95, 2026-09-21",
+  "unit_th": "บาทต่อลิตร แก๊สโซฮอล์ 95 21 ก.ย. 2569",
+  "year": "2026",
+  "source": "s:kapook-gasprice",
+  "series": [
+   {
+    "label": "Gasohol 95",
+    "value": 39.94
+   },
+   {
+    "label": "Gasohol 91",
+    "value": 39.57
+   },
+   {
+    "label": "E20",
+    "value": 34.94
+   },
+   {
+    "label": "E85",
+    "value": 30.88
+   },
+   {
+    "label": "Diesel B7",
+    "value": 40.69
+   },
+   {
+    "label": "Premium diesel",
+    "value": 50.05
+   }
+  ],
+  "method": "One retail price list on one day.",
+  "method_th": "ราคาขายปลีกหนึ่งรายการในหนึ่งวัน"
+ },
+ "kin": [
+  {
+   "to": "route-1",
+   "as": "696 km to Bangkok, at this price.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:kapook-gasprice"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:kapook-gasprice"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": []
+}

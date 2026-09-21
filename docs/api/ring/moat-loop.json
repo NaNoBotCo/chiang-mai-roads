@@ -1,0 +1,242 @@
+{
+ "id": "moat-loop",
+ "type": "ring",
+ "names": {
+  "name": "The moat loop",
+  "th": "ถนนรอบคูเมือง",
+  "rtgs": "Thanon Rop Khu Mueang",
+  "aliases": [
+   "Ring 0"
+  ],
+  "said": "6.54 km, two roads, one clockwise and one counter, since 1948.",
+  "said_th": "6.54 กิโล สองถนน วงนอกตามเข็ม วงในทวน ตั้งแต่ 2491"
+ },
+ "region": [
+  "moat"
+ ],
+ "facets": {
+  "era": "siam",
+  "km": 6.54,
+  "oneway": true
+ },
+ "text": {
+  "what": "The pair of one-way roads on the two banks of the moat: the outer bank runs clockwise, the inner counter-clockwise, so that the square is a roundabout 6.54 km round. The municipality built the roads in 1948, demolishing stretches of the wall to do it. The year the one-way system began is not on this disk.",
+  "story": "*Inference —* the loop is the city's first ring and its smallest, and the only one that is not a bypass: it does not take traffic round the centre, it takes traffic round the centre's edge and lets it in at the gates and the corners. A driver who misses a turn drives the whole square again. Everyone who has lived here has done it.\n\nThe story page argues what the loop did to the old city; the measurements page counts what is inside it."
+ },
+ "text_th": {
+  "what": "ถนนทางเดียวคู่บนสองฝั่งคูเมือง ฝั่งนอกวิ่งตามเข็มนาฬิกา ฝั่งในทวนเข็ม สี่เหลี่ยมจึงเป็นวงเวียนยาว 6.54 กม. เทศบาลสร้างถนนปี 2491 โดยรื้อกำแพงบางช่วง ปีที่ระบบทางเดียวเริ่มบ่มีในแผ่นนี้",
+  "story": "*อนุมาน —* วงรอบคือวงแหวนแรกและเล็กสุดของเมือง และวงเดียวที่ไม่ใช่ทางเลี่ยง มันบ่ได้พารถอ้อมใจกลาง มันพารถอ้อมขอบใจกลางแล้วปล่อยเข้าที่ประตูและแจ่ง คนขับที่พลาดทางเลี้ยวต้องวนสี่เหลี่ยมอีกรอบ ใครที่เคยอยู่ที่นี่ก็เคยทำ\n\nหน้าเรื่องเล่าเถียงว่าวงรอบทำอะไรกับเวียงเก่า หน้าการวัดนับสิ่งที่อยู่ข้างใน"
+ },
+ "road": {
+  "km": 6.54,
+  "km_source": "s:thwp-moat",
+  "oneway": true,
+  "opened": "1948",
+  "osm_names": [
+   "ถนนมูลเมือง",
+   "ถนนอารักษ์",
+   "ถนนบุญเรืองฤทธิ์",
+   "ถนนบำรุงบุรี",
+   "ถนนศรีภูมิ",
+   "ถนนช้างเผือก",
+   "ถนนมณีนพรัตน์",
+   "ถนนชัยภูมิ",
+   "Moon Muang Road",
+   "Arak Road",
+   "Bunruangrit Road",
+   "Bamrung Buri Road",
+   "Si Phum Road",
+   "Chang Phueak Road",
+   "Mani Nopparat Road",
+   "Chaiyaphum Road",
+   "ถนนคชสาร",
+   "Kotchasarn Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "The water.",
+   "rel": "place"
+  },
+  {
+   "to": "why-the-moat-runs-one-way",
+   "as": "The argument.",
+   "rel": "story"
+  },
+  {
+   "to": "grid-in-the-moat",
+   "as": "What is inside.",
+   "rel": "measure"
+  },
+  {
+   "to": "ring-1",
+   "as": "The next ring out.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "one-way",
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "moat-loop/moat-loop-201703291126a-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291126a Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/201703291126a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291126a_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Sri Phum Corner and Tha Phae Gate",
+   "date": "2017-03-29 11:26:16",
+   "primary": true,
+   "sha256": "82838166f4241113c54d08f38dd9903986041c33afa99c6260e3a3954776cb3b"
+  },
+  {
+   "file": "moat-loop/moat-loop-chiang-mai-moat-and-road.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Moat and Road.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiang_Mai_Moat_and_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Moat_and_Road.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Douglas Perkins",
+   "credit": "Own work",
+   "alt": "The moat of Chiang Mai during the day.  A road is on the left, and the moat is on the right.  This picture was taken on the north side of the city center.  Thailand.",
+   "date": "2014-12-26 10:51:47",
+   "primary": false,
+   "sha256": "065628ce8a62dd68f926bddabdd43e4ed02f785cda8f4a01d3d046d476b39cce"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ratchadamnoen-road",
+   "type": "road",
+   "name": "Ratchadamnoen Road",
+   "as": "The other one-way system."
+  },
+  {
+   "from": "chang-phueak-gate",
+   "type": "gate",
+   "name": "Chang Phueak Gate",
+   "as": "On the ring."
+  },
+  {
+   "from": "chiang-mai-gate",
+   "type": "gate",
+   "name": "Chiang Mai Gate",
+   "as": "On the ring."
+  },
+  {
+   "from": "hua-lin-corner",
+   "type": "gate",
+   "name": "Hua Lin Corner",
+   "as": "The ring turns here."
+  },
+  {
+   "from": "katam-corner",
+   "type": "gate",
+   "name": "Katam Corner",
+   "as": "The ring turns here."
+  },
+  {
+   "from": "ku-hueang-corner",
+   "type": "gate",
+   "name": "Ku Hueang Corner",
+   "as": "The ring turns here."
+  },
+  {
+   "from": "si-phum-corner",
+   "type": "gate",
+   "name": "Si Phum Corner",
+   "as": "The ring turns here."
+  },
+  {
+   "from": "suan-dok-gate",
+   "type": "gate",
+   "name": "Suan Dok Gate",
+   "as": "On the ring."
+  },
+  {
+   "from": "suan-prung-gate",
+   "type": "gate",
+   "name": "Suan Prung Gate",
+   "as": "On the ring."
+  },
+  {
+   "from": "tha-phae-gate",
+   "type": "gate",
+   "name": "Tha Phae Gate",
+   "as": "The ring it opens onto."
+  },
+  {
+   "from": "era-siam-1900-1950",
+   "type": "era",
+   "name": "1900–1950 — Siam and the railway",
+   "as": "Built 1948."
+  },
+  {
+   "from": "one-way-share",
+   "type": "measure",
+   "name": "How much of the road runs one way",
+   "as": "The loop."
+  },
+  {
+   "from": "municipal-roads",
+   "type": "traffic",
+   "name": "The municipality's roads, counted by the municipality",
+   "as": "Municipal roads."
+  },
+  {
+   "from": "khu",
+   "type": "word",
+   "name": "คู khu",
+   "as": "The roads on it."
+  },
+  {
+   "from": "what-we-did-not-do",
+   "type": "story",
+   "name": "What this site does not have",
+   "as": "No year for the one-way."
+  },
+  {
+   "from": "why-the-moat-runs-one-way",
+   "type": "story",
+   "name": "Why the moat runs one way",
+   "as": "The loop."
+  },
+  {
+   "from": "the-moat",
+   "type": "place",
+   "name": "The moat",
+   "as": "The roads on its banks."
+  }
+ ]
+}

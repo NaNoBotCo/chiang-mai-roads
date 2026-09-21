@@ -1,0 +1,128 @@
+{
+ "id": "route-108",
+ "type": "highway",
+ "names": {
+  "name": "Route 108, southwest to Mae Hong Son",
+  "th": "ทางหลวงแผ่นดินหมายเลข 108 — เชียงใหม่–แม่ฮ่องสอน",
+  "said": "349 km, and it changes character at a roundabout in Hot.",
+  "said_th": "349 กิโล และมันเปลี่ยนนิสัยตรงวงเวียนฮอด"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "southwest",
+  "ref": "108",
+  "km": 349.359,
+  "era": "siam"
+ },
+ "text": {
+  "what": "Through Hang Dong, San Pa Tong and Chom Thong to Hot, 88 km of four to six lanes, then 265 km of two-lane mountain road through Mae Sariang and Khun Yuam to Mae Hong Son: 349.359 km. The Hang Dong road was built in 1899 with khi-lek trees for the Burma trade, made a two-lane gravel road in the 1970s, concreted from 1986 and widened to four and six lanes in 1989–92. The whole route was a dirt road by 1963, asphalt by 1990 and complete in 1998. The 2024 count at km 7.65 read 41,450 vehicles a day and 16,378 motorcycles.",
+  "story": "*Inference —* it is the long way round the Mae Hong Son loop, and the loop site counts its curves; this site only claims its first eighty-eight kilometres, which are the flat ones."
+ },
+ "text_th": {
+  "what": "ผ่านหางดง สันป่าตอง จอมทอง ถึงฮอด 88 กม. สี่ถึงหกเลน แล้วต่อด้วยถนนภูเขาสองเลน 265 กม. ผ่านแม่สะเรียง ขุนยวม ถึงแม่ฮ่องสอน รวม 349.359 กม. ถนนหางดงสร้างปี 2442 ปลูกต้นขี้เหล็กเพื่อการค้ากับพม่า เป็นถนนลูกรังสองเลนในทศวรรษ 2510 เทคอนกรีตตั้งแต่ 2529 ขยายสี่และหกเลน 2532–35 ทั้งสายเป็นถนนดินภายในปี 2506 ลาดยางภายในปี 2533 เสร็จ 2541 จุดนับ กม.7.65 ปี 2567 อ่านได้ 41,450 คันต่อวัน จักรยานยนต์ 16,378",
+  "story": "*อนุมาน —* มันคือทางอ้อมของวงรอบแม่ฮ่องสอน และเว็บวงรอบนับโค้งของมัน เว็บนี้อ้างแค่แปดสิบแปดกิโลเมตรแรก ซึ่งเป็นช่วงราบ"
+ },
+ "road": {
+  "ref": "108",
+  "km": 349.359,
+  "km_source": "s:thwp-108",
+  "from": "Chiang Mai",
+  "from_th": "เชียงใหม่",
+  "to": "Mae Hong Son",
+  "to_th": "แม่ฮ่องสอน",
+  "osm_refs": [
+   "108"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "phraya-surasi",
+   "as": "Built the Hang Dong road.",
+   "rel": "person"
+  },
+  {
+   "to": "ring-3-interchanges",
+   "as": "The Samoeng interchange is on it.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:thwp-108",
+  "s:cmu-thesis-2548",
+  "s:doh-aadt",
+  "s:motdang-loop"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-108"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-108/route-108-road-108-new-construction-mae-hong-son-province.jpg",
+   "source": "commons",
+   "title": "File:Road 108 new construction Mae Hong Son province.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Road_108_new_construction_Mae_Hong_Son_province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARoad_108_new_construction_Mae_Hong_Son_province.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "A new bridge is built for road 108. Photo was made in March 2010.",
+   "date": "2010-03-13",
+   "primary": true,
+   "sha256": "bf88fcbaea6dac8571099ecc243987b106f4d2ca01eb1ab87ceb96d1abca0244"
+  },
+  {
+   "file": "route-108/route-108-spirit-houses-at-lampang-chiang-mai-highway-panoramio.jpg",
+   "source": "commons",
+   "title": "File:Spirit houses at Lampang-Chiang Mai highway - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Spirit_houses_at_Lampang-Chiang_Mai_highway_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASpirit_houses_at_Lampang-Chiang_Mai_highway_-_panoramio.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Andreas Hörstemeier",
+   "credit": "https://web.archive.org/web/20161010151416/http://www.panoramio.com/photo/914963",
+   "alt": "Spirit houses at Lampang-Chiang Mai highway",
+   "date": "20 February 2007 (original upload date)",
+   "primary": false,
+   "sha256": "3777df20d6a2864af54302f911171d93fccb9e8b66531a26916c3711df4f6479"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "route-1269",
+   "type": "highway",
+   "name": "Route 1269, Samoeng",
+   "as": "Where it comes out."
+  },
+  {
+   "from": "era-lanna-and-burma",
+   "type": "era",
+   "name": "1300s–1700s — Lanna and Burma",
+   "as": "The old track to Burma."
+  },
+  {
+   "from": "phraya-surasi",
+   "type": "person",
+   "name": "Chao Phraya Surasi Wisitsak",
+   "as": "The other road."
+  }
+ ]
+}

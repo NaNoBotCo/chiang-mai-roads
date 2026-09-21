@@ -1,0 +1,104 @@
+{
+ "id": "rincome-junction",
+ "type": "junction",
+ "names": {
+  "name": "Rincome junction",
+  "th": "แยกรินคำ",
+  "rtgs": "Yaek Rin Kham",
+  "said": "Named for a hotel that closed, and the worst light in the city by the planners' own count.",
+  "said_th": "ตั้งชื่อตามโฮงแฮมตี้ปิดไปแล้ว และไฟแดงตี้แย่สุดในเมืองตามที่นักวางแผนนับเอง"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "superhighway"
+ },
+ "text": {
+  "what": "Where Huay Kaew Road, Nimmanhaemin and the Superhighway meet, northwest of the moat. The 2025 public-transport master plan names it a critical congestion point, and an interchange with the Superhighway is costed at 700 million baht, phase one due 2027. The hotel it is named for is gone; the name is not."
+ },
+ "text_th": {
+  "what": "ตี้ถนนห้วยแก้ว นิมมานเหมินท์ และซุปเปอร์ไฮเวย์มาพบกัน ทางตะวันตกเฉียงเหนือของคูเมือง แผนแม่บทขนส่งสาธารณะปี 2568 ระบุเป็นจุดวิกฤต และทางแยกต่างระดับกับซุปเปอร์ไฮเวย์ประเมิน 700 ล้านบาท ระยะแรกกำหนด 2570 โฮงแฮมที่มันตั้งชื่อตามหายไปแล้ว ชื่อยังอยู่"
+ },
+ "geo": {
+  "lat": 18.8003,
+  "lon": 98.9672,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "nimmanhaemin-road",
+   "as": "Its southern arm.",
+   "rel": "road"
+  },
+  {
+   "to": "huay-kaew-road",
+   "as": "Its western arm.",
+   "rel": "road"
+  },
+  {
+   "to": "yaek",
+   "as": "The word, with this as the example.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "university"
+ ],
+ "sources": [
+  "s:cm-traffic-minutes-2569",
+  "s:citylife-big-development"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cm-traffic-minutes-2569"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "rincome-junction/rincome-junction-nimmanhaeminda-road-2025.jpg",
+   "source": "commons",
+   "title": "File:Nimmanhaeminda Road 2025.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nimmanhaeminda_Road_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhaeminda_Road_2025.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Setawut",
+   "credit": "Own work",
+   "alt": "Nimmanheminda Road",
+   "date": "2025-12-21",
+   "primary": true,
+   "sha256": "636e20ad64a0d679c3a8f78182091fb4f96388b846559cada3685e411db407c2"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nimmanhaemin-road",
+   "type": "road",
+   "name": "Nimmanhaemin Road",
+   "as": "Its northern end."
+  },
+  {
+   "from": "congestion-index",
+   "type": "traffic",
+   "name": "How slow: the TomTom index",
+   "as": "The junction the planners name."
+  },
+  {
+   "from": "yaek",
+   "type": "word",
+   "name": "แยก yaek",
+   "as": "The one named for a vanished hotel."
+  }
+ ]
+}

@@ -1,0 +1,890 @@
+{
+ "type": "era",
+ "count": 8,
+ "nodes": [
+  {
+   "id": "era-1296-the-square",
+   "type": "era",
+   "names": {
+    "name": "1296 — the square",
+    "th": "พ.ศ. 1839 — สี่เหลี่ยม",
+    "said": "A king draws a square on a rise between a mountain and a river.",
+    "said_th": "กษัตริย์ขีดสี่เหลี่ยมบนที่ดอนระหว่างดอยกับแม่น้ำ"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "mangrai",
+    "order": 1
+   },
+   "text": {
+    "what": "Mangrai founds Chiang Mai on the higher ground a kilometre west of the Ping, after his first city on the bank flooded. A moat 6.54 km round, a gate in each wall and a fifth on the south, and the cardinal streets from gate to gate. The earthen outer wall curves round the trading quarter to the east.",
+    "story": "*Inference —* the grid inside the moat is the oldest piece of road-planning in the city and it is still the tightest: the measurements page shows the square with more intersections per square kilometre and fewer dead ends than any ring outside it. Seven centuries of building have not managed to lay out a neighbourhood as well-connected as the first one."
+   },
+   "text_th": {
+    "what": "พญามังรายสร้างเชียงใหม่บนที่ดอนห่างแม่ปิงไปทางตะวันตกหนึ่งกิโล หลังเมืองแรกของท่านบนฝั่งน้ำท่วม คูยาวรอบ 6.54 กม. ประตูทุกด้านและประตูที่ห้าด้านใต้ และถนนแนวทิศหลักจากประตูถึงประตู กำแพงดินชั้นนอกโค้งล้อมย่านค้าขายทางตะวันออก",
+    "story": "*อนุมาน —* ตารางในคูเมืองคือผังถนนที่เก่าสุดของเมืองและยังแน่นสุด หน้าการวัดแสดงว่าสี่เหลี่ยมมีแยกต่อตารางกิโลเมตรมากกว่าและทางตันน้อยกว่าวงแหวนใด ๆ ข้างนอก การสร้างเจ็ดศตวรรษยังวางย่านที่เชื่อมกันดีเท่าย่านแรกบ่ได้"
+   },
+   "kin": [
+    {
+     "to": "mangrai",
+     "as": "The king.",
+     "rel": "person"
+    },
+    {
+     "to": "the-moat",
+     "as": "The square.",
+     "rel": "place"
+    },
+    {
+     "to": "grid-in-the-moat",
+     "as": "What it measures now.",
+     "rel": "measure"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:wp-chiang-mai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-1296-the-square/era-1296-the-square-chiang-mai-city-map-chiengmai-1890.png",
+     "source": "commons",
+     "title": "File:Chiang Mai City Map (Chiengmai) 1890.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiang_Mai_City_Map_%28Chiengmai%29_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_%28Chiengmai%29_1890.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "James McCarthy (1853–1919)",
+     "credit": "Pantip - https://pantip.com/topic/38106682 (Original map source: James McCarthy, Surveying and exploring in Siam, 1900)",
+     "alt": "Chiang Mai City map of 1900. The city was also called Chiengmai in Thailand. The front of the temple faces east on the newly built Chang Moi Road, where Mae Kha Canal flows through. Along the second c",
+     "date": "1900",
+     "primary": true,
+     "sha256": "a15e9aa077652ae528a061da54507c27be140de74e3b1db51b8d08e4562056b4"
+    },
+    {
+     "file": "era-1296-the-square/era-1296-the-square-chiang-mai-city-map-for-inthawichayanon-1893.png",
+     "source": "commons",
+     "title": "File:Chiang Mai City Map for Inthawichayanon 1893.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chiang_Mai_City_Map_for_Inthawichayanon_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_for_Inthawichayanon_1893.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "The Fine Arts Office, Chiang Mai",
+     "alt": "Historic map of Chiang Mai city for King Inthawichayanon (1817-1897), dated 1893. The city was protected by an inner wall (brick wall), an outer wall (earth wall), 2 moats and multiple city gates. Eac",
+     "date": "1893",
+     "primary": false,
+     "sha256": "1513b50b74300e399cde6cb60deb16f943758d299834c4ca803063a8b3cea523"
+    },
+    {
+     "file": "era-1296-the-square/era-1296-the-square-chiang-mai-city-old-map-lan-na-kingdom.png",
+     "source": "commons",
+     "title": "File:Chiang Mai City Old Map Lan Na Kingdom.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_City_Old_Map_Lan_Na_Kingdom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Old_Map_Lan_Na_Kingdom.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "www.shorthistoryoflanna.blogspot.com (see also: https://www.matichon.co.th/weekly/column/article_18712 (https://archive.vn/gI1uM).)",
+     "alt": "Chiang Mai City old map during the Lan Na kingdom (in Thailand). The portrait of a ruler (king) is on the left side. There is a castle, palace, temples, local houses, the treasury, the city wall with ",
+     "date": "Circa 19th century or earlier",
+     "primary": false,
+     "sha256": "0c9a1300458876a52c9b7ecd2ed908e1dc8d792d2ed1dedef03f42589fcf1773"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "grid-in-the-moat",
+     "type": "measure",
+     "name": "The grid score, zone by zone",
+     "as": "Who drew it."
+    },
+    {
+     "from": "mangrai",
+     "type": "person",
+     "name": "Mangrai",
+     "as": "His era."
+    }
+   ]
+  },
+  {
+   "id": "era-kawila-1796-1900",
+   "type": "era",
+   "names": {
+    "name": "1796–1900 — Kawila's rebuilding",
+    "th": "2339–2443 — ยุคพระเจ้ากาวิละ",
+    "said": "The city is re-peopled, the moat re-dug, and the first trees planted along a road.",
+    "said_th": "เมืองถูกเติมคน คูถูกขุดแหม และต้นไม้แรกถูกปลูกเลียบถนน"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "kawila",
+    "order": 3
+   },
+   "text": {
+    "what": "Kawila re-enters the empty city in 1796, restores the walls and gives the corners their bastions. Through the century Siam's hold tightens; the first teak bridge crosses the Ping about 1890; the yang-na trees go in along the Lamphun road, 1882 by one account; the Hang Dong road is built in 1899 with khi-lek trees for the Burma trade.",
+    "story": "*Inference —* the century's road-building is all outside the moat and all radial: a bridge east, an avenue south, a trade road southwest. The square was left alone. That pattern held for another fifty years."
+   },
+   "text_th": {
+    "what": "พระเจ้ากาวิละกลับเข้าเวียงร้างปี 2339 บูรณะกำแพงและทำแจ่งให้มุม ตลอดศตวรรษสยามกุมแน่นขึ้น ขัวไม้สักแรกข้ามแม่ปิงราวปี 2433 ต้นยางนาลงเลียบถนนลำพูน บันทึกหนึ่งว่าปี 2425 ถนนหางดงสร้างปี 2442 พร้อมต้นขี้เหล็กเพื่อการค้ากับพม่า",
+    "story": "*อนุมาน —* การสร้างถนนของศตวรรษนี้อยู่นอกคูทั้งหมดและเป็นรัศมีทั้งหมด ขัวไปตะวันออก ถนนใหญ่ลงใต้ ทางค้าไปตะวันตกเฉียงใต้ สี่เหลี่ยมถูกปล่อยไว้ แบบแผนนี้อยู่ต่ออีกห้าสิบปี"
+   },
+   "kin": [
+    {
+     "to": "kawila",
+     "as": "The ruler.",
+     "rel": "person"
+    },
+    {
+     "to": "ton-yang-road",
+     "as": "The trees.",
+     "rel": "road"
+    },
+    {
+     "to": "nawarat-bridge",
+     "as": "The first bridge.",
+     "rel": "bridge"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:wp-kawila",
+    "s:thaipbs-308334",
+    "s:cmu-thesis-2548",
+    "s:thwp-nawarat"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-kawila"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-kawila-1796-1900/era-kawila-1796-1900-hoge-bomen-langs-weg-106-p1160022.jpg",
+     "source": "commons",
+     "title": "File:Hoge bomen langs weg 106 P1160022.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hoge_bomen_langs_weg_106_P1160022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P1160022.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "FredTC",
+     "credit": "Own work",
+     "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+     "date": "2013-02-24 15:11:41",
+     "primary": true,
+     "sha256": "f6165923a61ac8d423a3a1d7eec315fa5736afa02915058305e4f736d2cefb20"
+    },
+    {
+     "file": "era-kawila-1796-1900/era-kawila-1796-1900-ku-huang-citadel-chiang-mai-02.jpg",
+     "source": "commons",
+     "title": "File:Ku Huang citadel Chiang Mai 02.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ku_Huang_citadel_Chiang_Mai_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKu_Huang_citadel_Chiang_Mai_02.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "Ku Huang citadel: the south-west corner of the old city of Chiang Mai. Looking towards the east.",
+     "date": "2010-05-06",
+     "primary": false,
+     "sha256": "0b5d8aaec8c05cc45551986bef2120ca1514e9121d687ad0557a5bf75cb8ee3c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "kawila",
+     "type": "person",
+     "name": "Kawila",
+     "as": "His era."
+    }
+   ]
+  },
+  {
+   "id": "era-lanna-and-burma",
+   "type": "era",
+   "names": {
+    "name": "1300s–1700s — Lanna and Burma",
+    "th": "พุทธศตวรรษ 19–23 — ล้านนากับพม่า",
+    "said": "Four hundred years in which the roads were the rivers.",
+    "said_th": "สี่ร้อยปีที่ถนนคือแม่น้ำ"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "lanna",
+    "order": 2
+   },
+   "text": {
+    "what": "The kingdom's roads were tracks and its highways were the Ping and the Kok. Two centuries of Burmese rule from 1558 left the walls standing and the city, by the 1770s, nearly empty. The fifth gate, Suan Prung, was cut in the south wall under Sam Fang Kaen in this period.",
+    "story": "*Inference —* no road in the present catalogue is dated to these four centuries, which is a statement about the record rather than the roads. The trade tracks to Burma through Hang Dong, later Route 108, and north through Chiang Dao, later 107, are older than any document that names them."
+   },
+   "text_th": {
+    "what": "ถนนของอาณาจักรคือทางเดิน ทางหลวงคือแม่ปิงและแม่กก พม่าปกครองสองศตวรรษตั้งแต่ปี 2101 ทิ้งกำแพงไว้ยืน และเมืองในทศวรรษ 2310 แทบร้าง ประตูที่ห้า สวนปรุง ถูกเจาะในกำแพงใต้สมัยพญาสามฝั่งแกนในช่วงนี้",
+    "story": "*อนุมาน —* ไม่มีถนนในบัญชีนี้ที่ระบุอายุอยู่ในสี่ศตวรรษนี้ ซึ่งบอกเรื่องบันทึกมากกว่าเรื่องถนน ทางค้าไปพม่าผ่านหางดง ต่อมาคือ 108 และขึ้นเหนือผ่านเชียงดาว ต่อมาคือ 107 เก่ากว่าเอกสารใด ๆ ที่ตั้งชื่อมัน"
+   },
+   "kin": [
+    {
+     "to": "suan-prung-gate",
+     "as": "Cut in this era.",
+     "rel": "gate"
+    },
+    {
+     "to": "route-108",
+     "as": "The old track to Burma.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:wp-lanna",
+    "s:thwp-moat"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-lanna"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-lanna-and-burma/era-lanna-and-burma-chiang-mai-city-old-map-lan-na-kingdom.png",
+     "source": "commons",
+     "title": "File:Chiang Mai City Old Map Lan Na Kingdom.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_City_Old_Map_Lan_Na_Kingdom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Old_Map_Lan_Na_Kingdom.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "www.shorthistoryoflanna.blogspot.com (see also: https://www.matichon.co.th/weekly/column/article_18712 (https://archive.vn/gI1uM).)",
+     "alt": "Chiang Mai City old map during the Lan Na kingdom (in Thailand). The portrait of a ruler (king) is on the left side. There is a castle, palace, temples, local houses, the treasury, the city wall with ",
+     "date": "Circa 19th century or earlier",
+     "primary": true,
+     "sha256": "0c9a1300458876a52c9b7ecd2ed908e1dc8d792d2ed1dedef03f42589fcf1773"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "era-monks-road-1935",
+   "type": "era",
+   "names": {
+    "name": "1935 — the monk's road",
+    "th": "2478 — ถนนครูบา",
+    "said": "Eleven and a half kilometres up a mountain, by hand, in under six months.",
+    "said_th": "สิบเอ็ดกิโลครึ่งขึ้นดอย ด้วยมือ ในไม่ถึงหกเดือน"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "srivichai",
+    "order": 5
+   },
+   "text": {
+    "what": "Kruba Srivichai's road up Doi Suthep: ground broken 9 November 1934, open to vehicles 30 April 1935, 11.53 km of earth and laterite, five months and twenty-two days, built by volunteers. Its own chapter because nothing else in the city's road history was made this way.",
+    "story": "*Inference —* it is also the last road in this catalogue built for a reason other than traffic. Every road after it was built to move vehicles; this one was built to reach a relic."
+   },
+   "text_th": {
+    "what": "ถนนของครูบาศรีวิชัยขึ้นดอยสุเทพ เริ่มขุด 9 พฤศจิกายน 2477 เปิดให้รถ 30 เมษายน 2478 ดินและลูกรัง 11.53 กม. ห้าเดือนยี่สิบสองวัน สร้างด้วยแรงศรัทธา เป็นบทของตัวเองเพราะไม่มีอะไรในประวัติถนนของเมืองที่สร้างแบบนี้",
+    "story": "*อนุมาน —* มันยังเป็นถนนสายสุดท้ายในบัญชีนี้ที่สร้างด้วยเหตุผลอื่นนอกจากการจราจร ถนนทุกสายหลังจากนั้นสร้างเพื่อขนรถ สายนี้สร้างเพื่อไปถึงพระธาตุ"
+   },
+   "kin": [
+    {
+     "to": "kruba-srivichai",
+     "as": "The monk.",
+     "rel": "person"
+    },
+    {
+     "to": "si-wichai-road",
+     "as": "The road.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-si-wichai",
+    "s:citylife-elephant"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-si-wichai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-monks-road-1935/era-monks-road-1935-20171106-road-below-wat-phrathat-doi-suthep-monaster-2049445.jpg",
+     "source": "commons",
+     "title": "File:20171106 Road below Wat Phrathat Doi Suthep monastery 0058 DxO.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/20171106_Road_below_Wat_Phrathat_Doi_Suthep_monastery_0058_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A20171106_Road_below_Wat_Phrathat_Doi_Suthep_monastery_0058_DxO.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Jakub Hałun",
+     "credit": "Own work",
+     "alt": "A road below Wat Phrathat Doi Suthep monastery in Doi Suthep-Pui National Park",
+     "date": "2017-11-06 10:19:03",
+     "primary": true,
+     "sha256": "17e18e84aaada2e97b99aa50bb5275008a780d71518effa4f35487b507610ac6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "kruba-srivichai",
+     "type": "person",
+     "name": "Kruba Srivichai",
+     "as": "The era named for it."
+    }
+   ]
+  },
+  {
+   "id": "era-now",
+   "type": "era",
+   "names": {
+    "name": "2010s–2020s — going under, and going up",
+    "th": "ทศวรรษ 2550–2560 — ลอดใต้ และยกขึ้น",
+    "said": "Tunnels at the junctions, four lanes to Chiang Rai, and a light rail that keeps moving its opening date.",
+    "said_th": "อุโมงค์ตามแยก สี่เลนไปเชียงราย และรถไฟฟ้าที่เลื่อนวันเปิดไปเรื่อย"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "now",
+    "order": 8
+   },
+   "text": {
+    "what": "Fa Ham underpass opens 2018 at 1,172.8 million baht. Route 118 is four-laned section by section, the last 17.5 km due 2026. Five interchanges on the outer ring are tendered for 3,145 million baht, due 2027. The old city gets a 12 m height cap and Ratchadamnoen goes one-way in 2021 for a walkable-district pilot. UNESCO tentative listing 2015, nomination filed January 2026. The Ping floods in October 2024 to 5.30 m at Nawarat. A new comprehensive plan is approved 17 March 2026 with 51 project roads.",
+    "story": "*Inference —* the pattern of the decade is grade separation: the city has decided to go under its junctions rather than build a fourth ring, while the fourth ring is drawn anyway. The plans page carries each item with its status and its date, because half of them have moved."
+   },
+   "text_th": {
+    "what": "อุโมงค์ฟ้าฮ่ามเปิด 2561 ที่ 1,172.8 ล้านบาท ทางหลวง 118 ขยายสี่เลนทีละช่วง 17.5 กม. สุดท้ายกำหนด 2569 ทางแยกต่างระดับห้าแห่งบนวงแหวนรอบนอกประมูล 3,145 ล้านบาท กำหนด 2570 เวียงเก่าได้เพดานความสูง 12 เมตร และราชดำเนินเป็นทางเดียวปี 2564 เพื่อนำร่องย่านเดินได้ บัญชีเบื้องต้นยูเนสโก 2558 ยื่นเสนอมกราคม 2569 แม่ปิงท่วมตุลาคม 2567 ถึง 5.30 เมตรที่นวรัฐ ผังเมืองรวมฉบับใหม่ผ่าน ครม. 17 มีนาคม 2569 มีถนนโครงการ 51 สาย",
+    "story": "*อนุมาน —* แบบแผนของทศวรรษคือการแยกระดับ เมืองตัดสินใจลอดใต้แยกแทนสร้างวงแหวนที่สี่ ขณะที่วงแหวนที่สี่ก็ถูกวาดอยู่ดี หน้าแผนมีแต่ละรายการพร้อมสถานะและวันที่ เพราะครึ่งหนึ่งเลื่อนแล้ว"
+   },
+   "kin": [
+    {
+     "to": "fa-ham-underpass",
+     "as": "2018.",
+     "rel": "junction"
+    },
+    {
+     "to": "ring-3-interchanges",
+     "as": "2027.",
+     "rel": "plan"
+    },
+    {
+     "to": "comprehensive-plan-2026",
+     "as": "The plan.",
+     "rel": "plan"
+    },
+    {
+     "to": "lrt-red-line",
+     "as": "The train that keeps moving.",
+     "rel": "plan"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:mgr-9610000057357",
+    "s:cri108-15492",
+    "s:dailynews-4380049",
+    "s:cmnews-1651264",
+    "s:prd-485975",
+    "s:lanner-flood"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:mgr-9610000057357"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-now/era-now-panoramic-view-of-cmx.jpg",
+     "source": "commons",
+     "title": "File:Panoramic view of CMX.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Panoramic_view_of_CMX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_CMX.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+     "credit": "Own work",
+     "alt": "The panoramic view of Mueang Chiang Mai district from Doi Suthep.",
+     "date": "2022-08-01 14:25:52",
+     "primary": true,
+     "sha256": "825a2441b43c81c60218c29a1475cf79b20168b355848ee333e856daab5d152d"
+    },
+    {
+     "file": "era-now/era-now-view-of-cmx-i.jpg",
+     "source": "commons",
+     "title": "File:View of CMX (I).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/View_of_CMX_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AView_of_CMX_%28I%29.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+     "credit": "Own work",
+     "alt": "Some view of Mueang Chiang Mai district from Doi Suthep.",
+     "date": "2022-08-01 14:26:23",
+     "primary": false,
+     "sha256": "36aa7059a4e45cfae1fba3a9729535a07f5d4623116a3606f927d326a54a75cf"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-4",
+     "type": "ring",
+     "name": "Ring 4, drawn but not dug",
+     "as": "Its era."
+    },
+    {
+     "from": "fa-ham-underpass",
+     "type": "junction",
+     "name": "Fa Ham underpass",
+     "as": "Its era."
+    },
+    {
+     "from": "comprehensive-plan-2026",
+     "type": "plan",
+     "name": "The new comprehensive plan, 2026",
+     "as": "Its era."
+    },
+    {
+     "from": "lrt-red-line",
+     "type": "plan",
+     "name": "Chiang Mai light rail, the Red Line",
+     "as": "The train that keeps moving."
+    }
+   ]
+  },
+  {
+   "id": "era-rings-1984-2006",
+   "type": "era",
+   "names": {
+    "name": "1984–2006 — the rings",
+    "th": "2527–2549 — ยุควงแหวน",
+    "said": "Two more rings are drawn on a plan, and take twenty years to build.",
+    "said_th": "วงแหวนอีกสองวงถูกวาดบนผัง และใช้เวลาสร้างยี่สิบปี"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "rings",
+    "order": 7
+   },
+   "text": {
+    "what": "The first comprehensive plan, 1984, lays out the middle and outer rings; Interior Ministry Regulation 78 of 1989 fixes them. The outer ring, Route 121, is begun 1994 by the Lampang highway centre, stalls on land and the 1997 crash, and is closed as a 52.96 km loop through the 2000s. The middle ring, the 700 Years Road, is broken ground the same year, 26.13 km with seven underpasses and one interchange, and opened 6 February 2006 at 10,070 million baht including land. Route 11 is widened to four lanes from 2001; Mahidol from two to six in 1998–2001.",
+    "story": "*Inference —* the thesis this rests on carries the number that explains the decade: main-road kilometres in the city went from 36.5 to 60.3 between 1992 and 2003 while registered vehicles went from 465,659 to 933,733. The roads grew by two-thirds; the vehicles doubled."
+   },
+   "text_th": {
+    "what": "ผังเมืองรวมฉบับแรก 2527 วางวงแหวนรอบกลางและรอบนอก กฎกระทรวงมหาดไทยฉบับที่ 78 ปี 2532 กำหนดแนว วงแหวนรอบนอก ทางหลวง 121 เริ่ม 2537 โดยศูนย์สร้างทางลำปาง ติดเวนคืนและวิกฤต 2540 แล้วปิดวงเป็น 52.96 กม. ในทศวรรษ 2540 วงแหวนรอบกลาง ถนนสมโภชเชียงใหม่ 700 ปี เริ่มปีเดียวกัน 26.13 กม. ทางลอดเจ็ดแห่งและทางแยกต่างระดับหนึ่งแห่ง เปิด 6 กุมภาพันธ์ 2549 ที่ 10,070 ล้านบาทรวมค่าที่ดิน ทางหลวง 11 ขยายสี่เลนตั้งแต่ 2544 มหิดลจากสองเป็นหกเลน 2541–44",
+    "story": "*อนุมาน —* วิทยานิพนธ์ที่เรื่องนี้อิงมีตัวเลขที่อธิบายทศวรรษ กิโลเมตรถนนสายหลักในเมืองจาก 36.5 เป็น 60.3 ระหว่าง 2535–2546 ขณะที่รถจดทะเบียนจาก 465,659 เป็น 933,733 ถนนโตสองในสาม รถโตสองเท่า"
+   },
+   "kin": [
+    {
+     "to": "ring-2",
+     "as": "The middle ring.",
+     "rel": "ring"
+    },
+    {
+     "to": "ring-3",
+     "as": "The outer ring.",
+     "rel": "ring"
+    },
+    {
+     "to": "roads-versus-vehicles",
+     "as": "The number.",
+     "rel": "traffic"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:cmu-thesis-2548",
+    "s:thwp-700-years",
+    "s:thwp-121",
+    "s:urbanis-5712"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cmu-thesis-2548"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-rings-1984-2006/era-rings-1984-2006-canal-in-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Canal in Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACanal_in_Chiang_Mai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Canal located in the west of Chiang Mai, along Road 121.",
+     "date": "2018-09-03 14:28:10",
+     "primary": true,
+     "sha256": "09ef533d9a7322500845550d5c20741d22eb073285d35cebf92c3a604d5e0092"
+    },
+    {
+     "file": "era-rings-1984-2006/era-rings-1984-2006-chiang-mai-panoramic.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Panoramic.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chiang_Mai_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panoramic.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Ssuri",
+     "credit": "Own work",
+     "alt": "Taken from a viewpoint on the way to the Doi Suthep temple in Chiang Mai.",
+     "date": "2009-10-29",
+     "primary": false,
+     "sha256": "cbb39157fade452b282d7267308ea4a9ba79349c2e4e14a8b1a9c90754534b84"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "built-up-area",
+     "type": "traffic",
+     "name": "How far the city spread",
+     "as": "When the rings were drawn on it."
+    },
+    {
+     "from": "roads-versus-vehicles",
+     "type": "traffic",
+     "name": "Roads versus vehicles, 1992 to 2003",
+     "as": "The decade."
+    }
+   ]
+  },
+  {
+   "id": "era-siam-1900-1950",
+   "type": "era",
+   "names": {
+    "name": "1900–1950 — Siam and the railway",
+    "th": "2443–2493 — สยามกับรถไฟ",
+    "said": "The train arrives, a gate is demolished for a straight road, and the moat gets its ring.",
+    "said_th": "รถไฟมาเถิง ประตูถูกฮื้อเปื้อถนนตรง และคูได้วงรอบ"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "siam",
+    "order": 4
+   },
+   "text": {
+    "what": "The railway reaches the east bank on 1 January 1921 and Tha Phae becomes the commercial street. Between 1910 and 1915 Chang Moi Gate and its earth bank are removed to run Ratchawithi Road straight to the river. The steel Nawarat Bridge opens 1923. The municipality is founded 1936 and in 1948 builds the roads on both banks of the moat, demolishing stretches of the wall registered as a monument thirteen years before.",
+    "story": "*Inference —* 1948 is the year the square stopped being a fortification and became a roundabout. Everything the one-way loop does to the old city, for good and ill, dates from that decision."
+   },
+   "text_th": {
+    "what": "รถไฟมาถึงฝั่งตะวันออกวันที่ 1 มกราคม 2464 และท่าแพกลายเป็นถนนการค้า ระหว่างปี 2453–2458 ประตูช้างม่อยและคันดินถูกรื้อเพื่อให้ถนนราชวิถีวิ่งตรงไปแม่น้ำ ขัวเหล็กนวรัฐเปิด 2466 เทศบาลตั้งปี 2479 และในปี 2491 สร้างถนนบนสองฝั่งคู รื้อกำแพงบางช่วงที่ขึ้นทะเบียนโบราณสถานสิบสามปีก่อนหน้า",
+    "story": "*อนุมาน —* 2491 คือปีที่สี่เหลี่ยมเลิกเป็นป้อมและกลายเป็นวงเวียน ทุกอย่างที่วงรอบทางเดียวทำกับเวียงเก่า ทั้งดีและร้าย เริ่มจากการตัดสินใจนั้น"
+   },
+   "kin": [
+    {
+     "to": "chang-moi-gate",
+     "as": "Removed.",
+     "rel": "gate"
+    },
+    {
+     "to": "moat-loop",
+     "as": "Built 1948.",
+     "rel": "ring"
+    },
+    {
+     "to": "chiang-mai-station",
+     "as": "Arrived 1921.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:cmocity-history",
+    "s:thwp-chang-moi",
+    "s:thwp-cnx-station",
+    "s:thwp-nawarat"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cmocity-history"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-siam-1900-1950/era-siam-1900-1950-map-of-chiengmai-chiang-mai-city-1931.jpg",
+     "source": "commons",
+     "title": "File:Map of Chiengmai (Chiang Mai) City 1931.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Map_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown authorUnknown author",
+     "credit": "Old Maps Online (stored at the British Library) - https://www.oldmapsonline.org/en/maps/b84b50de-cdf9-5c61-9d88-a76fcd5a8464?year=1850&amp;gid=b3777b75-7966-559f-85d0-b1b1aaa602d3#position=16.6004/18.",
+     "alt": "Map of Chiengmai (Chiang Mai) city, 1931. This is the capital of Chiang Mai province. The top left stamp says: \"Royal Insurance Company Limited, 26 October 1931 Liverpool.\"",
+     "date": "1931",
+     "primary": true,
+     "sha256": "346570ec642923738f47849e7c652c5cc04384285b4766edd918613345d1bbb1"
+    },
+    {
+     "file": "era-siam-1900-1950/era-siam-1900-1950-navarat-bridge-chiangmai-1954.jpg",
+     "source": "commons",
+     "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+     "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+     "alt": "Navarat Bridge in 1954",
+     "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+     "primary": false,
+     "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chang-moi-gate",
+     "type": "gate",
+     "name": "Chang Moi Gate",
+     "as": "Its era."
+    },
+    {
+     "from": "what-a-road-does-to-an-old-city",
+     "type": "story",
+     "name": "What a road does to an old city",
+     "as": "When the walls went."
+    },
+    {
+     "from": "chiang-mai-station",
+     "type": "place",
+     "name": "Chiang Mai railway station",
+     "as": "Its era."
+    }
+   ]
+  },
+  {
+   "id": "era-superhighway-1969",
+   "type": "era",
+   "names": {
+    "name": "1960s–70s — the Superhighway",
+    "th": "ทศวรรษ 2510 — ซุปเปอร์ไฮเวย์",
+    "said": "A two-lane bypass to Lampang becomes the first ring, and the city's edge jumps three kilometres.",
+    "said_th": "ทางเลี่ยงสองเลนไปลำปางกลายเป็นวงแหวนแรก และขอบเมืองกระโดดไปสามกิโล"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "superhighway",
+    "order": 6
+   },
+   "text": {
+    "what": "The Department of Highways' Lampang centre builds the Chiang Mai–Lampang road, Route 11, in 1968–69, two lanes, to shorten the run to Bangkok; traffic on the old Lamphun road falls away. Its last ten kilometres skirt the city on the north and east and become, with Mahidol Road (surveyed 1970, built 1972, 7.4 km) on the south and Nimmanhaemin on the west, the first ring. The university opens 1964 on the Nimmanhaemin land; the concrete Nawarat Bridge opens 1967.",
+    "story": "*Inference —* the Superhighway was not built as a ring. It was built as a bypass, and a bypass becomes a ring the moment the city grows past it, which took about fifteen years. Every ring in Chiang Mai has been an edge that turned into a middle."
+   },
+   "text_th": {
+    "what": "ศูนย์สร้างทางลำปาง กรมทางหลวง สร้างถนนเชียงใหม่–ลำปาง ทางหลวง 11 ปี 2511–12 สองเลน เพื่อย่นทางไปกรุงเทพฯ รถบนถนนลำพูนสายเก่าลดฮวบ สิบกิโลเมตรสุดท้ายเลียบเมืองด้านเหนือและตะวันออก และกลายเป็นวงแหวนแรกร่วมกับถนนมหิดล สำรวจ 2513 สร้าง 2515 7.4 กม. ทางใต้ และนิมมานเหมินท์ทางตะวันตก มหาวิทยาลัยเปิด 2507 บนที่ดินนิมมานเหมินท์ ขัวคอนกรีตนวรัฐเปิด 2510",
+    "story": "*อนุมาน —* ซุปเปอร์ไฮเวย์บ่ได้ถูกสร้างเป็นวงแหวน มันถูกสร้างเป็นทางเลี่ยง และทางเลี่ยงกลายเป็นวงแหวนทันทีที่เมืองโตข้ามมัน ซึ่งใช้เวลาราวสิบห้าปี วงแหวนทุกวงในเชียงใหม่คือขอบที่กลายเป็นกลาง"
+   },
+   "kin": [
+    {
+     "to": "route-11",
+     "as": "The road.",
+     "rel": "highway"
+    },
+    {
+     "to": "ring-1",
+     "as": "What it became.",
+     "rel": "ring"
+    },
+    {
+     "to": "mahidol-road",
+     "as": "The southern arc.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:cmu-thesis-2548",
+    "s:thwp-11",
+    "s:thwp-mahidol",
+    "s:thwp-nimman"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cmu-thesis-2548"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "era-superhighway-1969/era-superhighway-1969-chiang-mai-1945.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai 1945.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chiang_Mai_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_1945.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Survey of India Offices",
+     "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/6966/rec/1",
+     "alt": "Old map of Chiang Mai (Thailand) in 1945. Printed at the Survey of India Offices. Size: 57 x 87 cm. Scale: \t\n1:5,000. Repository: American Geographical Society Library, University of Wisconsin-Milwauk",
+     "date": "1945",
+     "primary": true,
+     "sha256": "b14a43683b9d987707671b08167af41aa288154c088f035fcf2e592c0021f7bb"
+    },
+    {
+     "file": "era-superhighway-1969/era-superhighway-1969-thai-highway-11.jpg",
+     "source": "commons",
+     "title": "File:Thai Highway 11.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thai_Highway_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_Highway_11.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+     "credit": "Own work",
+     "alt": "Thai Highway 11Location: Wat Khung Taphao, Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit, Uttaradit Province, Thailand.",
+     "date": "2009",
+     "primary": false,
+     "sha256": "36dbd379d06bdbaf11aa6d2cd70ca520c22d96e72bcf4a07e27941db39a464db"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "route-11",
+     "type": "highway",
+     "name": "Route 11, the Superhighway",
+     "as": "Its era."
+    }
+   ]
+  }
+ ]
+}

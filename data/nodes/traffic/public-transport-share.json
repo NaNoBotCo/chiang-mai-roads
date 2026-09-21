@@ -80,5 +80,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "public-transport-share/public-transport-share-green-bus-chiang-mai-bus.jpg",
+   "source": "commons",
+   "title": "File:GREEN BUS Chiang Mai Bus.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/GREEN_BUS_Chiang_Mai_Bus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AGREEN_BUS_Chiang_Mai_Bus.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Khxwklong",
+   "credit": "Own work",
+   "alt": "GREEN BUS Chiang Mai Bus",
+   "date": "2024-04-03 15:32:27",
+   "primary": true,
+   "sha256": "1161066d3aa3bcb3747260b99443c0993dc5a825d91e848727f88ac68d4ad1c1"
+  }
+ ]
 }

@@ -1,0 +1,120 @@
+{
+ "id": "iron-bridge",
+ "type": "bridge",
+ "names": {
+  "name": "Khua Lek, the Iron Bridge",
+  "th": "ขัวเหล็ก",
+  "rtgs": "Khua Lek",
+  "aliases": [
+   "Iron Bridge",
+   "สะพานเหล็ก"
+  ],
+  "said": "The one bridge everybody calls by its Kam Mueang name.",
+  "said_th": "ขัวเดียวตี้ใผ ๆ ก็เอิ้นชื่อกำเมือง"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam"
+ },
+ "text": {
+  "what": "The steel truss bridge south of Nawarat, at the end of Loi Kroh Road, painted and lit and mostly walked. Its dates and its builder are on the English Wikipedia page this record cites and are not repeated here without checking; what this site vouches for is that the name is khua, not saphan, in every mouth in the city."
+ },
+ "text_th": {
+  "what": "ขัวเหล็กโครงถักทางใต้ของนวรัฐ ปลายถนนลอยเคราะห์ ทาสี ติดไฟ และส่วนใหญ่ใช้เดิน วันที่และผู้สร้างอยู่ในหน้าวิกิพีเดียอังกฤษที่บันทึกนี้อ้าง และไม่นำมาพูดซ้ำโดยไม่ตรวจ สิ่งที่เว็บนี้รับรองคือชื่อมันคือขัว ไม่ใช่สะพาน ในทุกปากในเมือง"
+ },
+ "road": {
+  "osm_names": [
+   "ขัวเหล็ก",
+   "Iron Bridge",
+   "สะพานเหล็ก"
+  ]
+ },
+ "geo": {
+  "lat": 18.784,
+  "lon": 99.0035,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "khua",
+   "as": "The word.",
+   "rel": "word"
+  },
+  {
+   "to": "nawarat-bridge",
+   "as": "Its neighbour upstream.",
+   "rel": "bridge"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "walk",
+  "lanna"
+ ],
+ "sources": [
+  "s:wp-iron-bridge"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wp-iron-bridge"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "iron-bridge/iron-bridge-iron-bridge-in-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Iron Bridge in Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Iron_Bridge_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AIron_Bridge_in_Chiang_Mai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "View of the Iron Bridge in Chiang Mai.",
+   "date": "2018-09-06 15:49:49",
+   "primary": true,
+   "sha256": "50ed2b3d2909e1261dabad7e4753de2030a17b11e2ab6575e29ef66532135e47"
+  },
+  {
+   "file": "iron-bridge/iron-bridge-ping-river-in-chiang-mai-panoramio-erebusso-7.jpg",
+   "source": "commons",
+   "title": "File:Ping River in Chiang Mai - panoramio - Erebusso. (7).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ping_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Erebusso.",
+   "credit": "https://web.archive.org/web/20161015061345/http://www.panoramio.com/photo/32519486",
+   "alt": "Ping River in Chiang Mai with Khua Lek (Iron Bridge) and Diamond Riverside Hotel.",
+   "date": "Taken on 4 December 2009",
+   "primary": false,
+   "sha256": "f67deb8164818d873c5945dad0a8667744f40ac6e43eea7cb440e0c6e92aa962"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ping-crossings",
+   "type": "measure",
+   "name": "Road bridges over the Ping, counted",
+   "as": "The one with the Kam Mueang name."
+  },
+  {
+   "from": "khua",
+   "type": "word",
+   "name": "ขัว khua",
+   "as": "The bridge everyone calls by this word."
+  }
+ ]
+}

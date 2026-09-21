@@ -75,5 +75,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "seven-dangerous-days/seven-dangerous-days-chiang-mai-thailand-songkran-festival-2017-06.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Songkran-Festival-2017-06.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Chiang-Mai_Thailand_Songkran-Festival-2017-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Songkran-Festival-2017-06.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Songkran Festival 2017.",
+   "date": "2017-04-14",
+   "primary": true,
+   "sha256": "cba409d159a7edb27274d8360c20ea5e7be2fa908f8ffccb7e4aea14ca6ebc13"
+  }
+ ]
 }

@@ -1,0 +1,135 @@
+{
+ "id": "ping-river",
+ "type": "place",
+ "names": {
+  "name": "The Ping",
+  "th": "แม่น้ำปิง",
+  "rtgs": "Mae Nam Ping",
+  "said": "The river the city was built a kilometre away from, on purpose.",
+  "said_th": "แม่น้ำตี้เมืองตั้งใจตั้งห่างมันหนึ่งกิโล"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "The river east of the old city. Mangrai put the square on the higher ground between Doi Suthep and the Ping rather than on the bank; the bank flooded then and it floods now. Every bridge across it is counted on this site from the map, and the ones with a story have a record.",
+  "story": "In October 2024 the gauge at Nawarat Bridge, P.1, read 5.30 m at noon on 5 October, 1.10 m over the bank, 638 cubic metres a second. Tha Phae Road flooded from the bridge to the bank at Krung Thai; the Superhighway, the Don Chan and Chiang Kham overpasses, all of Mahidol Road, Warorot Market, the railway station and Nong Prathip junction went under. The water stood about 2 km east of the river."
+ },
+ "text_th": {
+  "what": "แม่น้ำทางตะวันออกของเวียงเก่า พญามังรายวางเวียงบนที่สูงระหว่างดอยสุเทพกับแม่ปิง ไม่ใช่บนฝั่ง ฝั่งน้ำท่วมตอนนั้นและท่วมตอนนี้ ขัวข้ามทุกแห่งถูกนับจากแผนที่บนเว็บนี้ และขัวที่มีเรื่องเล่ามีบันทึกของตัวเอง",
+  "story": "ตุลาคม 2567 สถานีวัดน้ำ P.1 ที่สะพานนวรัฐอ่านได้ 5.30 เมตรตอนเที่ยงวันที่ 5 ตุลาคม สูงกว่าตลิ่ง 1.10 เมตร 638 ลูกบาศก์เมตรต่อวินาที ถนนท่าแพจมจากสะพานถึงธนาคารกรุงไทย ซุปเปอร์ไฮเวย์ สะพานข้ามแยกดอนจั่นและเชียงคำ ถนนมหิดลทั้งสาย กาดหลวง สถานีรถไฟ และแยกหนองประทีปจมหมด น้ำแผ่ไปทางตะวันออกของแม่น้ำราว 2 กม."
+ },
+ "geo": {
+  "lat": 18.79,
+  "lon": 99.004,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "ping-crossings",
+   "as": "How many bridges, counted.",
+   "rel": "measure"
+  },
+  {
+   "to": "nawarat-bridge",
+   "as": "The gauge is on it.",
+   "rel": "bridge"
+  },
+  {
+   "to": "the-day-the-river-came-up-tha-phae",
+   "as": "The flood, told.",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  "flood"
+ ],
+ "sources": [
+  "s:wp-ping",
+  "s:lanner-flood",
+  "s:thaipbs-344954",
+  "s:bkkbiz-1147937"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ping"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ping-river/ping-river-pano-cm-2010-0928a3-1.jpg",
+   "source": "commons",
+   "title": "File:Pano CM 2010 0928a3-1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pano_CM_2010_0928a3-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APano_CM_2010_0928a3-1.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Panorama of Chiang Mai during the rainy season when the skies are more clear and the surroundings more luscious green. The image was taken from the viewpoint halfway up Doi Suthep. The mountains on th",
+   "date": "2010-09-28",
+   "primary": true,
+   "sha256": "ca744e52bd3bd01ef609a86a48b71c35fbdd43795539742162ef7ccd222fed6a"
+  },
+  {
+   "file": "ping-river/ping-river-ping-river-1.jpg",
+   "source": "commons",
+   "title": "File:Ping River-1.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ping_River-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River-1.JPG",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Rinto Jiang",
+   "credit": "Own work",
+   "alt": "Night view of Ping river from Nawarat Bridge",
+   "date": "2007-01-25",
+   "primary": false,
+   "sha256": "37f470684cf4bd4f135c823f4abb02973146a1e2c33b3138fd15efe4c8ccbd82"
+  },
+  {
+   "file": "ping-river/ping-river-ping-river-in-chiang-mai-4.jpg",
+   "source": "commons",
+   "title": "File:Ping River in Chiang Mai 4.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ping_River_in_Chiang_Mai_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_4.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "View of the Ping River from the Nawarat Bridge in Chiang Mai.",
+   "date": "2018-09-06 15:44:44",
+   "primary": false,
+   "sha256": "f7c5656c8bfdb6d5c65d25855af92437bea2e4ec32d7869d86d0aeb05ecb0654"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ping-crossings",
+   "type": "measure",
+   "name": "Road bridges over the Ping, counted",
+   "as": "The river."
+  },
+  {
+   "from": "the-day-the-river-came-up-tha-phae",
+   "type": "story",
+   "name": "The day the river came up Tha Phae",
+   "as": "The river."
+  },
+  {
+   "from": "wiang-kum-kam",
+   "type": "place",
+   "name": "Wiang Kum Kam",
+   "as": "What drowned it."
+  }
+ ]
+}

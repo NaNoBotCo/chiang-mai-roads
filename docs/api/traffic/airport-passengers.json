@@ -1,0 +1,103 @@
+{
+ "id": "airport-passengers",
+ "type": "traffic",
+ "names": {
+  "name": "The airport, by passengers",
+  "th": "สนามบิน นับเป็นผู้โดยสาร",
+  "said": "11.3 million in 2019, 8.2 in 2023, 9.5 in 2025; 20 million wanted by 2027.",
+  "said_th": "11.3 ล้านปี 2562 8.2 ปี 2566 9.5 ปี 2568 อยากได้ 20 ล้านภายใน 2570"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "year": "2025"
+ },
+ "text": {
+  "what": "Passengers: 11,333,548 in 2019; 8,224,573 in 2023; 9,082,071 in 2024; 9,517,206 in 2025. Movements 79,504, 55,663, 59,493 and 64,124. The operator's 24,000 million baht expansion aims at 20 million a year by 2027 with the terminal from 35,000 to 100,000 m² and 24 to 35 flights an hour. Every one of those passengers leaves by Mahidol Road or the airport junction."
+ },
+ "text_th": {
+  "what": "ผู้โดยสาร 11,333,548 ปี 2562 8,224,573 ปี 2566 9,082,071 ปี 2567 9,517,206 ปี 2568 เที่ยวบิน 79,504, 55,663, 59,493 และ 64,124 การขยาย 24,000 ล้านบาทของผู้ดำเนินการตั้งเป้า 20 ล้านต่อปีภายใน 2570 อาคารจาก 35,000 เป็น 100,000 ตร.ม. และ 24 เป็น 35 เที่ยวต่อชั่วโมง ผู้โดยสารทุกคนออกทางถนนมหิดลหรือแยกสนามบิน"
+ },
+ "figure": {
+  "value": 9517206,
+  "unit": "passengers, 2025",
+  "unit_th": "ผู้โดยสาร 2568",
+  "year": "2025",
+  "source": "s:wp-cnx-airport",
+  "series": [
+   {
+    "label": "2019",
+    "value": 11333548
+   },
+   {
+    "label": "2023",
+    "value": 8224573
+   },
+   {
+    "label": "2024",
+    "value": 9082071
+   },
+   {
+    "label": "2025",
+    "value": 9517206
+   }
+  ],
+  "method": "AOT figures as tabulated on Wikipedia; the 2025 split is a search snippet.",
+  "method_th": "ตัวเลข ทอท. ตามที่วิกิพีเดียทำตาราง การแยกปี 2568 เป็นข้อความจากผลค้นหา"
+ },
+ "kin": [
+  {
+   "to": "chiang-mai-airport",
+   "as": "The airport.",
+   "rel": "place"
+  },
+  {
+   "to": "mahidol-road",
+   "as": "The way out.",
+   "rel": "road"
+  },
+  {
+   "to": "lanna-airport",
+   "as": "The second one.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:wp-cnx-airport",
+  "s:citylife-aot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-cnx-airport"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "airport-passengers/airport-passengers-chiang-mai-airport-runway-aerial-view.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Airport runway aerial view.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chiang_Mai_Airport_runway_aerial_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Airport_runway_aerial_view.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Adbar",
+   "credit": "Own work",
+   "alt": "Aerial view of Chiang Mai International Airport's runways and of the southern part of the city. Picture taken from Doi Suthep temple.",
+   "date": "2013-04-28 16:20:01",
+   "primary": true,
+   "sha256": "83b3491fa911b4207b17836ec1693f230482e9b93da565c66e4c6d87e715b27a"
+  }
+ ],
+ "kin_in": []
+}

@@ -1,0 +1,109 @@
+{
+ "id": "kamphaeng-din",
+ "type": "place",
+ "names": {
+  "name": "Kamphaeng Din, the earthen wall",
+  "th": "กำแพงดิน",
+  "rtgs": "Kamphaeng Din",
+  "said": "The second wall, the curved one, mostly gone.",
+  "said_th": "กำแพงตี้สอง กำแพงโค้ง หายไปเกือบหมด"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "A semicircular outer rampart of earth, running from Si Phum Corner round the east side and along the south to Ku Hueang Corner, enclosing the trading quarter between the square and the river. No firm date; presumed Mangrai's era. Brick was found under the bank on the southwest stretch. Parts survive beside the Night Bazaar, where Kamphaeng Din Road runs on its line.",
+  "story": "*Inference —* the earthen wall is the reason the city is not a square: the streets between Tha Phae and Chang Klan bend, because they follow a curve that has been demolished. The length in kilometres is not on this disk."
+ },
+ "text_th": {
+  "what": "กำแพงดินชั้นนอกรูปครึ่งวงกลม วิ่งจากแจ่งศรีภูมิอ้อมด้านตะวันออกและเลียบด้านใต้ไปแจ่งกู่เฮือง ล้อมย่านค้าขายระหว่างเวียงกับแม่น้ำ ไม่มีวันที่แน่ชัด สันนิษฐานว่าสมัยพญามังราย พบอิฐใต้คันดินช่วงตะวันตกเฉียงใต้ เหลือบางส่วนข้างไนท์บาซาร์ ตี้ถนนกำแพงดินวิ่งบนแนวเดิม",
+  "story": "*อนุมาน —* กำแพงดินคือเหตุที่เมืองบ่ใช่สี่เหลี่ยม ถนนระหว่างท่าแพกับช้างคลานโค้ง เพราะมันเดินตามเส้นโค้งที่ถูกรื้อไปแล้ว ความยาวเป็นกิโลเมตรบ่มีในแผ่นนี้"
+ },
+ "geo": {
+  "lat": 18.7855,
+  "lon": 98.999,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "kamphaeng-din-road",
+   "as": "The road on its line.",
+   "rel": "road"
+  },
+  {
+   "to": "si-phum-corner",
+   "as": "Where it starts.",
+   "rel": "gate"
+  },
+  {
+   "to": "kamphaeng",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:onep-277",
+  "s:sumup-kamphaeng-din"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:onep-277"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "kamphaeng-din/kamphaeng-din-chiang-mai-city-map-chiengmai-1890.png",
+   "source": "commons",
+   "title": "File:Chiang Mai City Map (Chiengmai) 1890.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiang_Mai_City_Map_%28Chiengmai%29_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_%28Chiengmai%29_1890.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "James McCarthy (1853–1919)",
+   "credit": "Pantip - https://pantip.com/topic/38106682 (Original map source: James McCarthy, Surveying and exploring in Siam, 1900)",
+   "alt": "Chiang Mai City map of 1900. The city was also called Chiengmai in Thailand. The front of the temple faces east on the newly built Chang Moi Road, where Mae Kha Canal flows through. Along the second c",
+   "date": "1900",
+   "primary": true,
+   "sha256": "a15e9aa077652ae528a061da54507c27be140de74e3b1db51b8d08e4562056b4"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chang-klan-road",
+   "type": "road",
+   "name": "Chang Klan Road",
+   "as": "The wall it runs inside."
+  },
+  {
+   "from": "kamphaeng-din-road",
+   "type": "road",
+   "name": "Kamphaeng Din Road",
+   "as": "The wall."
+  },
+  {
+   "from": "kamphaeng",
+   "type": "word",
+   "name": "กำแพง kamphaeng",
+   "as": "The earthen one."
+  },
+  {
+   "from": "mae-kha-canal",
+   "type": "place",
+   "name": "Mae Kha canal",
+   "as": "Ran outside it."
+  }
+ ]
+}

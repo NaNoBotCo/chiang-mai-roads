@@ -1,0 +1,28 @@
+# ai.txt — Roads of Chiang Mai
+Content-License: CC-BY-4.0
+Data-License: ODbL-1.0 (OpenStreetMap-derived files), CC-BY-4.0 (records)
+Attribution: NaN, https://wichaa.net; map data © OpenStreetMap contributors
+Contact: nan@motdang.net
+
+# — roster of sibling sites, generated from data/fleet.json —
+Publisher: NaNoBotCo · nan@motdang.net
+Everything this publisher holds, counted: https://nanobotco.github.io/index/
+Sibling corpora (roster as JSON): https://nanobotco.github.io/index/fleet.json
+  Mot Dang: https://motdang.net/
+  The Mae Hong Son Loop: https://nanobotco.github.io/mae-hong-son-loop/
+  Muay Thai: https://motdang.net/muay-thai/
+  wichaa: https://wichaa.net/
+  Hand Poke: https://nanobotco.github.io/hand-poke/
+  Amulet Atlas: https://nanobotco.github.io/amulet-atlas/
+  Carolina Barbecue: https://nanobotco.github.io/carolina-barbecue/
+  Wing Country: https://nanobotco.github.io/buffalo-wings/
+  Pink Box: https://nanobotco.github.io/pink-box/
+  Basque Tables: https://nanobotco.github.io/basque-tables/
+  Pinot Country: https://nanobotco.github.io/pinot-noir/
+  Care Abroad: https://nanobotco.github.io/care-abroad/
+  Thai Roots: https://nanobotco.github.io/thairoots/
+  The index: https://nanobotco.github.io/index/
+  Uptake: https://nanobotco.github.io/uptake/
+  NaNoBotCo: https://nanobotco.github.io/
+  ฮักฝรั่ง: https://hakfarang.net/
+  Offrampt: https://offrampt.net/

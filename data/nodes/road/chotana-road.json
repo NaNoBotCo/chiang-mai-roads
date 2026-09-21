@@ -76,5 +76,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chotana-road/chotana-road-chang-phueak-mueang-chiang-mai-district-chiang-mai-t-226d68f.jpg",
+   "source": "commons",
+   "title": "File:Chang Phueak, Mueang Chiang Mai District, Chiang Mai, Thailand - panoramio (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chang_Phueak%2C_Mueang_Chiang_Mai_District%2C_Chiang_Mai%2C_Thailand_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChang_Phueak%2C_Mueang_Chiang_Mai_District%2C_Chiang_Mai%2C_Thailand_-_panoramio_%283%29.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Daibo Taku",
+   "credit": "https://web.archive.org/web/20161023182601/http://www.panoramio.com/photo/63301865",
+   "alt": "Chang Phueak, Mueang Chiang Mai District, Chiang Mai, Thailand",
+   "date": "Taken on 10 November 2011",
+   "primary": true,
+   "sha256": "b6b08a4a768c68fdfecf18735151b1d6e994ed14452887c0cfa16d499004c0c4"
+  }
+ ]
 }

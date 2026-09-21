@@ -1,0 +1,107 @@
+{
+ "id": "route-1317",
+ "type": "highway",
+ "names": {
+  "name": "Route 1317, the new San Kamphaeng road",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1317 — สันกำแพงสายใหม่",
+  "said": "37 km east, and the San Klang interchange half built.",
+  "said_th": "37 กิโลไปตะวันออก และแยกสันกลางสร้างไปครึ่ง"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "east",
+  "ref": "1317",
+  "km": 36.991,
+  "era": "siam"
+ },
+ "text": {
+  "what": "Don Chan on Mahidol Road east to Huay Kaew in San Kamphaeng, 36.991 km, the newer of the two roads to San Kamphaeng. 59,248 vehicles a day at km 1 in 2025. Its crossing of the outer ring at San Klang is getting a 1,425 million baht interchange, more than half built."
+ },
+ "text_th": {
+  "what": "ดอนจั่นบนถนนมหิดลไปตะวันออกถึงห้วยแก้ว สันกำแพง 36.991 กม. ถนนสายใหม่กว่าในสองสายไปสันกำแพง 59,248 คันต่อวันที่ กม.1 ปี 2568 จุดตัดวงแหวนรอบนอกที่สันกลางกำลังได้ทางแยกต่างระดับ 1,425 ล้านบาท สร้างไปกว่าครึ่ง"
+ },
+ "road": {
+  "ref": "1317",
+  "km": 36.991,
+  "km_source": "s:thwp-highway-list",
+  "from": "Don Chan",
+  "from_th": "ดอนจั่น",
+  "to": "Huay Kaew, San Kamphaeng",
+  "to_th": "ห้วยแก้ว สันกำแพง",
+  "osm_refs": [
+   "1317"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "route-1006",
+   "as": "The old road.",
+   "rel": "highway"
+  },
+  {
+   "to": "ring-3-interchanges",
+   "as": "San Klang.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:thwp-highway-list",
+  "s:doh-aadt",
+  "s:thaipbs-353092"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-highway-list"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-1317/route-1317-thailand-traffic-signs-working-sites-04.jpg",
+   "source": "commons",
+   "title": "File:Thailand Traffic-signs Working-sites-04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Thailand_Traffic-signs_Working-sites-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Traffic-signs_Working-sites-04.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Traffic signs in Thailand: Working site (Photo taken at Chiang Mai University)",
+   "date": "2017-04-19",
+   "primary": true,
+   "sha256": "ad3284f9ed5ba23de85b95fc9809386d9cba7de77dde09200f8b03a93003a2a3"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "san-klang-interchange",
+   "type": "junction",
+   "name": "San Klang interchange",
+   "as": "Through it."
+  },
+  {
+   "from": "route-1006",
+   "type": "highway",
+   "name": "Route 1006, the old San Kamphaeng road",
+   "as": "The new road."
+  },
+  {
+   "from": "lanna-airport",
+   "type": "plan",
+   "name": "Lanna Airport, the second airport at Ban Thi",
+   "as": "The road that would serve it."
+  }
+ ]
+}

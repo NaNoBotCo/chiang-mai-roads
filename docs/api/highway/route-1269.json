@@ -1,0 +1,75 @@
+{
+ "id": "route-1269",
+ "type": "highway",
+ "names": {
+  "name": "Route 1269, Samoeng",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1269 — สะเมิง",
+  "said": "36 km of practice curves, an hour from a hotel in the moat.",
+  "said_th": "36 กิโลของโค้งซ้อมมือ ชั่วโมงเดียวจากโฮงแฮมในเวียง"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "west",
+  "ref": "1269",
+  "km": 36.319,
+  "era": "siam"
+ },
+ "text": {
+  "what": "Samoeng to Ton Kwen, 36.319 km, the road that with Route 1096 makes the Samoeng day loop. The loop site measured it denser in curves than the famous road to Pai. Build year not on this disk."
+ },
+ "text_th": {
+  "what": "สะเมิงถึงต้นเกว๋น 36.319 กม. ถนนที่ร่วมกับทางหลวง 1096 เป็นวงรอบสะเมิงวันเดียว เว็บวงรอบวัดว่าโค้งแน่นกว่าถนนสายปายที่โด่งดัง ปีสร้างบ่มีในแผ่นนี้"
+ },
+ "road": {
+  "ref": "1269",
+  "km": 36.319,
+  "km_source": "s:thwp-highway-list",
+  "from": "Samoeng",
+  "from_th": "สะเมิง",
+  "to": "Ton Kwen, Hang Dong",
+  "to_th": "ต้นเกว๋น หางดง",
+  "osm_refs": [
+   "1269"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "route-108",
+   "as": "Where it comes out.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "motorbike"
+ ],
+ "sources": [
+  "s:thwp-highway-list",
+  "s:motdang-loop"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-highway-list"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "san-pa-tong-underpass",
+   "type": "junction",
+   "name": "San Pa Tong–Hang Dong bypass underpass",
+   "as": "To it."
+  }
+ ]
+}

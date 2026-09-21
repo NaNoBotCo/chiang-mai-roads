@@ -50,5 +50,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chao-kaew-nawarat/chao-kaew-nawarat-navarat-bridge-chiangmai-1954.jpg",
+   "source": "commons",
+   "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+   "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+   "alt": "Navarat Bridge in 1954",
+   "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+   "primary": true,
+   "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+  }
+ ]
 }

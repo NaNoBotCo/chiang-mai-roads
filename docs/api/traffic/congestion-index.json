@@ -1,0 +1,117 @@
+{
+ "id": "congestion-index",
+ "type": "traffic",
+ "names": {
+  "name": "How slow: the TomTom index",
+  "th": "ช้าแค่ไหน ดัชนีทอมทอม",
+  "said": "24 minutes 12 seconds for 10 km, 21.6 km/h in the rush, 89 hours a year lost. Bangkok loses 115.",
+  "said_th": "24 นาที 12 วินาทีต่อ 10 กิโล 21.6 กม./ชม. ช่วงเร่งด่วน เสียปีละ 89 ชั่วโมง กรุงเทพฯ เสีย 115"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2025"
+ },
+ "text": {
+  "what": "TomTom's 2025 index for Chiang Mai: average congestion 48.7 percent, 2.3 points below 2024; 24 minutes 12 seconds per 10 km; 6.2 km driven in fifteen minutes; morning rush 24:41 and 55.8 percent, evening 29:42 and 82.4 percent at 20.2 km/h; 89 hours lost in the rush hours over the year; the worst day Monday 3 November 2025 at 138 percent at five o'clock; no highways in the sample. Bangkok: 67.9 percent, 22:59 per 10 km, 115 hours lost, evening 126.5 percent. Numbeo's crowd index, 32 contributors: Chiang Mai 115.9 against Bangkok 202.2, an average one-way commute of 13.9 km.",
+  "story": "*Inference —* the May trough in the monthly series, 37 percent, is the university out and the smoke season over; the November peak is the high season back. Chiang Mai's congestion is seasonal in a way Bangkok's is not, and the road plans do not say which month they are built for."
+ },
+ "text_th": {
+  "what": "ดัชนีทอมทอมปี 2568 สำหรับเชียงใหม่ ความติดขัดเฉลี่ยร้อยละ 48.7 ต่ำกว่า 2567 2.3 จุด 24 นาที 12 วินาทีต่อ 10 กม. ขับได้ 6.2 กม. ในสิบห้านาที เช้าเร่งด่วน 24:41 และร้อยละ 55.8 เย็น 29:42 และร้อยละ 82.4 ที่ 20.2 กม./ชม. เสีย 89 ชั่วโมงในชั่วโมงเร่งด่วนตลอดปี วันแย่สุดจันทร์ 3 พฤศจิกายน 2568 ร้อยละ 138 ตอนห้าโมง ไม่มีทางด่วนในตัวอย่าง กรุงเทพฯ ร้อยละ 67.9 22:59 ต่อ 10 กม. เสีย 115 ชั่วโมง เย็นร้อยละ 126.5 ดัชนีคนช่วยกรอกของนัมบิโอ 32 คน เชียงใหม่ 115.9 ต่อกรุงเทพฯ 202.2 เดินทางเที่ยวเดียวเฉลี่ย 13.9 กม.",
+  "story": "*อนุมาน —* จุดต่ำเดือนพฤษภาคมในชุดรายเดือน ร้อยละ 37 คือมหาวิทยาลัยปิดและหมดฤดูควัน จุดสูงพฤศจิกายนคือนักท่องเที่ยวกลับมา ความติดขัดของเชียงใหม่เป็นไปตามฤดูในแบบที่กรุงเทพฯ บ่เป็น และแผนถนนบ่บอกว่าสร้างเพื่อเดือนไหน"
+ },
+ "figure": {
+  "value": "24:12",
+  "unit": "minutes per 10 km, 2025",
+  "unit_th": "นาทีต่อ 10 กม. 2568",
+  "year": "2025",
+  "source": "s:tomtom-cm",
+  "series": [
+   {
+    "label": "Chiang Mai, congestion",
+    "value": "48.7%",
+    "source": "s:tomtom-cm"
+   },
+   {
+    "label": "Bangkok, congestion",
+    "value": "67.9%",
+    "source": "s:tomtom-bkk"
+   },
+   {
+    "label": "Chiang Mai, hours lost",
+    "value": 89,
+    "source": "s:tomtom-cm"
+   },
+   {
+    "label": "Bangkok, hours lost",
+    "value": 115,
+    "source": "s:tomtom-bkk"
+   }
+  ],
+  "method": "TomTom's city pages, raw HTML parsed; the twelve monthly values for 2025 and 2024 are in the harvest file, with a note that which row is which year is this project's reading.",
+  "method_th": "หน้าเมืองของทอมทอม อ่านจาก HTML ดิบ ค่ารายเดือนสิบสองค่าของ 2568 และ 2567 อยู่ในไฟล์เก็บข้อมูล พร้อมหมายเหตุว่าแถวไหนเป็นปีไหนคือการอ่านของโครงการนี้",
+  "compare": "Bangkok",
+  "compare_th": "กรุงเทพฯ"
+ },
+ "kin": [
+  {
+   "to": "rincome-junction",
+   "as": "The junction the planners name.",
+   "rel": "junction"
+  },
+  {
+   "to": "public-transport-share",
+   "as": "The other side of the same number.",
+   "rel": "traffic"
+  }
+ ],
+ "sources": [
+  "s:tomtom-cm",
+  "s:tomtom-bkk",
+  "s:numbeo-cm"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:tomtom-cm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "congestion-index/congestion-index-chiangmai-traffic.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai traffic.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chiangmai_traffic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_traffic.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Love Krittaya",
+   "credit": "Own work",
+   "alt": "Traffic on Suthep road in Chiang Mai, Thailand",
+   "date": "2007-09-01 16:49:13",
+   "primary": true,
+   "sha256": "5fbf69e62a455681c1dcf830394d033656871f89c69883d3ef4c03371c0ac5a6"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "smoke-and-traffic",
+   "type": "traffic",
+   "name": "What the air says about the roads",
+   "as": "The other seasonal number."
+  }
+ ]
+}

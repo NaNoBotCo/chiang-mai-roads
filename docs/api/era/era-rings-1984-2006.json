@@ -1,0 +1,115 @@
+{
+ "id": "era-rings-1984-2006",
+ "type": "era",
+ "names": {
+  "name": "1984–2006 — the rings",
+  "th": "2527–2549 — ยุควงแหวน",
+  "said": "Two more rings are drawn on a plan, and take twenty years to build.",
+  "said_th": "วงแหวนอีกสองวงถูกวาดบนผัง และใช้เวลาสร้างยี่สิบปี"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "rings",
+  "order": 7
+ },
+ "text": {
+  "what": "The first comprehensive plan, 1984, lays out the middle and outer rings; Interior Ministry Regulation 78 of 1989 fixes them. The outer ring, Route 121, is begun 1994 by the Lampang highway centre, stalls on land and the 1997 crash, and is closed as a 52.96 km loop through the 2000s. The middle ring, the 700 Years Road, is broken ground the same year, 26.13 km with seven underpasses and one interchange, and opened 6 February 2006 at 10,070 million baht including land. Route 11 is widened to four lanes from 2001; Mahidol from two to six in 1998–2001.",
+  "story": "*Inference —* the thesis this rests on carries the number that explains the decade: main-road kilometres in the city went from 36.5 to 60.3 between 1992 and 2003 while registered vehicles went from 465,659 to 933,733. The roads grew by two-thirds; the vehicles doubled."
+ },
+ "text_th": {
+  "what": "ผังเมืองรวมฉบับแรก 2527 วางวงแหวนรอบกลางและรอบนอก กฎกระทรวงมหาดไทยฉบับที่ 78 ปี 2532 กำหนดแนว วงแหวนรอบนอก ทางหลวง 121 เริ่ม 2537 โดยศูนย์สร้างทางลำปาง ติดเวนคืนและวิกฤต 2540 แล้วปิดวงเป็น 52.96 กม. ในทศวรรษ 2540 วงแหวนรอบกลาง ถนนสมโภชเชียงใหม่ 700 ปี เริ่มปีเดียวกัน 26.13 กม. ทางลอดเจ็ดแห่งและทางแยกต่างระดับหนึ่งแห่ง เปิด 6 กุมภาพันธ์ 2549 ที่ 10,070 ล้านบาทรวมค่าที่ดิน ทางหลวง 11 ขยายสี่เลนตั้งแต่ 2544 มหิดลจากสองเป็นหกเลน 2541–44",
+  "story": "*อนุมาน —* วิทยานิพนธ์ที่เรื่องนี้อิงมีตัวเลขที่อธิบายทศวรรษ กิโลเมตรถนนสายหลักในเมืองจาก 36.5 เป็น 60.3 ระหว่าง 2535–2546 ขณะที่รถจดทะเบียนจาก 465,659 เป็น 933,733 ถนนโตสองในสาม รถโตสองเท่า"
+ },
+ "kin": [
+  {
+   "to": "ring-2",
+   "as": "The middle ring.",
+   "rel": "ring"
+  },
+  {
+   "to": "ring-3",
+   "as": "The outer ring.",
+   "rel": "ring"
+  },
+  {
+   "to": "roads-versus-vehicles",
+   "as": "The number.",
+   "rel": "traffic"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:cmu-thesis-2548",
+  "s:thwp-700-years",
+  "s:thwp-121",
+  "s:urbanis-5712"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmu-thesis-2548"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-rings-1984-2006/era-rings-1984-2006-canal-in-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Canal in Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACanal_in_Chiang_Mai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Canal located in the west of Chiang Mai, along Road 121.",
+   "date": "2018-09-03 14:28:10",
+   "primary": true,
+   "sha256": "09ef533d9a7322500845550d5c20741d22eb073285d35cebf92c3a604d5e0092"
+  },
+  {
+   "file": "era-rings-1984-2006/era-rings-1984-2006-chiang-mai-panoramic.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Panoramic.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chiang_Mai_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panoramic.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Ssuri",
+   "credit": "Own work",
+   "alt": "Taken from a viewpoint on the way to the Doi Suthep temple in Chiang Mai.",
+   "date": "2009-10-29",
+   "primary": false,
+   "sha256": "cbb39157fade452b282d7267308ea4a9ba79349c2e4e14a8b1a9c90754534b84"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "built-up-area",
+   "type": "traffic",
+   "name": "How far the city spread",
+   "as": "When the rings were drawn on it."
+  },
+  {
+   "from": "roads-versus-vehicles",
+   "type": "traffic",
+   "name": "Roads versus vehicles, 1992 to 2003",
+   "as": "The decade."
+  }
+ ]
+}

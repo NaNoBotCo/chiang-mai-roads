@@ -1,0 +1,1196 @@
+{
+ "sources": [
+  {
+   "id": "s:thwp-moat",
+   "kind": "web",
+   "title": "คูเมืองเชียงใหม่ / กำแพงเมืองเชียงใหม่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/กำแพงเมืองเชียงใหม่",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chiang-mai",
+   "kind": "web",
+   "title": "Chiang Mai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chiang_Mai",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:onep-278",
+   "kind": "web",
+   "title": "กำแพงเมืองและคูเมืองเชียงใหม่ — ทะเบียนแหล่งสิ่งแวดล้อมศิลปกรรม",
+   "publisher": "ONEP, Office of Natural Resources and Environmental Policy and Planning",
+   "url": "https://culturalenvi.onep.go.th/site/detail/278",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:onep-277",
+   "kind": "web",
+   "title": "กำแพงดิน เชียงใหม่ — ทะเบียนแหล่งสิ่งแวดล้อมศิลปกรรม",
+   "publisher": "ONEP",
+   "url": "https://culturalenvi.onep.go.th/site/detail/277",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:cmocity-history",
+   "kind": "web",
+   "title": "Chiang Mai City history timeline",
+   "publisher": "City Heritage Centre, Chiang Mai Municipality",
+   "url": "https://cmocity.com/history/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tha-phae-gate",
+   "kind": "web",
+   "title": "Tha Phae Gate",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tha_Phae_Gate",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-chang-moi",
+   "kind": "web",
+   "title": "ถนนช้างม่อย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ถนนช้างม่อย",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:cmnews-1651264",
+   "kind": "web",
+   "title": "ราชดำเนินเดินรถทางเดียว 6 พ.ค. 2564 — เตียว-หย้อง-เมืองเชียงใหม่",
+   "publisher": "Chiang Mai News",
+   "url": "https://www.chiangmainews.co.th/news/1651264/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:cmnews-1374432",
+   "kind": "web",
+   "title": "ผังเมืองเชียงใหม่ ความสูงในเขตเมืองเก่า 12 เมตร",
+   "publisher": "Chiang Mai News",
+   "url": "https://www.chiangmainews.co.th/news/1374432/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9620000055662",
+   "kind": "web",
+   "title": "ผังเมืองรวมเชียงใหม่ แก้ไขความสูง 23 เมตร",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/politics/detail/9620000055662",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-tha-phae-road",
+   "kind": "web",
+   "title": "ถนนท่าแพ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ถนนท่าแพ",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-cnx-station",
+   "kind": "web",
+   "title": "สถานีรถไฟเชียงใหม่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/สถานีรถไฟเชียงใหม่",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-nawarat",
+   "kind": "web",
+   "title": "สะพานนวรัฐ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/สะพานนวรัฐ",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:cmcity-8198",
+   "kind": "web",
+   "title": "ประวัติถนนคนเดินท่าแพ–ราชดำเนิน",
+   "publisher": "Chiang Mai Municipality",
+   "url": "http://www.cmcity.go.th/News/8198-ประวัติ.html",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:reviewcm-night-bazaar",
+   "kind": "web",
+   "title": "8 เรื่องเล่าไนท์บาซาร์",
+   "publisher": "Review Chiang Mai",
+   "url": "https://www.reviewchiangmai.com/8-story-night-bazaar/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-nimman",
+   "kind": "web",
+   "title": "ถนนนิมมานเหมินท์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ถนนนิมมานเหมินท์",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:becommon-nimman",
+   "kind": "web",
+   "title": "ประวัติถนนนิมมานเหมินท์",
+   "publisher": "Becommon",
+   "url": "https://becommon.co/culture/nimmanhaemin-road-history/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thaipbs-324599",
+   "kind": "web",
+   "title": "ราคาที่ดินนิมมานเหมินท์ 2562",
+   "publisher": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/324599",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-1004",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 1004 (ถนนห้วยแก้ว)",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_1004",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-si-wichai",
+   "kind": "web",
+   "title": "ถนนศรีวิชัย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ถนนศรีวิชัย",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:citylife-elephant",
+   "kind": "web",
+   "title": "Legacy of a white elephant's footsteps",
+   "publisher": "Chiang Mai Citylife",
+   "url": "https://www.chiangmaicitylife.com/clg/our-city/culture/legacy-of-a-white-elephants-footsteps/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-107",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 107 (ถนนโชตนา)",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_107",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:sumup-kamphaeng-din",
+   "kind": "web",
+   "title": "ประวัติถนนลอยเคราะห์–ถนนกำแพงดิน",
+   "publisher": "SumUp TH",
+   "url": "https://www.sumupth.com/exploring-the-history-of-loy-kroh-road-kamphaeng-din-road-in-chiang-mai/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:topcm-chang-klan",
+   "kind": "web",
+   "title": "ภาพเก่า ช้างคลาน–ถนนเจริญประเทศ",
+   "publisher": "Top Chiang Mai",
+   "url": "https://www.topchiangmai.com/info/ภาพเก่าในอดีต/ช้างคลาน-ถนนเจริญประเทศ/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-11",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 11",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_11",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-route-11",
+   "kind": "web",
+   "title": "Thailand Route 11",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thailand_Route_11",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:cmu-thesis-2548",
+   "kind": "pdf",
+   "title": "การขยายตัวของเมืองเชียงใหม่ตามแนวถนน — วิทยานิพนธ์ภูมิศาสตร์ ม.เชียงใหม่ 2548, บทที่ 3",
+   "publisher": "Chiang Mai University Library",
+   "url": "https://archive.lib.cmu.ac.th/full/T/2548/geog0348nw_ch3.pdf",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9630000089345",
+   "kind": "web",
+   "title": "ซุปเปอร์ไฮเวย์ลำปาง–เชียงใหม่ และทางหลวง 11",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/columnist/detail/9630000089345",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:wp-route-1",
+   "kind": "web",
+   "title": "Thailand Route 1 (Phahonyothin)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thailand_Route_1",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-mahidol",
+   "kind": "web",
+   "title": "ถนนมหิดล (เชียงใหม่)",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ถนนมหิดล",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-highway-list",
+   "kind": "web",
+   "title": "รายชื่อทางหลวงแผ่นดินในประเทศไทย หมวด 1",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/รายชื่อทางหลวงแผ่นดินในประเทศไทย/หมวด_1",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:urbanis-5712",
+   "kind": "web",
+   "title": "ผังเมืองเชียงใหม่และถนนวงแหวน",
+   "publisher": "The Urbanis",
+   "url": "https://theurbanis.com/insight/17/12/2021/5712",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-700-years",
+   "kind": "web",
+   "title": "ถนนสมโภชเชียงใหม่ 700 ปี",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ถนนสมโภชเชียงใหม่_700_ปี",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-121",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 121 (ถนนวงแหวนรอบนอกเชียงใหม่)",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_121",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:constructionth-121",
+   "kind": "web",
+   "title": "ปรับปรุงทางหลวง 121 ช่วง 108–1006",
+   "publisher": "Construction Thailand",
+   "url": "https://www.constructionthailand.net/construction/doh121-108-1006/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:dailynews-4380049",
+   "kind": "web",
+   "title": "ประมูล 5 ทางแยกต่างระดับวงแหวนรอบนอกเชียงใหม่ 3,145 ล้าน",
+   "publisher": "Daily News",
+   "url": "https://www.dailynews.co.th/news/4380049/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:cmnews-3593263",
+   "kind": "web",
+   "title": "ห้าทางแยกต่างระดับถนนวงแหวนรอบ 3",
+   "publisher": "Chiang Mai News",
+   "url": "https://www.chiangmainews.co.th/social/3593263/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thaipbs-353092",
+   "kind": "web",
+   "title": "สนามบินล้านนา วงแหวนรอบ 4 และแยกสันกลาง",
+   "publisher": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/353092",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:saranae-32032",
+   "kind": "web",
+   "title": "แบบทางแยกสันขะยอมและลิขิตชีวัน",
+   "publisher": "Saranae News",
+   "url": "https://saranaenewstv.com/2025/11/20/32032/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9500000153752",
+   "kind": "web",
+   "title": "เปิดอุโมงค์ข่วงสิงห์–สันเด็ก 26 ธ.ค. 2550",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/local/detail/9500000153752",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9610000057357",
+   "kind": "web",
+   "title": "เปิดอุโมงค์ฟ้าฮ่าม 9 มิ.ย. 2561",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/business/detail/9610000057357",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:reviewcm-underpasses",
+   "kind": "web",
+   "title": "อุโมงค์ทางลอดในเชียงใหม่",
+   "publisher": "Review Chiang Mai",
+   "url": "https://www.reviewchiangmai.com/3315-p/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9640000078021",
+   "kind": "web",
+   "title": "อุโมงค์เลี่ยงเมืองสันป่าตอง–หางดง",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/business/detail/9640000078021",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-108",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 108",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_108",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-118",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 118",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_118",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:feasy-118",
+   "kind": "web",
+   "title": "ทางหลวง 118 ขยายสี่ช่องจราจร — สถานะเป็นช่วง",
+   "publisher": "Feasy Online",
+   "url": "https://www.feasyonline.com/content/detail/1130/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:cri108-15492",
+   "kind": "web",
+   "title": "ทางหลวง 118 ช่วงสุดท้าย แม่สรวย–ทางหลวง 1",
+   "publisher": "Chiang Rai 108",
+   "url": "https://www.chiangrai108.com/pr/15492/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:bkkauction-expropriate",
+   "kind": "web",
+   "title": "เวนคืน — มอเตอร์เวย์เชียงใหม่–เชียงราย และทางหลวง 118",
+   "publisher": "BKK Auction",
+   "url": "https://bkkauction.com/news-expropriate/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-106",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 106 (ถนนต้นยาง)",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_106",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thaipbs-308334",
+   "kind": "web",
+   "title": "ต้นยางนาถนนเชียงใหม่–ลำพูน",
+   "publisher": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/308334",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9630000112206",
+   "kind": "web",
+   "title": "ผลสำรวจแม่โจ้โพลล์ ต้นยางนาถนนสายเชียงใหม่–ลำพูน",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/greeninnovation/detail/9630000112206",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-1095",
+   "kind": "web",
+   "title": "ทางหลวงแผ่นดินหมายเลข 1095",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ทางหลวงแผ่นดินหมายเลข_1095",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:prd-cm-369046",
+   "kind": "web",
+   "title": "กรมทางหลวง 9 สายทางเชียงใหม่ 2568–70",
+   "publisher": "สวท.เชียงใหม่, PRD",
+   "url": "https://radiochiangmai.prd.go.th/th/content/article/detail/id/57/iid/369046",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:prd-121972",
+   "kind": "web",
+   "title": "MR-MAP รับฟังความเห็น 20 ก.ย. 2565",
+   "publisher": "PRD",
+   "url": "https://www.prd.go.th/th/content/category/detail/id/39/iid/121972",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:bkkbiz-1138649",
+   "kind": "web",
+   "title": "รถไฟฟ้าเชียงใหม่สายสีแดง แผนงาน",
+   "publisher": "Bangkok Biz News",
+   "url": "https://www.bangkokbiznews.com/business/economic/1138649",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mgr-9680000121126",
+   "kind": "web",
+   "title": "รถไฟฟ้าเชียงใหม่ — รฟม.",
+   "publisher": "MGR Online",
+   "url": "https://mgronline.com/business/detail/9680000121126",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mrta-red-line",
+   "kind": "web",
+   "title": "โครงการระบบขนส่งมวลชนจังหวัดเชียงใหม่ สายสีแดง",
+   "publisher": "MRTA",
+   "url": "https://www.mrta.co.th/th/chiang-mai-mass-transit-project-red-line-nakornping-hospital---royal-park-rajapruek",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:headline-red-line",
+   "kind": "web",
+   "title": "แผนที่เส้นทางรถไฟฟ้าสายสีแดงเชียงใหม่",
+   "publisher": "Headline",
+   "url": "https://headline.co.th/chiang-mai-red-line-tram-route-map/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-hsr",
+   "kind": "web",
+   "title": "รถไฟความเร็วสูงในประเทศไทย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/รถไฟความเร็วสูงในประเทศไทย",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:isranews-125644",
+   "kind": "web",
+   "title": "รถไฟความเร็วสูงกรุงเทพ–เชียงใหม่",
+   "publisher": "Isranews",
+   "url": "https://www.isranews.org/article/isranews-scoop/125644-isranewss-9.html",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:bkkbiz-1153345",
+   "kind": "web",
+   "title": "สนามบินล้านนา 70,000 ล้าน",
+   "publisher": "Bangkok Biz News",
+   "url": "https://www.bangkokbiznews.com/business/economic/1153345",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:citylife-big-development",
+   "kind": "web",
+   "title": "Big development project heading our way — elevated road on Route 121",
+   "publisher": "Chiang Mai Citylife",
+   "url": "https://www.chiangmaicitylife.com/citynews/general/big-development-project-heading-our-way/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:prd-485975",
+   "kind": "web",
+   "title": "ครม.เห็นชอบร่างผังเมืองรวมเมืองเชียงใหม่ 17 มี.ค. 2569",
+   "publisher": "PRD",
+   "url": "https://www.prd.go.th/th/content/category/detail/id/39/iid/485975",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:isranews-146077",
+   "kind": "web",
+   "title": "ร่างผังเมืองรวมเชียงใหม่ — ถนนโครงการ 51 สาย",
+   "publisher": "Isranews",
+   "url": "https://www.isranews.org/article/isranews-scoop/146077-",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:citylife-unesco",
+   "kind": "web",
+   "title": "The journey to becoming a UNESCO World Heritage city",
+   "publisher": "Chiang Mai Citylife",
+   "url": "https://www.chiangmaicitylife.com/clg/our-city/journey-becoming-unesco-world-heritage-city/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:unesco-6003",
+   "kind": "web",
+   "title": "Monuments, Sites and Cultural Landscape of Chiang Mai, Capital of Lanna — Tentative List",
+   "publisher": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/tentativelists/6003/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-mae-kha",
+   "kind": "web",
+   "title": "คลองแม่ข่า",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/คลองแม่ข่า",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:bkkbiz-1147937",
+   "kind": "web",
+   "title": "น้ำปิงท่วมเชียงใหม่ ต.ค. 2567",
+   "publisher": "Bangkok Biz News",
+   "url": "https://www.bangkokbiznews.com/news/news-update/1147937",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thaipbs-344954",
+   "kind": "web",
+   "title": "น้ำท่วมเชียงใหม่ 2567 — ระดับน้ำ P.1",
+   "publisher": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/344954",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:lanner-flood",
+   "kind": "web",
+   "title": "น้ำท่วมเชียงใหม่ 7 ต.ค. 2567 — ถนนที่จม",
+   "publisher": "Lanner",
+   "url": "https://www.lannernews.com/07102567-01/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-soi",
+   "kind": "web",
+   "title": "ซอย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ซอย",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:moradok-lanna-dict",
+   "kind": "web",
+   "title": "พจนานุกรมล้านนา–ไทย",
+   "publisher": "Moradok Lanna",
+   "url": "https://moradoklanna.com/dict/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:osm",
+   "kind": "dataset",
+   "title": "OpenStreetMap, via Overpass",
+   "publisher": "OpenStreetMap contributors",
+   "url": "https://www.openstreetmap.org/copyright",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "ODbL 1.0"
+  },
+  {
+   "id": "s:open-meteo-elev",
+   "kind": "dataset",
+   "title": "Open-Meteo Elevation API (Copernicus DEM GLO-90)",
+   "publisher": "Open-Meteo",
+   "url": "https://open-meteo.com/en/docs/elevation-api",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "s:boeing-2019",
+   "kind": "paper",
+   "title": "Urban spatial order: street network orientation, configuration, and entropy — Geoff Boeing, Applied Network Science 4:67 (2019)",
+   "publisher": "Applied Network Science",
+   "url": "https://doi.org/10.1007/s41109-019-0189-1",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "s:wp-lanna",
+   "kind": "web",
+   "title": "Lanna",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lanna",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-northern-thai",
+   "kind": "web",
+   "title": "Northern Thai language",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Northern_Thai_language",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tai-tham",
+   "kind": "web",
+   "title": "Tai Tham script",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tai_Tham_script",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-songthaew",
+   "kind": "web",
+   "title": "Songthaew",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Songthaew",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kraisri",
+   "kind": "web",
+   "title": "Kraisri Nimmanahaeminda",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kraisri_Nimmanahaeminda",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:thwp-srivichai",
+   "kind": "web",
+   "title": "ครูบาศรีวิชัย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/ครูบาศรีวิชัย",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mangrai",
+   "kind": "web",
+   "title": "Mangrai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mangrai",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kawila",
+   "kind": "web",
+   "title": "Kawila",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kawila",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wiang-kum-kam",
+   "kind": "web",
+   "title": "Wiang Kum Kam",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wiang_Kum_Kam",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cnx-airport",
+   "kind": "web",
+   "title": "Chiang Mai International Airport",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chiang_Mai_International_Airport",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-iron-bridge",
+   "kind": "web",
+   "title": "Iron Bridge (Chiang Mai)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Iron_Bridge_(Chiang_Mai)",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-warorot",
+   "kind": "web",
+   "title": "Warorot Market",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Warorot_Market",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-doi-suthep",
+   "kind": "web",
+   "title": "Doi Suthep",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Doi_Suthep",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ping",
+   "kind": "web",
+   "title": "Ping River",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ping_River",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:motdang-soi",
+   "kind": "web",
+   "title": "ถนนและซอย · Roads & sois — มดแดง Mot Dang",
+   "publisher": "Mot Dang",
+   "url": "https://motdang.net/soi.html",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:motdang-loop",
+   "kind": "web",
+   "title": "The Mae Hong Son Loop — 1,864 curves",
+   "publisher": "Mot Dang / hongdam.net",
+   "url": "https://motdang.net/loop/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:doh-aadt",
+   "kind": "dataset",
+   "title": "ปริมาณจราจรเฉลี่ยต่อวันตลอดปี (AADT) — open data 2560–2568",
+   "publisher": "กรมทางหลวง Department of Highways",
+   "url": "https://datagov.mot.go.th/dataset/traf62",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "Open Government Data of Thailand"
+  },
+  {
+   "id": "s:cm-traffic-minutes-2569",
+   "kind": "pdf",
+   "title": "รายงานการประชุมคณะอนุกรรมการจัดระบบการจราจรทางบกจังหวัดเชียงใหม่ ครั้งที่ 1/2569",
+   "publisher": "จังหวัดเชียงใหม่",
+   "url": "http://www.chiangmai.go.th/managing/public/M5/R10Apr2026123328.pdf",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:ddc-rtddi",
+   "kind": "dataset",
+   "title": "ข้อมูลการตายจากอุบัติเหตุทางถนน 3 ฐาน",
+   "publisher": "กรมควบคุมโรค DDC, via data.go.th",
+   "url": "https://data.go.th/en/dataset/rtddi",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "Open Government Data of Thailand"
+  },
+  {
+   "id": "s:who-tha-2023",
+   "kind": "pdf",
+   "title": "Road safety country profile: Thailand, 2023",
+   "publisher": "World Health Organization",
+   "url": "https://cdn.who.int/media/docs/default-source/country-profiles/road-safety/road-safety-2023-tha.pdf",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:ato-thailand-2025",
+   "kind": "web",
+   "title": "Thailand road safety profile 2025",
+   "publisher": "Asian Transport Observatory",
+   "url": "https://asiantransportobservatory.org/analytical-outputs/roadsafetyprofiles/thailand-road-safety-profile-2025/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:nation-40050817",
+   "kind": "web",
+   "title": "Thailand road deaths 2024 — DDC figures",
+   "publisher": "The Nation",
+   "url": "https://www.nationthailand.com/news/general/40050817",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:thaipost-361601",
+   "kind": "web",
+   "title": "สงกรานต์ 2566 เชียงใหม่ อุบัติเหตุ 7 วันอันตราย",
+   "publisher": "Thai Post",
+   "url": "https://www.thaipost.net/district-news/361601/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:tomtom-cm",
+   "kind": "web",
+   "title": "TomTom Traffic Index — Chiang Mai 2025",
+   "publisher": "TomTom",
+   "url": "https://www.tomtom.com/traffic-index/city/chiang-mai",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:tomtom-bkk",
+   "kind": "web",
+   "title": "TomTom Traffic Index — Bangkok 2025",
+   "publisher": "TomTom",
+   "url": "https://www.tomtom.com/traffic-index/bangkok-traffic/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:numbeo-cm",
+   "kind": "web",
+   "title": "Traffic in Chiang Mai",
+   "publisher": "Numbeo",
+   "url": "https://www.numbeo.com/traffic/in/Chiang-Mai",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:otp-ch8",
+   "kind": "pdf",
+   "title": "OTP public-transport master plan study, chapter 8 (2566)",
+   "publisher": "สนข. OTP",
+   "url": "https://www.otp.go.th/uploads/tiny_uploads/OTP%20Report/TTIC/2566_A%20Study%20and%20Analysis%20of%20Public%20Transport%20(20260313)/Final%20Report/OTP-PTD_FR_CH8.pdf",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:prachatai-11232",
+   "kind": "web",
+   "title": "Chiang Mai's red songthaew: numbers and the cooperative",
+   "publisher": "Prachatai English",
+   "url": "https://prachataienglish.com/node/11232",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:prachatai-11234",
+   "kind": "web",
+   "title": "Chiang Mai public transport: RTC bus, app cars",
+   "publisher": "Prachatai English",
+   "url": "https://prachataienglish.com/node/11234",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:tcij-13641",
+   "kind": "web",
+   "title": "สำรวจรถสาธารณะเชียงใหม่ 2567",
+   "publisher": "TCIJ",
+   "url": "https://www.tcijthai.com/news/2024/5/current/13641",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:momentum-rtc",
+   "kind": "web",
+   "title": "RTC Chiang Mai City Bus",
+   "publisher": "The Momentum",
+   "url": "https://themomentum.co/feature-rtc-chiang-mai-city-bus/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:mrta-red-line-en",
+   "kind": "web",
+   "title": "Chiang Mai mass transit project, Red Line (English)",
+   "publisher": "MRTA",
+   "url": "https://www.mrta.co.th/en/chiang-mai-mass-transit-project-red-line-nakornping-hospital---royal-park-rajapruek",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:railway-gazette-2026",
+   "kind": "web",
+   "title": "Chiang Mai light rail plan makes progress",
+   "publisher": "Railway Gazette",
+   "url": "https://www.railwaygazette.com/urban/2026/04/09/chiang-mai-light-rail-plan-makes-progress/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:mrta-hearing-deck",
+   "kind": "pdf",
+   "title": "การประชุมรับฟังความคิดเห็น รถไฟฟ้าเชียงใหม่ สายสีแดง — เอกสารนำเสนอ",
+   "publisher": "MRTA",
+   "url": "http://www.chiangmai-transitredline.com/PDF/PPT_M1.pdf",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:citylife-aot",
+   "kind": "web",
+   "title": "AOT to invest 24 billion baht in Chiang Mai airport upgrade",
+   "publisher": "Chiang Mai Citylife",
+   "url": "https://www.chiangmaicitylife.com/citynews/general/aot-to-invest-24billion-baht-in-chiang-mai-airport-upgrade-in-anticipation-of-20-million-tourists-a-year-by-2027/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:prachatai-11115",
+   "kind": "web",
+   "title": "Chiang Mai smoke: days over standard",
+   "publisher": "Prachatai English",
+   "url": "https://prachataienglish.com/node/11115",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:toxics-2026",
+   "kind": "paper",
+   "title": "Biomass-burning PM2.5 emissions, northern Thailand, Jan–Apr 2024 — Chotamonsak et al., Toxics 14(1):84",
+   "publisher": "MDPI",
+   "url": "https://doi.org/10.3390/toxics14010084",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY 4.0"
+  },
+  {
+   "id": "s:atmos-env-2024",
+   "kind": "paper",
+   "title": "Source apportionment of PM2.5 in Chiang Mai — Atmospheric Environment 2024",
+   "publisher": "Elsevier",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S1352231024001924",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:iqair-cm",
+   "kind": "web",
+   "title": "Chiang Mai air quality — annual PM2.5",
+   "publisher": "IQAir",
+   "url": "https://www.iqair.com/air-quality/thailand/chiang-mai/chiang-mai",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-cm-province",
+   "kind": "web",
+   "title": "Chiang Mai province",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chiang_Mai_province",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cm-metro",
+   "kind": "web",
+   "title": "Chiang Mai Metropolitan Area",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chiang_Mai_Metropolitan_Area",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:cmcity-pdf-2023",
+   "kind": "pdf",
+   "title": "ข้อมูลพื้นฐานเทศบาลนครเชียงใหม่ 2566 — พื้นที่ ประชากร ถนน",
+   "publisher": "เทศบาลนครเชียงใหม่",
+   "url": "https://www.cmcity.go.th/data/content/2023/16970/pdf/bgjkmprsu124.pdf",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-cm-municipality",
+   "kind": "web",
+   "title": "เทศบาลนครเชียงใหม่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/เทศบาลนครเชียงใหม่",
+   "accessed": "2026-09-21",
+   "lang": "th",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:sangawongse-2019",
+   "kind": "paper",
+   "title": "Urban growth of Chiang Mai from Landsat, 1952–2009 — Sangawongse, J. Social Sciences CMU 21(1)",
+   "publisher": "Chiang Mai University",
+   "url": "https://so04.tci-thaijo.org/index.php/jss/article/view/173344",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:urban-planning-2017",
+   "kind": "paper",
+   "title": "Chiang Mai land use and SLEUTH projection — Urban Planning 2(1), 2017",
+   "publisher": "Cogitatio",
+   "url": "https://orbi.uliege.be/bitstream/2268/261752/1/",
+   "accessed": "2026-09-21",
+   "lang": "en"
+  },
+  {
+   "id": "s:prachatai-110951",
+   "kind": "web",
+   "title": "น้ำปิง 5.30 เมตร 5 ต.ค. 2567",
+   "publisher": "Prachatai",
+   "url": "https://prachatai.com/journal/2024/10/110951",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thaipbs-344990",
+   "kind": "web",
+   "title": "กรมชลประทาน: น้ำปิงผ่านจุดสูงสุด 5.30 เมตร 604 ลบ.ม./วินาที",
+   "publisher": "Thai PBS",
+   "url": "https://www.thaipbs.or.th/news/content/344990",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:naewna-833570",
+   "kind": "web",
+   "title": "น้ำท่วมเชียงใหม่ 5 ต.ค. 2567 — สูงสุดในรอบ 50 ปี",
+   "publisher": "Naew Na",
+   "url": "https://www.naewna.com/local/833570",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:thairath-2816966",
+   "kind": "web",
+   "title": "ถนนที่ปิด น้ำท่วมเชียงใหม่ 28 ก.ย. 2567",
+   "publisher": "Thai Rath",
+   "url": "https://www.thairath.co.th/news/local/2816966",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:cmu-flood-marks",
+   "kind": "web",
+   "title": "หมุดระดับน้ำท่วม ต.ค. 2567",
+   "publisher": "CMU Water Center",
+   "url": "https://watercenter.scmc.cmu.ac.th/cmflood/flood24",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  },
+  {
+   "id": "s:wp-2026-smog",
+   "kind": "web",
+   "title": "2026 Chiang Mai smog",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/2026_Chiang_Mai_Smog",
+   "accessed": "2026-09-21",
+   "lang": "en",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:kapook-gasprice",
+   "kind": "web",
+   "title": "ราคาน้ำมันวันนี้ 21 ก.ย. 2569",
+   "publisher": "Kapook",
+   "url": "https://gasprice.kapook.com/",
+   "accessed": "2026-09-21",
+   "lang": "th"
+  }
+ ]
+}

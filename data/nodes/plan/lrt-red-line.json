@@ -79,5 +79,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "lrt-red-line/lrt-red-line-chiang-mai-thailand-chiang-mai-railway-station-08.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Thailand Chiang-Mai-Railway-Station-08.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chiang_Mai_Thailand_Chiang-Mai-Railway-Station-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Thailand_Chiang-Mai-Railway-Station-08.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Steam locomotive in front of the Chiang Mai Railway Station",
+   "date": "2017-04-17",
+   "primary": true,
+   "sha256": "b9af48c6f1a15365ff7a1b93635be3d84b384bdd86d962c13e5820e8d698df44"
+  }
+ ]
 }

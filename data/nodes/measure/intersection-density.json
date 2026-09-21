@@ -4,8 +4,8 @@
  "names": {
   "name": "Intersections per square kilometre",
   "th": "ทางแยกต่อตารางกิโลเมตร",
-  "said": "135 inside the moat. 47 at the outer ring.",
-  "said_th": "135 ในเวียง 47 ที่วงแหวนรอบนอก"
+  "said": "135 inside the moat. 58 at the outer ring.",
+  "said_th": "135 ในเวียง 58 ที่วงแหวนรอบนอก"
  },
  "region": [
   "city"
@@ -14,11 +14,11 @@
   "year": "2026"
  },
  "text": {
-  "what": "Nodes where three or more drivable ways meet, per square kilometre of zone: inside the moat 135; to 3 km 82; 3 to 5.5 km 78; 5.5 to 9 km 47; beyond 20. Road density runs the same way: 24.4 km of road per km² in the square, 9.5 at the outer ring.",
+  "what": "Nodes where three or more drivable ways meet, per square kilometre of zone: inside the moat 135; to 3 km 82; 3 to 5.5 km 78; 5.5 to 9 km 58; beyond 31. Road density runs the same way: 24.4 km of road per km² in the square, 11.6 at the outer ring.",
   "story": "*Inference —* this is the measure planners use for walkability, and it says the most walkable square kilometre in the province is the one that is seven hundred years old. Every ring built since has produced a city with a third to a half the choices per kilometre."
  },
  "text_th": {
-  "what": "จุดที่เส้นทางรถวิ่งได้สามเส้นขึ้นไปพบกัน ต่อตารางกิโลเมตรของโซน ในคู 135 ถึง 3 กม. 82 3 ถึง 5.5 กม. 78 5.5 ถึง 9 กม. 47 เกินนั้น 20 ความหนาแน่นถนนไปทางเดียวกัน 24.4 กม.ถนนต่อตร.กม. ในสี่เหลี่ยม 9.5 ที่วงแหวนรอบนอก",
+  "what": "จุดที่เส้นทางรถวิ่งได้สามเส้นขึ้นไปพบกัน ต่อตารางกิโลเมตรของโซน ในคู 135 ถึง 3 กม. 82 3 ถึง 5.5 กม. 78 5.5 ถึง 9 กม. 58 เกินนั้น 31 ความหนาแน่นถนนไปทางเดียวกัน 24.4 กม.ถนนต่อตร.กม. ในสี่เหลี่ยม 11.6 ที่วงแหวนรอบนอก",
   "story": "*อนุมาน —* นี่คือมาตรที่นักวางผังใช้วัดการเดินได้ และมันบอกว่าตารางกิโลเมตรที่เดินได้ดีสุดในจังหวัดคืออันที่อายุเจ็ดร้อยปี วงแหวนทุกวงที่สร้างตั้งแต่นั้นให้เมืองที่มีทางเลือกต่อกิโลเมตรหนึ่งในสามถึงครึ่ง"
  },
  "figure": {
@@ -46,12 +46,12 @@
    {
     "label": "5.5 to 9 km",
     "label_th": "5.5 ถึง 9 กม.",
-    "value": 47.2
+    "value": 57.9
    },
    {
     "label": "past 9 km",
     "label_th": "เกิน 9 กม.",
-    "value": 20.2
+    "value": 31.0
    }
   ],
   "method": "Degree≥3 nodes on the drivable network minus service lanes, divided by zone area; the moat area is the square, ring areas are annuli less the square.",

@@ -1,0 +1,176 @@
+{
+ "id": "the-moat",
+ "type": "place",
+ "names": {
+  "name": "The moat",
+  "th": "คูเมือง",
+  "rtgs": "Khu Mueang",
+  "said": "Six and a half kilometres of water, and a square that is not quite square.",
+  "said_th": "น้ำหกกิโลครึ่ง กับสี่เหลี่ยมตี้บ่เหลี่ยมแต๊"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The water square around the old city: 6.54 km round, about 1.6 by 1.7 km, the north side the longest at 1.67 km. About 13 m wide now, up to 25 m once, 4 m deep at most. Dug at the founding in 1296, deepened and given its corner bastions by later rulers.",
+  "story": "About 603 m of the original brick wall survive. The municipality, founded in 1936, began demolishing sections in 1948 to build the roads that now run on both banks. The wall and moat were registered as a national monument in 1935, thirteen years before the demolition began.\n\n*Inference —* every measurement on this site starts from this square. It is the one thing in the city that has not moved in 730 years, so it is the ruler everything else is laid against."
+ },
+ "text_th": {
+  "what": "สี่เหลี่ยมน้ำรอบเวียงเก่า ยาวรอบ 6.54 กม. ราว 1.6 คูณ 1.7 กม. ด้านเหนือยาวสุด 1.67 กม. กว้างราว 13 เมตรตอนนี้ เคยถึง 25 เมตร ลึกสุด 4 เมตร ขุดตอนสร้างเมืองปี 1839 ขุดลึกและเพิ่มแจ่งโดยเจ้าเมืองรุ่นหลัง",
+  "story": "กำแพงอิฐเดิมเหลือราว 603 เมตร เทศบาลซึ่งตั้งปี 2479 เริ่มรื้อบางช่วงในปี 2491 เพื่อสร้างถนนที่วิ่งบนสองฝั่งคูตอนนี้ กำแพงและคูขึ้นทะเบียนโบราณสถานปี 2478 สิบสามปีก่อนเริ่มรื้อ\n\n*อนุมาน —* ทุกการวัดบนเว็บนี้เริ่มจากสี่เหลี่ยมนี้ มันคือสิ่งเดียวในเมืองที่บ่ได้ขยับมา 730 ปี มันจึงเป็นไม้บรรทัดที่ทุกอย่างถูกวางเทียบ"
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The roads on its banks.",
+   "rel": "ring"
+  },
+  {
+   "to": "hua-lin-corner",
+   "as": "Where its water comes in.",
+   "rel": "gate"
+  },
+  {
+   "to": "grid-in-the-moat",
+   "as": "What the streets inside it measure.",
+   "rel": "measure"
+  },
+  {
+   "to": "khu",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "one-way"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "the-moat/the-moat-201703291029a-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291029a Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/201703291029a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291029a_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Chiang Mai Gate and Suan Prung Gate",
+   "date": "2017-03-29 10:29:27",
+   "primary": true,
+   "sha256": "68994a0ab8f222daf0655c1bba8169e1bf236217cb22e0e48841d23a4ad66d8e"
+  },
+  {
+   "file": "the-moat/the-moat-201703291126a-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291126a Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/201703291126a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291126a_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Sri Phum Corner and Tha Phae Gate",
+   "date": "2017-03-29 11:26:16",
+   "primary": false,
+   "sha256": "82838166f4241113c54d08f38dd9903986041c33afa99c6260e3a3954776cb3b"
+  },
+  {
+   "file": "the-moat/the-moat-201703291220a-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291220a Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/201703291220a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291220a_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Undertaker beside the city moat of Chiang Mai between Suan Dok Gate and Hua Rin Corner",
+   "date": "2017-03-29 12:20:35",
+   "primary": false,
+   "sha256": "9c172b213691f1f18c688f69df492ed98cd1e86f060ea8b37f44cb1788d854b8"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "moat-loop",
+   "type": "ring",
+   "name": "The moat loop",
+   "as": "The water."
+  },
+  {
+   "from": "moat-bridges",
+   "type": "bridge",
+   "name": "The bridges over the moat",
+   "as": "What they cross."
+  },
+  {
+   "from": "unesco-nomination",
+   "type": "plan",
+   "name": "The UNESCO nomination and the roads under it",
+   "as": "The core."
+  },
+  {
+   "from": "era-1296-the-square",
+   "type": "era",
+   "name": "1296 — the square",
+   "as": "The square."
+  },
+  {
+   "from": "grid-in-the-moat",
+   "type": "measure",
+   "name": "The grid score, zone by zone",
+   "as": "The square."
+  },
+  {
+   "from": "wats-and-rings",
+   "type": "measure",
+   "name": "Wats, zone by zone",
+   "as": "The square."
+  },
+  {
+   "from": "wiang",
+   "type": "word",
+   "name": "เวียง wiang",
+   "as": "What surrounds it."
+  },
+  {
+   "from": "kawila",
+   "type": "person",
+   "name": "Kawila",
+   "as": "What he restored."
+  },
+  {
+   "from": "mangrai",
+   "type": "person",
+   "name": "Mangrai",
+   "as": "What he dug."
+  }
+ ]
+}

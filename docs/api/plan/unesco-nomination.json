@@ -1,0 +1,107 @@
+{
+ "id": "unesco-nomination",
+ "type": "plan",
+ "names": {
+  "name": "The UNESCO nomination and the roads under it",
+  "th": "การเสนอมรดกโลกและถนนใต้มัน",
+  "said": "Tentative 2015, nominated January 2026, and a transport plan flagged for a tunnel under the old town.",
+  "said_th": "บัญชีเบื้องต้น 2558 เสนอมกราคม 2569 และแผนขนส่งถูกติงเรื่องอุโมงค์ใต้เวียงเก่า"
+ },
+ "region": [
+  "moat"
+ ],
+ "facets": {
+  "status": "study",
+  "era": "planned"
+ },
+ "text": {
+  "what": "Chiang Mai went on the tentative list in 2015 as Monuments, Sites and Cultural Landscape of Chiang Mai, Capital of Lanna: a nominated core of the old city to the outer walls and the Mae Kha canal, 5.30 km², with a Doi Suthep buffer of 165.84 km², 33 attributes, seven temples, five gates and four bastions. A twenty-year transport plan with one underground route directly under the old town was flagged as a conflict in 2019. The cabinet approved the nomination in January 2026 for the 30 January deadline."
+ },
+ "text_th": {
+  "what": "เชียงใหม่ขึ้นบัญชีเบื้องต้นปี 2558 ในชื่อ อนุสรณ์สถาน แหล่ง และภูมิทัศน์วัฒนธรรมของเชียงใหม่ นครหลวงแห่งล้านนา พื้นที่เสนอคือเวียงเก่าถึงกำแพงชั้นนอกและคลองแม่ข่า 5.30 ตร.กม. พื้นที่กันชนดอยสุเทพ 165.84 ตร.กม. 33 คุณลักษณะ เจ็ดวัด ห้าประตู สี่แจ่ง แผนขนส่งยี่สิบปีที่มีเส้นทางใต้ดินหนึ่งสายลอดใต้เวียงเก่าถูกติงว่าขัดแย้งในปี 2562 ครม. เห็นชอบการเสนอมกราคม 2569 ทันกำหนด 30 มกราคม"
+ },
+ "plan": {
+  "status": "study",
+  "as_of": "2026-01",
+  "agency": "Fine Arts Department / Chiang Mai province",
+  "agency_th": "กรมศิลปากร / จังหวัดเชียงใหม่",
+  "announced": "2026-01"
+ },
+ "kin": [
+  {
+   "to": "the-moat",
+   "as": "The core.",
+   "rel": "place"
+  },
+  {
+   "to": "mae-kha-canal",
+   "as": "In the core.",
+   "rel": "place"
+  },
+  {
+   "to": "lrt-red-line",
+   "as": "The plan with the tunnel.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:citylife-unesco",
+  "s:unesco-6003",
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:citylife-unesco"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "unesco-nomination/unesco-nomination-201703291126a-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291126a Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/201703291126a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291126a_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Sri Phum Corner and Tha Phae Gate",
+   "date": "2017-03-29 11:26:16",
+   "primary": true,
+   "sha256": "82838166f4241113c54d08f38dd9903986041c33afa99c6260e3a3954776cb3b"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "lrt-red-line",
+   "type": "plan",
+   "name": "Chiang Mai light rail, the Red Line",
+   "as": "The underground route under the old town was flagged as a conflict."
+  },
+  {
+   "from": "wats-and-rings",
+   "type": "measure",
+   "name": "Wats, zone by zone",
+   "as": "The file."
+  },
+  {
+   "from": "mae-kha-canal",
+   "type": "place",
+   "name": "Mae Kha canal",
+   "as": "Inside the nominated core."
+  }
+ ]
+}

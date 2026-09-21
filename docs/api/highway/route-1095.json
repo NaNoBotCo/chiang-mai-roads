@@ -1,0 +1,99 @@
+{
+ "id": "route-1095",
+ "type": "highway",
+ "names": {
+  "name": "Route 1095, the curve road to Pai",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1095 — ถนนสายปาย",
+  "said": "204 km, two thousand curves by its own account, and the fastest-growing count in the province.",
+  "said_th": "204 กิโล สองพันโค้งตามที่มันว่าเอง และจุดนับที่โตเร็วสุดในจังหวัด"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "northwest",
+  "ref": "1095",
+  "km": 204.023,
+  "era": "siam"
+ },
+ "text": {
+  "what": "From Ban Nong Khong on Route 107 through Pai and Pang Mapha to Mae Hong Son, 204.023 km, realigned to its present start in 1994. Thai Wikipedia gives it more than 2,000 curves; the shirts in Pai say 1,864, a figure this project's sister site measured against the map. The 2020 count at km 0.7 was 2,631 vehicles a day; the 2025 count 5,782, more than double in five years."
+ },
+ "text_th": {
+  "what": "จากบ้านหนองโค้งบนทางหลวง 107 ผ่านปาย ปางมะผ้า ถึงแม่ฮ่องสอน 204.023 กม. ย้ายจุดเริ่มมาที่ปัจจุบันปี 2537 วิกิพีเดียไทยว่ากว่า 2,000 โค้ง เสื้อที่ปายว่า 1,864 ตัวเลขที่เว็บพี่น้องของโครงการนี้วัดเทียบแผนที่ จุดนับ กม.0.7 ปี 2563 ได้ 2,631 คันต่อวัน ปี 2568 ได้ 5,782 มากกว่าสองเท่าในห้าปี"
+ },
+ "road": {
+  "ref": "1095",
+  "km": 204.023,
+  "km_source": "s:thwp-1095",
+  "from": "Nong Khong, Mae Taeng",
+  "from_th": "หนองโค้ง แม่แตง",
+  "to": "Mae Hong Son",
+  "to_th": "แม่ฮ่องสอน",
+  "osm_refs": [
+   "1095"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "route-107",
+   "as": "What it turns off.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "motorbike"
+ ],
+ "sources": [
+  "s:thwp-1095",
+  "s:doh-aadt",
+  "s:motdang-loop"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-1095"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-1095/route-1095-thailand-route-1095.jpg",
+   "source": "commons",
+   "title": "File:Thailand Route 1095.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Thailand_Route_1095.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Route_1095.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Thailand Route 1095 and a minibus going from Chiang Mai to Pai in Mae Taeng District, Chiang Mai Province.",
+   "date": "2018-08-29 14:08:13",
+   "primary": true,
+   "sha256": "98d29fc18592e9627c27b08638368c3501bd901d778593d82f7bf4e4b77837fc"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "route-107",
+   "type": "highway",
+   "name": "Route 107, north to Fang",
+   "as": "Turns off it at km 35."
+  },
+  {
+   "from": "nine-roads-programme",
+   "type": "plan",
+   "name": "The nine roads, 2025–27",
+   "as": "On the list."
+  }
+ ]
+}

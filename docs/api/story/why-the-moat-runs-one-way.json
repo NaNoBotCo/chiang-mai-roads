@@ -1,0 +1,128 @@
+{
+ "id": "why-the-moat-runs-one-way",
+ "type": "story",
+ "names": {
+  "name": "Why the moat runs one way",
+  "th": "ทำไมรอบคูเมืองวิ่งทางเดียว",
+  "said": "Outer bank clockwise, inner counter, and a missed turn costs 6.54 km.",
+  "said_th": "ฝั่งนอกตามเข็ม ฝั่งในทวน และเลี้ยวพลาดเสีย 6.54 กิโล"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The pair of roads the municipality built on the moat's banks in 1948 run as two one-way loops in opposite directions. The year the one-way system began is not on this disk; the fact of it is on Thai Wikipedia and on every windscreen in the city.",
+  "story": "*Inference —* a moat 13 m wide with a road on each bank cannot carry two-way traffic on either without a lane of parking going, and the banks are where the city parks. One-way doubled the capacity of both roads for the price of some U-turns at the corners. The corners are the four chaeng, and the U-turn slots there are the busiest fifty metres of road in the old city.\n\n*Inference —* the cost is paid by anyone who does not know the square. A visitor aiming for Tha Phae Gate from the inside and missing the cut through drives to Katam Corner, round the south, up the west, along the north, and arrives 5 km later at the place they could see when they left. The measurements page's one-way share for the moat zone is the number that describes this.\n\nThe walkable-district pilot of 2021 made Ratchadamnoen one-way inside the square too, which is the same logic applied for the opposite reason: not to move cars faster but to make room for people."
+ },
+ "text_th": {
+  "what": "ถนนคู่ที่เทศบาลสร้างบนตลิ่งคูปี 2491 วิ่งเป็นวงทางเดียวสองวงสวนทางกัน ปีที่ระบบทางเดียวเริ่มบ่มีในแผ่นนี้ ข้อเท็จจริงของมันอยู่ในวิกิพีเดียไทยและบนกระจกหน้ารถทุกคันในเมือง",
+  "story": "*อนุมาน —* คูกว้าง 13 เมตรมีถนนแต่ละฝั่งรับรถสวนกันบ่ได้โดยไม่เสียช่องจอด และตลิ่งคือตี้เมืองจอดรถ ทางเดียวเพิ่มความจุถนนทั้งสองเป็นสองเท่าแลกกับการกลับรถที่แจ่ง แจ่งคือสี่มุม และช่องกลับรถตรงนั้นคือห้าสิบเมตรของถนนที่วุ่นวายที่สุดในเวียงเก่า\n\n*อนุมาน —* ราคาจ่ายโดยใครก็ตามที่บ่ฮู้จักสี่เหลี่ยม คนมาใหม่ที่เล็งประตูท่าแพจากข้างในและพลาดช่องตัดผ่าน ขับไปแจ่งก๊ะต๊ำ อ้อมใต้ ขึ้นตะวันตก เลียบเหนือ และมาถึงอีก 5 กิโลต่อมาที่ตี้ที่เขาเห็นตอนออกตัว สัดส่วนทางเดียวของโซนในคูบนหน้าการวัดคือตัวเลขที่บรรยายสิ่งนี้\n\nโครงการนำร่องย่านเดินได้ปี 2564 ทำราชดำเนินในเวียงเป็นทางเดียวด้วย ซึ่งเป็นตรรกะเดียวกันด้วยเหตุผลตรงข้าม บ่ใช่เพื่อให้รถเร็วขึ้น แต่เพื่อให้ที่แก่คน"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The loop.",
+   "rel": "ring"
+  },
+  {
+   "to": "ratchadamnoen-road",
+   "as": "The inside one-way.",
+   "rel": "road"
+  },
+  {
+   "to": "katam-corner",
+   "as": "Where the missed turn is paid for.",
+   "rel": "gate"
+  },
+  {
+   "to": "one-way-share",
+   "as": "The number.",
+   "rel": "measure"
+  }
+ ],
+ "tags": [
+  "one-way",
+  "fun"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:cmnews-1651264",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "why-the-moat-runs-one-way/why-the-moat-runs-one-way-201703291143a-p-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291143a P Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/201703291143a_P_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291143a_P_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Chang Phuak Gate and Sri Phum Corner",
+   "date": "2017-03-29 11:43:03",
+   "primary": true,
+   "sha256": "23fb8d65a72db27909fd1ec7c6b03e93ef24a69cd02da3df8180fa3e6bee4a9c"
+  },
+  {
+   "file": "why-the-moat-runs-one-way/why-the-moat-runs-one-way-chiang-mai-moat-and-road.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Moat and Road.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiang_Mai_Moat_and_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Moat_and_Road.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Douglas Perkins",
+   "credit": "Own work",
+   "alt": "The moat of Chiang Mai during the day.  A road is on the left, and the moat is on the right.  This picture was taken on the north side of the city center.  Thailand.",
+   "date": "2014-12-26 10:51:47",
+   "primary": false,
+   "sha256": "065628ce8a62dd68f926bddabdd43e4ed02f785cda8f4a01d3d046d476b39cce"
+  },
+  {
+   "file": "why-the-moat-runs-one-way/why-the-moat-runs-one-way-moat-in-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Moat in Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Moat_in_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMoat_in_Chiang_Mai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Moat in the east of Chiang Mai.",
+   "date": "2018-09-06 12:28:21",
+   "primary": false,
+   "sha256": "7135a8e2f4e8f3d93665e462c03a43a57a3b8cb7aeb55db101b3a53ad8228fc3"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "moat-loop",
+   "type": "ring",
+   "name": "The moat loop",
+   "as": "The argument."
+  },
+  {
+   "from": "one-way-share",
+   "type": "measure",
+   "name": "How much of the road runs one way",
+   "as": "The argument."
+  }
+ ]
+}

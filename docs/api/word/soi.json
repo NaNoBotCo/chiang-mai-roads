@@ -1,0 +1,120 @@
+{
+ "id": "soi",
+ "type": "word",
+ "names": {
+  "name": "ซอย soi",
+  "th": "ซอย",
+  "rtgs": "soi"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ซอย soi — from the verb to slice or cut into strips; a soi is a cut off a main road. Numbered along the road, even numbers on one side and odd on the other; a trok is the level below. Named sois often carry a landowner's name.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The Bangkok word and the postal one. Every lane on the map that has a number has it because of this system; the ones that have a name instead are older or prouder."
+ },
+ "text_th": {
+  "what": "คำกรุงเทพและคำไปรษณีย์ ทุกซอยบนแผนที่ที่มีเลขมีเพราะระบบนี้ ซอยที่มีชื่อแทนเลขนั้นเก่ากว่าหรือหยิ่งกว่า"
+ },
+ "word": {
+  "th": "ซอย",
+  "rtgs": "soi",
+  "ipa": "/sɔːj/",
+  "standard": "ซอย",
+  "standard_rtgs": "soi",
+  "gloss": "a side street off a main road, numbered along it",
+  "gloss_th": "ซอยแยกจากถนนหลัก",
+  "example": "ซอยนิมมานเหมินท์ 1",
+  "example_gloss": "Soi Nimmanhaemin 1 — the first cut off Nimman"
+ },
+ "kin": [
+  {
+   "to": "hom",
+   "as": "The northern word.",
+   "rel": "word"
+  },
+  {
+   "to": "soi-numbering",
+   "as": "How the numbers work.",
+   "rel": "lane"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai",
+  "s:thwp-soi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "soi/soi-ban-nanuea-soi-2-street-01.jpg",
+   "source": "commons",
+   "title": "File:Ban Nanuea Soi 2 (street) 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ban_Nanuea_Soi_2_%28street%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABan_Nanuea_Soi_2_%28street%29_01.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "This is Arthur Morganar (RDR2-THR)",
+   "credit": "Own work",
+   "alt": "Ban Nanuea Soi 2 This is the local street from Thailand. IMG20240923183042.",
+   "date": "2024-09-23 18:30:39",
+   "primary": true,
+   "sha256": "0fe7e8fd32271e4c14a70cad985fc90cc5e9f49253aba49e0ebfb1512b711b9b"
+  },
+  {
+   "file": "soi/soi-chiang-mai-moonmuang-road-soi-7-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Moonmuang Road Soi 7 - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chiang_Mai_-_Moonmuang_Road_Soi_7_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Moonmuang_Road_Soi_7_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Moonmuang Road Soi 7, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": false,
+   "sha256": "187d85f46fa7500f9204abb98ea32217e82965d800fb428108e2c950da0fddf0"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "soi-numbering",
+   "type": "lane",
+   "name": "How a soi gets its number",
+   "as": "The word."
+  },
+  {
+   "from": "soi-count",
+   "type": "measure",
+   "name": "Sois, counted by name",
+   "as": "The word."
+  },
+  {
+   "from": "hom",
+   "type": "word",
+   "name": "ฮ่อม hom",
+   "as": "The Bangkok word."
+  }
+ ]
+}

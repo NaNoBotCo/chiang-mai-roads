@@ -1,0 +1,117 @@
+{
+ "id": "route-118",
+ "type": "highway",
+ "names": {
+  "name": "Route 118, to Chiang Rai",
+  "th": "ทางหลวงแผ่นดินหมายเลข 118 — เชียงใหม่–เชียงราย",
+  "said": "158.5 km over the mountains, and the last 17.5 km of four-laning due 2026.",
+  "said_th": "158.5 กิโลข้ามดอย และ 17.5 กิโลสุดท้ายของสี่เลนกำหนด 2569"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "northeast",
+  "ref": "118",
+  "km": 158.65,
+  "era": "now"
+ },
+ "text": {
+  "what": "Chiang Mai to Doi Saket, Wiang Pa Pao, Mae Suai and Mae Lao on Route 1, 158.65 km. The first 14 km out of the city are four to eight lanes and the 2024 count at km 0.5 read 82,500 vehicles a day, the second busiest station in the province. The whole road is being four-laned: Chiang Mai–Doi Saket 20.2 km done October 2008; Pong Pha Tong–Ban Pong 28.5 km October 2019; Pa Miang–Pang Nam Thu 9.25 km March 2020; five sections of 42.8 km in 2020–21; and the last stretch from Mae Suai to Route 1, 17.473 km for 2,000 million baht, under contract for 2026."
+ },
+ "text_th": {
+  "what": "เชียงใหม่ถึงดอยสะเก็ด เวียงป่าเป้า แม่สรวย และแม่ลาวบนทางหลวง 1 158.65 กม. 14 กม. แรกออกจากเมืองเป็นสี่ถึงแปดเลน จุดนับ กม.0.5 ปี 2567 อ่านได้ 82,500 คันต่อวัน สถานีที่รถมากเป็นอันดับสองของจังหวัด ทั้งสายกำลังขยายสี่เลน เชียงใหม่–ดอยสะเก็ด 20.2 กม. เสร็จตุลาคม 2551 โป่งผาทอง–บ้านโป่ง 28.5 กม. ตุลาคม 2562 ป่าเมี่ยง–ปางน้ำถุ 9.25 กม. มีนาคม 2563 ห้าช่วง 42.8 กม. ปี 2563–64 และช่วงสุดท้ายแม่สรวยถึงทางหลวง 1 17.473 กม. 2,000 ล้านบาท สัญญากำหนด 2569"
+ },
+ "road": {
+  "ref": "118",
+  "km": 158.65,
+  "km_source": "s:thwp-118",
+  "from": "Chiang Mai",
+  "from_th": "เชียงใหม่",
+  "to": "Mae Lao, Chiang Rai",
+  "to_th": "แม่ลาว เชียงราย",
+  "osm_refs": [
+   "118"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "motorway-chiang-mai-chiang-rai",
+   "as": "The road that would bypass it.",
+   "rel": "plan"
+  },
+  {
+   "to": "fa-ham-underpass",
+   "as": "Its junction with the Superhighway.",
+   "rel": "junction"
+  }
+ ],
+ "sources": [
+  "s:thwp-118",
+  "s:feasy-118",
+  "s:cri108-15492",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-118"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-118/route-118-ban-wiang-pa-pao-panoramio-chamrat-charoenkhet-2.jpg",
+   "source": "commons",
+   "title": "File:Ban Wiang Pa Pao - panoramio - CHAMRAT CHAROENKHET (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ban_Wiang_Pa_Pao_-_panoramio_-_CHAMRAT_CHAROENKHET_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABan_Wiang_Pa_Pao_-_panoramio_-_CHAMRAT_CHAROENKHET_%282%29.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "CHAMRAT CHAROENKHET",
+   "credit": "https://web.archive.org/web/20170830174322/http://www.panoramio.com:80/photo/9668935",
+   "alt": "Ban Wiang Pa Pao",
+   "date": "Taken on 17 April 2008",
+   "primary": true,
+   "sha256": "50c7cc480ba34d4bc9717035e93fc8e2fd0a0e9f14639a9a316b94c1ad4e69f7"
+  },
+  {
+   "file": "route-118/route-118-th-hw-118-map-2.png",
+   "source": "commons",
+   "title": "File:TH HW 118 map 2.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/TH_HW_118_map_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATH_HW_118_map_2.png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "SARANPHONG YIMKLAN",
+   "credit": "Own work",
+   "alt": "TH HW 118 map 2",
+   "date": "2016-03-15",
+   "primary": false,
+   "sha256": "9c4ceaa04b788ad52681d09632e5657fd1306a49f711a2eb4cb57ca14f60c2de"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "motorway-chiang-mai-chiang-rai",
+   "type": "plan",
+   "name": "Chiang Mai–Chiang Rai motorway, MR1-3",
+   "as": "What it would bypass."
+  },
+  {
+   "from": "route-118-four-lanes",
+   "type": "plan",
+   "name": "Four-laning Route 118 to Chiang Rai",
+   "as": "The road."
+  }
+ ]
+}

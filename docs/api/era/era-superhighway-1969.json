@@ -1,0 +1,109 @@
+{
+ "id": "era-superhighway-1969",
+ "type": "era",
+ "names": {
+  "name": "1960s–70s — the Superhighway",
+  "th": "ทศวรรษ 2510 — ซุปเปอร์ไฮเวย์",
+  "said": "A two-lane bypass to Lampang becomes the first ring, and the city's edge jumps three kilometres.",
+  "said_th": "ทางเลี่ยงสองเลนไปลำปางกลายเป็นวงแหวนแรก และขอบเมืองกระโดดไปสามกิโล"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "superhighway",
+  "order": 6
+ },
+ "text": {
+  "what": "The Department of Highways' Lampang centre builds the Chiang Mai–Lampang road, Route 11, in 1968–69, two lanes, to shorten the run to Bangkok; traffic on the old Lamphun road falls away. Its last ten kilometres skirt the city on the north and east and become, with Mahidol Road (surveyed 1970, built 1972, 7.4 km) on the south and Nimmanhaemin on the west, the first ring. The university opens 1964 on the Nimmanhaemin land; the concrete Nawarat Bridge opens 1967.",
+  "story": "*Inference —* the Superhighway was not built as a ring. It was built as a bypass, and a bypass becomes a ring the moment the city grows past it, which took about fifteen years. Every ring in Chiang Mai has been an edge that turned into a middle."
+ },
+ "text_th": {
+  "what": "ศูนย์สร้างทางลำปาง กรมทางหลวง สร้างถนนเชียงใหม่–ลำปาง ทางหลวง 11 ปี 2511–12 สองเลน เพื่อย่นทางไปกรุงเทพฯ รถบนถนนลำพูนสายเก่าลดฮวบ สิบกิโลเมตรสุดท้ายเลียบเมืองด้านเหนือและตะวันออก และกลายเป็นวงแหวนแรกร่วมกับถนนมหิดล สำรวจ 2513 สร้าง 2515 7.4 กม. ทางใต้ และนิมมานเหมินท์ทางตะวันตก มหาวิทยาลัยเปิด 2507 บนที่ดินนิมมานเหมินท์ ขัวคอนกรีตนวรัฐเปิด 2510",
+  "story": "*อนุมาน —* ซุปเปอร์ไฮเวย์บ่ได้ถูกสร้างเป็นวงแหวน มันถูกสร้างเป็นทางเลี่ยง และทางเลี่ยงกลายเป็นวงแหวนทันทีที่เมืองโตข้ามมัน ซึ่งใช้เวลาราวสิบห้าปี วงแหวนทุกวงในเชียงใหม่คือขอบที่กลายเป็นกลาง"
+ },
+ "kin": [
+  {
+   "to": "route-11",
+   "as": "The road.",
+   "rel": "highway"
+  },
+  {
+   "to": "ring-1",
+   "as": "What it became.",
+   "rel": "ring"
+  },
+  {
+   "to": "mahidol-road",
+   "as": "The southern arc.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:cmu-thesis-2548",
+  "s:thwp-11",
+  "s:thwp-mahidol",
+  "s:thwp-nimman"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmu-thesis-2548"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-superhighway-1969/era-superhighway-1969-chiang-mai-1945.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai 1945.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chiang_Mai_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_1945.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Survey of India Offices",
+   "credit": "University of Wisconsin-Milwaukee Libraries - https://collections.lib.uwm.edu/digital/collection/agdm/id/6966/rec/1",
+   "alt": "Old map of Chiang Mai (Thailand) in 1945. Printed at the Survey of India Offices. Size: 57 x 87 cm. Scale: \t\n1:5,000. Repository: American Geographical Society Library, University of Wisconsin-Milwauk",
+   "date": "1945",
+   "primary": true,
+   "sha256": "b14a43683b9d987707671b08167af41aa288154c088f035fcf2e592c0021f7bb"
+  },
+  {
+   "file": "era-superhighway-1969/era-superhighway-1969-thai-highway-11.jpg",
+   "source": "commons",
+   "title": "File:Thai Highway 11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thai_Highway_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_Highway_11.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+   "credit": "Own work",
+   "alt": "Thai Highway 11Location: Wat Khung Taphao, Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit, Uttaradit Province, Thailand.",
+   "date": "2009",
+   "primary": false,
+   "sha256": "36dbd379d06bdbaf11aa6d2cd70ca520c22d96e72bcf4a07e27941db39a464db"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "route-11",
+   "type": "highway",
+   "name": "Route 11, the Superhighway",
+   "as": "Its era."
+  }
+ ]
+}

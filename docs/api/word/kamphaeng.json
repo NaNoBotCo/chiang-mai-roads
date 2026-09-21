@@ -1,0 +1,87 @@
+{
+ "id": "kamphaeng",
+ "type": "word",
+ "names": {
+  "name": "กำแพง kamphaeng",
+  "th": "กำแพง",
+  "rtgs": "kamphaeng"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "กำแพง kamphaeng ← Khmer កំពែង kampaeng. Kamphaeng Din, the earthen wall, is the outer one; the brick wall by the moat has no separate name because it is the wall.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The wall. In Chiang Mai there are two, and only the earthen one gets a qualifier."
+ },
+ "text_th": {
+  "what": "กำแพง ในเชียงใหม่มีสองชั้น และมีแค่ชั้นดินที่ต้องบอกว่าดิน"
+ },
+ "word": {
+  "th": "กำแพง",
+  "rtgs": "kamphaeng",
+  "ipa": "/kam.pʰɛːŋ/",
+  "standard": "กำแพง",
+  "standard_rtgs": "kamphaeng",
+  "gloss": "wall; city wall",
+  "gloss_th": "กำแพงเมือง",
+  "example": "กำแพงดิน",
+  "example_gloss": "Kamphaeng Din — the earth wall"
+ },
+ "kin": [
+  {
+   "to": "kamphaeng-din",
+   "as": "The earthen one.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "kamphaeng/kamphaeng-201703291207c-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291207c Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/201703291207c_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291207c_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Hua Rin Corner and Chang Phuak Gate",
+   "date": "2017-03-29 12:07:44",
+   "primary": true,
+   "sha256": "057be677edcb8975a7f791793a8dc56c5a47e26e07a1d367bd1e9ea14ab3a37a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "kamphaeng-din",
+   "type": "place",
+   "name": "Kamphaeng Din, the earthen wall",
+   "as": "The word."
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "id": "network-km",
+ "type": "measure",
+ "names": {
+  "name": "The network, in kilometres",
+  "th": "โครงข่าย เป็นกิโลเมตร",
+  "said": "8,055 km of every kind of way in the box; 6,934 drivable; 5,972 of it lane.",
+  "said_th": "ทางทุกชนิด 8,055 กม. ในกรอบ รถวิ่งได้ 6,934 เป็นฮ่อม 5,972"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "52,389 ways. By class: residential 4,280 km, service 1,238 km, track 494 km, unclassified 454 km, path 337 km, tertiary 312 km, primary 288 km, secondary 250 km, footway 189 km. 1,055 km of footway, path, track and steps. 4,757 km of lane with no name at all. The municipality's own count for its 40 km² is 699 roads and 255.65 km; the box is fourteen times that area and the map holds lanes the municipality does not list.",
+  "story": "*Inference —* the highway department counts traffic on a few dozen kilometres of this; the municipality maintains a few hundred; the rest is the city, and it is on nobody's ledger but the volunteers'. Every number here is a floor."
+ },
+ "text_th": {
+  "what": "52,389 เส้นทาง ตามชั้น: residential 4,280 กม., service 1,238 กม., track 494 กม., unclassified 454 กม., path 337 กม., tertiary 312 กม., primary 288 กม., secondary 250 กม., footway 189 กม. ทางเท้า ทางเดิน ทางลำลอง และบันได 1,055 กม. ฮ่อมไม่มีชื่อเลย 4,757 กม. เทศบาลนับของตัวเองใน 40 ตร.กม. ได้ถนน 699 สาย 255.65 กม. กรอบใหญ่กว่านั้นสิบสี่เท่าและแผนที่มีฮ่อมที่เทศบาลไม่ได้ขึ้นบัญชี",
+  "story": "*อนุมาน —* กรมทางหลวงนับรถบนไม่กี่สิบกิโลเมตรของสิ่งนี้ เทศบาลดูแลไม่กี่ร้อย ที่เหลือคือเมือง และมันอยู่ในบัญชีของใครก็บ่ใช่ นอกจากอาสาสมัคร ทุกตัวเลขที่นี่คือค่าต่ำสุด"
+ },
+ "figure": {
+  "value": 8055,
+  "unit": "km of way in the box",
+  "unit_th": "กม. ทางในกรอบ",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "residential",
+    "value": 4280
+   },
+   {
+    "label": "service",
+    "value": 1238
+   },
+   {
+    "label": "track",
+    "value": 494
+   },
+   {
+    "label": "unclassified",
+    "value": 454
+   },
+   {
+    "label": "path",
+    "value": 337
+   },
+   {
+    "label": "tertiary",
+    "value": 312
+   },
+   {
+    "label": "primary",
+    "value": 288
+   },
+   {
+    "label": "secondary",
+    "value": 250
+   },
+   {
+    "label": "footway",
+    "value": 189
+   },
+   {
+    "label": "trunk",
+    "value": 48
+   }
+  ],
+  "method": "Sum of haversine lengths of every highway=* way in the box [18.66, 98.86, 18.92, 99.1], fetched 2026-09-21.",
+  "method_th": "ผลรวมความยาว haversine ของทุกเส้นทาง highway=* ในกรอบ [18.66, 98.86, 18.92, 99.1] ดึง 2026-09-21"
+ },
+ "kin": [
+  {
+   "to": "municipal-roads",
+   "as": "The municipality's own count.",
+   "rel": "traffic"
+  },
+  {
+   "to": "hom-the-lane",
+   "as": "Where most of it is.",
+   "rel": "lane"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "municipal-roads",
+   "type": "traffic",
+   "name": "The municipality's roads, counted by the municipality",
+   "as": "The map's count."
+  }
+ ]
+}

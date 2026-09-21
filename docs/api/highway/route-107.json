@@ -1,0 +1,132 @@
+{
+ "id": "route-107",
+ "type": "highway",
+ "names": {
+  "name": "Route 107, north to Fang",
+  "th": "ทางหลวงแผ่นดินหมายเลข 107 — เชียงใหม่–ฝาง",
+  "said": "240 km north, four lanes to Mae Rim and now to Chiang Dao.",
+  "said_th": "240 กิโลขึ้นเหนือ สี่เลนถึงแม่ริม และตอนนี้ถึงเชียงดาว"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "north",
+  "ref": "107",
+  "km": 240.301,
+  "era": "siam"
+ },
+ "text": {
+  "what": "From Chang Phueak Gate through Mae Rim, Mae Taeng, Chiang Dao, Fang and Mae Ai to Route 1 at Mae Chan, 240.3 km, a pre-1937 road. City to Mae Rim is four to six lanes of concrete; Mae Rim to Chiang Dao mostly four. A four-lane contract for 14.3 km between Fang and Mae Ai runs July 2025 to September 2027. The Mae Malai turn onto Route 1095 for Pai is at km 35."
+ },
+ "text_th": {
+  "what": "จากประตูช้างเผือกผ่านแม่ริม แม่แตง เชียงดาว ฝาง แม่อาย ถึงทางหลวง 1 ที่แม่จัน 240.3 กม. ถนนก่อนปี 2480 ในเมืองถึงแม่ริมสี่ถึงหกเลนคอนกรีต แม่ริมถึงเชียงดาวส่วนใหญ่สี่เลน สัญญาสี่เลน 14.3 กม. ระหว่างฝางกับแม่อาย กรกฎาคม 2568 ถึงกันยายน 2570 ทางแยกแม่มาลัยเข้าทางหลวง 1095 ไปปายอยู่ที่ กม.35"
+ },
+ "road": {
+  "ref": "107",
+  "km": 240.301,
+  "km_source": "s:thwp-107",
+  "from": "Chang Phueak Gate",
+  "from_th": "ประตูช้างเผือก",
+  "to": "Mae Chan, Chiang Rai",
+  "to_th": "แม่จัน เชียงราย",
+  "osm_refs": [
+   "107"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "chotana-road",
+   "as": "Its city name.",
+   "rel": "road"
+  },
+  {
+   "to": "route-1095",
+   "as": "Turns off it at km 35.",
+   "rel": "highway"
+  },
+  {
+   "to": "chang-phueak-gate",
+   "as": "Its start.",
+   "rel": "gate"
+  }
+ ],
+ "sources": [
+  "s:thwp-107",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-107"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-107/route-107-chiang-dao-thailand-panoramio-gary4now-1.jpg",
+   "source": "commons",
+   "title": "File:Chiang Dao, Thailand - panoramio - gary4now (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Chiang_Dao%2C_Thailand_-_panoramio_-_gary4now_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Dao%2C_Thailand_-_panoramio_-_gary4now_%281%29.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "gary4now",
+   "credit": "https://web.archive.org/web/20161017152929/http://www.panoramio.com/photo/47788894",
+   "alt": "Chiang Dao, Thailand",
+   "date": "Taken on 20 October 2009",
+   "primary": true,
+   "sha256": "669ad88edbe7fba9b1361177f4c239fa9377a2d431882c04c9620e911d976863"
+  },
+  {
+   "file": "route-107/route-107-map-of-thailand-highway-107.png",
+   "source": "commons",
+   "title": "File:Map of Thailand Highway 107.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Map_of_Thailand_Highway_107.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Thailand_Highway_107.png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "SARANPHONG YIMKLAN",
+   "credit": "Own work",
+   "alt": "Map of Thailand Highway 107",
+   "date": "2016-03-14",
+   "primary": false,
+   "sha256": "b7ea961420c61460c7db416bdf89a3de1b8648350ebf27c1664ac50845639576"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chotana-road",
+   "type": "road",
+   "name": "Chotana Road",
+   "as": "The whole road."
+  },
+  {
+   "from": "chang-phueak-gate",
+   "type": "gate",
+   "name": "Chang Phueak Gate",
+   "as": "The road that leaves from here."
+  },
+  {
+   "from": "route-1095",
+   "type": "highway",
+   "name": "Route 1095, the curve road to Pai",
+   "as": "What it turns off."
+  },
+  {
+   "from": "tim-chotana",
+   "type": "person",
+   "name": "Tim Chotana",
+   "as": "The road."
+  }
+ ]
+}

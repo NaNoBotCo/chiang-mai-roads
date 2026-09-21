@@ -1,0 +1,134 @@
+{
+ "id": "ratchadamnoen-road",
+ "type": "road",
+ "names": {
+  "name": "Ratchadamnoen Road",
+  "th": "ถนนราชดำเนิน",
+  "rtgs": "Thanon Ratchadamnoen",
+  "said": "Gate to temple, 1.5 km, and one-way since 2021 so people can walk it.",
+  "said_th": "ปะตู๋เถิงวัด 1.5 กิโล และทางเดียวตั้งแต่ 2564 เปื้อหื้อคนเตียวได้"
+ },
+ "region": [
+  "moat"
+ ],
+ "facets": {
+  "era": "mangrai",
+  "km": 1.5,
+  "oneway": true
+ },
+ "text": {
+  "what": "The old city's spine, from Tha Phae Gate west to Wat Phra Singh, about 1.5 km. The Sunday walking street moved here on 31 August 2004 from Tha Phae Road. From 6 May 2021 the municipality made it one-way as part of a walkable-district pilot.",
+  "story": "*Inference —* it is the founding axis of 1296, and it has been a road for pedestrians one day a week since 2004 and a one-way road every day since 2021. Inside the moat, the old streets are being handed back to feet in stages."
+ },
+ "text_th": {
+  "what": "กระดูกสันหลังของเวียงเก่า จากประตูท่าแพไปตะวันตกถึงวัดพระสิงห์ ราว 1.5 กม. ถนนคนเดินวันอาทิตย์ย้ายมาที่นี่ 31 สิงหาคม 2547 จากถนนท่าแพ ตั้งแต่ 6 พฤษภาคม 2564 เทศบาลทำเป็นทางเดียวในโครงการนำร่องเตียว-หย้อง-เมืองเจียงใหม่",
+  "story": "*อนุมาน —* มันคือแกนตั้งเมืองปี 1839 และเป็นถนนของคนเดินสัปดาห์ละวันตั้งแต่ 2547 กับทางเดียวทุกวันตั้งแต่ 2564 ในเวียง ถนนเก่ากำลังถูกคืนให้เท้าทีละขั้น"
+ },
+ "road": {
+  "km": 1.5,
+  "km_source": "s:cmcity-8198",
+  "oneway": true,
+  "from": "Tha Phae Gate",
+  "from_th": "ประตูท่าแพ",
+  "to": "Wat Phra Singh",
+  "to_th": "วัดพระสิงห์",
+  "osm_names": [
+   "ถนนราชดำเนิน",
+   "Ratchadamnoen Road",
+   "Rachadamnoen Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.788,
+  "lon": 98.988,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "sunday-walking-street",
+   "as": "Sundays.",
+   "rel": "story"
+  },
+  {
+   "to": "tha-phae-gate",
+   "as": "Its east end.",
+   "rel": "gate"
+  },
+  {
+   "to": "moat-loop",
+   "as": "The other one-way system.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "walk",
+  "one-way",
+  "heritage",
+  "market"
+ ],
+ "sources": [
+  "s:cmcity-8198",
+  "s:cmnews-1651264"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmcity-8198"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ratchadamnoen-road/ratchadamnoen-road-chiangmainightmarket.jpg",
+   "source": "commons",
+   "title": "File:ChiangMaiNightMarket.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/ChiangMaiNightMarket.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangMaiNightMarket.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage",
+   "credit": "Own work",
+   "alt": "Sunday Walking Market, Ratchadamnoen Road, Chiang Mai, Thailand.",
+   "date": "12 April 2012 (original upload date)",
+   "primary": true,
+   "sha256": "6778fd9b0892c6f0211591d5d252a339c1696ef8ecfd806a39ca367173930948"
+  },
+  {
+   "file": "ratchadamnoen-road/ratchadamnoen-road-chiang-mai-sunday-evening-walking-street.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai sunday evening walking street.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chiang_Mai_sunday_evening_walking_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_sunday_evening_walking_street.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "The Sunday evening walking street is a market which is held in Chiang Mai on Rachadamnoen road, the main road through the old city which leads from Tapae gate to Wat Phra Singh, and its side streets. ",
+   "date": "2010-02-28",
+   "primary": false,
+   "sha256": "06448d35c917606dbb148fa321d263c511aab206209be7da53db01742bbbc26e"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "sunday-walking-street",
+   "type": "story",
+   "name": "The walking street, and how a road becomes a floor",
+   "as": "The road."
+  },
+  {
+   "from": "why-the-moat-runs-one-way",
+   "type": "story",
+   "name": "Why the moat runs one way",
+   "as": "The inside one-way."
+  }
+ ]
+}

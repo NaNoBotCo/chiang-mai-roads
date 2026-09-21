@@ -1,0 +1,400 @@
+{
+ "types": {
+  "note": "Fifteen kinds of record. `path` is the URL directory; `one` the singular label; `group_by` a facet the index groups by.",
+  "entries": [
+   {
+    "key": "road",
+    "name": "Roads",
+    "th": "ถนน",
+    "one": "road",
+    "path": "road",
+    "blurb": "The named streets of the city, from Tha Phae to the airport road. What each is for, what it was before, and what it carries.",
+    "th_blurb": "ถนนที่มีชื่อของเมือง จากท่าแพถึงถนนสนามบิน แต่ละสายมีไว้ทำอะไร เคยเป็นอะไร และรับอะไรอยู่",
+    "group_by": "facets.era",
+    "icon": "road"
+   },
+   {
+    "key": "ring",
+    "name": "Rings",
+    "th": "วงแหวน",
+    "one": "ring",
+    "path": "ring",
+    "blurb": "The moat loop and the three ring roads around it. Each one a decision about where the city ends.",
+    "th_blurb": "ถนนรอบคูเมืองและถนนวงแหวนสามวงที่ล้อมมัน แต่ละวงคือการตัดสินใจว่าเมืองจบตรงไหน",
+    "icon": "ring"
+   },
+   {
+    "key": "lane",
+    "name": "Lanes and alleys",
+    "th": "ฮ่อม · ซอย",
+    "one": "lane",
+    "path": "lane",
+    "blurb": "The hom and the soi. Where the city is lived rather than driven through.",
+    "th_blurb": "ฮ่อมและซอย ตี้เมืองถูกอยู่อาศัยมากกว่าถูกขับผ่าน",
+    "icon": "lane"
+   },
+   {
+    "key": "gate",
+    "name": "Gates and corners",
+    "th": "ประตู · แจ่ง",
+    "one": "gate",
+    "path": "gate",
+    "blurb": "Five gates, four corners. Where the roads of 1296 still meet the roads of now.",
+    "th_blurb": "ห้าประตู สี่แจ่ง ตี้ถนนของปี 1839 ยังพบถนนของวันนี้",
+    "icon": "gate"
+   },
+   {
+    "key": "junction",
+    "name": "Junctions",
+    "th": "แยก · อุโมงค์",
+    "one": "junction",
+    "path": "junction",
+    "blurb": "The named intersections, underpasses and flyovers. Each one a place the city argued about.",
+    "th_blurb": "แยกที่มีชื่อ ทางลอดและสะพานข้ามแยก แต่ละแห่งคือตี้ที่เมืองเคยเถียงกัน",
+    "icon": "junction"
+   },
+   {
+    "key": "bridge",
+    "name": "Bridges",
+    "th": "ขัว · สะพาน",
+    "one": "bridge",
+    "path": "bridge",
+    "blurb": "Every road crossing of the Ping, counted from the map, and the ones with a story.",
+    "th_blurb": "ทุกขัวข้ามแม่ปิง นับจากแผนที่ และขัวที่มีเรื่องเล่า",
+    "icon": "bridge"
+   },
+   {
+    "key": "highway",
+    "name": "Highways out",
+    "th": "ทางหลวงออกเมือง",
+    "one": "highway",
+    "path": "highway",
+    "blurb": "The numbered roads to Lampang, Lamphun, Chiang Rai, Mae Hong Son, Fang and Bangkok.",
+    "th_blurb": "ทางหลวงหมายเลขไปลำปาง ลำพูน เชียงราย แม่ฮ่องสอน ฝาง และกรุงเทพฯ",
+    "group_by": "facets.direction",
+    "icon": "highway"
+   },
+   {
+    "key": "plan",
+    "name": "Plans",
+    "th": "แผน · โครงการ",
+    "one": "plan",
+    "path": "plan",
+    "blurb": "What is proposed, funded, under construction, or quietly shelved. Status and date on each.",
+    "th_blurb": "อะไรที่เสนอ ได้งบ กำลังสร้าง หรือเงียบไป พร้อมสถานะและวันที่",
+    "group_by": "facets.status",
+    "icon": "plan"
+   },
+   {
+    "key": "era",
+    "name": "Eras",
+    "th": "ยุค",
+    "one": "era",
+    "path": "era",
+    "blurb": "Seven chapters of road-building, 1296 to now, and what each one did to the city.",
+    "th_blurb": "เจ็ดยุคของการสร้างถนน จาก พ.ศ. 1839 ถึงวันนี้ และแต่ละยุคทำอะไรกับเมือง",
+    "icon": "era"
+   },
+   {
+    "key": "measure",
+    "name": "Measurements",
+    "th": "การวัด",
+    "one": "measurement",
+    "path": "measure",
+    "blurb": "What the network shows when it is counted: grid, dead ends, block length, and where the rings cut.",
+    "th_blurb": "โครงข่ายบอกอะไรเมื่อถูกนับ ตาราง ทางตัน ความยาวบล็อก และวงแหวนตัดตรงไหน",
+    "icon": "measure"
+   },
+   {
+    "key": "traffic",
+    "name": "Traffic",
+    "th": "จราจร",
+    "one": "traffic figure",
+    "path": "traffic",
+    "blurb": "Counts, registrations, deaths, and the songthaew. Each with its year and its source.",
+    "th_blurb": "ปริมาณรถ ทะเบียน ผู้เสียชีวิต และรถแดง แต่ละอย่างมีปีและแหล่งที่มา",
+    "icon": "traffic"
+   },
+   {
+    "key": "word",
+    "name": "Words",
+    "th": "กำเมือง",
+    "one": "word",
+    "path": "word",
+    "blurb": "The road words of Kam Mueang, the northern speech: hom, khua, chaeng, kat. Script, sound, root.",
+    "th_blurb": "คำเรื่องถนนในกำเมือง ฮ่อม ขัว แจ่ง กาด ตัวเขียน เสียง รากศัพท์",
+    "icon": "word"
+   },
+   {
+    "key": "story",
+    "name": "Stories",
+    "th": "เรื่องเล่า",
+    "one": "story",
+    "path": "story",
+    "blurb": "The long reads: what a road does to an old city, why the moat runs one way, what the trees on the Lamphun road are for.",
+    "th_blurb": "ฉบับยาว ถนนทำอะไรกับเมืองเก่า ทำไมรอบคูเมืองวิ่งทางเดียว ต้นยางถนนลำพูนมีไว้เพื่ออะไร",
+    "icon": "story"
+   },
+   {
+    "key": "person",
+    "name": "People",
+    "th": "บุคคล",
+    "one": "person",
+    "path": "person",
+    "blurb": "The king who drew the square, the monk who built the mountain road, the family that gave a street its name.",
+    "th_blurb": "กษัตริย์ผู้วางผังสี่เหลี่ยม ครูบาผู้สร้างทางขึ้นดอย และตระกูลที่ให้ชื่อถนน",
+    "icon": "person"
+   },
+   {
+    "key": "place",
+    "name": "Places",
+    "th": "สถานที่",
+    "one": "place",
+    "path": "place",
+    "blurb": "The moat, the river, the mountain, the airport, the station: the things the roads go around.",
+    "th_blurb": "คูเมือง แม่น้ำ ดอย สนามบิน สถานีรถไฟ สิ่งที่ถนนต้องอ้อม",
+    "icon": "place"
+   }
+  ]
+ },
+ "regions": {
+  "note": "Where a record sits. Open list; the validator warns on an unknown key.",
+  "entries": [
+   {
+    "key": "moat",
+    "name": "Inside the moat",
+    "th": "ในเวียง"
+   },
+   {
+    "key": "city",
+    "name": "Chiang Mai city",
+    "th": "เมืองเชียงใหม่"
+   },
+   {
+    "key": "ring1",
+    "name": "Within the Superhighway ring",
+    "th": "ในวงซุปเปอร์ไฮเวย์"
+   },
+   {
+    "key": "ring2",
+    "name": "Middle ring",
+    "th": "วงแหวนรอบกลาง"
+   },
+   {
+    "key": "ring3",
+    "name": "Outer ring",
+    "th": "วงแหวนรอบนอก"
+   },
+   {
+    "key": "province",
+    "name": "Chiang Mai province",
+    "th": "จังหวัดเชียงใหม่"
+   },
+   {
+    "key": "lanna",
+    "name": "Lanna",
+    "th": "ล้านนา"
+   },
+   {
+    "key": "intercity",
+    "name": "Between cities",
+    "th": "ระหว่างเมือง"
+   },
+   {
+    "key": "thailand",
+    "name": "Thailand",
+    "th": "ประเทศไทย"
+   }
+  ]
+ },
+ "facets": {
+  "note": "Known facet keys per type. Values are labels; a record may carry others.",
+  "facets": {
+   "era": {
+    "label": "Era",
+    "th": "ยุค",
+    "values": {
+     "mangrai": "1296 — the square",
+     "lanna": "Lanna and Burma, 1300s–1700s",
+     "kawila": "Kawila's rebuilding, 1796–1900",
+     "siam": "Siam and the railway, 1900–1950",
+     "srivichai": "The monk's road, 1935",
+     "superhighway": "The Superhighway, 1960s–70s",
+     "rings": "The rings, 1980s–2000s",
+     "now": "Now, 2010s–2020s",
+     "planned": "Planned"
+    },
+    "types": [
+     "road",
+     "ring",
+     "lane",
+     "gate",
+     "junction",
+     "bridge",
+     "highway",
+     "plan",
+     "era",
+     "measure",
+     "traffic",
+     "word",
+     "story",
+     "person",
+     "place"
+    ]
+   },
+   "direction": {
+    "label": "Direction out",
+    "th": "ทิศ",
+    "values": {
+     "north": "North — Mae Rim, Fang",
+     "northeast": "Northeast — Doi Saket, Chiang Rai",
+     "east": "East — San Kamphaeng",
+     "south": "South — Lamphun, Lampang, Bangkok",
+     "southwest": "Southwest — Hang Dong, Hot, Mae Hong Son",
+     "west": "West — Samoeng, Doi Suthep",
+     "northwest": "Northwest — Pai"
+    },
+    "types": [
+     "highway",
+     "road"
+    ]
+   },
+   "status": {
+    "label": "Status",
+    "th": "สถานะ",
+    "values": {
+     "built": "Built",
+     "building": "Under construction",
+     "funded": "Funded, not started",
+     "study": "Under study",
+     "shelved": "Shelved",
+     "cancelled": "Cancelled",
+     "unknown": "Status not on this disk"
+    },
+    "types": [
+     "plan",
+     "junction",
+     "ring"
+    ]
+   },
+   "surface": {
+    "label": "Surface",
+    "th": "ผิวทาง",
+    "types": [
+     "road",
+     "highway"
+    ],
+    "values": {}
+   },
+   "ref": {
+    "label": "Route number",
+    "th": "หมายเลขทางหลวง",
+    "types": [
+     "road",
+     "highway",
+     "ring",
+     "junction"
+    ],
+    "values": {}
+   },
+   "lanes": {
+    "label": "Lanes",
+    "th": "ช่องจราจร",
+    "types": [
+     "road",
+     "highway",
+     "ring"
+    ],
+    "values": {}
+   },
+   "oneway": {
+    "label": "One-way",
+    "th": "เดินรถทางเดียว",
+    "types": [
+     "road",
+     "ring",
+     "lane"
+    ],
+    "values": {}
+   },
+   "km": {
+    "label": "Length, km",
+    "th": "ความยาว กม.",
+    "types": [
+     "road",
+     "highway",
+     "ring",
+     "lane",
+     "bridge",
+     "plan"
+    ],
+    "values": {}
+   },
+   "year": {
+    "label": "Year",
+    "th": "ปี",
+    "types": [
+     "road",
+     "ring",
+     "junction",
+     "bridge",
+     "plan",
+     "traffic",
+     "measure",
+     "era"
+    ],
+    "values": {}
+   },
+   "kind": {
+    "label": "Kind",
+    "th": "ชนิด",
+    "types": [
+     "road",
+     "ring",
+     "lane",
+     "gate",
+     "junction",
+     "bridge",
+     "highway",
+     "plan",
+     "era",
+     "measure",
+     "traffic",
+     "word",
+     "story",
+     "person",
+     "place"
+    ],
+    "values": {}
+   },
+   "order": {
+    "label": "Order",
+    "th": "ลำดับ",
+    "types": [
+     "era"
+    ],
+    "values": {}
+   }
+  }
+ },
+ "tags": {
+  "note": "Free tags. A tag is a reader's handle, not a claim.",
+  "tags": {
+   "one-way": "the loop runs one way",
+   "heritage": "touches the old city fabric",
+   "flood": "floods",
+   "trees": "a tree-lined road",
+   "motorbike": "a motorbike road",
+   "walk": "walkable",
+   "night": "a night road",
+   "market": "a market road",
+   "wat": "leads to or past a wat",
+   "university": "the university side",
+   "airport": "the airport side",
+   "construction": "being built",
+   "controversy": "argued about",
+   "lanna": "a Lanna word or thing",
+   "fun": "the fun bits"
+  }
+ }
+}

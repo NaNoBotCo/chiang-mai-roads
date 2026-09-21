@@ -1,0 +1,116 @@
+{
+ "id": "chiang-mai-airport",
+ "type": "place",
+ "names": {
+  "name": "Chiang Mai Airport",
+  "th": "ท่าอากาศยานเชียงใหม่",
+  "rtgs": "Tha Akatsayan Chiang Mai",
+  "said": "Four kilometres from the moat, which is the whole problem and the whole convenience.",
+  "said_th": "สี่กิโลจากคูเมือง นี่คือปัญหาทั้งหมดและความสะดวกทั้งหมด"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "The airport sits inside the first ring, so close to the old city that Mahidol Road, the southern arc of that ring, had to be threaded past its fence. An upgrade of 24,000 million baht runs from 2025, and a second airport is planned across the provincial line at Ban Thi."
+ },
+ "text_th": {
+  "what": "สนามบินอยู่ในวงแหวนรอบแรก ใกล้เวียงเก่าขนาดถนนมหิดล ส่วนโค้งด้านใต้ของวงนั้น ต้องร้อยผ่านรั้วสนามบิน มีแผนปรับปรุง 24,000 ล้านบาทตั้งแต่ปี 2568 และวางแผนสนามบินแห่งที่สองข้ามเขตจังหวัดที่บ้านธิ"
+ },
+ "geo": {
+  "lat": 18.7668,
+  "lon": 98.9626,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "mahidol-road",
+   "as": "Threaded past it.",
+   "rel": "road"
+  },
+  {
+   "to": "lanna-airport",
+   "as": "Its planned successor.",
+   "rel": "plan"
+  },
+  {
+   "to": "airport-junction",
+   "as": "The junction at its gate.",
+   "rel": "junction"
+  }
+ ],
+ "tags": [
+  "airport"
+ ],
+ "sources": [
+  "s:wp-cnx-airport",
+  "s:bkkbiz-1153345"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-cnx-airport"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chiang-mai-airport/chiang-mai-airport-chiang-mai-airport-runway-aerial-view.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Airport runway aerial view.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chiang_Mai_Airport_runway_aerial_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Airport_runway_aerial_view.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Adbar",
+   "credit": "Own work",
+   "alt": "Aerial view of Chiang Mai International Airport's runways and of the southern part of the city. Picture taken from Doi Suthep temple.",
+   "date": "2013-04-28 16:20:01",
+   "primary": true,
+   "sha256": "83b3491fa911b4207b17836ec1693f230482e9b93da565c66e4c6d87e715b27a"
+  },
+  {
+   "file": "chiang-mai-airport/chiang-mai-airport-chiang-mai-international-airport-2025.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai International Airport 2025.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Chiang_Mai_International_Airport_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_International_Airport_2025.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Setawut",
+   "credit": "Own work",
+   "alt": "Chiang Mai International Airport",
+   "date": "2025-12-29",
+   "primary": false,
+   "sha256": "b9a116539b713be10f0fc7bfef9ca3d6b413b1cf11fa60dc2b247a45a5695162"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "airport-junction",
+   "type": "junction",
+   "name": "Airport junction",
+   "as": "Its gate."
+  },
+  {
+   "from": "lanna-airport",
+   "type": "plan",
+   "name": "Lanna Airport, the second airport at Ban Thi",
+   "as": "What it would relieve."
+  },
+  {
+   "from": "airport-passengers",
+   "type": "traffic",
+   "name": "The airport, by passengers",
+   "as": "The airport."
+  }
+ ]
+}

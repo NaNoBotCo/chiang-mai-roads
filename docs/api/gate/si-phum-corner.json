@@ -1,0 +1,106 @@
+{
+ "id": "si-phum-corner",
+ "type": "gate",
+ "names": {
+  "name": "Si Phum Corner",
+  "th": "แจ่งศรีภูมิ",
+  "rtgs": "Chaeng Si Phum",
+  "said": "The northeast bastion.",
+  "said_th": "แจ่งตะวันออกเฉียงเหนือ"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The northeast corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. The Kamphaeng Din, the outer earthen wall, begins its curve from here, and the corner was the auspicious one at the founding: the first brick of the city was laid at the northeast."
+ },
+ "text_th": {
+  "what": "แจ่งตะวันออกเฉียงเหนือของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม กำแพงดิน กำแพงดินชั้นนอก เริ่มโค้งจากตรงนี้ และแจ่งนี้เป็นแจ่งมงคลตอนสร้างเมือง อิฐก้อนแรกของเวียงวางที่ทิศตะวันออกเฉียงเหนือ"
+ },
+ "geo": {
+  "lat": 18.796,
+  "lon": 98.9938,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The ring turns here.",
+   "rel": "ring"
+  },
+  {
+   "to": "chaeng",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "si-phum-corner/si-phum-corner-201703291134b-p-chiang-mai-city-wall-si-phum-corner.jpg",
+   "source": "commons",
+   "title": "File:201703291134b P Chiang Mai, City Wall, Si Phum Corner.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/201703291134b_P_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291134b_P_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Jaeng Sri Phum or Sri Phum Corner is the norteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+   "date": "2017-03-29 11:34:32",
+   "primary": true,
+   "sha256": "42df9676c3cf9f43603fd3500587dfe556e2b6d8b61fffcbe7b5220312fe0dad"
+  },
+  {
+   "file": "si-phum-corner/si-phum-corner-201703291136c-chiang-mai-city-wall-si-phum-corner.jpg",
+   "source": "commons",
+   "title": "File:201703291136c Chiang Mai, City Wall, Si Phum Corner.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/201703291136c_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291136c_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Jaeng Sri Phum or Sri Phum Corner is the norteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+   "date": "2017-03-29 11:34:32",
+   "primary": false,
+   "sha256": "f3bf7b0c5a919bbb2dc26d0278de3de259f31d0b25ff68a4a51e22957fd051ca"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chaeng",
+   "type": "word",
+   "name": "แจ่ง chaeng",
+   "as": "One of the four."
+  },
+  {
+   "from": "kamphaeng-din",
+   "type": "place",
+   "name": "Kamphaeng Din, the earthen wall",
+   "as": "Where it starts."
+  }
+ ]
+}

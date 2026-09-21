@@ -1,0 +1,121 @@
+{
+ "id": "the-trees-on-the-lamphun-road",
+ "type": "story",
+ "names": {
+  "name": "The trees on the Lamphun road",
+  "th": "ต้นยางบนถนนลำพูน",
+  "said": "Planted for an emperor's commissioner, saved by a bypass, polled in 2020.",
+  "said_th": "ปลูกโดยข้าหลวงของสยาม รอดเพราะทางเลี่ยง ทำโพลปี 2563"
+ },
+ "region": [
+  "ring2"
+ ],
+ "text": {
+  "what": "About a thousand yang-na along the old road south, from the Nawarat Bridge to the provincial line, ordered under Chao Phraya Surasi, Siam's high commissioner for the north. Thai PBS dates the planting 20 October 1882; Thai Wikipedia cites a telegram of 1900. The two dates are recorded and not reconciled.",
+  "story": "Infill planting in 1954. A protected-environment zone 40 m each side since 2015. A storm in 2016 brought some down. A royal request not to cut them is on record. The Mae Jo poll of October 2020, 403 people: 54 percent no problem, 61 percent keep them, 4 percent remove them.\n\n*Inference —* the argument against the trees is that branches fall on traffic, and the argument for them is everything else. The traffic is there because the road is there; the road was the main road to Bangkok until 1969, and then it was not. A tree beside a bypassed road is the safest tree in the province. The question the poll did not ask is what the Superhighway did for the trees, and the answer is: everything."
+ },
+ "text_th": {
+  "what": "ยางนาราวพันต้นเลียบถนนเก่าลงใต้ จากสะพานนวรัฐถึงเขตจังหวัด ตามคำสั่งภายใต้เจ้าพระยาสุรสีห์ ข้าหลวงใหญ่ภาคเหนือของสยาม ไทยพีบีเอสให้วันปลูก 20 ตุลาคม 2425 วิกิพีเดียไทยอ้างโทรเลขปี 2443 สองวันที่บันทึกไว้และไม่ปรับให้ตรง",
+  "story": "ปลูกซ่อมปี 2497 เขตคุ้มครองสิ่งแวดล้อม 40 เมตรสองข้างตั้งแต่ 2558 พายุปี 2559 โค่นไปบางต้น มีพระราชดำริขอไม่ให้ตัดบันทึกไว้ แม่โจ้โพลตุลาคม 2563 403 คน ร้อยละ 54 บ่เป็นปัญหา ร้อยละ 61 เก็บไว้ ร้อยละ 4 เอาออก\n\n*อนุมาน —* ข้อโต้แย้งต่อต้นยางคือกิ่งหล่นใส่รถ และข้อโต้แย้งเพื่อต้นยางคือทุกอย่างที่เหลือ รถอยู่ตรงนั้นเพราะถนนอยู่ตรงนั้น ถนนเคยเป็นถนนหลักไปกรุงเทพฯ จนถึง 2512 แล้วบ่ใช่อีก ต้นไม้ข้างถนนที่ถูกเลี่ยงคือต้นไม้ที่ปลอดภัยที่สุดในจังหวัด คำถามที่โพลบ่ถามคือซุปเปอร์ไฮเวย์ทำอะไรให้ต้นยาง และคำตอบคือ ทุกอย่าง"
+ },
+ "kin": [
+  {
+   "to": "ton-yang-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "phraya-surasi",
+   "as": "The commissioner.",
+   "rel": "person"
+  },
+  {
+   "to": "route-11",
+   "as": "The bypass.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "trees",
+  "controversy"
+ ],
+ "sources": [
+  "s:thaipbs-308334",
+  "s:thwp-106",
+  "s:mgr-9630000112206",
+  "s:cmu-thesis-2548"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thaipbs-308334"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "the-trees-on-the-lamphun-road/the-trees-on-the-lamphun-road-hoge-bomen-langs-weg-106-p1160022.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P1160022.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hoge_bomen_langs_weg_106_P1160022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P1160022.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2013-02-24 15:11:41",
+   "primary": true,
+   "sha256": "f6165923a61ac8d423a3a1d7eec315fa5736afa02915058305e4f736d2cefb20"
+  },
+  {
+   "file": "the-trees-on-the-lamphun-road/the-trees-on-the-lamphun-road-hoge-bomen-langs-weg-106-p1160025.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P1160025.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hoge_bomen_langs_weg_106_P1160025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P1160025.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2013-02-24 15:12:33",
+   "primary": false,
+   "sha256": "c3530650012ae52199fc16f144f401a2776cba0e0931c5a5bd86529cc9a0b0be"
+  },
+  {
+   "file": "the-trees-on-the-lamphun-road/the-trees-on-the-lamphun-road-hoge-bomen-langs-weg-106-p-20161219-b.jpg",
+   "source": "commons",
+   "title": "File:Hoge bomen langs weg 106 P 20161219 b.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hoge_bomen_langs_weg_106_P_20161219_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P_20161219_b.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "FredTC",
+   "credit": "Own work",
+   "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+   "date": "2016-12-19 16:13:15",
+   "primary": false,
+   "sha256": "a34303d8bb7fc70a1e84388573c2561d458fc420753d78d2bb3be080c14ed87c"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ton-yang-road",
+   "type": "road",
+   "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+   "as": "The long version."
+  }
+ ]
+}

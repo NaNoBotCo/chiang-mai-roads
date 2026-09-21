@@ -1,0 +1,90 @@
+{
+ "id": "route-1006",
+ "type": "highway",
+ "names": {
+  "name": "Route 1006, the old San Kamphaeng road",
+  "th": "ทางหลวงแผ่นดินหมายเลข 1006 — สันกำแพงสายเก่า",
+  "said": "31 km of umbrella and silk shops, and 44,945 vehicles a day.",
+  "said_th": "31 กิโลของร้านร่มกับผ้าไหม และ 44,945 คันต่อวัน"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "east",
+  "ref": "1006",
+  "km": 31.45,
+  "era": "siam"
+ },
+ "text": {
+  "what": "Chiang Mai to On Luai through Bo Sang and San Kamphaeng, 31.45 km, the handicraft road. 44,945 vehicles a day at km 10 in 2024. The Louis interchange with the outer ring, 650 million baht, is under tender."
+ },
+ "text_th": {
+  "what": "เชียงใหม่ถึงออนหลวยผ่านบ่อสร้าง สันกำแพง 31.45 กม. ถนนหัตถกรรม 44,945 คันต่อวันที่ กม.10 ปี 2567 ทางแยกต่างระดับหลุยส์กับวงแหวนรอบนอก 650 ล้านบาท กำลังประมูล"
+ },
+ "road": {
+  "ref": "1006",
+  "km": 31.45,
+  "km_source": "s:thwp-highway-list",
+  "from": "Chiang Mai",
+  "from_th": "เชียงใหม่",
+  "to": "On Luai",
+  "to_th": "ออนหลวย",
+  "osm_refs": [
+   "1006"
+  ],
+  "opened": ""
+ },
+ "kin": [
+  {
+   "to": "route-1317",
+   "as": "The new road.",
+   "rel": "highway"
+  }
+ ],
+ "sources": [
+  "s:thwp-highway-list",
+  "s:doh-aadt",
+  "s:dailynews-4380049"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-highway-list"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-1006/route-1006-talat-warorot-chiang-mai-thailand-4246641396.jpg",
+   "source": "commons",
+   "title": "File:Talat Warorot, Chiang Mai, Thailand (4246641396).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Talat_Warorot%2C_Chiang_Mai%2C_Thailand_%284246641396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATalat_Warorot%2C_Chiang_Mai%2C_Thailand_%284246641396%29.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "yeowatzup",
+   "credit": "Talat Warorot, Chiang Mai, Thailand",
+   "alt": "petsgoplaces.blogspot.com/",
+   "date": "2009-12-31 14:04",
+   "primary": true,
+   "sha256": "6cf637aa8d822b5794c1beaaaf4d6115e96c54202c5e33ddaf0b8d3d665effa7"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "route-1317",
+   "type": "highway",
+   "name": "Route 1317, the new San Kamphaeng road",
+   "as": "The old road."
+  }
+ ]
+}

@@ -1,0 +1,546 @@
+{
+ "type": "person",
+ "count": 7,
+ "nodes": [
+  {
+   "id": "chao-kaew-nawarat",
+   "type": "person",
+   "names": {
+    "name": "Chao Kaew Nawarat",
+    "th": "เจ้าแก้วนวรัฐ",
+    "rtgs": "Chao Kaeo Nawarat",
+    "said": "The last ruler, and the bridge is named after him.",
+    "said_th": "เจ้าหลวงองค์สุดท้าย และขัวได้ชื่อท่าน"
+   },
+   "region": [
+    "lanna"
+   ],
+   "text": {
+    "what": "Ninth and last ruler of Chiang Mai, 1911–1939. He cut the first sod of the Doi Suthep road in 1934, and the Ping bridge at the foot of Tha Phae Road carries his name: a teak bridge from about 1890, a steel one opened 1923 after the wooden one burned, and the present concrete one opened 26 December 1967."
+   },
+   "text_th": {
+    "what": "เจ้าผู้ครองเชียงใหม่องค์ที่เก้าและองค์สุดท้าย 2454–2482 ท่านจกจอบแรกของถนนขึ้นดอยสุเทพปี 2477 และขัวข้ามแม่ปิงตีนถนนท่าแพใช้ชื่อท่าน ขัวไม้สักราวปี 2433 ขัวเหล็กเปิด 2466 หลังขัวไม้ไหม้ และขัวคอนกรีตปัจจุบันเปิด 26 ธันวาคม 2510"
+   },
+   "kin": [
+    {
+     "to": "nawarat-bridge",
+     "as": "Named for him.",
+     "rel": "bridge"
+    },
+    {
+     "to": "si-wichai-road",
+     "as": "He broke its ground.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-nawarat",
+    "s:thwp-si-wichai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-nawarat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chao-kaew-nawarat/chao-kaew-nawarat-navarat-bridge-chiangmai-1954.jpg",
+     "source": "commons",
+     "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+     "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+     "alt": "Navarat Bridge in 1954",
+     "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+     "primary": true,
+     "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "nawarat-bridge",
+     "type": "bridge",
+     "name": "Nawarat Bridge",
+     "as": "Who it is named for."
+    }
+   ]
+  },
+  {
+   "id": "kawila",
+   "type": "person",
+   "names": {
+    "name": "Kawila",
+    "th": "พระเจ้ากาวิละ",
+    "rtgs": "Phra Chao Kawila",
+    "said": "Re-peopled an empty city and re-dug its moat, 1796.",
+    "said_th": "เอาคนกลับมาใส่เวียงฮ้าง แล้วขุดคูแหม ปี 2339"
+   },
+   "region": [
+    "lanna"
+   ],
+   "text": {
+    "what": "First ruler of Chiang Mai under Siam. The city had stood nearly empty for two decades after the Burmese wars; he re-entered it in 1796, restored the walls and moat, and added the corner bastions in the form they have now. The gates and corners a driver turns at today are largely his."
+   },
+   "text_th": {
+    "what": "เจ้าผู้ครองเชียงใหม่องค์แรกภายใต้สยาม เมืองร้างเกือบยี่สิบปีหลังสงครามพม่า ท่านกลับเข้าเวียงปี 2339 บูรณะกำแพงและคู และเพิ่มแจ่งในรูปที่เป็นอยู่ตอนนี้ ประตูและแจ่งที่คนขับรถเลี้ยวผ่านวันนี้ส่วนใหญ่เป็นของท่าน"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "What he restored.",
+     "rel": "place"
+    },
+    {
+     "to": "era-kawila-1796-1900",
+     "as": "His era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:wp-kawila",
+    "s:onep-278"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-kawila"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "wua-lai-road",
+     "type": "road",
+     "name": "Wua Lai Road",
+     "as": "Whose resettlement gave it its craft."
+    },
+    {
+     "from": "era-kawila-1796-1900",
+     "type": "era",
+     "name": "1796–1900 — Kawila's rebuilding",
+     "as": "The ruler."
+    }
+   ]
+  },
+  {
+   "id": "kruba-srivichai",
+   "type": "person",
+   "names": {
+    "name": "Kruba Srivichai",
+    "th": "ครูบาศรีวิชัย",
+    "rtgs": "Khruba Siwichai",
+    "aliases": [
+     "Khruba Srivichai",
+     "ครูบาเจ้าศรีวิชัย"
+    ],
+    "said": "Built eleven and a half kilometres of mountain road in five months and twenty-two days, with no machine.",
+    "said_th": "สร้างทางขึ้นดอยสิบเอ็ดกิโลครึ่งในห้าเดือนยี่สิบสองวัน บ่มีเครื่องจักร"
+   },
+   "region": [
+    "lanna"
+   ],
+   "text": {
+    "what": "The monk of Lanna, 1878–1938, who organised the road up Doi Suthep. Ground was broken on 9 November 1934, Chao Kaew Nawarat cutting the first sod, and the road opened to vehicles on 30 April 1935: 11.53 km of earth and laterite, by volunteers, as many as 4,000 a day by one account.",
+    "story": "*Inference —* it is the only road in this catalogue built by a congregation rather than a department, and it is the one the city is proudest of. His statue stands at its foot and the drivers of the red trucks still wai it on the way up."
+   },
+   "text_th": {
+    "what": "ตนบุญแห่งล้านนา 2421–2481 ผู้จัดการสร้างทางขึ้นดอยสุเทพ เริ่มขุดวันที่ 9 พฤศจิกายน 2477 เจ้าแก้วนวรัฐจกจอบแรก และเปิดให้รถขึ้นวันที่ 30 เมษายน 2478 ดินและลูกรัง 11.53 กม. ด้วยแรงศรัทธา วันละถึง 4,000 คนตามบันทึกหนึ่ง",
+    "story": "*อนุมาน —* เป็นถนนสายเดียวในบัญชีนี้ที่ศรัทธาสร้าง บ่ใช่กรม และเป็นสายที่เมืองภูมิใจที่สุด อนุสาวรีย์ของท่านยืนอยู่ตีนดอย และคนขับรถแดงยังไหว้ตอนขึ้น"
+   },
+   "kin": [
+    {
+     "to": "si-wichai-road",
+     "as": "The road.",
+     "rel": "road"
+    },
+    {
+     "to": "era-monks-road-1935",
+     "as": "The era named for it.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "wat"
+   ],
+   "sources": [
+    "s:thwp-si-wichai",
+    "s:thwp-srivichai",
+    "s:citylife-elephant"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-si-wichai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "kruba-srivichai/kruba-srivichai-anusawwaree-khrubasriwichai.jpg",
+     "source": "commons",
+     "title": "File:AnuSawwaree Khrubasriwichai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/AnuSawwaree_Khrubasriwichai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAnuSawwaree_Khrubasriwichai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kimtuy",
+     "credit": "Own work",
+     "alt": "อนุสาวรีย์ครูบาศรีวิชัย สร้างขึ้น ณ จุดที่ขุดถนนจอบแรก เพื่อเป็นอนุสรน์สถานรำลึกถึงคุณของครูบาเจ้าศรีวิชัยในการนำกลุ่มชาวบ้าน ชาวเขา สร้างถนนขึ้นพระธาตุดอยสุเทพ",
+     "date": "2021-05-04",
+     "primary": true,
+     "sha256": "9259ab69a6f4cc226a7e56af8da0e9cf56cd49d1ee50ca4816f4be6716632611"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "si-wichai-road",
+     "type": "road",
+     "name": "Si Wichai Road, the road up Doi Suthep",
+     "as": "Who built it."
+    },
+    {
+     "from": "era-monks-road-1935",
+     "type": "era",
+     "name": "1935 — the monk's road",
+     "as": "The monk."
+    },
+    {
+     "from": "the-monk-who-built-a-road",
+     "type": "story",
+     "name": "The monk who built a road in five months",
+     "as": "The monk."
+    }
+   ]
+  },
+  {
+   "id": "mangrai",
+   "type": "person",
+   "names": {
+    "name": "Mangrai",
+    "th": "พญามังราย",
+    "rtgs": "Phaya Mangrai",
+    "aliases": [
+     "King Mengrai",
+     "พ่อขุนเม็งราย"
+    ],
+    "said": "Drew a square in 1296 and every road since has had to deal with it.",
+    "said_th": "ขีดสี่เหลี่ยมไว้ปี 1839 แล้วถนนทุกสายตั้งแต่นั้นต้องมาว่ากับมัน"
+   },
+   "region": [
+    "lanna"
+   ],
+   "text": {
+    "what": "Founder of Chiang Mai, 1296, and of the Lanna kingdom. He had already built Wiang Kum Kam on the river and watched it flood; the new city went on the rise between the mountain and the Ping, a square with a gate in each side and the water led round it."
+   },
+   "text_th": {
+    "what": "ผู้สร้างเชียงใหม่ปี 1839 และอาณาจักรล้านนา ท่านสร้างเวียงกุมกามบนแม่น้ำมาก่อนและเห็นมันท่วม เมืองใหม่จึงไปอยู่บนที่ดอนระหว่างดอยกับแม่ปิง เป็นสี่เหลี่ยมมีประตูทุกด้าน และชักน้ำล้อมรอบ"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "What he dug.",
+     "rel": "place"
+    },
+    {
+     "to": "era-1296-the-square",
+     "as": "His era.",
+     "rel": "era"
+    },
+    {
+     "to": "wiang-kum-kam",
+     "as": "His first try.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:wp-mangrai",
+    "s:thwp-moat"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-mangrai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "mangrai/mangrai-king-mangrai-monument-october-2021-img-01.jpg",
+     "source": "commons",
+     "title": "File:King Mangrai Monument อนุสาวรีย์พ่อขุนมังราย ห้าแยกพ่อขุนฯ (October 2021) - img 01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKing_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Chainwit.",
+     "credit": "Own work",
+     "alt": "King Mangrai (Mengrai) Monument at Pho Khun intersection, Chiang Rai",
+     "date": "2021-10-26 09:24:00",
+     "primary": true,
+     "sha256": "04ad8a99bd85e71a45708e97c0780074a824fc8db98dca3a3fcd736759e5f084"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "era-1296-the-square",
+     "type": "era",
+     "name": "1296 — the square",
+     "as": "The king."
+    },
+    {
+     "from": "wiang-kum-kam",
+     "type": "place",
+     "name": "Wiang Kum Kam",
+     "as": "Who built it."
+    }
+   ]
+  },
+  {
+   "id": "nimmanhaemin-family",
+   "type": "person",
+   "names": {
+    "name": "The Nimmanhaemin family",
+    "th": "ตระกูลนิมมานเหมินท์",
+    "rtgs": "Nimmanhemin",
+    "said": "Ki and Kim Ho gave the land. Kraisri wrote the books. The road is the family's, not the scholar's.",
+    "said_th": "กี กับ กิมฮ้อ หื้อที่ดิน ไกรศรีเขียนหนังสือ ถนนเป็นของตระกูล บ่ใช่ของนักปราชญ์"
+   },
+   "region": [
+    "city"
+   ],
+   "text": {
+    "what": "A Chiang Mai merchant family. Ki and Kim Ho Nimmanhaemin gave land to the government for the university in 1963, and the road on the edge of the gift took the family name. It is often credited to Kraisri Nimmanahaeminda, the scholar and banker of the same family; the road is older than his fame and belongs to his parents' generation."
+   },
+   "text_th": {
+    "what": "ตระกูลพ่อค้าเชียงใหม่ กี และ กิมฮ้อ นิมมานเหมินท์ มอบที่ดินให้รัฐบาลสร้างมหาวิทยาลัยปี 2506 และถนนบนขอบที่ดินได้ชื่อตระกูล มักถูกยกให้ไกรศรี นิมมานเหมินท์ นักปราชญ์และนายธนาคารตระกูลเดียวกัน ถนนเก่ากว่าชื่อเสียงของท่าน และเป็นของรุ่นพ่อแม่"
+   },
+   "kin": [
+    {
+     "to": "nimmanhaemin-road",
+     "as": "The road.",
+     "rel": "road"
+    },
+    {
+     "to": "chiang-mai-university",
+     "as": "What the land became.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "university"
+   ],
+   "sources": [
+    "s:thwp-nimman",
+    "s:wp-kraisri"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-nimman"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "nimmanhaemin-road",
+     "type": "road",
+     "name": "Nimmanhaemin Road",
+     "as": "Who gave the land."
+    },
+    {
+     "from": "chiang-mai-university",
+     "type": "place",
+     "name": "Chiang Mai University",
+     "as": "Who gave the land."
+    }
+   ]
+  },
+  {
+   "id": "phraya-surasi",
+   "type": "person",
+   "names": {
+    "name": "Chao Phraya Surasi Wisitsak",
+    "th": "เจ้าพระยาสุรสีห์วิสิษฐศักดิ์",
+    "rtgs": "Chao Phraya Surasi Wisitsak",
+    "aliases": [
+     "Choei Kalyanamit",
+     "เชย กัลยาณมิตร"
+    ],
+    "said": "Planted a thousand trees along a road, and the trees outlived the empire that sent him.",
+    "said_th": "ปลูกต้นยางพันต้นเลียบถนน แล้วต้นยางอยู่ยืนกว่าจักรวรรดิที่ส่งท่านมา"
+   },
+   "region": [
+    "lanna"
+   ],
+   "text": {
+    "what": "Siam's high commissioner for the northern circle, Monthon Phayap, in the reign of Inthawichayanon. Under his commission about a thousand yang-na trees were planted along the Chiang Mai–Lamphun road from the Nawarat Bridge to the provincial line, dated 20 October 1882 by one account; a telegram of 1900 in another. He is also credited with the Hang Dong road of 1899, lined with khi-lek trees for the trade to Burma."
+   },
+   "text_th": {
+    "what": "ข้าหลวงใหญ่มณฑลพายัพของสยามในรัชสมัยพระเจ้าอินทวิชยานนท์ ภายใต้ท่านมีการปลูกต้นยางนาราวพันต้นเลียบถนนเชียงใหม่–ลำพูน จากสะพานนวรัฐถึงเขตจังหวัด บันทึกหนึ่งให้วันที่ 20 ตุลาคม 2425 อีกบันทึกเป็นโทรเลขปี 2443 ท่านยังได้ชื่อว่าสร้างถนนหางดงปี 2442 ปลูกต้นขี้เหล็กสองข้างเพื่อการค้ากับพม่า"
+   },
+   "kin": [
+    {
+     "to": "ton-yang-road",
+     "as": "The trees.",
+     "rel": "road"
+    },
+    {
+     "to": "route-108",
+     "as": "The other road.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "trees"
+   ],
+   "sources": [
+    "s:thaipbs-308334",
+    "s:thwp-106",
+    "s:cmu-thesis-2548"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thaipbs-308334"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "ton-yang-road",
+     "type": "road",
+     "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+     "as": "Who had them planted."
+    },
+    {
+     "from": "route-108",
+     "type": "highway",
+     "name": "Route 108, southwest to Mae Hong Son",
+     "as": "Built the Hang Dong road."
+    },
+    {
+     "from": "the-trees-on-the-lamphun-road",
+     "type": "story",
+     "name": "The trees on the Lamphun road",
+     "as": "The commissioner."
+    }
+   ]
+  },
+  {
+   "id": "tim-chotana",
+   "type": "person",
+   "names": {
+    "name": "Tim Chotana",
+    "th": "นายทิม โชตนา",
+    "rtgs": "Thim Chotana",
+    "said": "A highway supervisor whose name is on the road north.",
+    "said_th": "นายช่างแขวงตี้ชื่ออยู่บนถนนขึ้นเหนือ"
+   },
+   "region": [
+    "city"
+   ],
+   "text": {
+    "what": "A former highway division supervisor. The city stretch of Route 107, from Chang Phueak Gate north, was named Chotana Road after him on 12 December 1950. Nothing else about him is on this disk."
+   },
+   "text_th": {
+    "what": "อดีตนายช่างแขวงการทาง ทางหลวง 107 ช่วงในเมืองจากประตูช้างเผือกขึ้นเหนือ ตั้งชื่อถนนโชตนาตามท่านวันที่ 12 ธันวาคม 2493 เรื่องอื่นของท่านบ่มีในแผ่นนี้"
+   },
+   "kin": [
+    {
+     "to": "route-107",
+     "as": "The road.",
+     "rel": "highway"
+    }
+   ],
+   "sources": [
+    "s:thwp-107"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-107"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "chotana-road",
+     "type": "road",
+     "name": "Chotana Road",
+     "as": "Who it is named for."
+    }
+   ]
+  }
+ ]
+}

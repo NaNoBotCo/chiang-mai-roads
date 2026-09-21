@@ -1,0 +1,57 @@
+{
+ "source": "ข้อมูลการตายจากอุบัติเหตุทางถนน 3 ฐาน, กรมควบคุมโรค (DDC), via data.go.th",
+ "catalog": "https://data.go.th/en/dataset/rtddi",
+ "licence": "Open Government Data of Thailand — attribution",
+ "fetched": "2026-09-21",
+ "method": "Row-level CSVs, one row per death; rows where the province of death (จ.ที่เสียชีวิต) contains เชียงใหม่. Motorcycle share is of deaths with a known vehicle. Rate uses the DOPA 2024 provincial population, 1,799,019.",
+ "population_2024": 1799019,
+ "rows": [
+  {
+   "year": 2022,
+   "year_be": 2565,
+   "deaths": 595,
+   "motorcycle": 287,
+   "known_vehicle": 322,
+   "male": 472,
+   "national": 17379
+  },
+  {
+   "year": 2023,
+   "year_be": 2566,
+   "deaths": 616,
+   "motorcycle": 325,
+   "known_vehicle": 364,
+   "male": 476,
+   "national": 17498
+  },
+  {
+   "year": 2024,
+   "year_be": 2567,
+   "deaths": 558,
+   "motorcycle": 238,
+   "known_vehicle": 286,
+   "male": 422,
+   "national": 17477,
+   "age_under_20": 60,
+   "age_20_59": 350,
+   "age_60_plus": 132,
+   "districts": {
+    "เมือง": 140,
+    "แม่ริม": 80,
+    "สันทราย": 42,
+    "ฝาง": 36,
+    "หางดง": 25
+   }
+  },
+  {
+   "year": 2025,
+   "year_be": 2568,
+   "deaths": 513,
+   "motorcycle": 183,
+   "known_vehicle": 231,
+   "male": 399,
+   "national": 16078,
+   "note": "file may still be filling; dataset updated 2026-05-27"
+  }
+ ]
+}

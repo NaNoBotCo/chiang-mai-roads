@@ -780,12 +780,16 @@ def node_page(n: dict, lang: str) -> str:
     b.append(figure_block(n, lang))
     b.append(plan_block(n, lang))
     b.append(word_block(n, lang))
-    if n.get("geo"):
-        g = n["geo"]
+    g = n.get("geo") or {}
+    # a ring is 26 km long and a highway 350: a single pin on one is a lie about where
+    # it is, so the pin and the coordinate are for records that sit at a place
+    if g and g.get("precision", "exact") in ("exact", "street"):
         b.append(mini_map(g["lat"], g["lon"]))
         b.append(f'<p class="mute mono">{g["lat"]:.4f}, {g["lon"]:.4f} · '
                  f'<a href="https://www.openstreetmap.org/?mlat={g["lat"]}&mlon={g["lon"]}#map=15/'
                  f'{g["lat"]}/{g["lon"]}" rel="noopener">OpenStreetMap</a> · <a href="{r}map/">{E(ui["map"])}</a></p>')
+    elif n["type"] in ("ring", "highway", "road"):
+        b.append(f'<p class="mute small"><a href="{r}map/">{E("Where it runs, on the map" if lang == "en" else "มันวิ่งตรงไหน ดูแผนที่")}</a></p>')
     for key, label in (("what", ui["what"]), ("story", ui["story"]), ("how", ui["how"]),
                        ("today", ui["today"]), ("notes", ui["notes"])):
         txt = T(n, f"text.{key}", lang, fallback=False)

@@ -1,0 +1,181 @@
+{
+ "id": "nimmanhaemin-road",
+ "type": "road",
+ "names": {
+  "name": "Nimmanhaemin Road",
+  "th": "ถนนนิมมานเหมินท์",
+  "rtgs": "Thanon Nimmanhemin",
+  "aliases": [
+   "Nimman"
+  ],
+  "said": "1.327 km, given away in 1963, and the most expensive strip of ground in the north.",
+  "said_th": "1.327 กิโล หื้อไปปี 2506 และเป็นแถบดินแพงสุดของภาคเหนือ"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "superhighway",
+  "km": 1.327
+ },
+ "text": {
+  "what": "1.327 km between Huay Kaew and Suthep roads, on the edge of the land Ki and Kim Ho Nimmanhaemin gave for the university in 1963. It was later absorbed into Route 11 as the western arc of the first ring, and handed back to the municipality in June 2022. Commercial from about 1987; the Soi 1 festival began 1999; assessed land value in 2019 was 180,000 baht a square wa, about 72 million baht a rai.",
+  "story": "*Inference —* it is a road named for a gift and priced like a mine. The sois off it are numbered 1 to 17 and each is a small economy; the lane page counts them."
+ },
+ "text_th": {
+  "what": "1.327 กม. ระหว่างถนนห้วยแก้วกับถนนสุเทพ บนขอบที่ดินที่กี กับ กิมฮ้อ นิมมานเหมินท์ มอบให้มหาวิทยาลัยปี 2506 ต่อมาถูกรวมเป็นส่วนของทางหลวง 11 เป็นส่วนโค้งตะวันตกของวงแหวนรอบแรก และคืนให้เทศบาลมิถุนายน 2565 เป็นย่านค้าตั้งแต่ราวปี 2530 เทศกาลซอย 1 เริ่ม 2542 ราคาประเมินปี 2562 ตารางวาละ 180,000 บาท ราวไร่ละ 72 ล้าน",
+  "story": "*อนุมาน —* เป็นถนนที่ตั้งชื่อตามของขวัญ และราคาเหมือนเหมือง ซอยที่แยกออกไปมีเลข 1 ถึง 17 และแต่ละซอยคือเศรษฐกิจย่อม ๆ หน้าฮ่อมนับไว้"
+ },
+ "road": {
+  "km": 1.327,
+  "km_source": "s:thwp-nimman",
+  "from": "Huay Kaew Road",
+  "from_th": "ถนนห้วยแก้ว",
+  "to": "Suthep Road",
+  "to_th": "ถนนสุเทพ",
+  "opened": "1963–64",
+  "osm_names": [
+   "ถนนนิมมานเหมินท์",
+   "Nimmanhaemin Road",
+   "Nimmanhemin Road",
+   "Nimmanahaeminda Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.7975,
+  "lon": 98.9675,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "nimmanhaemin-family",
+   "as": "Who gave the land.",
+   "rel": "person"
+  },
+  {
+   "to": "ring-1",
+   "as": "Its western arc.",
+   "rel": "ring"
+  },
+  {
+   "to": "nimman-sois",
+   "as": "The seventeen cuts off it.",
+   "rel": "lane"
+  },
+  {
+   "to": "rincome-junction",
+   "as": "Its northern end.",
+   "rel": "junction"
+  }
+ ],
+ "tags": [
+  "university",
+  "night",
+  "market"
+ ],
+ "sources": [
+  "s:thwp-nimman",
+  "s:becommon-nimman",
+  "s:thaipbs-324599"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-nimman"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "nimmanhaemin-road/nimmanhaemin-road-nimmanhaeminda-road-2025.jpg",
+   "source": "commons",
+   "title": "File:Nimmanhaeminda Road 2025.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nimmanhaeminda_Road_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhaeminda_Road_2025.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Setawut",
+   "credit": "Own work",
+   "alt": "Nimmanheminda Road",
+   "date": "2025-12-21",
+   "primary": true,
+   "sha256": "636e20ad64a0d679c3a8f78182091fb4f96388b846559cada3685e411db407c2"
+  },
+  {
+   "file": "nimmanhaemin-road/nimmanhaemin-road-nimmanhaeminda-road-sign.jpg",
+   "source": "commons",
+   "title": "File:Nimmanhaeminda Road Sign.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nimmanhaeminda_Road_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhaeminda_Road_Sign.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Setawut",
+   "credit": "Own work",
+   "alt": "Nimmanhaeminda Road Sign",
+   "date": "2025-12-21",
+   "primary": false,
+   "sha256": "037739f925ebf65a9e2c827642ff6de5fe7547b6d47f8384d0275531ecb0dbf8"
+  },
+  {
+   "file": "nimmanhaemin-road/nimmanhaemin-road-1.jpg",
+   "source": "commons",
+   "title": "File:ถนนนิมมานเหมินท์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "alt": "ถนนนิมมานเหมินท์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+   "date": "2023-04-02 14:03:10",
+   "primary": false,
+   "sha256": "1a5402e419d3896a32ba55aef3f99a87398d5ff97bc38f5ed538cc5961a8ef10"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "suthep-road",
+   "type": "road",
+   "name": "Suthep Road",
+   "as": "Ends on it."
+  },
+  {
+   "from": "ring-1",
+   "type": "ring",
+   "name": "Ring 1, the Superhighway ring",
+   "as": "West."
+  },
+  {
+   "from": "nimman-sois",
+   "type": "lane",
+   "name": "The Nimman sois",
+   "as": "The road."
+  },
+  {
+   "from": "rincome-junction",
+   "type": "junction",
+   "name": "Rincome junction",
+   "as": "Its southern arm."
+  },
+  {
+   "from": "nimmanhaemin-family",
+   "type": "person",
+   "name": "The Nimmanhaemin family",
+   "as": "The road."
+  },
+  {
+   "from": "chiang-mai-university",
+   "type": "place",
+   "name": "Chiang Mai University",
+   "as": "The road it produced."
+  }
+ ]
+}

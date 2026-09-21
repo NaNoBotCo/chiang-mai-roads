@@ -56,5 +56,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chang-moi-gate/chang-moi-gate-chiang-mai-chang-moi-kao-road-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Chang Moi Kao Road - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Chang Moi Kao Road, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": true,
+   "sha256": "3a345770c791d095b1930c497b0044a826bbfb9031b73933c8ece3142aa9869a"
+  }
+ ]
 }

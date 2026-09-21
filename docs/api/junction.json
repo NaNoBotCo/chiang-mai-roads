@@ -1,0 +1,768 @@
+{
+ "type": "junction",
+ "count": 9,
+ "nodes": [
+  {
+   "id": "airport-junction",
+   "type": "junction",
+   "names": {
+    "name": "Airport junction",
+    "th": "แยกสนามบิน",
+    "rtgs": "Yaek Sanam Bin",
+    "said": "Where Mahidol Road meets the airport gate, at km 5.6 to 5.8, and the busiest count in the province sits a kilometre east.",
+    "said_th": "ตี้ถนนมหิดลพบประตูสนามบิน กม.5.6 ถึง 5.8 และจุดนับรถมากสุดของจังหวัดอยู่ห่างไปตะวันออกหนึ่งกิโล"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "rings"
+   },
+   "text": {
+    "what": "The junction of Mahidol Road with the airport approach and the road to Hang Dong, on the first ring's southern arc. It has an underpass; the year it opened is not on this disk. In the flood of 5 October 2024 the airport–cultural centre–Hai Ya stretch was impassable for small cars by early afternoon."
+   },
+   "text_th": {
+    "what": "แยกถนนมหิดลกับทางเข้าสนามบินและถนนไปหางดง บนส่วนโค้งใต้ของวงแหวนรอบแรก มีทางลอด ปีที่เปิดบ่มีในแผ่นนี้ น้ำท่วม 5 ตุลาคม 2567 ช่วงสนามบิน–ศูนย์วัฒนธรรม–หายยา รถเล็กผ่านบ่ได้ตั้งแต่บ่ายต้น"
+   },
+   "geo": {
+    "lat": 18.7735,
+    "lon": 98.9705,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "mahidol-road",
+     "as": "On it.",
+     "rel": "road"
+    },
+    {
+     "to": "chiang-mai-airport",
+     "as": "Its gate.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "airport",
+    "flood"
+   ],
+   "sources": [
+    "s:thwp-mahidol",
+    "s:naewna-833570"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-mahidol"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "mahidol-road",
+     "type": "road",
+     "name": "Mahidol Road",
+     "as": "On it."
+    },
+    {
+     "from": "chiang-mai-airport",
+     "type": "place",
+     "name": "Chiang Mai Airport",
+     "as": "The junction at its gate."
+    }
+   ]
+  },
+  {
+   "id": "fa-ham-underpass",
+   "type": "junction",
+   "names": {
+    "name": "Fa Ham underpass",
+    "th": "ทางลอดฟ้าฮ่าม",
+    "rtgs": "Thang Lot Fa Ham",
+    "aliases": [
+     "Mae Jo junction underpass"
+    ],
+    "said": "533 metres, 31 metres wide, 1,172.8 million baht, Lanna-styled lamps.",
+    "said_th": "533 เมตร กว้าง 31 เมตร 1,172.8 ล้านบาท โคมแบบล้านนา"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "now",
+    "year": "2018"
+   },
+   "text": {
+    "what": "Where Route 1001, the Mae Jo and Phrao road, crosses the Superhighway northeast of the city. Highway department; built from March 2015; opened 9 June 2018; a tunnel 533 m long and 31 m wide, at 1,172,771,000 baht. The busiest radial count on this side of the city passes through it: 55,708 vehicles a day at Route 1001's first kilometre in 2025."
+   },
+   "text_th": {
+    "what": "ตี้ทางหลวง 1001 ถนนแม่โจ้และพร้าว ตัดซุปเปอร์ไฮเวย์ทางตะวันออกเฉียงเหนือของเมือง กรมทางหลวง สร้างตั้งแต่มีนาคม 2558 เปิด 9 มิถุนายน 2561 อุโมงค์ยาว 533 เมตร กว้าง 31 เมตร 1,172,771,000 บาท จุดนับรัศมีที่รถมากสุดฝั่งนี้ของเมืองผ่านมัน 55,708 คันต่อวันที่กิโลเมตรแรกของทางหลวง 1001 ปี 2568"
+   },
+   "geo": {
+    "lat": 18.808,
+    "lon": 99.01,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "route-1001",
+     "as": "Through it.",
+     "rel": "highway"
+    },
+    {
+     "to": "route-11",
+     "as": "Under it.",
+     "rel": "highway"
+    },
+    {
+     "to": "era-now",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:mgr-9610000057357",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:mgr-9610000057357"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "route-1001",
+     "type": "highway",
+     "name": "Route 1001, to Phrao",
+     "as": "Its junction."
+    },
+    {
+     "from": "route-11",
+     "type": "highway",
+     "name": "Route 11, the Superhighway",
+     "as": "Dug under it."
+    },
+    {
+     "from": "route-118",
+     "type": "highway",
+     "name": "Route 118, to Chiang Rai",
+     "as": "Its junction with the Superhighway."
+    },
+    {
+     "from": "era-now",
+     "type": "era",
+     "name": "2010s–2020s — going under, and going up",
+     "as": "2018."
+    }
+   ]
+  },
+  {
+   "id": "khuang-sing-underpass",
+   "type": "junction",
+   "names": {
+    "name": "Khuang Sing underpass",
+    "th": "ทางลอดข่วงสิงห์",
+    "rtgs": "Thang Lot Khuang Sing",
+    "said": "The contractor walked off at sixty percent. The department finished it in six months.",
+    "said_th": "ผู้รับเหมาทิ้งงานตอนหกสิบเปอร์เซ็นต์ กรมมาทำเสร็จเองในหกเดือน"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "now",
+    "year": "2007"
+   },
+   "text": {
+    "what": "Where Chotana Road, Route 107, crosses the Superhighway at the northern edge of the first ring. Begun 2003 with the San Dek underpass; the contractor had bid 146 million under estimate, abandoned both at about sixty percent, and the contract was terminated in April 2007. The highway department's bridge centres finished the pair in six months for 240 million baht, and the transport minister opened them on 26 December 2007. Six lanes."
+   },
+   "text_th": {
+    "what": "ตี้ถนนโชตนา ทางหลวง 107 ตัดซุปเปอร์ไฮเวย์ที่ขอบเหนือของวงแหวนรอบแรก เริ่มปี 2546 พร้อมทางลอดสันเด็ก ผู้รับเหมาเสนอราคาต่ำกว่าประเมิน 146 ล้าน ทิ้งงานทั้งสองแห่งที่ราวหกสิบเปอร์เซ็นต์ และสัญญาถูกยกเลิกเมษายน 2550 ศูนย์สร้างสะพานของกรมทางหลวงทำเสร็จทั้งคู่ในหกเดือนด้วยงบ 240 ล้านบาท รัฐมนตรีคมนาคมเปิด 26 ธันวาคม 2550 หกช่องจราจร"
+   },
+   "geo": {
+    "lat": 18.8135,
+    "lon": 98.982,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "san-dek-underpass",
+     "as": "Its twin.",
+     "rel": "junction"
+    },
+    {
+     "to": "route-11",
+     "as": "Under it.",
+     "rel": "highway"
+    },
+    {
+     "to": "chotana-road",
+     "as": "Through it.",
+     "rel": "road"
+    },
+    {
+     "to": "lot",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "construction",
+    "controversy"
+   ],
+   "sources": [
+    "s:mgr-9500000153752",
+    "s:reviewcm-underpasses"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:mgr-9500000153752"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "chotana-road",
+     "type": "road",
+     "name": "Chotana Road",
+     "as": "Goes under the Superhighway here."
+    },
+    {
+     "from": "ring-1",
+     "type": "ring",
+     "name": "Ring 1, the Superhighway ring",
+     "as": "Under it."
+    },
+    {
+     "from": "san-dek-underpass",
+     "type": "junction",
+     "name": "San Dek underpass",
+     "as": "Its twin."
+    },
+    {
+     "from": "route-11",
+     "type": "highway",
+     "name": "Route 11, the Superhighway",
+     "as": "Dug under it."
+    },
+    {
+     "from": "thang",
+     "type": "word",
+     "name": "ทาง thang",
+     "as": "A thang lot."
+    }
+   ]
+  },
+  {
+   "id": "nong-hoi-junction",
+   "type": "junction",
+   "names": {
+    "name": "Nong Hoi junction",
+    "th": "แยกหนองหอย",
+    "rtgs": "Yaek Nong Hoi",
+    "said": "Mahidol meets the Lamphun road, km 2, and goes under it.",
+    "said_th": "มหิดลพบถนนลำพูน กม.2 แล้วลอดใต้"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "rings"
+   },
+   "text": {
+    "what": "Where Mahidol Road crosses Route 106, the old Lamphun road, at km 2, east of the river. There is an underpass; its opening year is not on this disk. The yang trees begin a little south of here."
+   },
+   "text_th": {
+    "what": "ตี้ถนนมหิดลตัดทางหลวง 106 ถนนลำพูนสายเก่า ที่ กม.2 ทางตะวันออกของแม่น้ำ มีทางลอด ปีที่เปิดบ่มีในแผ่นนี้ ต้นยางเริ่มถัดลงใต้จากตรงนี้ไม่ไกล"
+   },
+   "geo": {
+    "lat": 18.7735,
+    "lon": 99.011,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "mahidol-road",
+     "as": "On it.",
+     "rel": "road"
+    },
+    {
+     "to": "ton-yang-road",
+     "as": "Begins south of it.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "trees"
+   ],
+   "sources": [
+    "s:thwp-mahidol"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-mahidol"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "mahidol-road",
+     "type": "road",
+     "name": "Mahidol Road",
+     "as": "On it."
+    }
+   ]
+  },
+  {
+   "id": "rincome-junction",
+   "type": "junction",
+   "names": {
+    "name": "Rincome junction",
+    "th": "แยกรินคำ",
+    "rtgs": "Yaek Rin Kham",
+    "said": "Named for a hotel that closed, and the worst light in the city by the planners' own count.",
+    "said_th": "ตั้งชื่อตามโฮงแฮมตี้ปิดไปแล้ว และไฟแดงตี้แย่สุดในเมืองตามที่นักวางแผนนับเอง"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "superhighway"
+   },
+   "text": {
+    "what": "Where Huay Kaew Road, Nimmanhaemin and the Superhighway meet, northwest of the moat. The 2025 public-transport master plan names it a critical congestion point, and an interchange with the Superhighway is costed at 700 million baht, phase one due 2027. The hotel it is named for is gone; the name is not."
+   },
+   "text_th": {
+    "what": "ตี้ถนนห้วยแก้ว นิมมานเหมินท์ และซุปเปอร์ไฮเวย์มาพบกัน ทางตะวันตกเฉียงเหนือของคูเมือง แผนแม่บทขนส่งสาธารณะปี 2568 ระบุเป็นจุดวิกฤต และทางแยกต่างระดับกับซุปเปอร์ไฮเวย์ประเมิน 700 ล้านบาท ระยะแรกกำหนด 2570 โฮงแฮมที่มันตั้งชื่อตามหายไปแล้ว ชื่อยังอยู่"
+   },
+   "geo": {
+    "lat": 18.8003,
+    "lon": 98.9672,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "nimmanhaemin-road",
+     "as": "Its southern arm.",
+     "rel": "road"
+    },
+    {
+     "to": "huay-kaew-road",
+     "as": "Its western arm.",
+     "rel": "road"
+    },
+    {
+     "to": "yaek",
+     "as": "The word, with this as the example.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "university"
+   ],
+   "sources": [
+    "s:cm-traffic-minutes-2569",
+    "s:citylife-big-development"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cm-traffic-minutes-2569"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "rincome-junction/rincome-junction-nimmanhaeminda-road-2025.jpg",
+     "source": "commons",
+     "title": "File:Nimmanhaeminda Road 2025.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nimmanhaeminda_Road_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhaeminda_Road_2025.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Setawut",
+     "credit": "Own work",
+     "alt": "Nimmanheminda Road",
+     "date": "2025-12-21",
+     "primary": true,
+     "sha256": "636e20ad64a0d679c3a8f78182091fb4f96388b846559cada3685e411db407c2"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "nimmanhaemin-road",
+     "type": "road",
+     "name": "Nimmanhaemin Road",
+     "as": "Its northern end."
+    },
+    {
+     "from": "congestion-index",
+     "type": "traffic",
+     "name": "How slow: the TomTom index",
+     "as": "The junction the planners name."
+    },
+    {
+     "from": "yaek",
+     "type": "word",
+     "name": "แยก yaek",
+     "as": "The one named for a vanished hotel."
+    }
+   ]
+  },
+  {
+   "id": "ring-2-underpasses",
+   "type": "junction",
+   "names": {
+    "name": "The seven underpasses of the middle ring",
+    "th": "ทางลอดเจ็ดแห่งของวงแหวนรอบกลาง",
+    "rtgs": "thang lot chet haeng",
+    "said": "Sanam Luang, Ruam Chok, Mae Khao, Buak Khrok, Sri Bua Ngoen, Wiang Kum Kam, Mae Hia. Four lanes each, all done by October 2005.",
+    "said_th": "สนามหลวง รวมโชค แม่เขา บวกครก ศรีบัวเงิน เวียงกุมกาม แม่เหียะ สี่เลนทุกแห่ง เสร็จตุลาคม 2548"
+   },
+   "region": [
+    "ring2"
+   ],
+   "facets": {
+    "era": "rings",
+    "year": "2005"
+   },
+   "text": {
+    "what": "The middle ring dives under each radial highway it crosses: Routes 107, 1001, 118, 1006, 1317, 106 and 108, seven underpasses of four lanes finished by October 2005, plus an interchange at Route 11. Their names are the neighbourhoods: Sanam Luang at the government centre, Ruam Chok, Mae Khao, Buak Khrok, Sri Bua Ngoen, Wiang Kum Kam, and Mae Hia Saman Samakkhi."
+   },
+   "text_th": {
+    "what": "วงแหวนรอบกลางลอดใต้ทางหลวงรัศมีทุกสายที่ตัด ทางหลวง 107, 1001, 118, 1006, 1317, 106 และ 108 ทางลอดสี่เลนเจ็ดแห่งเสร็จตุลาคม 2548 บวกทางแยกต่างระดับที่ทางหลวง 11 ชื่อคือชื่อย่าน สนามหลวงที่ศูนย์ราชการ รวมโชค แม่เขา บวกครก ศรีบัวเงิน เวียงกุมกาม และแม่เหียะสมานสามัคคี"
+   },
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9855,
+    "precision": "town"
+   },
+   "kin": [
+    {
+     "to": "ring-2",
+     "as": "The ring.",
+     "rel": "ring"
+    },
+    {
+     "to": "lot",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:reviewcm-underpasses",
+    "s:thwp-700-years"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:reviewcm-underpasses"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ring-2-underpasses/ring-2-underpasses-thailand-traffic-signs-warning-sign-01a.jpg",
+     "source": "commons",
+     "title": "File:Thailand Traffic-signs Warning-sign-01a.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Thailand_Traffic-signs_Warning-sign-01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Traffic-signs_Warning-sign-01a.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Traffic signs in Thailand: Warning sign \"Curve to the right\" (Photo taken in Chiang Mai)",
+     "date": "2008-11-16",
+     "primary": true,
+     "sha256": "49a49eb4cda25239df47a9d85d762017c0a414275e423ca312e59f23b5bc2d11"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-2",
+     "type": "ring",
+     "name": "Ring 2, the 700 Years Road",
+     "as": "The seven."
+    }
+   ]
+  },
+  {
+   "id": "san-dek-underpass",
+   "type": "junction",
+   "names": {
+    "name": "San Dek underpass",
+    "th": "ทางลอดสันเด็ก",
+    "rtgs": "Thang Lot San Dek",
+    "said": "Opened the same day as Khuang Sing, after the same contractor left.",
+    "said_th": "เปิดวันเดียวกับข่วงสิงห์ หลังผู้รับเหมาคนเดียวกันทิ้งไป"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "now",
+    "year": "2007"
+   },
+   "text": {
+    "what": "Where the road to the Arcade bus station and Kaew Nawarat cross the Superhighway on the east. Same contract, same abandonment and same six-month rescue as Khuang Sing; opened 26 December 2007. Its original estimate was 350 million baht. In October 2024 the flood reached it from the river."
+   },
+   "text_th": {
+    "what": "ตี้ถนนไปสถานีขนส่งอาเขตและแก้วนวรัฐตัดซุปเปอร์ไฮเวย์ด้านตะวันออก สัญญาเดียวกัน ทิ้งงานเหมือนกัน และกู้งานหกเดือนเหมือนกันกับข่วงสิงห์ เปิด 26 ธันวาคม 2550 ประเมินเดิม 350 ล้านบาท ตุลาคม 2567 น้ำจากแม่น้ำมาถึงมัน"
+   },
+   "geo": {
+    "lat": 18.8005,
+    "lon": 99.018,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "khuang-sing-underpass",
+     "as": "Its twin.",
+     "rel": "junction"
+    },
+    {
+     "to": "arcade-bus-terminal",
+     "as": "Beside it.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "construction",
+    "flood"
+   ],
+   "sources": [
+    "s:mgr-9500000153752",
+    "s:lanner-flood"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:mgr-9500000153752"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "khuang-sing-underpass",
+     "type": "junction",
+     "name": "Khuang Sing underpass",
+     "as": "Its twin."
+    }
+   ]
+  },
+  {
+   "id": "san-klang-interchange",
+   "type": "junction",
+   "names": {
+    "name": "San Klang interchange",
+    "th": "ทางแยกต่างระดับสันกลาง",
+    "rtgs": "Thang Yaek Tang Radap San Klang",
+    "said": "1,425 million baht where the new San Kamphaeng road crosses the outer ring, more than half built.",
+    "said_th": "1,425 ล้านบาท ตี้ถนนสันกำแพงสายใหม่ตัดวงแหวนรอบนอก สร้างไปกว่าครึ่ง"
+   },
+   "region": [
+    "ring3"
+   ],
+   "facets": {
+    "era": "now",
+    "status": "building"
+   },
+   "text": {
+    "what": "Route 1317 across Route 121, east of the city. Thai PBS reported it more than half built in 2025 at 1,425 million baht; a second phase of 430 million is in the five-interchange tender due 2027."
+   },
+   "text_th": {
+    "what": "ทางหลวง 1317 ตัดทางหลวง 121 ทางตะวันออกของเมือง ไทยพีบีเอสรายงานสร้างไปกว่าครึ่งในปี 2568 ที่ 1,425 ล้านบาท ระยะสอง 430 ล้านอยู่ในการประมูลห้าทางแยกกำหนด 2570"
+   },
+   "plan": {
+    "status": "building",
+    "as_of": "2025",
+    "budget_thb": 1425000000,
+    "agency": "Department of Highways",
+    "agency_th": "กรมทางหลวง",
+    "due": "2027"
+   },
+   "geo": {
+    "lat": 18.776,
+    "lon": 99.07,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "ring-3",
+     "as": "On it.",
+     "rel": "ring"
+    },
+    {
+     "to": "route-1317",
+     "as": "Through it.",
+     "rel": "highway"
+    },
+    {
+     "to": "ring-3-interchanges",
+     "as": "One of five.",
+     "rel": "plan"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:thaipbs-353092",
+    "s:dailynews-4380049"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thaipbs-353092"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "ring-3-interchanges",
+     "type": "plan",
+     "name": "Five interchanges on the outer ring",
+     "as": "The one half built."
+    }
+   ]
+  },
+  {
+   "id": "san-pa-tong-underpass",
+   "type": "junction",
+   "names": {
+    "name": "San Pa Tong–Hang Dong bypass underpass",
+    "th": "อุโมงค์เลี่ยงเมืองสันป่าตอง–หางดง",
+    "rtgs": "Umong Liang Mueang San Pa Tong",
+    "said": "A twin underpass of 462 metres, 720 million baht, linking the outer ring to the Samoeng road.",
+    "said_th": "อุโมงค์คู่ 462 เมตร 720 ล้านบาท เชื่อมวงแหวนรอบนอกกับถนนสะเมิง"
+   },
+   "region": [
+    "ring3"
+   ],
+   "facets": {
+    "era": "now",
+    "year": "2022"
+   },
+   "text": {
+    "what": "Department of Rural Roads, linking Route 121 to Route 1269: 1.83 km in all with a twin underpass of 462.5 m, 720.3 million baht, more than eighty percent built in August 2021 and due early 2022. A separate San Pa Tong interchange on Route 108, 1,246 million baht with a 679 m underpass, is due 2027."
+   },
+   "text_th": {
+    "what": "กรมทางหลวงชนบท เชื่อมทางหลวง 121 กับ 1269 รวม 1.83 กม. อุโมงค์คู่ 462.5 เมตร 720.3 ล้านบาท สร้างไปกว่าแปดสิบเปอร์เซ็นต์สิงหาคม 2564 กำหนดต้น 2565 ทางแยกต่างระดับสันป่าตองบนทางหลวง 108 อีกแห่ง 1,246 ล้านบาท อุโมงค์ 679 เมตร กำหนด 2570"
+   },
+   "geo": {
+    "lat": 18.7,
+    "lon": 98.92,
+    "precision": "town"
+   },
+   "kin": [
+    {
+     "to": "ring-3",
+     "as": "Off it.",
+     "rel": "ring"
+    },
+    {
+     "to": "route-1269",
+     "as": "To it.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "construction"
+   ],
+   "sources": [
+    "s:mgr-9640000078021"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:mgr-9640000078021"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  }
+ ]
+}

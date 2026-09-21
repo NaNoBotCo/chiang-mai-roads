@@ -1,0 +1,143 @@
+{
+ "id": "tha-phae-gate",
+ "type": "gate",
+ "names": {
+  "name": "Tha Phae Gate",
+  "th": "ประตูท่าแพ",
+  "rtgs": "Pratu Tha Phae",
+  "said": "The east gate. The one everybody means.",
+  "said_th": "ปะตู๋ตางออก ตี้ใผ ๆ ก็หมายเถิง"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The eastern gate of the walled city, at the head of Tha Phae Road, facing the river a kilometre away. Originally Chiang Rueak Gate, after the trading village outside it.",
+  "story": "What stands there now is a reconstruction. The municipality and the Fine Arts Department rebuilt the gate and its lawn in 1985–87 from records, archaeology and a single old photograph; it is the only inner gate with a complete set of wooden doors.\n\n*Inference —* the lawn in front is the city's living room: the Sunday walking street begins here, protests gather here, and the pigeons are a business. A gate that was demolished in 1948 to make way for the moat roads became, forty years later, the picture on the postcard. That is the whole history of Chiang Mai's road-building in one square."
+ },
+ "text_th": {
+  "what": "ประตูด้านตะวันออกของเวียง อยู่หัวถนนท่าแพ หันหน้าไปทางแม่ปิงที่ห่างออกไปหนึ่งกิโลเมตร เดิมชื่อประตูเชียงเรือก ตามหมู่บ้านค้าขายที่อยู่หน้าประตู",
+  "story": "ที่ยืนอยู่ตรงนั้นตอนนี้คือของสร้างใหม่ เทศบาลกับกรมศิลปากรสร้างประตูและสนามหญ้าขึ้นใหม่ในปี 2528–30 จากบันทึก หลักฐานโบราณคดี และรูปถ่ายเก่าเพียงรูปเดียว เป็นประตูชั้นในแห่งเดียวที่มีบานประตูไม้ครบ\n\n*อนุมาน —* สนามหญ้าหน้าประตูคือห้องนั่งเล่นของเมือง ถนนคนเดินวันอาทิตย์เริ่มตรงนี้ การชุมนุมรวมตัวตรงนี้ และนกพิราบเป็นธุรกิจ ประตูที่ถูกรื้อในปี 2491 เพื่อให้ถนนรอบคูเมืองผ่าน กลายเป็นรูปบนโปสการ์ดในอีกสี่สิบปีต่อมา นั่นคือประวัติการสร้างถนนของเชียงใหม่ทั้งหมดในจัตุรัสเดียว"
+ },
+ "geo": {
+  "lat": 18.7877,
+  "lon": 98.9932,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "tha-phae-road",
+   "as": "The road it names.",
+   "rel": "road"
+  },
+  {
+   "to": "moat-loop",
+   "as": "The ring it opens onto.",
+   "rel": "ring"
+  },
+  {
+   "to": "sunday-walking-street",
+   "as": "Starts here.",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "walk",
+  "market"
+ ],
+ "sources": [
+  "s:wp-tha-phae-gate",
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tha-phae-gate"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "tha-phae-gate/tha-phae-gate-201703291111a-chiang-mai-city-wall-tha-phae-gate.jpg",
+   "source": "commons",
+   "title": "File:201703291111a Chiang Mai, City Wall, Tha Phae Gate.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/201703291111a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291111a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Pratu Tha Pae or Tha Pae Gate is the eastern gate in the city wall of Chiang Mai.)",
+   "date": "2017-03-29 11:11:07",
+   "primary": true,
+   "sha256": "10f76a10a310ebabd5ffa55532afefed135a822576cf203e8387f1d64acc3818"
+  },
+  {
+   "file": "tha-phae-gate/tha-phae-gate-201703291115a-chiang-mai-city-wall-tha-phae-gate.jpg",
+   "source": "commons",
+   "title": "File:201703291115a Chiang Mai, City Wall, Tha Phae Gate.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/201703291115a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291115a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Pratu Tha Pae or Tha Pae Gate is the eastern gate in the city wall of Chiang Mai.)",
+   "date": "2017-03-29 11:15:07",
+   "primary": false,
+   "sha256": "b0a6195bb1e755360c6c7685ad21dbbf61bb10f2f637ec84c5df5088325c93c8"
+  },
+  {
+   "file": "tha-phae-gate/tha-phae-gate-20171105-tha-phae-gate-chiang-mai-9784-dxo.jpg",
+   "source": "commons",
+   "title": "File:20171105 Tha Phae Gate Chiang Mai 9784 DxO.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Jakub Hałun",
+   "credit": "Own work",
+   "alt": "Tha Phae Gate in Chiang Mai",
+   "date": "2017-11-05 09:32:20",
+   "primary": false,
+   "sha256": "dcfa2c5d05800fab304db4ae23ccec96722dc283124ec1b0589077a14e1e151a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ratchadamnoen-road",
+   "type": "road",
+   "name": "Ratchadamnoen Road",
+   "as": "Its east end."
+  },
+  {
+   "from": "tha-phae-road",
+   "type": "road",
+   "name": "Tha Phae Road",
+   "as": "Its head."
+  },
+  {
+   "from": "pratu",
+   "type": "word",
+   "name": "ประตู pratu",
+   "as": "The one everyone means."
+  },
+  {
+   "from": "sunday-walking-street",
+   "type": "story",
+   "name": "The walking street, and how a road becomes a floor",
+   "as": "Where it starts."
+  }
+ ]
+}

@@ -74,6 +74,21 @@
    "date": "2017-10-15 09:54:38",
    "primary": true,
    "sha256": "77a60801b930b67284f930b989e6ad863757f5d986cf9552fea22f4c2d0bedfa"
+  },
+  {
+   "file": "yaek/yaek-chiang-mai-thailand-prohibitory-road-sign-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Prohibitory-road-sign-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chiang-Mai_Thailand_Prohibitory-road-sign-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Prohibitory-road-sign-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: A prohibitory road sign at Chiang Mai University",
+   "date": "2017-04-19",
+   "primary": false,
+   "sha256": "5ab88e937da097d9c634e8762f48dc0d67bc59e441f5001a192a89995cd454d5"
   }
  ]
 }

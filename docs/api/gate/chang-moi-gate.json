@@ -1,0 +1,91 @@
+{
+ "id": "chang-moi-gate",
+ "type": "gate",
+ "names": {
+  "name": "Chang Moi Gate",
+  "th": "ประตูช้างม่อย",
+  "rtgs": "Pratu Chang Moi",
+  "said": "The gate that was demolished so a road could go straight.",
+  "said_th": "ปะตู๋ตี้ถูกฮื้อ เปื้อหื้อถนนไปตรง ๆ"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "An outer gate in the earthen wall, dated to 1282 in the chronicle, gone since the 1910s. Between 1910 and 1915 the earth bank and the gate were removed and the inner brick wall pierced so that Ratchawithi Road could run straight out to the new Chang Moi Road and the river.",
+  "story": "*Inference —* this is the first documented case in the city of a wall giving way to a road, thirty-five years before the moat roads did it wholesale. The pattern was set: the straight line wins."
+ },
+ "text_th": {
+  "what": "ประตูชั้นนอกในกำแพงดิน ตำนานพื้นเมืองให้ปี พ.ศ. 1825 หายไปตั้งแต่ทศวรรษ 2450 ระหว่างปี 2453–2458 รื้อคันดินและประตู แล้วเจาะกำแพงอิฐชั้นในเพื่อให้ถนนราชวิถีวิ่งตรงออกไปถนนช้างม่อยสายใหม่และแม่น้ำ",
+  "story": "*อนุมาน —* นี่คือกรณีแรกที่มีบันทึกของเมืองที่กำแพงยอมให้ถนน สามสิบห้าปีก่อนถนนรอบคูเมืองจะทำแบบเดียวกันทั้งเวียง แบบแผนถูกวางไว้แล้ว เส้นตรงชนะ"
+ },
+ "geo": {
+  "lat": 18.793,
+  "lon": 98.9945,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "chang-moi-road",
+   "as": "The road it was removed for.",
+   "rel": "road"
+  },
+  {
+   "to": "era-siam-1900-1950",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-chang-moi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-chang-moi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chang-moi-gate/chang-moi-gate-chiang-mai-chang-moi-kao-road-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Chang Moi Kao Road - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Chang Moi Kao Road, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": true,
+   "sha256": "3a345770c791d095b1930c497b0044a826bbfb9031b73933c8ece3142aa9869a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chang-moi-road",
+   "type": "road",
+   "name": "Chang Moi Road",
+   "as": "What was demolished for it."
+  },
+  {
+   "from": "era-siam-1900-1950",
+   "type": "era",
+   "name": "1900–1950 — Siam and the railway",
+   "as": "Removed."
+  }
+ ]
+}

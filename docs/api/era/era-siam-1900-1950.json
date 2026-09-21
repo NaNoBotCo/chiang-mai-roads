@@ -1,0 +1,121 @@
+{
+ "id": "era-siam-1900-1950",
+ "type": "era",
+ "names": {
+  "name": "1900–1950 — Siam and the railway",
+  "th": "2443–2493 — สยามกับรถไฟ",
+  "said": "The train arrives, a gate is demolished for a straight road, and the moat gets its ring.",
+  "said_th": "รถไฟมาเถิง ประตูถูกฮื้อเปื้อถนนตรง และคูได้วงรอบ"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "siam",
+  "order": 4
+ },
+ "text": {
+  "what": "The railway reaches the east bank on 1 January 1921 and Tha Phae becomes the commercial street. Between 1910 and 1915 Chang Moi Gate and its earth bank are removed to run Ratchawithi Road straight to the river. The steel Nawarat Bridge opens 1923. The municipality is founded 1936 and in 1948 builds the roads on both banks of the moat, demolishing stretches of the wall registered as a monument thirteen years before.",
+  "story": "*Inference —* 1948 is the year the square stopped being a fortification and became a roundabout. Everything the one-way loop does to the old city, for good and ill, dates from that decision."
+ },
+ "text_th": {
+  "what": "รถไฟมาถึงฝั่งตะวันออกวันที่ 1 มกราคม 2464 และท่าแพกลายเป็นถนนการค้า ระหว่างปี 2453–2458 ประตูช้างม่อยและคันดินถูกรื้อเพื่อให้ถนนราชวิถีวิ่งตรงไปแม่น้ำ ขัวเหล็กนวรัฐเปิด 2466 เทศบาลตั้งปี 2479 และในปี 2491 สร้างถนนบนสองฝั่งคู รื้อกำแพงบางช่วงที่ขึ้นทะเบียนโบราณสถานสิบสามปีก่อนหน้า",
+  "story": "*อนุมาน —* 2491 คือปีที่สี่เหลี่ยมเลิกเป็นป้อมและกลายเป็นวงเวียน ทุกอย่างที่วงรอบทางเดียวทำกับเวียงเก่า ทั้งดีและร้าย เริ่มจากการตัดสินใจนั้น"
+ },
+ "kin": [
+  {
+   "to": "chang-moi-gate",
+   "as": "Removed.",
+   "rel": "gate"
+  },
+  {
+   "to": "moat-loop",
+   "as": "Built 1948.",
+   "rel": "ring"
+  },
+  {
+   "to": "chiang-mai-station",
+   "as": "Arrived 1921.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:cmocity-history",
+  "s:thwp-chang-moi",
+  "s:thwp-cnx-station",
+  "s:thwp-nawarat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmocity-history"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-siam-1900-1950/era-siam-1900-1950-map-of-chiengmai-chiang-mai-city-1931.jpg",
+   "source": "commons",
+   "title": "File:Map of Chiengmai (Chiang Mai) City 1931.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Map_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Chiengmai_%28Chiang_Mai%29_City_1931.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "Old Maps Online (stored at the British Library) - https://www.oldmapsonline.org/en/maps/b84b50de-cdf9-5c61-9d88-a76fcd5a8464?year=1850&amp;gid=b3777b75-7966-559f-85d0-b1b1aaa602d3#position=16.6004/18.",
+   "alt": "Map of Chiengmai (Chiang Mai) city, 1931. This is the capital of Chiang Mai province. The top left stamp says: \"Royal Insurance Company Limited, 26 October 1931 Liverpool.\"",
+   "date": "1931",
+   "primary": true,
+   "sha256": "346570ec642923738f47849e7c652c5cc04384285b4766edd918613345d1bbb1"
+  },
+  {
+   "file": "era-siam-1900-1950/era-siam-1900-1950-navarat-bridge-chiangmai-1954.jpg",
+   "source": "commons",
+   "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+   "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+   "alt": "Navarat Bridge in 1954",
+   "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+   "primary": false,
+   "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chang-moi-gate",
+   "type": "gate",
+   "name": "Chang Moi Gate",
+   "as": "Its era."
+  },
+  {
+   "from": "what-a-road-does-to-an-old-city",
+   "type": "story",
+   "name": "What a road does to an old city",
+   "as": "When the walls went."
+  },
+  {
+   "from": "chiang-mai-station",
+   "type": "place",
+   "name": "Chiang Mai railway station",
+   "as": "Its era."
+  }
+ ]
+}

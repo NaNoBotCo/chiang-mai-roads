@@ -1,0 +1,64 @@
+{
+ "id": "route-118-four-lanes",
+ "type": "plan",
+ "names": {
+  "name": "Four-laning Route 118 to Chiang Rai",
+  "th": "ขยายทางหลวง 118 เป็นสี่เลนถึงเชียงราย",
+  "said": "158 km in pieces since 2008, and the last piece under contract for 2026.",
+  "said_th": "158 กิโลทีละชิ้นตั้งแต่ 2551 และชิ้นสุดท้ายในสัญญากำหนด 2569"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "status": "building",
+  "era": "planned"
+ },
+ "text": {
+  "what": "The whole 158.473 km to be four lanes. Done: Chiang Mai–Doi Saket 20.2 km, October 2008; Pong Pha Tong–Ban Pong 28.5 km, October 2019; Pa Miang–Pang Nam Thu 9.25 km, March 2020; five sections of 42.8 km, 2020–21, at about 2,500 million baht. The last: Mae Suai, km 141, to Route 1 at km 158.473, 17.473 km, 2,000 million baht, contract completion 2026."
+ },
+ "text_th": {
+  "what": "ทั้ง 158.473 กม. ให้เป็นสี่เลน เสร็จแล้ว เชียงใหม่–ดอยสะเก็ด 20.2 กม. ตุลาคม 2551 โป่งผาทอง–บ้านโป่ง 28.5 กม. ตุลาคม 2562 ป่าเมี่ยง–ปางน้ำถุ 9.25 กม. มีนาคม 2563 ห้าช่วง 42.8 กม. 2563–64 ราว 2,500 ล้านบาท ช่วงสุดท้าย แม่สรวย กม.141 ถึงทางหลวง 1 กม.158.473 ยาว 17.473 กม. 2,000 ล้านบาท สัญญาเสร็จ 2569"
+ },
+ "plan": {
+  "status": "building",
+  "as_of": "2026",
+  "budget_thb": 2000000000,
+  "budget_note": "the last section only",
+  "km": 17.473,
+  "agency": "Department of Highways",
+  "agency_th": "กรมทางหลวง",
+  "due": "2026"
+ },
+ "kin": [
+  {
+   "to": "route-118",
+   "as": "The road.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:feasy-118",
+  "s:cri108-15492",
+  "s:bkkauction-expropriate"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:feasy-118"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": []
+}

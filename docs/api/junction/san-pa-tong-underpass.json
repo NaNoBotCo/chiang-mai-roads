@@ -1,0 +1,63 @@
+{
+ "id": "san-pa-tong-underpass",
+ "type": "junction",
+ "names": {
+  "name": "San Pa Tong–Hang Dong bypass underpass",
+  "th": "อุโมงค์เลี่ยงเมืองสันป่าตอง–หางดง",
+  "rtgs": "Umong Liang Mueang San Pa Tong",
+  "said": "A twin underpass of 462 metres, 720 million baht, linking the outer ring to the Samoeng road.",
+  "said_th": "อุโมงค์คู่ 462 เมตร 720 ล้านบาท เชื่อมวงแหวนรอบนอกกับถนนสะเมิง"
+ },
+ "region": [
+  "ring3"
+ ],
+ "facets": {
+  "era": "now",
+  "year": "2022"
+ },
+ "text": {
+  "what": "Department of Rural Roads, linking Route 121 to Route 1269: 1.83 km in all with a twin underpass of 462.5 m, 720.3 million baht, more than eighty percent built in August 2021 and due early 2022. A separate San Pa Tong interchange on Route 108, 1,246 million baht with a 679 m underpass, is due 2027."
+ },
+ "text_th": {
+  "what": "กรมทางหลวงชนบท เชื่อมทางหลวง 121 กับ 1269 รวม 1.83 กม. อุโมงค์คู่ 462.5 เมตร 720.3 ล้านบาท สร้างไปกว่าแปดสิบเปอร์เซ็นต์สิงหาคม 2564 กำหนดต้น 2565 ทางแยกต่างระดับสันป่าตองบนทางหลวง 108 อีกแห่ง 1,246 ล้านบาท อุโมงค์ 679 เมตร กำหนด 2570"
+ },
+ "geo": {
+  "lat": 18.7,
+  "lon": 98.92,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "ring-3",
+   "as": "Off it.",
+   "rel": "ring"
+  },
+  {
+   "to": "route-1269",
+   "as": "To it.",
+   "rel": "highway"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:mgr-9640000078021"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:mgr-9640000078021"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": []
+}

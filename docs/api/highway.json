@@ -1,0 +1,1217 @@
+{
+ "type": "highway",
+ "count": 11,
+ "nodes": [
+  {
+   "id": "route-1",
+   "type": "highway",
+   "names": {
+    "name": "Route 1, Phahonyothin, and the 696 km to Bangkok",
+    "th": "ทางหลวงแผ่นดินหมายเลข 1 พหลโยธิน — 696 กม. ถึงกรุงเทพฯ",
+    "said": "Bangkok is 696 km by road. The number has not changed since the Superhighway.",
+    "said_th": "กรุงเทพฯ ห่าง 696 กิโลทางถนน ตัวเลขบ่เปลี่ยนตั้งแต่ซุปเปอร์ไฮเวย์"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "south",
+    "ref": "1",
+    "km": 1005,
+    "era": "siam"
+   },
+   "text": {
+    "what": "Thailand's first highway, 1,005 km from the Victory Monument to Mae Sai, named 1938. Chiang Mai is not on it; the run to Bangkok leaves Route 1 at Lampang for Route 11, or at Tak for Route 1 via Lampang, and comes to about 696 km either way."
+   },
+   "text_th": {
+    "what": "ทางหลวงสายแรกของประเทศ 1,005 กม. จากอนุสาวรีย์ชัยสมรภูมิถึงแม่สาย ตั้งชื่อ 2481 เชียงใหม่บ่ได้อยู่บนสายนี้ ทางไปกรุงเทพฯ ออกจากทางหลวง 1 ที่ลำปางเข้าทางหลวง 11 หรือใช้ทางหลวง 1 ผ่านตากและลำปาง ได้ราว 696 กม. ทั้งสองทาง"
+   },
+   "road": {
+    "ref": "1",
+    "km": 1005,
+    "km_source": "s:wp-route-1",
+    "from": "Bangkok",
+    "from_th": "กรุงเทพฯ",
+    "to": "Mae Sai",
+    "to_th": "แม่สาย",
+    "osm_refs": [
+     "1"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "route-11",
+     "as": "The road that joins it.",
+     "rel": "highway"
+    },
+    {
+     "to": "hsr-bangkok-chiang-mai",
+     "as": "The train that would replace the drive.",
+     "rel": "plan"
+    }
+   ],
+   "sources": [
+    "s:wp-route-1",
+    "s:wp-chiang-mai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-route-1"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-1/route-1-hgwy1amphoekokha090515.jpg",
+     "source": "commons",
+     "title": "File:Hgwy1amphoekokha090515.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hgwy1amphoekokha090515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHgwy1amphoekokha090515.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Hdamm",
+     "credit": "Own work",
+     "alt": "Highway 1 in Amphoe Ko Kha, Lampang Province, northern Thailand",
+     "date": "2009-05-15",
+     "primary": true,
+     "sha256": "29f45c03948002c8cac4772d3cd734be47a8fcd635942053b9ae20f2b3e9516a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "hsr-bangkok-chiang-mai",
+     "type": "plan",
+     "name": "Bangkok–Chiang Mai high-speed rail",
+     "as": "The 696 km it would replace."
+    },
+    {
+     "from": "fuel-today",
+     "type": "traffic",
+     "name": "What a litre cost on the day this was built",
+     "as": "696 km to Bangkok, at this price."
+    }
+   ]
+  },
+  {
+   "id": "route-1001",
+   "type": "highway",
+   "names": {
+    "name": "Route 1001, to Phrao",
+    "th": "ทางหลวงแผ่นดินหมายเลข 1001 — เชียงใหม่–พร้าว",
+    "said": "93.7 km, and 55,708 vehicles a day at its first kilometre.",
+    "said_th": "93.7 กิโล และ 55,708 คันต่อวันที่กิโลแรก"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "north",
+    "ref": "1001",
+    "km": 93.657,
+    "era": "siam"
+   },
+   "text": {
+    "what": "From the Fa Ham junction on the Superhighway north through San Sai and Mae Jo to Phrao, 93.657 km. The first kilometre is one of the busiest counts in the province, 55,708 vehicles a day in 2025 plus 22,601 motorcycles, and the reason the Fa Ham underpass was dug."
+   },
+   "text_th": {
+    "what": "จากแยกฟ้าฮ่ามบนซุปเปอร์ไฮเวย์ขึ้นเหนือผ่านสันทราย แม่โจ้ ถึงพร้าว 93.657 กม. กิโลเมตรแรกเป็นจุดนับที่รถมากสุดจุดหนึ่งของจังหวัด 55,708 คันต่อวันปี 2568 บวกจักรยานยนต์ 22,601 และเป็นเหตุที่ขุดทางลอดฟ้าฮ่าม"
+   },
+   "road": {
+    "ref": "1001",
+    "km": 93.657,
+    "km_source": "s:thwp-highway-list",
+    "from": "Fa Ham, Chiang Mai",
+    "from_th": "ฟ้าฮ่าม เชียงใหม่",
+    "to": "Phrao",
+    "to_th": "พร้าว",
+    "osm_refs": [
+     "1001"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "fa-ham-underpass",
+     "as": "Its junction.",
+     "rel": "junction"
+    }
+   ],
+   "sources": [
+    "s:thwp-highway-list",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-highway-list"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-1001/route-1001-green-bus-chiang-mai-nan.jpg",
+     "source": "commons",
+     "title": "File:Green Bus Chiang Mai - Nan.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Green_Bus_Chiang_Mai_-_Nan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AGreen_Bus_Chiang_Mai_-_Nan.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Khxwklong",
+     "credit": "Own work",
+     "alt": "Green Bus",
+     "date": "2024-03-15 07:37:22",
+     "primary": true,
+     "sha256": "ecd2b12a3dcab71815b9f6a5155bfac08a855d222d7c490a870c7a4768f30820"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "fa-ham-underpass",
+     "type": "junction",
+     "name": "Fa Ham underpass",
+     "as": "Through it."
+    }
+   ]
+  },
+  {
+   "id": "route-1006",
+   "type": "highway",
+   "names": {
+    "name": "Route 1006, the old San Kamphaeng road",
+    "th": "ทางหลวงแผ่นดินหมายเลข 1006 — สันกำแพงสายเก่า",
+    "said": "31 km of umbrella and silk shops, and 44,945 vehicles a day.",
+    "said_th": "31 กิโลของร้านร่มกับผ้าไหม และ 44,945 คันต่อวัน"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "east",
+    "ref": "1006",
+    "km": 31.45,
+    "era": "siam"
+   },
+   "text": {
+    "what": "Chiang Mai to On Luai through Bo Sang and San Kamphaeng, 31.45 km, the handicraft road. 44,945 vehicles a day at km 10 in 2024. The Louis interchange with the outer ring, 650 million baht, is under tender."
+   },
+   "text_th": {
+    "what": "เชียงใหม่ถึงออนหลวยผ่านบ่อสร้าง สันกำแพง 31.45 กม. ถนนหัตถกรรม 44,945 คันต่อวันที่ กม.10 ปี 2567 ทางแยกต่างระดับหลุยส์กับวงแหวนรอบนอก 650 ล้านบาท กำลังประมูล"
+   },
+   "road": {
+    "ref": "1006",
+    "km": 31.45,
+    "km_source": "s:thwp-highway-list",
+    "from": "Chiang Mai",
+    "from_th": "เชียงใหม่",
+    "to": "On Luai",
+    "to_th": "ออนหลวย",
+    "osm_refs": [
+     "1006"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "route-1317",
+     "as": "The new road.",
+     "rel": "highway"
+    }
+   ],
+   "sources": [
+    "s:thwp-highway-list",
+    "s:doh-aadt",
+    "s:dailynews-4380049"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-highway-list"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-1006/route-1006-talat-warorot-chiang-mai-thailand-4246641396.jpg",
+     "source": "commons",
+     "title": "File:Talat Warorot, Chiang Mai, Thailand (4246641396).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Talat_Warorot%2C_Chiang_Mai%2C_Thailand_%284246641396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATalat_Warorot%2C_Chiang_Mai%2C_Thailand_%284246641396%29.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "yeowatzup",
+     "credit": "Talat Warorot, Chiang Mai, Thailand",
+     "alt": "petsgoplaces.blogspot.com/",
+     "date": "2009-12-31 14:04",
+     "primary": true,
+     "sha256": "6cf637aa8d822b5794c1beaaaf4d6115e96c54202c5e33ddaf0b8d3d665effa7"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "route-1317",
+     "type": "highway",
+     "name": "Route 1317, the new San Kamphaeng road",
+     "as": "The old road."
+    }
+   ]
+  },
+  {
+   "id": "route-106",
+   "type": "highway",
+   "names": {
+    "name": "Route 106, the old road south",
+    "th": "ทางหลวงแผ่นดินหมายเลข 106 — ถนนสายเก่าลงใต้",
+    "said": "256 km from Sukhothai, and the Saraphi stretch is the one with the trees.",
+    "said_th": "256 กิโลจากสุโขทัย และช่วงสารภีคือช่วงมีต้นยาง"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "south",
+    "ref": "106",
+    "km": 256.359,
+    "era": "kawila"
+   },
+   "text": {
+    "what": "Sukhothai to Lampang, Lamphun and Chiang Mai, 256.359 km. The Chiang Mai–Lamphun stretch is the Yang Tree Road, two to four lanes under the yang-na. It was the road to Bangkok until 1969, when Route 11 took the traffic."
+   },
+   "text_th": {
+    "what": "สุโขทัยถึงลำปาง ลำพูน เชียงใหม่ 256.359 กม. ช่วงเชียงใหม่–ลำพูนคือถนนต้นยาง สองถึงสี่เลนใต้ต้นยางนา เป็นถนนไปกรุงเทพฯ จนถึงปี 2512 เมื่อทางหลวง 11 เอารถไป"
+   },
+   "road": {
+    "ref": "106",
+    "km": 256.359,
+    "km_source": "s:thwp-106",
+    "from": "Sukhothai",
+    "from_th": "สุโขทัย",
+    "to": "Chiang Mai",
+    "to_th": "เชียงใหม่",
+    "osm_refs": [
+     "106"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "ton-yang-road",
+     "as": "Its famous stretch.",
+     "rel": "road"
+    },
+    {
+     "to": "route-11",
+     "as": "What replaced it.",
+     "rel": "highway"
+    }
+   ],
+   "sources": [
+    "s:thwp-106",
+    "s:cmu-thesis-2548"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-106"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-106/route-106-hoge-bomen-langs-weg-106-p-20161219-a.jpg",
+     "source": "commons",
+     "title": "File:Hoge bomen langs weg 106 P 20161219 a.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hoge_bomen_langs_weg_106_P_20161219_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P_20161219_a.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "FredTC",
+     "credit": "Own work",
+     "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+     "date": "2016-12-19 16:13:08",
+     "primary": true,
+     "sha256": "6b1698d1f0e7e35e14854f7dd5d48a951cb038318695257df41521caaa7c8dbc"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ton-yang-road",
+     "type": "road",
+     "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+     "as": "The whole road."
+    }
+   ]
+  },
+  {
+   "id": "route-107",
+   "type": "highway",
+   "names": {
+    "name": "Route 107, north to Fang",
+    "th": "ทางหลวงแผ่นดินหมายเลข 107 — เชียงใหม่–ฝาง",
+    "said": "240 km north, four lanes to Mae Rim and now to Chiang Dao.",
+    "said_th": "240 กิโลขึ้นเหนือ สี่เลนถึงแม่ริม และตอนนี้ถึงเชียงดาว"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "north",
+    "ref": "107",
+    "km": 240.301,
+    "era": "siam"
+   },
+   "text": {
+    "what": "From Chang Phueak Gate through Mae Rim, Mae Taeng, Chiang Dao, Fang and Mae Ai to Route 1 at Mae Chan, 240.3 km, a pre-1937 road. City to Mae Rim is four to six lanes of concrete; Mae Rim to Chiang Dao mostly four. A four-lane contract for 14.3 km between Fang and Mae Ai runs July 2025 to September 2027. The Mae Malai turn onto Route 1095 for Pai is at km 35."
+   },
+   "text_th": {
+    "what": "จากประตูช้างเผือกผ่านแม่ริม แม่แตง เชียงดาว ฝาง แม่อาย ถึงทางหลวง 1 ที่แม่จัน 240.3 กม. ถนนก่อนปี 2480 ในเมืองถึงแม่ริมสี่ถึงหกเลนคอนกรีต แม่ริมถึงเชียงดาวส่วนใหญ่สี่เลน สัญญาสี่เลน 14.3 กม. ระหว่างฝางกับแม่อาย กรกฎาคม 2568 ถึงกันยายน 2570 ทางแยกแม่มาลัยเข้าทางหลวง 1095 ไปปายอยู่ที่ กม.35"
+   },
+   "road": {
+    "ref": "107",
+    "km": 240.301,
+    "km_source": "s:thwp-107",
+    "from": "Chang Phueak Gate",
+    "from_th": "ประตูช้างเผือก",
+    "to": "Mae Chan, Chiang Rai",
+    "to_th": "แม่จัน เชียงราย",
+    "osm_refs": [
+     "107"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "chotana-road",
+     "as": "Its city name.",
+     "rel": "road"
+    },
+    {
+     "to": "route-1095",
+     "as": "Turns off it at km 35.",
+     "rel": "highway"
+    },
+    {
+     "to": "chang-phueak-gate",
+     "as": "Its start.",
+     "rel": "gate"
+    }
+   ],
+   "sources": [
+    "s:thwp-107",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-107"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-107/route-107-chiang-dao-thailand-panoramio-gary4now-1.jpg",
+     "source": "commons",
+     "title": "File:Chiang Dao, Thailand - panoramio - gary4now (1).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Chiang_Dao%2C_Thailand_-_panoramio_-_gary4now_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Dao%2C_Thailand_-_panoramio_-_gary4now_%281%29.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "gary4now",
+     "credit": "https://web.archive.org/web/20161017152929/http://www.panoramio.com/photo/47788894",
+     "alt": "Chiang Dao, Thailand",
+     "date": "Taken on 20 October 2009",
+     "primary": true,
+     "sha256": "669ad88edbe7fba9b1361177f4c239fa9377a2d431882c04c9620e911d976863"
+    },
+    {
+     "file": "route-107/route-107-map-of-thailand-highway-107.png",
+     "source": "commons",
+     "title": "File:Map of Thailand Highway 107.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Map_of_Thailand_Highway_107.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMap_of_Thailand_Highway_107.png",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "SARANPHONG YIMKLAN",
+     "credit": "Own work",
+     "alt": "Map of Thailand Highway 107",
+     "date": "2016-03-14",
+     "primary": false,
+     "sha256": "b7ea961420c61460c7db416bdf89a3de1b8648350ebf27c1664ac50845639576"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chotana-road",
+     "type": "road",
+     "name": "Chotana Road",
+     "as": "The whole road."
+    },
+    {
+     "from": "chang-phueak-gate",
+     "type": "gate",
+     "name": "Chang Phueak Gate",
+     "as": "The road that leaves from here."
+    },
+    {
+     "from": "route-1095",
+     "type": "highway",
+     "name": "Route 1095, the curve road to Pai",
+     "as": "What it turns off."
+    },
+    {
+     "from": "tim-chotana",
+     "type": "person",
+     "name": "Tim Chotana",
+     "as": "The road."
+    }
+   ]
+  },
+  {
+   "id": "route-108",
+   "type": "highway",
+   "names": {
+    "name": "Route 108, southwest to Mae Hong Son",
+    "th": "ทางหลวงแผ่นดินหมายเลข 108 — เชียงใหม่–แม่ฮ่องสอน",
+    "said": "349 km, and it changes character at a roundabout in Hot.",
+    "said_th": "349 กิโล และมันเปลี่ยนนิสัยตรงวงเวียนฮอด"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "southwest",
+    "ref": "108",
+    "km": 349.359,
+    "era": "siam"
+   },
+   "text": {
+    "what": "Through Hang Dong, San Pa Tong and Chom Thong to Hot, 88 km of four to six lanes, then 265 km of two-lane mountain road through Mae Sariang and Khun Yuam to Mae Hong Son: 349.359 km. The Hang Dong road was built in 1899 with khi-lek trees for the Burma trade, made a two-lane gravel road in the 1970s, concreted from 1986 and widened to four and six lanes in 1989–92. The whole route was a dirt road by 1963, asphalt by 1990 and complete in 1998. The 2024 count at km 7.65 read 41,450 vehicles a day and 16,378 motorcycles.",
+    "story": "*Inference —* it is the long way round the Mae Hong Son loop, and the loop site counts its curves; this site only claims its first eighty-eight kilometres, which are the flat ones."
+   },
+   "text_th": {
+    "what": "ผ่านหางดง สันป่าตอง จอมทอง ถึงฮอด 88 กม. สี่ถึงหกเลน แล้วต่อด้วยถนนภูเขาสองเลน 265 กม. ผ่านแม่สะเรียง ขุนยวม ถึงแม่ฮ่องสอน รวม 349.359 กม. ถนนหางดงสร้างปี 2442 ปลูกต้นขี้เหล็กเพื่อการค้ากับพม่า เป็นถนนลูกรังสองเลนในทศวรรษ 2510 เทคอนกรีตตั้งแต่ 2529 ขยายสี่และหกเลน 2532–35 ทั้งสายเป็นถนนดินภายในปี 2506 ลาดยางภายในปี 2533 เสร็จ 2541 จุดนับ กม.7.65 ปี 2567 อ่านได้ 41,450 คันต่อวัน จักรยานยนต์ 16,378",
+    "story": "*อนุมาน —* มันคือทางอ้อมของวงรอบแม่ฮ่องสอน และเว็บวงรอบนับโค้งของมัน เว็บนี้อ้างแค่แปดสิบแปดกิโลเมตรแรก ซึ่งเป็นช่วงราบ"
+   },
+   "road": {
+    "ref": "108",
+    "km": 349.359,
+    "km_source": "s:thwp-108",
+    "from": "Chiang Mai",
+    "from_th": "เชียงใหม่",
+    "to": "Mae Hong Son",
+    "to_th": "แม่ฮ่องสอน",
+    "osm_refs": [
+     "108"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "phraya-surasi",
+     "as": "Built the Hang Dong road.",
+     "rel": "person"
+    },
+    {
+     "to": "ring-3-interchanges",
+     "as": "The Samoeng interchange is on it.",
+     "rel": "plan"
+    }
+   ],
+   "sources": [
+    "s:thwp-108",
+    "s:cmu-thesis-2548",
+    "s:doh-aadt",
+    "s:motdang-loop"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-108"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-108/route-108-road-108-new-construction-mae-hong-son-province.jpg",
+     "source": "commons",
+     "title": "File:Road 108 new construction Mae Hong Son province.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Road_108_new_construction_Mae_Hong_Son_province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARoad_108_new_construction_Mae_Hong_Son_province.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "A new bridge is built for road 108. Photo was made in March 2010.",
+     "date": "2010-03-13",
+     "primary": true,
+     "sha256": "bf88fcbaea6dac8571099ecc243987b106f4d2ca01eb1ab87ceb96d1abca0244"
+    },
+    {
+     "file": "route-108/route-108-spirit-houses-at-lampang-chiang-mai-highway-panoramio.jpg",
+     "source": "commons",
+     "title": "File:Spirit houses at Lampang-Chiang Mai highway - panoramio.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Spirit_houses_at_Lampang-Chiang_Mai_highway_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASpirit_houses_at_Lampang-Chiang_Mai_highway_-_panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Andreas Hörstemeier",
+     "credit": "https://web.archive.org/web/20161010151416/http://www.panoramio.com/photo/914963",
+     "alt": "Spirit houses at Lampang-Chiang Mai highway",
+     "date": "20 February 2007 (original upload date)",
+     "primary": false,
+     "sha256": "3777df20d6a2864af54302f911171d93fccb9e8b66531a26916c3711df4f6479"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "route-1269",
+     "type": "highway",
+     "name": "Route 1269, Samoeng",
+     "as": "Where it comes out."
+    },
+    {
+     "from": "era-lanna-and-burma",
+     "type": "era",
+     "name": "1300s–1700s — Lanna and Burma",
+     "as": "The old track to Burma."
+    },
+    {
+     "from": "phraya-surasi",
+     "type": "person",
+     "name": "Chao Phraya Surasi Wisitsak",
+     "as": "The other road."
+    }
+   ]
+  },
+  {
+   "id": "route-1095",
+   "type": "highway",
+   "names": {
+    "name": "Route 1095, the curve road to Pai",
+    "th": "ทางหลวงแผ่นดินหมายเลข 1095 — ถนนสายปาย",
+    "said": "204 km, two thousand curves by its own account, and the fastest-growing count in the province.",
+    "said_th": "204 กิโล สองพันโค้งตามที่มันว่าเอง และจุดนับที่โตเร็วสุดในจังหวัด"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "northwest",
+    "ref": "1095",
+    "km": 204.023,
+    "era": "siam"
+   },
+   "text": {
+    "what": "From Ban Nong Khong on Route 107 through Pai and Pang Mapha to Mae Hong Son, 204.023 km, realigned to its present start in 1994. Thai Wikipedia gives it more than 2,000 curves; the shirts in Pai say 1,864, a figure this project's sister site measured against the map. The 2020 count at km 0.7 was 2,631 vehicles a day; the 2025 count 5,782, more than double in five years."
+   },
+   "text_th": {
+    "what": "จากบ้านหนองโค้งบนทางหลวง 107 ผ่านปาย ปางมะผ้า ถึงแม่ฮ่องสอน 204.023 กม. ย้ายจุดเริ่มมาที่ปัจจุบันปี 2537 วิกิพีเดียไทยว่ากว่า 2,000 โค้ง เสื้อที่ปายว่า 1,864 ตัวเลขที่เว็บพี่น้องของโครงการนี้วัดเทียบแผนที่ จุดนับ กม.0.7 ปี 2563 ได้ 2,631 คันต่อวัน ปี 2568 ได้ 5,782 มากกว่าสองเท่าในห้าปี"
+   },
+   "road": {
+    "ref": "1095",
+    "km": 204.023,
+    "km_source": "s:thwp-1095",
+    "from": "Nong Khong, Mae Taeng",
+    "from_th": "หนองโค้ง แม่แตง",
+    "to": "Mae Hong Son",
+    "to_th": "แม่ฮ่องสอน",
+    "osm_refs": [
+     "1095"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "route-107",
+     "as": "What it turns off.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "motorbike"
+   ],
+   "sources": [
+    "s:thwp-1095",
+    "s:doh-aadt",
+    "s:motdang-loop"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-1095"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-1095/route-1095-thailand-route-1095.jpg",
+     "source": "commons",
+     "title": "File:Thailand Route 1095.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Thailand_Route_1095.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Route_1095.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Thailand Route 1095 and a minibus going from Chiang Mai to Pai in Mae Taeng District, Chiang Mai Province.",
+     "date": "2018-08-29 14:08:13",
+     "primary": true,
+     "sha256": "98d29fc18592e9627c27b08638368c3501bd901d778593d82f7bf4e4b77837fc"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "route-107",
+     "type": "highway",
+     "name": "Route 107, north to Fang",
+     "as": "Turns off it at km 35."
+    },
+    {
+     "from": "nine-roads-programme",
+     "type": "plan",
+     "name": "The nine roads, 2025–27",
+     "as": "On the list."
+    }
+   ]
+  },
+  {
+   "id": "route-11",
+   "type": "highway",
+   "names": {
+    "name": "Route 11, the Superhighway",
+    "th": "ทางหลวงแผ่นดินหมายเลข 11 — ถนนซุปเปอร์ไฮเวย์",
+    "said": "562.7 km from Sing Buri, and the last ten are the city's first ring.",
+    "said_th": "562.7 กิโลจากสิงห์บุรี และสิบกิโลสุดท้ายคือวงแหวนแรกของเมือง"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "south",
+    "ref": "11",
+    "km": 562.673,
+    "era": "superhighway"
+   },
+   "text": {
+    "what": "From the Inthaburi interchange on Route 32 in Sing Buri to Huay Kaew Road in Chiang Mai, 562.673 km, Asian Highway 13. The Lampang–Chiang Mai section was built in 1968–69 by the Lampang highway centre, two lanes, to shorten the road to Bangkok, and its final ten kilometres skirt the city as the Superhighway. Four-laning from 2001, most of it done by 2012. The 2025 counts on the city stretch read 67,150 and 62,422 vehicles a day.",
+    "story": "*Inference —* the name is a fossil. In 1969 a two-lane road with a hard shoulder was a superhighway; the word stuck to the road while the road became a city street with traffic lights, and the highway department has spent the 2000s and 2010s digging under those lights one by one."
+   },
+   "text_th": {
+    "what": "จากทางแยกต่างระดับอินทร์บุรีบนทางหลวง 32 ที่สิงห์บุรีถึงถนนห้วยแก้วเชียงใหม่ 562.673 กม. ทางหลวงเอเชีย 13 ช่วงลำปาง–เชียงใหม่สร้างปี 2511–12 โดยศูนย์สร้างทางลำปาง สองเลน เพื่อย่นทางไปกรุงเทพฯ และสิบกิโลเมตรสุดท้ายเลียบเมืองเป็นซุปเปอร์ไฮเวย์ ขยายสี่เลนตั้งแต่ 2544 ส่วนใหญ่เสร็จ 2555 จุดนับช่วงในเมืองปี 2568 อ่านได้ 67,150 และ 62,422 คันต่อวัน",
+    "story": "*อนุมาน —* ชื่อคือฟอสซิล ปี 2512 ถนนสองเลนมีไหล่ทางคือซุปเปอร์ไฮเวย์ คำติดอยู่กับถนนขณะที่ถนนกลายเป็นถนนในเมืองมีไฟแดง และกรมทางหลวงใช้ทศวรรษ 2540 และ 2550 ขุดลอดไฟแดงเหล่านั้นทีละแห่ง"
+   },
+   "road": {
+    "ref": "11",
+    "km": 562.673,
+    "km_source": "s:thwp-11",
+    "from": "Inthaburi, Sing Buri",
+    "from_th": "อินทร์บุรี สิงห์บุรี",
+    "to": "Huay Kaew Road, Chiang Mai",
+    "to_th": "ถนนห้วยแก้ว เชียงใหม่",
+    "osm_refs": [
+     "11"
+    ],
+    "opened": "1969"
+   },
+   "kin": [
+    {
+     "to": "ring-1",
+     "as": "What its last ten km became.",
+     "rel": "ring"
+    },
+    {
+     "to": "ton-yang-road",
+     "as": "The road it took the traffic off.",
+     "rel": "road"
+    },
+    {
+     "to": "khuang-sing-underpass",
+     "as": "Dug under it.",
+     "rel": "junction"
+    },
+    {
+     "to": "fa-ham-underpass",
+     "as": "Dug under it.",
+     "rel": "junction"
+    },
+    {
+     "to": "era-superhighway-1969",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "sources": [
+    "s:thwp-11",
+    "s:wp-route-11",
+    "s:cmu-thesis-2548",
+    "s:mgr-9630000089345",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-11"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-11/route-11-thai-highway-11.jpg",
+     "source": "commons",
+     "title": "File:Thai Highway 11.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thai_Highway_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_Highway_11.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+     "credit": "Own work",
+     "alt": "Thai Highway 11Location: Wat Khung Taphao, Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit, Uttaradit Province, Thailand.",
+     "date": "2009",
+     "primary": true,
+     "sha256": "36dbd379d06bdbaf11aa6d2cd70ca520c22d96e72bcf4a07e27941db39a464db"
+    },
+    {
+     "file": "route-11/route-11-welcome-to-uttaradit-sign-over-highway-11.jpg",
+     "source": "commons",
+     "title": "File:Welcome to Uttaradit sign over highway 11.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Welcome_to_Uttaradit_sign_over_highway_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWelcome_to_Uttaradit_sign_over_highway_11.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "A sign over highway number 11, welcoming visitors to Uttaradit.",
+     "date": "2014-01-07 13:33:56",
+     "primary": false,
+     "sha256": "506f467a90bdc46babcce1ab7fd0e193a6f8db36bbe748e6c3df2ce325e158ad"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ton-yang-road",
+     "type": "road",
+     "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+     "as": "The bypass that spared it."
+    },
+    {
+     "from": "ring-1",
+     "type": "ring",
+     "name": "Ring 1, the Superhighway ring",
+     "as": "North and east."
+    },
+    {
+     "from": "fa-ham-underpass",
+     "type": "junction",
+     "name": "Fa Ham underpass",
+     "as": "Under it."
+    },
+    {
+     "from": "khuang-sing-underpass",
+     "type": "junction",
+     "name": "Khuang Sing underpass",
+     "as": "Under it."
+    },
+    {
+     "from": "route-1",
+     "type": "highway",
+     "name": "Route 1, Phahonyothin, and the 696 km to Bangkok",
+     "as": "The road that joins it."
+    },
+    {
+     "from": "route-106",
+     "type": "highway",
+     "name": "Route 106, the old road south",
+     "as": "What replaced it."
+    },
+    {
+     "from": "era-superhighway-1969",
+     "type": "era",
+     "name": "1960s–70s — the Superhighway",
+     "as": "The road."
+    },
+    {
+     "from": "the-trees-on-the-lamphun-road",
+     "type": "story",
+     "name": "The trees on the Lamphun road",
+     "as": "The bypass."
+    },
+    {
+     "from": "arcade-bus-terminal",
+     "type": "place",
+     "name": "Arcade bus terminal",
+     "as": "Beside it."
+    }
+   ]
+  },
+  {
+   "id": "route-118",
+   "type": "highway",
+   "names": {
+    "name": "Route 118, to Chiang Rai",
+    "th": "ทางหลวงแผ่นดินหมายเลข 118 — เชียงใหม่–เชียงราย",
+    "said": "158.5 km over the mountains, and the last 17.5 km of four-laning due 2026.",
+    "said_th": "158.5 กิโลข้ามดอย และ 17.5 กิโลสุดท้ายของสี่เลนกำหนด 2569"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "northeast",
+    "ref": "118",
+    "km": 158.65,
+    "era": "now"
+   },
+   "text": {
+    "what": "Chiang Mai to Doi Saket, Wiang Pa Pao, Mae Suai and Mae Lao on Route 1, 158.65 km. The first 14 km out of the city are four to eight lanes and the 2024 count at km 0.5 read 82,500 vehicles a day, the second busiest station in the province. The whole road is being four-laned: Chiang Mai–Doi Saket 20.2 km done October 2008; Pong Pha Tong–Ban Pong 28.5 km October 2019; Pa Miang–Pang Nam Thu 9.25 km March 2020; five sections of 42.8 km in 2020–21; and the last stretch from Mae Suai to Route 1, 17.473 km for 2,000 million baht, under contract for 2026."
+   },
+   "text_th": {
+    "what": "เชียงใหม่ถึงดอยสะเก็ด เวียงป่าเป้า แม่สรวย และแม่ลาวบนทางหลวง 1 158.65 กม. 14 กม. แรกออกจากเมืองเป็นสี่ถึงแปดเลน จุดนับ กม.0.5 ปี 2567 อ่านได้ 82,500 คันต่อวัน สถานีที่รถมากเป็นอันดับสองของจังหวัด ทั้งสายกำลังขยายสี่เลน เชียงใหม่–ดอยสะเก็ด 20.2 กม. เสร็จตุลาคม 2551 โป่งผาทอง–บ้านโป่ง 28.5 กม. ตุลาคม 2562 ป่าเมี่ยง–ปางน้ำถุ 9.25 กม. มีนาคม 2563 ห้าช่วง 42.8 กม. ปี 2563–64 และช่วงสุดท้ายแม่สรวยถึงทางหลวง 1 17.473 กม. 2,000 ล้านบาท สัญญากำหนด 2569"
+   },
+   "road": {
+    "ref": "118",
+    "km": 158.65,
+    "km_source": "s:thwp-118",
+    "from": "Chiang Mai",
+    "from_th": "เชียงใหม่",
+    "to": "Mae Lao, Chiang Rai",
+    "to_th": "แม่ลาว เชียงราย",
+    "osm_refs": [
+     "118"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "motorway-chiang-mai-chiang-rai",
+     "as": "The road that would bypass it.",
+     "rel": "plan"
+    },
+    {
+     "to": "fa-ham-underpass",
+     "as": "Its junction with the Superhighway.",
+     "rel": "junction"
+    }
+   ],
+   "sources": [
+    "s:thwp-118",
+    "s:feasy-118",
+    "s:cri108-15492",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-118"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-118/route-118-ban-wiang-pa-pao-panoramio-chamrat-charoenkhet-2.jpg",
+     "source": "commons",
+     "title": "File:Ban Wiang Pa Pao - panoramio - CHAMRAT CHAROENKHET (2).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ban_Wiang_Pa_Pao_-_panoramio_-_CHAMRAT_CHAROENKHET_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABan_Wiang_Pa_Pao_-_panoramio_-_CHAMRAT_CHAROENKHET_%282%29.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "CHAMRAT CHAROENKHET",
+     "credit": "https://web.archive.org/web/20170830174322/http://www.panoramio.com:80/photo/9668935",
+     "alt": "Ban Wiang Pa Pao",
+     "date": "Taken on 17 April 2008",
+     "primary": true,
+     "sha256": "50c7cc480ba34d4bc9717035e93fc8e2fd0a0e9f14639a9a316b94c1ad4e69f7"
+    },
+    {
+     "file": "route-118/route-118-th-hw-118-map-2.png",
+     "source": "commons",
+     "title": "File:TH HW 118 map 2.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/TH_HW_118_map_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATH_HW_118_map_2.png",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "SARANPHONG YIMKLAN",
+     "credit": "Own work",
+     "alt": "TH HW 118 map 2",
+     "date": "2016-03-15",
+     "primary": false,
+     "sha256": "9c4ceaa04b788ad52681d09632e5657fd1306a49f711a2eb4cb57ca14f60c2de"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "motorway-chiang-mai-chiang-rai",
+     "type": "plan",
+     "name": "Chiang Mai–Chiang Rai motorway, MR1-3",
+     "as": "What it would bypass."
+    },
+    {
+     "from": "route-118-four-lanes",
+     "type": "plan",
+     "name": "Four-laning Route 118 to Chiang Rai",
+     "as": "The road."
+    }
+   ]
+  },
+  {
+   "id": "route-1269",
+   "type": "highway",
+   "names": {
+    "name": "Route 1269, Samoeng",
+    "th": "ทางหลวงแผ่นดินหมายเลข 1269 — สะเมิง",
+    "said": "36 km of practice curves, an hour from a hotel in the moat.",
+    "said_th": "36 กิโลของโค้งซ้อมมือ ชั่วโมงเดียวจากโฮงแฮมในเวียง"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "west",
+    "ref": "1269",
+    "km": 36.319,
+    "era": "siam"
+   },
+   "text": {
+    "what": "Samoeng to Ton Kwen, 36.319 km, the road that with Route 1096 makes the Samoeng day loop. The loop site measured it denser in curves than the famous road to Pai. Build year not on this disk."
+   },
+   "text_th": {
+    "what": "สะเมิงถึงต้นเกว๋น 36.319 กม. ถนนที่ร่วมกับทางหลวง 1096 เป็นวงรอบสะเมิงวันเดียว เว็บวงรอบวัดว่าโค้งแน่นกว่าถนนสายปายที่โด่งดัง ปีสร้างบ่มีในแผ่นนี้"
+   },
+   "road": {
+    "ref": "1269",
+    "km": 36.319,
+    "km_source": "s:thwp-highway-list",
+    "from": "Samoeng",
+    "from_th": "สะเมิง",
+    "to": "Ton Kwen, Hang Dong",
+    "to_th": "ต้นเกว๋น หางดง",
+    "osm_refs": [
+     "1269"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "route-108",
+     "as": "Where it comes out.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "motorbike"
+   ],
+   "sources": [
+    "s:thwp-highway-list",
+    "s:motdang-loop"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-highway-list"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "san-pa-tong-underpass",
+     "type": "junction",
+     "name": "San Pa Tong–Hang Dong bypass underpass",
+     "as": "To it."
+    }
+   ]
+  },
+  {
+   "id": "route-1317",
+   "type": "highway",
+   "names": {
+    "name": "Route 1317, the new San Kamphaeng road",
+    "th": "ทางหลวงแผ่นดินหมายเลข 1317 — สันกำแพงสายใหม่",
+    "said": "37 km east, and the San Klang interchange half built.",
+    "said_th": "37 กิโลไปตะวันออก และแยกสันกลางสร้างไปครึ่ง"
+   },
+   "region": [
+    "intercity"
+   ],
+   "facets": {
+    "direction": "east",
+    "ref": "1317",
+    "km": 36.991,
+    "era": "siam"
+   },
+   "text": {
+    "what": "Don Chan on Mahidol Road east to Huay Kaew in San Kamphaeng, 36.991 km, the newer of the two roads to San Kamphaeng. 59,248 vehicles a day at km 1 in 2025. Its crossing of the outer ring at San Klang is getting a 1,425 million baht interchange, more than half built."
+   },
+   "text_th": {
+    "what": "ดอนจั่นบนถนนมหิดลไปตะวันออกถึงห้วยแก้ว สันกำแพง 36.991 กม. ถนนสายใหม่กว่าในสองสายไปสันกำแพง 59,248 คันต่อวันที่ กม.1 ปี 2568 จุดตัดวงแหวนรอบนอกที่สันกลางกำลังได้ทางแยกต่างระดับ 1,425 ล้านบาท สร้างไปกว่าครึ่ง"
+   },
+   "road": {
+    "ref": "1317",
+    "km": 36.991,
+    "km_source": "s:thwp-highway-list",
+    "from": "Don Chan",
+    "from_th": "ดอนจั่น",
+    "to": "Huay Kaew, San Kamphaeng",
+    "to_th": "ห้วยแก้ว สันกำแพง",
+    "osm_refs": [
+     "1317"
+    ],
+    "opened": ""
+   },
+   "kin": [
+    {
+     "to": "route-1006",
+     "as": "The old road.",
+     "rel": "highway"
+    },
+    {
+     "to": "ring-3-interchanges",
+     "as": "San Klang.",
+     "rel": "plan"
+    }
+   ],
+   "sources": [
+    "s:thwp-highway-list",
+    "s:doh-aadt",
+    "s:thaipbs-353092"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-highway-list"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "route-1317/route-1317-thailand-traffic-signs-working-sites-04.jpg",
+     "source": "commons",
+     "title": "File:Thailand Traffic-signs Working-sites-04.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Thailand_Traffic-signs_Working-sites-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Traffic-signs_Working-sites-04.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Traffic signs in Thailand: Working site (Photo taken at Chiang Mai University)",
+     "date": "2017-04-19",
+     "primary": true,
+     "sha256": "ad3284f9ed5ba23de85b95fc9809386d9cba7de77dde09200f8b03a93003a2a3"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "san-klang-interchange",
+     "type": "junction",
+     "name": "San Klang interchange",
+     "as": "Through it."
+    },
+    {
+     "from": "route-1006",
+     "type": "highway",
+     "name": "Route 1006, the old San Kamphaeng road",
+     "as": "The new road."
+    },
+    {
+     "from": "lanna-airport",
+     "type": "plan",
+     "name": "Lanna Airport, the second airport at Ban Thi",
+     "as": "The road that would serve it."
+    }
+   ]
+  }
+ ]
+}

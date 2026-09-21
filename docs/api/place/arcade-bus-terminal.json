@@ -1,0 +1,76 @@
+{
+ "id": "arcade-bus-terminal",
+ "type": "place",
+ "names": {
+  "name": "Arcade bus terminal",
+  "th": "สถานีขนส่งอาเขต",
+  "rtgs": "Sathani Khon Song Arcade",
+  "said": "Where the road out starts, for anyone without a vehicle.",
+  "said_th": "ตี้ถนนออกเมืองเริ่ม สำหรับคนบ่มีรถ"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "The intercity bus station on Kaew Nawarat Road, northeast of the river, beside the Superhighway. Terminals 2 and 3 serve the north and the rest of the country. Talk of a new terminal elsewhere turned up nothing this project could name."
+ },
+ "text_th": {
+  "what": "สถานีขนส่งระหว่างเมืองบนถนนแก้วนวรัฐ ทางตะวันออกเฉียงเหนือของแม่น้ำ ข้างซุปเปอร์ไฮเวย์ อาคาร 2 และ 3 รับสายเหนือและทั่วประเทศ เรื่องสถานีใหม่ที่อื่น โครงการนี้หาแหล่งที่ระบุชื่อได้บ่พบ"
+ },
+ "geo": {
+  "lat": 18.8033,
+  "lon": 99.018,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "route-11",
+   "as": "Beside it.",
+   "rel": "highway"
+  }
+ ],
+ "sources": [
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wp-chiang-mai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "arcade-bus-terminal/arcade-bus-terminal-chiang-mai-thailand-taxis-at-arcade-bus-station-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Taxis-at-Arcade-Bus-Station-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chiang-Mai_Thailand_Taxis-at-Arcade-Bus-Station-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Taxis-at-Arcade-Bus-Station-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Tour taxis, waiting at the Arcade bus terminal",
+   "date": "2009-11-20",
+   "primary": true,
+   "sha256": "151c7ec1002147535c3f219e4cc2ce6e8d288cad0515df96fb52c338ddfd3ed9"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "san-dek-underpass",
+   "type": "junction",
+   "name": "San Dek underpass",
+   "as": "Beside it."
+  }
+ ]
+}

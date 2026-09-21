@@ -135,6 +135,18 @@ def zone_area_km2(z: str) -> float:
     return a
 
 
+def place_point(r):
+    """Where a place is. A wat is usually a polygon of temple grounds, not a node, so a
+    row with geometry and no centre gets the mean of its points; counting only nodes
+    missed four fifths of the wats."""
+    if "lat" in r:
+        return (r["lat"], r["lon"])
+    pts = r.get("pts") or []
+    if not pts:
+        return None
+    return (sum(p[0] for p in pts) / len(pts), sum(p[1] for p in pts) / len(pts))
+
+
 def segments_cross(a1, a2, b1, b2) -> bool:
     def ccw(p, q, r):
         return (r[1] - p[1]) * (q[0] - p[0]) > (q[1] - p[1]) * (r[0] - p[0])
@@ -256,9 +268,10 @@ def main() -> int:
             "Ping" in (r["tags"].get("name:en", "") + r["tags"].get("name", ""))]
     for r in places["rows"]:
         k = r.get("kind")
-        if "lat" not in r:
+        pt = place_point(r)
+        if not pt:
             continue
-        z = zone_of((r["lat"], r["lon"]))
+        z = zone_of(pt)
         if k == "wat":
             Z[z]["wats"] += 1
         elif k == "signal":
@@ -353,8 +366,8 @@ def main() -> int:
         "bridges_total": len(bridges), "tunnels": tunnels,
         "ping_bridges": sorted(grouped, key=lambda x: x["lat"]),
         "signals": sum(1 for r in places["rows"] if r.get("kind") == "signal"),
-        "wats": sum(1 for r in places["rows"] if r.get("kind") == "wat" and "lat" in r
-                    and box[0] <= r["lat"] <= box[2] and box[1] <= r["lon"] <= box[3]),
+        "wats": sum(1 for r in places["rows"] if r.get("kind") == "wat"
+                    and (lambda q: q and box[0] <= q[0] <= box[2] and box[1] <= q[1] <= box[3])(place_point(r))),
     }
     jdump(out, HARVEST / "measures.json")
     print(f"measures: {len(ways)} ways, {total_km:.0f} km, {drive_km:.0f} drivable; "

@@ -1,0 +1,87 @@
+{
+ "id": "khu",
+ "type": "word",
+ "names": {
+  "name": "คู khu",
+  "th": "คู",
+  "rtgs": "khu"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "คู khu — Tai root, a dug channel. Khu mueang, the city ditch, is the moat; the same word in Bangkok, but there is only one khu that matters here.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The moat, and by extension the roads on its banks. 'Rop khu' is the loop."
+ },
+ "text_th": {
+  "what": "คูเมือง และโดยนัยคือถนนบนตลิ่งของมัน 'รอบคู' คือวงรอบ"
+ },
+ "word": {
+  "th": "คู",
+  "rtgs": "khu",
+  "ipa": "/kʰuː/",
+  "standard": "คูเมือง",
+  "standard_rtgs": "khu mueang",
+  "gloss": "moat; ditch",
+  "gloss_th": "คูเมือง",
+  "example": "รอบคูเมือง",
+  "example_gloss": "rop khu mueang — around the moat; the ring road on its banks"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The roads on it.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "khu/khu-201703291023a-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291023a Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/201703291023a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291023a_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Chiang Mai Gate and Suan Prung Gate",
+   "date": "2017-03-29 10:23:35",
+   "primary": true,
+   "sha256": "e1b6ba2efb374f3ac6864cdb555aec2c5b5a65005cb99057e4c925d67ba4ee00"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "the-moat",
+   "type": "place",
+   "name": "The moat",
+   "as": "The word."
+  }
+ ]
+}

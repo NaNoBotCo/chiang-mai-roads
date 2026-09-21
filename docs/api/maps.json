@@ -1,0 +1,123 @@
+{
+ "oldcity": {
+  "lanes": 1321,
+  "major": 356,
+  "wats": 68
+ },
+ "eras": {
+  "chang-klan-road": [
+   "siam",
+   9
+  ],
+  "chang-moi-road": [
+   "siam",
+   26
+  ],
+  "chotana-road": [
+   "siam",
+   154
+  ],
+  "huay-kaew-road": [
+   "siam",
+   87
+  ],
+  "kamphaeng-din-road": [
+   "siam",
+   11
+  ],
+  "mahidol-road": [
+   "superhighway",
+   161
+  ],
+  "nimmanhaemin-road": [
+   "superhighway",
+   36
+  ],
+  "ratchadamnoen-road": [
+   "mangrai",
+   22
+  ],
+  "si-wichai-road": [
+   "srivichai",
+   33
+  ],
+  "suthep-road": [
+   "siam",
+   38
+  ],
+  "tha-phae-road": [
+   "mangrai",
+   33
+  ],
+  "ton-yang-road": [
+   "kawila",
+   57
+  ],
+  "wua-lai-road": [
+   "kawila",
+   38
+  ],
+  "moat-loop": [
+   "siam",
+   267
+  ],
+  "ring-1": [
+   "superhighway",
+   281
+  ],
+  "ring-2": [
+   "rings",
+   194
+  ],
+  "ring-3": [
+   "rings",
+   405
+  ],
+  "nawarat-bridge": [
+   "superhighway",
+   4
+  ],
+  "route-1001": [
+   "siam",
+   102
+  ],
+  "route-1006": [
+   "siam",
+   19
+  ],
+  "route-106": [
+   "kawila",
+   22
+  ],
+  "route-107": [
+   "siam",
+   127
+  ],
+  "route-108": [
+   "siam",
+   111
+  ],
+  "route-11": [
+   "superhighway",
+   115
+  ],
+  "route-118": [
+   "now",
+   88
+  ],
+  "route-1269": [
+   "siam",
+   22
+  ],
+  "route-1317": [
+   "siam",
+   48
+  ]
+ },
+ "box": [
+  18.62,
+  98.8,
+  18.96,
+  99.12
+ ]
+}

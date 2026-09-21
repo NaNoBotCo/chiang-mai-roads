@@ -66,5 +66,22 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "kamphaeng-din-road/kamphaeng-din-road-chiangmai-nightbazaar-3.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai Nightbazaar-3.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chiangmai_Nightbazaar-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Nightbazaar-3.JPG",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Rinto Jiang",
+   "credit": "Own work",
+   "alt": "Chiang Mai Night Bazaar (Chang Khlan Road)",
+   "date": "2007-01-24",
+   "primary": true,
+   "sha256": "f6ae20a1fbe5aa7f6c0e4f6a74c9333485574b9a708a48f1f36c6352e66d9ee6"
+  }
+ ]
 }

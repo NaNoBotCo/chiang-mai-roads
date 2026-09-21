@@ -1,0 +1,82 @@
+{
+ "id": "chiang-mai-kam-mueang",
+ "type": "word",
+ "names": {
+  "name": "เจียงใหม่ chiang mai",
+  "th": "เจียงใหม่",
+  "rtgs": "chiang mai"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "เจียง chiang — a Tai word for a walled settlement, in Chiang Rai, Chiang Saen, Chiang Tung (Kengtung); ใหม่ mai, new. In Kam Mueang the initial is unaspirated, /tɕ/, so the city is Jiang Mai in its own mouth.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The name, in the northern voice. The unaspirated initial is the first thing a listener notices, and the first thing this site's Thai pages do."
+ },
+ "text_th": {
+  "what": "ชื่อเมือง ในเสียงเหนือ ตัว จ ที่บ่มีลมคือสิ่งแรกที่คนฟังสังเกต และสิ่งแรกที่หน้าไทยของเว็บนี้ทำ"
+ },
+ "word": {
+  "th": "เจียงใหม่",
+  "rtgs": "chiang mai",
+  "ipa": "/tɕiaŋ.màj/",
+  "standard": "เชียงใหม่",
+  "standard_rtgs": "chiang mai",
+  "gloss": "Chiang Mai, as the city says its own name",
+  "gloss_th": "เชียงใหม่ อย่างที่คนเมืองออกเสียง",
+  "example": "เมืองเจียงใหม่",
+  "example_gloss": "mueang chiang mai — the city",
+  "tai_tham": "ᨩ᩠ᨿᨦᩉ᩠ᨾᩲ᩵",
+  "tai_tham_source": "s:wp-tai-tham"
+ },
+ "kin": [
+  {
+   "to": "wiang",
+   "as": "What chiang means.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chiang-mai-kam-mueang/chiang-mai-kam-mueang-chiangmai-view.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai view.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chiangmai_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_view.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Thaimissions2006 at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "alt": "View from Doi Suthep mountain over Chiang Mai city, northern Thailand",
+   "date": "18 April 2007 (original upload date)",
+   "primary": true,
+   "sha256": "e5a6b14d0bfd38647b4894451c9767a91aeea9ee777e923cd1c4dee68226ba89"
+  }
+ ],
+ "kin_in": []
+}

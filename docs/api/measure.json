@@ -1,0 +1,1215 @@
+{
+ "type": "measure",
+ "count": 10,
+ "nodes": [
+  {
+   "id": "block-length",
+   "type": "measure",
+   "names": {
+    "name": "How far between intersections",
+    "th": "ระหว่างแยกไกลแค่ไหน",
+    "said": "A median block of 59 m in the square, 65 m past the outer ring.",
+    "said_th": "บล็อกมัธยฐาน 59 เมตรในสี่เหลี่ยม 65 เมตรเลยวงแหวนรอบนอก"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "The median run of road between two intersections, per zone: 59 m inside the moat, 59 m to 3 km, 56 m to 5.5, 56 m to 9, 65 m beyond. The means are longer everywhere because a few long runs on the highways pull them.",
+    "story": "*Inference —* the spread is narrower than the other measures because a hom is a hom everywhere: two metres wide and a house every fifteen. The difference between the zones is not how long the lanes are but whether they come out."
+   },
+   "text_th": {
+    "what": "ช่วงถนนมัธยฐานระหว่างสองแยก ต่อโซน 59 เมตรในคู 59 เมตรถึง 3 กม. 56 เมตรถึง 5.5 56 เมตรถึง 9 65 เมตรเกินนั้น ค่าเฉลี่ยยาวกว่าทุกที่เพราะช่วงยาวไม่กี่ช่วงบนทางหลวงดึงมัน",
+    "story": "*อนุมาน —* ช่วงกว้างแคบกว่ามาตรอื่นเพราะฮ่อมคือฮ่อมทุกที่ กว้างสองเมตรและบ้านทุกสิบห้าเมตร ความต่างระหว่างโซนบ่ใช่ฮ่อมยาวเท่าไร แต่มันทะลุออกก่อ"
+   },
+   "figure": {
+    "value": 59,
+    "unit": "metres, median block inside the moat",
+    "unit_th": "เมตร บล็อกมัธยฐานในเวียง",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "inside the moat",
+      "label_th": "ในเวียง",
+      "value": 59
+     },
+     {
+      "label": "moat to 3 km",
+      "label_th": "นอกคูเมืองถึง 3 กม.",
+      "value": 59
+     },
+     {
+      "label": "3 to 5.5 km",
+      "label_th": "3 ถึง 5.5 กม.",
+      "value": 56
+     },
+     {
+      "label": "5.5 to 9 km",
+      "label_th": "5.5 ถึง 9 กม.",
+      "value": 56
+     },
+     {
+      "label": "past 9 km",
+      "label_th": "เกิน 9 กม.",
+      "value": 65
+     }
+    ],
+    "method": "Along each way in the network proper, the distance accumulated between consecutive intersection nodes; the median of those runs per zone.",
+    "method_th": "ตามแต่ละเส้นทางในโครงข่ายหลัก ระยะสะสมระหว่างจุดแยกที่ติดกัน มัธยฐานของช่วงเหล่านั้นต่อโซน"
+   },
+   "kin": [
+    {
+     "to": "intersection-density",
+     "as": "The count this is the inverse of.",
+     "rel": "measure"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  },
+  {
+   "id": "construction-on-the-map",
+   "type": "measure",
+   "names": {
+    "name": "What the map says is being built",
+    "th": "แผนที่บอกว่ากำลังสร้างอะไร",
+    "said": "111 ways tagged under construction, 16.9 km, on the day of the harvest.",
+    "said_th": "111 เส้นทางติดแท็กกำลังสร้าง 16.9 กม. วันที่เก็บข้อมูล"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "OpenStreetMap's highway=construction, in the box: 111 ways, 16.9 km. The longest: unnamed 0.8 km, unnamed 0.8 km, unnamed 0.63 km, unnamed 0.56 km, unnamed 0.45 km, unnamed 0.35 km. A volunteer tag, dated by the last person who looked; the plans page has what the departments say.",
+    "story": "*Inference —* the map and the ministry disagree on what is being built, and both are right on the day they were written. The interchanges on the outer ring are on one list; the lane behind a housing estate is on the other."
+   },
+   "text_th": {
+    "what": "highway=construction ของ OpenStreetMap ในกรอบ 111 เส้นทาง 16.9 กม. ยาวสุด: ไม่มีชื่อ 0.8 กม., ไม่มีชื่อ 0.8 กม., ไม่มีชื่อ 0.63 กม., ไม่มีชื่อ 0.56 กม., ไม่มีชื่อ 0.45 กม., ไม่มีชื่อ 0.35 กม. แท็กของอาสาสมัคร ลงวันที่โดยคนสุดท้ายที่ดู หน้าแผนมีสิ่งที่กรมบอก",
+    "story": "*อนุมาน —* แผนที่กับกระทรวงเห็นต่างกันว่ากำลังสร้างอะไร และทั้งคู่ถูกในวันที่เขียน ทางแยกต่างระดับบนวงแหวนรอบนอกอยู่ในรายการหนึ่ง ฮ่อมหลังหมู่บ้านจัดสรรอยู่อีกรายการ"
+   },
+   "figure": {
+    "value": 111,
+    "unit": "ways under construction",
+    "unit_th": "เส้นทางกำลังสร้าง",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "unnamed",
+      "value": 0.8
+     },
+     {
+      "label": "unnamed",
+      "value": 0.8
+     },
+     {
+      "label": "unnamed",
+      "value": 0.63
+     },
+     {
+      "label": "unnamed",
+      "value": 0.56
+     },
+     {
+      "label": "unnamed",
+      "value": 0.45
+     },
+     {
+      "label": "unnamed",
+      "value": 0.35
+     },
+     {
+      "label": "unnamed",
+      "value": 0.34
+     },
+     {
+      "label": "unnamed",
+      "value": 0.33
+     },
+     {
+      "label": "unnamed",
+      "value": 0.33
+     },
+     {
+      "label": "unnamed",
+      "value": 0.29
+     },
+     {
+      "label": "unnamed",
+      "value": 0.28
+     },
+     {
+      "label": "unnamed",
+      "value": 0.28
+     }
+    ],
+    "method": "highway=construction ways in the box, by length.",
+    "method_th": "เส้นทาง highway=construction ในกรอบ ตามความยาว"
+   },
+   "kin": [
+    {
+     "to": "ring-3-interchanges",
+     "as": "What the department says.",
+     "rel": "plan"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  },
+  {
+   "id": "dead-ends",
+   "type": "measure",
+   "names": {
+    "name": "Dead ends, zone by zone",
+    "th": "ทางตัน ทีละโซน",
+    "said": "14% of lane ends inside the moat go nowhere. 35% at the outer ring.",
+    "said_th": "ปลายฮ่อม 14% ในเวียงไปบ่ถึงไหน 35% ที่วงแหวนรอบนอก"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "The share of network ends that are dead ends: nodes touched by one way only, divided by those plus the intersections, on drivable ways without service lanes. Inside the moat 14%; to 3 km 26%; 3 to 5.5 km 32%; 5.5 to 9 km 35%; beyond 35%. 15,928 dead ends in the box against 31,668 intersections.",
+    "story": "*Inference —* a hom in the old city was cut to let people through; a hom in the rings was cut to let people in. The share climbs ring by ring because each ring's land was subdivided by its owners one plot at a time, and a shared driveway to twenty houses ends at the twentieth. The consequence for the city is that a trip between two lanes 200 m apart in San Sai can be 2 km by road."
+   },
+   "text_th": {
+    "what": "สัดส่วนปลายโครงข่ายที่เป็นทางตัน จุดที่เส้นทางเดียวแตะ หารด้วยจุดเหล่านั้นบวกทางแยก บนเส้นทางรถวิ่งได้ไม่รวมทางบริการ ในคู 14% ถึง 3 กม. 26% 3 ถึง 5.5 กม. 32% 5.5 ถึง 9 กม. 35% เกินนั้น 35% ทางตัน 15,928 จุดในกรอบ เทียบทางแยก 31,668 จุด",
+    "story": "*อนุมาน —* ฮ่อมในเวียงเก่าตัดเพื่อให้คนผ่าน ฮ่อมในวงแหวนตัดเพื่อให้คนเข้า สัดส่วนไต่ขึ้นทีละวงเพราะที่ดินของแต่ละวงถูกแบ่งโดยเจ้าของทีละแปลง และทางเข้าร่วมของบ้านยี่สิบหลังจบที่หลังที่ยี่สิบ ผลต่อเมืองคือการเดินทางระหว่างฮ่อมสองสายห่างกัน 200 เมตรในสันทรายอาจเป็น 2 กม. ทางถนน"
+   },
+   "figure": {
+    "value": 0.137,
+    "unit": "dead-end share inside the moat",
+    "unit_th": "สัดส่วนทางตันในเวียง",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "inside the moat",
+      "label_th": "ในเวียง",
+      "value": 13.7
+     },
+     {
+      "label": "moat to 3 km",
+      "label_th": "นอกคูเมืองถึง 3 กม.",
+      "value": 25.6
+     },
+     {
+      "label": "3 to 5.5 km",
+      "label_th": "3 ถึง 5.5 กม.",
+      "value": 31.8
+     },
+     {
+      "label": "5.5 to 9 km",
+      "label_th": "5.5 ถึง 9 กม.",
+      "value": 34.7
+     },
+     {
+      "label": "past 9 km",
+      "label_th": "เกิน 9 กม.",
+      "value": 34.7
+     }
+    ],
+    "method": "Degree-1 nodes ÷ (degree-1 + degree≥3 nodes) per zone; nodes within 200 m of the harvest box edge are not counted as dead ends.",
+    "method_th": "จุดดีกรี 1 ÷ (จุดดีกรี 1 + จุดดีกรี ≥3) ต่อโซน จุดในระยะ 200 เมตรจากขอบกรอบไม่นับเป็นทางตัน"
+   },
+   "kin": [
+    {
+     "to": "hom-the-lane",
+     "as": "The lanes.",
+     "rel": "lane"
+    },
+    {
+     "to": "intersection-density",
+     "as": "The other half of the same count.",
+     "rel": "measure"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "hom-the-lane",
+     "type": "lane",
+     "name": "The hom",
+     "as": "The count."
+    },
+    {
+     "from": "intersection-density",
+     "type": "measure",
+     "name": "Intersections per square kilometre",
+     "as": "The other half."
+    },
+    {
+     "from": "what-a-road-does-to-an-old-city",
+     "type": "story",
+     "name": "What a road does to an old city",
+     "as": "The dead-end number."
+    }
+   ]
+  },
+  {
+   "id": "grid-in-the-moat",
+   "type": "measure",
+   "names": {
+    "name": "The grid score, zone by zone",
+    "th": "คะแนนตาราง ทีละโซน",
+    "said": "Inside the moat 0.67. At the outer ring 0.07. A perfect grid is 1.",
+    "said_th": "ในเวียง 0.67 ที่วงแหวนรอบนอก 0.07 ตารางสมบูรณ์คือ 1"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "Boeing's orientation-order index φ on the street network of each zone: the bearings of every drivable way, service lanes excluded, in 36 bins over a half-circle, weighted by length, turned into an entropy and rescaled so that 1 is a perfect four-direction grid and 0 is streets running every way equally. The square inside the moat scores 0.67; the band out to 3 km 0.17; 3 to 5.5 km 0.09; 5.5 to 9 km 0.07; past 9 km 0.03.",
+    "story": "*Inference —* the founding grid of 1296 is still the strongest order in the city, by a factor of 9 over the outer ring. Outside the square the streets follow field boundaries, canals and whatever track was there before the ring came, which is what a score near zero means. Boeing's 2019 paper put Chicago near 0.9 and Charlotte near 0.0; the moat sits closer to the former, the suburbs to the latter, and the same city holds both."
+   },
+   "text_th": {
+    "what": "ดัชนีความเป็นระเบียบทิศทาง φ ของ Boeing บนโครงข่ายถนนแต่ละโซน ทิศของทุกเส้นทางที่รถวิ่งได้ ไม่รวมทางบริการ ใน 36 ช่องบนครึ่งวงกลม ถ่วงด้วยความยาว แปลงเป็นเอนโทรปีและปรับให้ 1 คือตารางสี่ทิศสมบูรณ์ 0 คือถนนวิ่งทุกทิศเท่ากัน สี่เหลี่ยมในคูได้ 0.67 แถบถึง 3 กม. 0.17 3 ถึง 5.5 กม. 0.09 5.5 ถึง 9 กม. 0.07 เกิน 9 กม. 0.03",
+    "story": "*อนุมาน —* ตารางตั้งเมืองปี 1839 ยังเป็นระเบียบที่แข็งแรงที่สุดในเมือง ราว 9 เท่าของวงแหวนรอบนอก นอกสี่เหลี่ยม ถนนเดินตามคันนา เหมืองฝาย และทางใด ๆ ที่มีอยู่ก่อนวงแหวนมา นี่คือความหมายของคะแนนใกล้ศูนย์ งานของ Boeing ปี 2019 ให้ชิคาโกใกล้ 0.9 และชาร์ลอตต์ใกล้ 0.0 เวียงอยู่ใกล้อันแรก ชานเมืองใกล้อันหลัง และเมืองเดียวกันถือทั้งสอง"
+   },
+   "figure": {
+    "value": 0.6666,
+    "unit": "grid score inside the moat (1 = perfect grid)",
+    "unit_th": "คะแนนตารางในเวียง (1 = ตารางสมบูรณ์)",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "inside the moat",
+      "label_th": "ในเวียง",
+      "value": 0.6666
+     },
+     {
+      "label": "moat to 3 km",
+      "label_th": "นอกคูเมืองถึง 3 กม.",
+      "value": 0.1665
+     },
+     {
+      "label": "3 to 5.5 km",
+      "label_th": "3 ถึง 5.5 กม.",
+      "value": 0.0942
+     },
+     {
+      "label": "5.5 to 9 km",
+      "label_th": "5.5 ถึง 9 กม.",
+      "value": 0.0716
+     },
+     {
+      "label": "past 9 km",
+      "label_th": "เกิน 9 กม.",
+      "value": 0.0316
+     }
+    ],
+    "method": "Segments of drivable ways minus service lanes, bearing modulo 180 in 5° bins, length-weighted; H = −Σ p ln p; φ = 1 − ((H − ln 4)/(ln 36 − ln 4))². Zones are the moat square and radii of 3, 5.5 and 9 km from its centre.",
+    "method_th": "ช่วงของเส้นทางรถวิ่งได้ไม่รวมทางบริการ ทิศมอดุโล 180 ในช่อง 5° ถ่วงด้วยความยาว H = −Σ p ln p φ = 1 − ((H − ln 4)/(ln 36 − ln 4))² โซนคือสี่เหลี่ยมคูและรัศมี 3, 5.5 และ 9 กม. จากกลางมัน"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "The square.",
+     "rel": "place"
+    },
+    {
+     "to": "what-a-road-does-to-an-old-city",
+     "as": "Where the number is argued.",
+     "rel": "story"
+    },
+    {
+     "to": "era-1296-the-square",
+     "as": "Who drew it.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "moat-loop",
+     "type": "ring",
+     "name": "The moat loop",
+     "as": "What is inside."
+    },
+    {
+     "from": "era-1296-the-square",
+     "type": "era",
+     "name": "1296 — the square",
+     "as": "What it measures now."
+    },
+    {
+     "from": "intersection-density",
+     "type": "measure",
+     "name": "Intersections per square kilometre",
+     "as": "The shape of the same streets."
+    },
+    {
+     "from": "what-a-road-does-to-an-old-city",
+     "type": "story",
+     "name": "What a road does to an old city",
+     "as": "The grid number."
+    },
+    {
+     "from": "the-moat",
+     "type": "place",
+     "name": "The moat",
+     "as": "What the streets inside it measure."
+    }
+   ]
+  },
+  {
+   "id": "intersection-density",
+   "type": "measure",
+   "names": {
+    "name": "Intersections per square kilometre",
+    "th": "ทางแยกต่อตารางกิโลเมตร",
+    "said": "135 inside the moat. 58 at the outer ring.",
+    "said_th": "135 ในเวียง 58 ที่วงแหวนรอบนอก"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "Nodes where three or more drivable ways meet, per square kilometre of zone: inside the moat 135; to 3 km 82; 3 to 5.5 km 78; 5.5 to 9 km 58; beyond 31. Road density runs the same way: 24.4 km of road per km² in the square, 11.6 at the outer ring.",
+    "story": "*Inference —* this is the measure planners use for walkability, and it says the most walkable square kilometre in the province is the one that is seven hundred years old. Every ring built since has produced a city with a third to a half the choices per kilometre."
+   },
+   "text_th": {
+    "what": "จุดที่เส้นทางรถวิ่งได้สามเส้นขึ้นไปพบกัน ต่อตารางกิโลเมตรของโซน ในคู 135 ถึง 3 กม. 82 3 ถึง 5.5 กม. 78 5.5 ถึง 9 กม. 58 เกินนั้น 31 ความหนาแน่นถนนไปทางเดียวกัน 24.4 กม.ถนนต่อตร.กม. ในสี่เหลี่ยม 11.6 ที่วงแหวนรอบนอก",
+    "story": "*อนุมาน —* นี่คือมาตรที่นักวางผังใช้วัดการเดินได้ และมันบอกว่าตารางกิโลเมตรที่เดินได้ดีสุดในจังหวัดคืออันที่อายุเจ็ดร้อยปี วงแหวนทุกวงที่สร้างตั้งแต่นั้นให้เมืองที่มีทางเลือกต่อกิโลเมตรหนึ่งในสามถึงครึ่ง"
+   },
+   "figure": {
+    "value": 134.8,
+    "unit": "intersections per km² inside the moat",
+    "unit_th": "ทางแยกต่อตร.กม. ในเวียง",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "inside the moat",
+      "label_th": "ในเวียง",
+      "value": 134.8
+     },
+     {
+      "label": "moat to 3 km",
+      "label_th": "นอกคูเมืองถึง 3 กม.",
+      "value": 82.0
+     },
+     {
+      "label": "3 to 5.5 km",
+      "label_th": "3 ถึง 5.5 กม.",
+      "value": 77.9
+     },
+     {
+      "label": "5.5 to 9 km",
+      "label_th": "5.5 ถึง 9 กม.",
+      "value": 57.9
+     },
+     {
+      "label": "past 9 km",
+      "label_th": "เกิน 9 กม.",
+      "value": 31.0
+     }
+    ],
+    "method": "Degree≥3 nodes on the drivable network minus service lanes, divided by zone area; the moat area is the square, ring areas are annuli less the square.",
+    "method_th": "จุดดีกรี ≥3 บนโครงข่ายรถวิ่งได้ไม่รวมทางบริการ หารด้วยพื้นที่โซน พื้นที่คูคือสี่เหลี่ยม พื้นที่วงคือวงแหวนหักสี่เหลี่ยม"
+   },
+   "kin": [
+    {
+     "to": "dead-ends",
+     "as": "The other half.",
+     "rel": "measure"
+    },
+    {
+     "to": "grid-in-the-moat",
+     "as": "The shape of the same streets.",
+     "rel": "measure"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "block-length",
+     "type": "measure",
+     "name": "How far between intersections",
+     "as": "The count this is the inverse of."
+    },
+    {
+     "from": "dead-ends",
+     "type": "measure",
+     "name": "Dead ends, zone by zone",
+     "as": "The other half of the same count."
+    },
+    {
+     "from": "what-a-road-does-to-an-old-city",
+     "type": "story",
+     "name": "What a road does to an old city",
+     "as": "The density number."
+    }
+   ]
+  },
+  {
+   "id": "network-km",
+   "type": "measure",
+   "names": {
+    "name": "The network, in kilometres",
+    "th": "โครงข่าย เป็นกิโลเมตร",
+    "said": "8,055 km of every kind of way in the box; 6,934 drivable; 5,972 of it lane.",
+    "said_th": "ทางทุกชนิด 8,055 กม. ในกรอบ รถวิ่งได้ 6,934 เป็นฮ่อม 5,972"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "52,389 ways. By class: residential 4,280 km, service 1,238 km, track 494 km, unclassified 454 km, path 337 km, tertiary 312 km, primary 288 km, secondary 250 km, footway 189 km. 1,055 km of footway, path, track and steps. 4,757 km of lane with no name at all. The municipality's own count for its 40 km² is 699 roads and 255.65 km; the box is fourteen times that area and the map holds lanes the municipality does not list.",
+    "story": "*Inference —* the highway department counts traffic on a few dozen kilometres of this; the municipality maintains a few hundred; the rest is the city, and it is on nobody's ledger but the volunteers'. Every number here is a floor."
+   },
+   "text_th": {
+    "what": "52,389 เส้นทาง ตามชั้น: residential 4,280 กม., service 1,238 กม., track 494 กม., unclassified 454 กม., path 337 กม., tertiary 312 กม., primary 288 กม., secondary 250 กม., footway 189 กม. ทางเท้า ทางเดิน ทางลำลอง และบันได 1,055 กม. ฮ่อมไม่มีชื่อเลย 4,757 กม. เทศบาลนับของตัวเองใน 40 ตร.กม. ได้ถนน 699 สาย 255.65 กม. กรอบใหญ่กว่านั้นสิบสี่เท่าและแผนที่มีฮ่อมที่เทศบาลไม่ได้ขึ้นบัญชี",
+    "story": "*อนุมาน —* กรมทางหลวงนับรถบนไม่กี่สิบกิโลเมตรของสิ่งนี้ เทศบาลดูแลไม่กี่ร้อย ที่เหลือคือเมือง และมันอยู่ในบัญชีของใครก็บ่ใช่ นอกจากอาสาสมัคร ทุกตัวเลขที่นี่คือค่าต่ำสุด"
+   },
+   "figure": {
+    "value": 8055,
+    "unit": "km of way in the box",
+    "unit_th": "กม. ทางในกรอบ",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "residential",
+      "value": 4280
+     },
+     {
+      "label": "service",
+      "value": 1238
+     },
+     {
+      "label": "track",
+      "value": 494
+     },
+     {
+      "label": "unclassified",
+      "value": 454
+     },
+     {
+      "label": "path",
+      "value": 337
+     },
+     {
+      "label": "tertiary",
+      "value": 312
+     },
+     {
+      "label": "primary",
+      "value": 288
+     },
+     {
+      "label": "secondary",
+      "value": 250
+     },
+     {
+      "label": "footway",
+      "value": 189
+     },
+     {
+      "label": "trunk",
+      "value": 48
+     }
+    ],
+    "method": "Sum of haversine lengths of every highway=* way in the box [18.66, 98.86, 18.92, 99.1], fetched 2026-09-21.",
+    "method_th": "ผลรวมความยาว haversine ของทุกเส้นทาง highway=* ในกรอบ [18.66, 98.86, 18.92, 99.1] ดึง 2026-09-21"
+   },
+   "kin": [
+    {
+     "to": "municipal-roads",
+     "as": "The municipality's own count.",
+     "rel": "traffic"
+    },
+    {
+     "to": "hom-the-lane",
+     "as": "Where most of it is.",
+     "rel": "lane"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "municipal-roads",
+     "type": "traffic",
+     "name": "The municipality's roads, counted by the municipality",
+     "as": "The map's count."
+    }
+   ]
+  },
+  {
+   "id": "one-way-share",
+   "type": "measure",
+   "names": {
+    "name": "How much of the road runs one way",
+    "th": "ถนนวิ่งทางเดียวแค่ไหน",
+    "said": "33% of the drivable kilometres inside the moat are one-way. 6% past the outer ring.",
+    "said_th": "33% ของกิโลเมตรรถวิ่งได้ในเวียงเป็นทางเดียว 6% เลยวงแหวนรอบนอก"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "Kilometres tagged one-way as a share of drivable kilometres: inside the moat 33%, to 3 km 20%, to 5.5 km 16%, to 9 km 14%, beyond 6%. The moat loop, the gate cut-throughs and Ratchadamnoen since 2021 are why the square leads; the dual carriageways of the rings are why the bands are not zero.",
+    "story": "*Inference —* one-way is a tool for two opposite jobs. In the square it is the 1948 decision to make a fortification into a roundabout and, since 2021, the decision to give a street back to feet; on the rings it is a median. The number counts both."
+   },
+   "text_th": {
+    "what": "กิโลเมตรที่ติดแท็กทางเดียวเทียบกิโลเมตรรถวิ่งได้ ในคู 33% ถึง 3 กม. 20% ถึง 5.5 กม. 16% ถึง 9 กม. 14% เกินนั้น 6% วงรอบคู ช่องตัดผ่านประตู และราชดำเนินตั้งแต่ 2564 คือเหตุที่สี่เหลี่ยมนำ ถนนคู่ขนานของวงแหวนคือเหตุที่แถบไม่เป็นศูนย์",
+    "story": "*อนุมาน —* ทางเดียวคือเครื่องมือของงานตรงข้ามสองอย่าง ในสี่เหลี่ยมคือการตัดสินใจปี 2491 ทำป้อมเป็นวงเวียน และตั้งแต่ 2564 การตัดสินใจคืนถนนให้เท้า บนวงแหวนคือเกาะกลาง ตัวเลขนับทั้งสอง"
+   },
+   "figure": {
+    "value": 0.327,
+    "unit": "one-way share inside the moat",
+    "unit_th": "สัดส่วนทางเดียวในเวียง",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "inside the moat",
+      "label_th": "ในเวียง",
+      "value": 32.7
+     },
+     {
+      "label": "moat to 3 km",
+      "label_th": "นอกคูเมืองถึง 3 กม.",
+      "value": 19.9
+     },
+     {
+      "label": "3 to 5.5 km",
+      "label_th": "3 ถึง 5.5 กม.",
+      "value": 16.1
+     },
+     {
+      "label": "5.5 to 9 km",
+      "label_th": "5.5 ถึง 9 กม.",
+      "value": 13.9
+     },
+     {
+      "label": "past 9 km",
+      "label_th": "เกิน 9 กม.",
+      "value": 5.5
+     }
+    ],
+    "method": "oneway=yes or −1 on drivable ways, by length, per zone.",
+    "method_th": "oneway=yes หรือ −1 บนเส้นทางรถวิ่งได้ ตามความยาว ต่อโซน"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "The loop.",
+     "rel": "ring"
+    },
+    {
+     "to": "why-the-moat-runs-one-way",
+     "as": "The argument.",
+     "rel": "story"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "why-the-moat-runs-one-way",
+     "type": "story",
+     "name": "Why the moat runs one way",
+     "as": "The number."
+    }
+   ]
+  },
+  {
+   "id": "ping-crossings",
+   "type": "measure",
+   "names": {
+    "name": "Road bridges over the Ping, counted",
+    "th": "ขัวรถข้ามแม่ปิง นับแล้ว",
+    "said": "23 road crossings of the river inside the box, off the map.",
+    "said_th": "23 จุดข้ามแม่น้ำด้วยรถในกรอบ นับจากแผนที่"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "A bridge way that crosses a way named Ping, with the two carriageways of a dual bridge collapsed to one: 23 in the harvest box, from Mae Rim to Saraphi. 1329 bridge ways in all, over the moat, the canals, the railway and the ring roads. Named: Ban Hua Lim - Ban Nong Duea Road; สะพานวัดวังสิงห์คำ-ตำหนัก; ถนนวงแหวนรอบนอก; ถนนสมโภชเชียงใหม่ 700 ปี; ถนนมหิดล; สะพานนวรัฐ; สะพานนครพิงค์; ถนนรัตนโกสินทร์; ถนนซุปเปอร์ไฮเวย์; โชตนา ซอย22; ถนนเลี่ยงเมืองแม่ริม.",
+    "story": "*Inference —* the river the founders kept a kilometre away is now crossed every few hundred metres in the centre and twice by the outer ring. The crossings are where the flood of 2024 was measured and where the traffic queues; the two facts are the same fact."
+   },
+   "text_th": {
+    "what": "เส้นทางสะพานที่ตัดเส้นทางชื่อปิง รวมสองฝั่งของสะพานคู่เป็นหนึ่ง 23 แห่งในกรอบ จากแม่ริมถึงสารภี เส้นทางสะพานทั้งหมด 1329 เส้น ข้ามคู เหมืองฝาย ทางรถไฟ และวงแหวน ชื่อ: Ban Hua Lim - Ban Nong Duea Road; สะพานวัดวังสิงห์คำ-ตำหนัก; ถนนวงแหวนรอบนอก; ถนนสมโภชเชียงใหม่ 700 ปี; ถนนมหิดล; สะพานนวรัฐ; สะพานนครพิงค์; ถนนรัตนโกสินทร์; ถนนซุปเปอร์ไฮเวย์; โชตนา ซอย22; ถนนเลี่ยงเมืองแม่ริม",
+    "story": "*อนุมาน —* แม่น้ำที่ผู้สร้างเมืองกันไว้หนึ่งกิโล ตอนนี้ถูกข้ามทุกไม่กี่ร้อยเมตรในใจกลางและสองครั้งโดยวงแหวนรอบนอก จุดข้ามคือตี้น้ำท่วมปี 2567 ถูกวัดและตี้รถต่อคิว สองข้อเท็จจริงคือข้อเดียวกัน"
+   },
+   "figure": {
+    "value": 23,
+    "unit": "road bridges over the Ping in the box",
+    "unit_th": "ขัวรถข้ามแม่ปิงในกรอบ",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "unnamed at 18.663",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.670",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.673",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.680",
+      "value": 1
+     },
+     {
+      "label": "Ban Hua Lim - Ban Nong Duea Road",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.686",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.687",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.691",
+      "value": 1
+     },
+     {
+      "label": "สะพานวัดวังสิงห์คำ-ตำหนัก",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.720",
+      "value": 3
+     },
+     {
+      "label": "ถนนวงแหวนรอบนอก",
+      "value": 3
+     },
+     {
+      "label": "unnamed at 18.742",
+      "value": 1
+     },
+     {
+      "label": "ถนนสมโภชเชียงใหม่ 700 ปี",
+      "value": 4
+     },
+     {
+      "label": "unnamed at 18.752",
+      "value": 1
+     },
+     {
+      "label": "ถนนมหิดล",
+      "value": 2
+     },
+     {
+      "label": "unnamed at 18.766",
+      "value": 1
+     },
+     {
+      "label": "สะพานนวรัฐ",
+      "value": 1
+     },
+     {
+      "label": "สะพานนครพิงค์",
+      "value": 1
+     },
+     {
+      "label": "ถนนรัตนโกสินทร์",
+      "value": 1
+     },
+     {
+      "label": "unnamed at 18.810",
+      "value": 2
+     }
+    ],
+    "method": "Segment intersection between bridge=yes drivable ways and waterway=river ways whose name carries ปิง or Ping; groups within 120 m or sharing a name are one bridge.",
+    "method_th": "การตัดกันของช่วงระหว่างเส้นทางรถวิ่งได้ที่ bridge=yes กับเส้นทาง waterway=river ที่ชื่อมีปิงหรือ Ping กลุ่มในระยะ 120 เมตรหรือชื่อเดียวกันนับเป็นหนึ่งสะพาน"
+   },
+   "kin": [
+    {
+     "to": "ping-river",
+     "as": "The river.",
+     "rel": "place"
+    },
+    {
+     "to": "nawarat-bridge",
+     "as": "The one with the gauge.",
+     "rel": "bridge"
+    },
+    {
+     "to": "iron-bridge",
+     "as": "The one with the Kam Mueang name.",
+     "rel": "bridge"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "chansom-memorial-bridge",
+     "type": "bridge",
+     "name": "Chansom Memorial Bridge",
+     "as": "Counted."
+    },
+    {
+     "from": "moat-bridges",
+     "type": "bridge",
+     "name": "The bridges over the moat",
+     "as": "Counted with the river bridges."
+    },
+    {
+     "from": "nawarat-bridge",
+     "type": "bridge",
+     "name": "Nawarat Bridge",
+     "as": "Counted with the rest."
+    },
+    {
+     "from": "ping-river",
+     "type": "place",
+     "name": "The Ping",
+     "as": "How many bridges, counted."
+    }
+   ]
+  },
+  {
+   "id": "soi-count",
+   "type": "measure",
+   "names": {
+    "name": "Sois, counted by name",
+    "th": "ซอย นับตามชื่อ",
+    "said": "3,733 named sois on the map, 811 km of them, 8 named for a wat.",
+    "said_th": "ซอยที่มีชื่อ 3,733 สายบนแผนที่ 811 กม. 8 สายชื่อตามวัด"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "A way whose name carries ซอย, ซ. or Soi, ways of one name summed: 3,733 names, 811 km. 3,650 carry a number; 8 carry a wat's name. The longest by name: ซอย หมู่บ้านวังตาล 4.1 km, CBP Soi 2 2.6 km, บ้านป่าเดื่อ หมู่ 1 ซอย 3 2.6 km, หนองป่าแสะ ซอย 4 2.2 km, ซอย สายลมชายคลอง 19 2.0 km. The municipality publishes no soi count, so this is the only one on this disk.",
+    "story": "*Inference —* the soi is a numbering system, not a naming one: 98 percent of them carry a number and 8 in the whole box carry a wat's name. Thailand's address system was laid over the city in the twentieth century and it replaced names with ordinals; the hom that kept a name kept it by not being numbered, and those are counted on the other side of the ledger, in the 4,757 km of lane with no name at all."
+   },
+   "text_th": {
+    "what": "เส้นทางที่ชื่อมี ซอย ซ. หรือ Soi รวมเส้นทางชื่อเดียวกัน 3,733 ชื่อ 811 กม. มีเลข 3,650 มีชื่อวัด 8 ยาวสุดตามชื่อ: ซอย หมู่บ้านวังตาล 4.1 กม., CBP Soi 2 2.6 กม., บ้านป่าเดื่อ หมู่ 1 ซอย 3 2.6 กม., หนองป่าแสะ ซอย 4 2.2 กม., ซอย สายลมชายคลอง 19 2.0 กม. เทศบาลไม่เผยแพร่จำนวนซอย นี่จึงเป็นจำนวนเดียวในแผ่นนี้",
+    "story": "*อนุมาน —* ซอยคือระบบเลข บ่ใช่ระบบชื่อ ร้อยละ 98 มีเลข และมีแค่ 8 สายในทั้งกรอบที่ชื่อตามวัด ระบบที่อยู่ของไทยถูกวางทับเมืองในศตวรรษที่ยี่สิบ และมันแทนชื่อด้วยเลขลำดับ ฮ่อมที่เก็บชื่อไว้เก็บได้เพราะบ่ถูกใส่เลข และฮ่อมพวกนั้นถูกนับอีกฝั่งของบัญชี ในฮ่อมไม่มีชื่อเลย 4,757 กม."
+   },
+   "figure": {
+    "value": 3733,
+    "unit": "named sois in the box",
+    "unit_th": "ซอยที่มีชื่อในกรอบ",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "ซอย หมู่บ้านวังตาล",
+      "value": 4.14
+     },
+     {
+      "label": "CBP Soi 2",
+      "value": 2.64
+     },
+     {
+      "label": "บ้านป่าเดื่อ หมู่ 1 ซอย 3",
+      "value": 2.59
+     },
+     {
+      "label": "หนองป่าแสะ ซอย 4",
+      "value": 2.23
+     },
+     {
+      "label": "ซอย สายลมชายคลอง 19",
+      "value": 2.02
+     },
+     {
+      "label": "ซอย ถ",
+      "value": 1.94
+     },
+     {
+      "label": "บ้านแม่โจ้ ซอย 9",
+      "value": 1.93
+     },
+     {
+      "label": "บ้านฟ้ามุ่ย ซอย 10",
+      "value": 1.91
+     },
+     {
+      "label": "หนองแฝก ซอย 8",
+      "value": 1.81
+     },
+     {
+      "label": "บ้านใหม่สามัคคี ซอย 7",
+      "value": 1.54
+     },
+     {
+      "label": "CBP Soi 1",
+      "value": 1.44
+     },
+     {
+      "label": "ซอย 4 แม่สาหลวง",
+      "value": 1.39
+     }
+    ],
+    "method": "Regular expression on name, name:th and name:en; lengths summed per distinct name.",
+    "method_th": "นิพจน์ปรกติบน name, name:th และ name:en รวมความยาวต่อชื่อที่ต่างกัน"
+   },
+   "kin": [
+    {
+     "to": "soi",
+     "as": "The word.",
+     "rel": "word"
+    },
+    {
+     "to": "hom-the-lane",
+     "as": "The lanes.",
+     "rel": "lane"
+    },
+    {
+     "to": "soi-numbering",
+     "as": "The rule.",
+     "rel": "lane"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  },
+  {
+   "id": "wats-and-rings",
+   "type": "measure",
+   "names": {
+    "name": "Wats, zone by zone",
+    "th": "วัด ทีละโซน",
+    "said": "44 wats inside the moat, 15 per km². 88 in the outer band.",
+    "said_th": "วัด 44 วัดในเวียง 15 ต่อตร.กม. 88 ในแถบนอก"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "Buddhist places of worship on the map, by zone: 44 inside the moat (15.0 per km²), 52 to 3 km, 50 to 5.5, 88 to 9, 1139 beyond; 420 in the box. Traffic signals the same way: 24, 73, 57, 61, 46.",
+    "story": "*Inference —* the wat density inside the moat is the reason the UNESCO file counts seven temples, five gates and four bastions in one square. A ring road through it would have been unthinkable, which is why every ring was drawn outside, and why the one thing the 2019 heritage review objected to was a tunnel underneath."
+   },
+   "text_th": {
+    "what": "ศาสนสถานพุทธบนแผนที่ ตามโซน ในคู 44 (15.0 ต่อตร.กม.) ถึง 3 กม. 52 ถึง 5.5 50 ถึง 9 88 เกินนั้น 1139 ในกรอบ 420 ไฟสัญญาณแบบเดียวกัน 24, 73, 57, 61, 46",
+    "story": "*อนุมาน —* ความหนาแน่นของวัดในคูคือเหตุที่เอกสารยูเนสโกนับเจ็ดวัด ห้าประตู สี่แจ่งในสี่เหลี่ยมเดียว วงแหวนผ่านมันเป็นเรื่องคิดบ่ได้ นี่คือเหตุที่ทุกวงถูกวาดข้างนอก และเหตุที่สิ่งเดียวที่การทบทวนมรดกปี 2562 คัดค้านคืออุโมงค์ข้างใต้"
+   },
+   "figure": {
+    "value": 44,
+    "unit": "wats inside the moat",
+    "unit_th": "วัดในเวียง",
+    "year": "2026",
+    "source": "s:osm",
+    "series": [
+     {
+      "label": "inside the moat",
+      "label_th": "ในเวียง",
+      "value": 44
+     },
+     {
+      "label": "moat to 3 km",
+      "label_th": "นอกคูเมืองถึง 3 กม.",
+      "value": 52
+     },
+     {
+      "label": "3 to 5.5 km",
+      "label_th": "3 ถึง 5.5 กม.",
+      "value": 50
+     },
+     {
+      "label": "5.5 to 9 km",
+      "label_th": "5.5 ถึง 9 กม.",
+      "value": 88
+     },
+     {
+      "label": "past 9 km",
+      "label_th": "เกิน 9 กม.",
+      "value": 1139
+     }
+    ],
+    "method": "amenity=place_of_worship + religion=buddhist nodes, ways and relations by centre, per zone.",
+    "method_th": "amenity=place_of_worship + religion=buddhist จุด เส้น และความสัมพันธ์ตามจุดกลาง ต่อโซน"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "The square.",
+     "rel": "place"
+    },
+    {
+     "to": "unesco-nomination",
+     "as": "The file.",
+     "rel": "plan"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:osm",
+    "s:boeing-2019"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  }
+ ]
+}

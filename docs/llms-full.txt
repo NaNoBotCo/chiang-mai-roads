@@ -1,0 +1,875 @@
+# Roads of Chiang Mai
+
+> The square of 1296, four rings around it, 6,934 km of road between, and what each one did to the city. Counted from the map, dated from the record.
+
+Canonical: https://motdang.net/roads/ · Alternate: https://nanobotco.github.io/chiang-mai-roads/ · Thai: https://motdang.net/roads/th/
+Records: 136 across 15 types, CC BY 4.0. API: https://motdang.net/roads/api/
+Network: 52,389 OpenStreetMap ways, 8,054.7 km in the city box, measured by zone at https://motdang.net/roads/old-city/ and https://motdang.net/roads/api/measures.json
+Traffic: 81 highway counting stations at https://motdang.net/roads/traffic/ and https://motdang.net/roads/api/aadt.json
+
+## Pages
+- Roads: https://motdang.net/roads/
+- The map: https://motdang.net/roads/map/
+- Rings: https://motdang.net/roads/rings/
+- Old city: https://motdang.net/roads/old-city/
+- Highways out: https://motdang.net/roads/highways/
+- Timeline: https://motdang.net/roads/timeline/
+- Plans: https://motdang.net/roads/plans/
+- Traffic: https://motdang.net/roads/traffic/
+- Numbers: https://motdang.net/roads/numbers/
+- Words: https://motdang.net/roads/words/
+- Stories: https://motdang.net/roads/stories/
+- Which road are you: https://motdang.net/roads/quiz/
+
+## Records by type
+- Roads (13): https://motdang.net/roads/roads/
+- Rings (5): https://motdang.net/roads/rings/
+- Lanes and alleys (3): https://motdang.net/roads/alleys/
+- Gates and corners (10): https://motdang.net/roads/gates/
+- Junctions (9): https://motdang.net/roads/junctions/
+- Bridges (4): https://motdang.net/roads/bridges/
+- Highways out (11): https://motdang.net/roads/highways/
+- Plans (10): https://motdang.net/roads/plans/
+- Eras (8): https://motdang.net/roads/eras/
+- Measurements (10): https://motdang.net/roads/measures/
+- Traffic (14): https://motdang.net/roads/traffic/
+- Words (15): https://motdang.net/roads/words/
+- Stories (7): https://motdang.net/roads/stories/
+- People (7): https://motdang.net/roads/people/
+- Places (10): https://motdang.net/roads/places/
+
+## Full text
+- https://motdang.net/roads/llms-full.txt
+
+
+# Records
+
+## Chang Klan Road (ถนนช้างคลาน) — road
+https://motdang.net/roads/roads/chang-klan-road/
+
+South from the Tha Phae junction, between the old city and the river, through the quarter where British, Burmese, Indian, Yunnanese and Thai traders settled after the railway. The Night Bazaar runs along it from the head of Charoen Prathet Road; it began as a charity market on the Chong Fa school field and was at least thirty years old by 2015. The precise start year is not on this disk.
+
+## Chang Moi Road (ถนนช้างม่อย) — road
+https://motdang.net/roads/roads/chang-moi-road/
+
+From the northeast of the wall, beside Wichayanon Road, to the Ping. Between 1910 and 1915 the outer gate and earth bank were demolished and the inner wall pierced so that Ratchawithi Road inside the moat could continue straight along it. Assessed land value in 2016–19 was 180,000 baht a square wa, the fourth highest street in the city.
+
+## Chotana Road (ถนนโชตนา) — road
+https://motdang.net/roads/roads/chotana-road/
+
+The city stretch of Route 107 from Chang Phueak Gate north through Khuang Sing to Mae Rim, named on 12 December 1950 after Tim Chotana. The 2024 count at km 9 gave 42,144 vehicles a day and 6,604 motorcycles.
+
+## Huay Kaew Road (ถนนห้วยแก้ว) — road
+https://motdang.net/roads/roads/huay-kaew-road/
+
+From Hua Lin Corner northwest past Kad Suan Kaew, the university gate and the zoo to the foot of Doi Suthep, where it becomes the monk's road. The lower section of Route 1004, Huay Kaew to Phu Phing Palace, 19.4 km in all. The 2024 count at km 4 gave 11,564 vehicles a day plus 2,701 motorcycles.
+
+## Kamphaeng Din Road (ถนนกำแพงดิน) — road
+https://motdang.net/roads/roads/kamphaeng-din-road/
+
+Runs on the line of the earthen outer wall between Loi Kroh and the Night Bazaar; a stretch of the rampart survives beside it. Historically the city's red-light quarter, the ban sao, which the road's reputation still carries.
+
+## Mahidol Road (ถนนมหิดล) — road
+https://motdang.net/roads/roads/mahidol-road/
+
+Route 1141, 7.565 km, Don Chan on the Superhighway west past Nong Hoi, over the railway and the Ping, past the airport junction to Suan Prung. Surveyed 1970, built 1972 as a two-lane bypass fixed in the comprehensive plan of the day, widened to six lanes in 1998–2001. The southern arc of the first ring. The 2025 count at km 7 read 121,403 four-wheeled vehicles a day and 26,366 motorcycles.
+
+*Inference —* the whole of it went under water in October 2024. The busiest road in the north sits on the floodplain the city's founders avoided.
+
+## Nimmanhaemin Road (ถนนนิมมานเหมินท์) — road
+https://motdang.net/roads/roads/nimmanhaemin-road/
+
+1.327 km between Huay Kaew and Suthep roads, on the edge of the land Ki and Kim Ho Nimmanhaemin gave for the university in 1963. It was later absorbed into Route 11 as the western arc of the first ring, and handed back to the municipality in June 2022. Commercial from about 1987; the Soi 1 festival began 1999; assessed land value in 2019 was 180,000 baht a square wa, about 72 million baht a rai.
+
+*Inference —* it is a road named for a gift and priced like a mine. The sois off it are numbered 1 to 17 and each is a small economy; the lane page counts them.
+
+## Ratchadamnoen Road (ถนนราชดำเนิน) — road
+https://motdang.net/roads/roads/ratchadamnoen-road/
+
+The old city's spine, from Tha Phae Gate west to Wat Phra Singh, about 1.5 km. The Sunday walking street moved here on 31 August 2004 from Tha Phae Road. From 6 May 2021 the municipality made it one-way as part of a walkable-district pilot.
+
+*Inference —* it is the founding axis of 1296, and it has been a road for pedestrians one day a week since 2004 and a one-way road every day since 2021. Inside the moat, the old streets are being handed back to feet in stages.
+
+## Si Wichai Road, the road up Doi Suthep (ถนนศรีวิชัย) — road
+https://motdang.net/roads/roads/si-wichai-road/
+
+The upper half of Route 1004, from the Kruba Srivichai monument at the foot of the mountain to Wat Phra That Doi Suthep. Ground broken 9 November 1934 with Chao Kaew Nawarat cutting the first sod; open to vehicles 30 April 1935; 11.53 km of earth and laterite by volunteers.
+
+*Inference —* the red trucks that carry visitors up it are the road's economy, and the curves are the reason the bikes on the Mae Hong Son loop rehearse here. It is in the highway department's 2025–27 programme for improvement, which means its surface, not its line.
+
+## Suthep Road (ถนนสุเทพ) — road
+https://motdang.net/roads/roads/suthep-road/
+
+From Suan Dok Gate west past Wat Suan Dok and the Maharaj hospital to the university and the canal road. A count of it is not in the highway data because it is a municipal street; a public-domain photograph of its traffic is the one this record carries.
+
+## Tha Phae Road (ถนนท่าแพ) — road
+https://motdang.net/roads/roads/tha-phae-road/
+
+From the Nawarat Bridge past Wat Upakut to Tha Phae Gate, about a kilometre, on the east–west axis laid out at the founding. The land outside the gate was Ban Chiang Rueak, a trading village.
+
+Photographs of 1877 show raft-style wooden houses along it; by 2001 one was left. In 1889–90 Chinese merchants from the east bank put up masonry shophouses; the railway's arrival in 1921 made it the commercial street, and most of the surviving heritage houses date from then. After 1962 came commercial blocks of every height. The cables went underground in 2004, which is when the walking street moved off it to Ratchadamnoen.
+
+In October 2024 the Ping came over the bank and the road flooded from the bridge to the Krung Thai bank.
+
+*Inference —* Tha Phae is the one street in the city whose whole biography is on record, and it reads as a list of things arriving from the east: the river trade, the Chinese, the train, the water.
+
+## The Yang Tree Road, Chiang Mai to Lamphun (ถนนต้นยาง เชียงใหม่–ลำพูน) — road
+https://motdang.net/roads/roads/ton-yang-road/
+
+The old road south to Lamphun, the Saraphi stretch of Route 106, lined with yang-na, Dipterocarpus alatus. About a thousand were planted from the Nawarat Bridge to the provincial line under Chao Phraya Surasi, dated 20 October 1882 by Thai PBS and by a telegram of 1900 in Thai Wikipedia; the two dates are not reconciled in any source on this disk. Infill planting in 1954; a protected-environment zone 40 m each side since 2015; storm damage in 2016. Counts of the surviving trees run from 800 to 900.
+
+A Mae Jo poll in October 2020, 403 respondents: 54 percent said the trees were not a problem, 61 percent wanted them conserved, 4 percent wanted them removed, and of the critics 59 percent cited branches over the traffic.
+
+*Inference —* the Superhighway of 1969 was built to take the Bangkok traffic off this road, and the thesis this rests on says traffic on it fell sharply as a result. The trees are alive partly because a bypass was built past them. That is the clearest case on this site of a new road doing an old one a favour.
+
+## Wua Lai Road (ถนนวัวลาย) — road
+https://motdang.net/roads/roads/wua-lai-road/
+
+South from Chiang Mai Gate through the silversmiths' quarter, whose craft came with the people Kawila resettled from the Salween side. The Saturday walking street runs on it. Its naming date and any Wikipedia page are not on this disk.
+
+## The moat loop (ถนนรอบคูเมือง) — ring
+https://motdang.net/roads/rings/moat-loop/
+
+The pair of one-way roads on the two banks of the moat: the outer bank runs clockwise, the inner counter-clockwise, so that the square is a roundabout 6.54 km round. The municipality built the roads in 1948, demolishing stretches of the wall to do it. The year the one-way system began is not on this disk.
+
+*Inference —* the loop is the city's first ring and its smallest, and the only one that is not a bypass: it does not take traffic round the centre, it takes traffic round the centre's edge and lets it in at the gates and the corners. A driver who misses a turn drives the whole square again. Everyone who has lived here has done it.
+
+The story page argues what the loop did to the old city; the measurements page counts what is inside it.
+
+## Ring 1, the Superhighway ring (วงแหวนรอบที่ 1) — ring
+https://motdang.net/roads/rings/ring-1/
+
+The ring about 3 km out: the last ten kilometres of Route 11, the Superhighway, on the north and east; Mahidol Road, Route 1141, on the south; Nimmanhaemin on the west. Nobody planned it as a ring. Route 11 was built two-lane in 1968–69 to shorten the road to Bangkok and four-laned from 2001; Mahidol was built 1972 and six-laned 1998–2001; Nimmanhaemin was absorbed into Route 11 and returned to the municipality in 2022.
+
+*Inference —* the airport, the university, the bus station, the railway station and the Night Bazaar all sit inside this ring. It is where the twentieth-century city is. The underpasses at Khuang Sing, San Dek and Fa Ham were dug under it in 2007 and 2018 because the ring became a street.
+
+## Ring 2, the 700 Years Road (วงแหวนรอบกลาง — ถนนสมโภชเชียงใหม่ 700 ปี) — ring
+https://motdang.net/roads/rings/ring-2/
+
+The middle ring, about 5 km out, named for the city's 700th anniversary of 1996. Laid out in the first comprehensive plan of 1984 and fixed by Interior Ministry Regulation 78 of 1989; designed by the Department of Town Planning, built by the Public Works Department; ground broken 11 January 1994 on a 30 m right of way; opened 6 February 2006 by the prime minister. 26.13 km, six lanes, seven underpasses at the radial roads (107, 1001, 118, 1006, 1317, 106, 108) and one interchange at Route 11. Run by the Department of Rural Roads as ChM.3029. Cost 10,070 million baht including land by Thai Wikipedia, 5,060 million in the 2005 thesis; the two figures are both recorded.
+
+*Inference —* seven underpasses is the design decision that defines this ring: the radial roads keep their signals and the ring goes under them, so a driver on the ring never stops and a driver crossing it never notices. It is the road in the city that most behaves like a motorway, and it is not a national highway at all.
+
+## Ring 3, Route 121 (วงแหวนรอบนอก — ทางหลวง 121) — ring
+https://motdang.net/roads/rings/ring-3/
+
+The outer ring, about 9 km out: a 52.957 km closed loop through Hang Dong, Saraphi, San Kamphaeng, Doi Saket, San Sai and Mae Rim, crossing the Ping twice. The west side runs along the irrigation canal, a 9.3 km road the Royal Irrigation Department built and handed to the highway department on 9 April 1998. Begun 1994 by the Lampang highway centre as two lanes, Ping to Hang Dong first, delayed by expropriation and the 1997 crash. The Hang Dong–university section, 11 km and four lanes, was built April 2002 to June 2004 for 332 million baht. The 2024 counts read 42,336 vehicles a day at km 1 and 21,476 at km 38.
+
+Five interchanges are under tender for 3,145 million baht in total, due 2027: Samoeng at Route 108 (920 million), the Superhighway at Route 11 (700), Louis at Route 1006 (650), Kong Sai at Route 106 (445) and San Klang at Route 1317, phase 2 (430). The 16.3 km from Route 108 to Route 1006 is being widened to four and six lanes for 1,500 million. A 20.9 km elevated road along the Don Kaew–Mueang Kaew stretch is under study.
+
+*Inference —* this is the ring where the city's road money is going in the 2020s, and where the argument about what a road does to a view is being had.
+
+## Ring 4, drawn but not dug (วงแหวนรอบที่ 4) — ring
+https://motdang.net/roads/rings/ring-4/
+
+A fourth ring of about 50 km through Hang Dong, Saraphi, San Kamphaeng, Doi Saket, San Sai and Mae Rim, costed at about 5,000 million baht, at the public-consultation stage as of 2025. It exists as a line on a plan and a hearing; no contract is on this disk.
+
+## The hom (ฮ่อม) — lane
+https://motdang.net/roads/alleys/hom-the-lane/
+
+The lanes between houses: residential streets, living streets and service lanes in OpenStreetMap's terms; hom in Kam Mueang, soi on the postal address. The measurements page counts their length, how many end in a dead end, and how many have a name. The highway department counts none of them, because none of them is a highway.
+
+*Inference —* a hom is a hom because it goes to houses, not through them. The dead-end share on the measurements page is the number to hold onto: inside the moat the grid of 1296 makes almost every lane come out somewhere; in the rings outside, a lane is a driveway shared by twenty families and it ends at the last one.
+
+## The Nimman sois (ซอยนิมมานเหมินท์) — lane
+https://motdang.net/roads/alleys/nimman-sois/
+
+The numbered lanes off Nimmanhaemin Road, odd on the west side and even on the east. Soi 1 has held a festival since 1999. The lanes are counted on the measurements page from the map; the count of businesses on them is Mot Dang's job, not this site's.
+
+## How a soi gets its number (เลขซอยมาจากไหน) — lane
+https://motdang.net/roads/alleys/soi-numbering/
+
+A soi branches from a main road and is numbered along it, even numbers on one side and odd on the other, counting from the road's start; a lane off a soi is a trok or a sub-number. Named sois often carry a landowner's name. The main road's start is a decision someone made once, which is why Nimmanhaemin's numbers run from the Huay Kaew end.
+
+## Chang Moi Gate (ประตูช้างม่อย) — gate
+https://motdang.net/roads/gates/chang-moi-gate/
+
+An outer gate in the earthen wall, dated to 1282 in the chronicle, gone since the 1910s. Between 1910 and 1915 the earth bank and the gate were removed and the inner brick wall pierced so that Ratchawithi Road could run straight out to the new Chang Moi Road and the river.
+
+*Inference —* this is the first documented case in the city of a wall giving way to a road, thirty-five years before the moat roads did it wholesale. The pattern was set: the straight line wins.
+
+## Chang Phueak Gate (ประตูช้างเผือก) — gate
+https://motdang.net/roads/gates/chang-phueak-gate/
+
+The northern gate, formerly Hua Wiang, the head of the city. Kings entered here; the road north to Mae Rim and Fang, Route 107, still begins outside it.
+
+*Tradition holds —* the north is the auspicious direction in Lanna town planning, so the gate at the head of the city was the ceremonial one. The white elephant monument beside it is a separate thing, from a separate century.
+
+## Chiang Mai Gate (ประตูเชียงใหม่) — gate
+https://motdang.net/roads/gates/chiang-mai-gate/
+
+The southern gate, formerly Tai Wiang, the foot of the city. A market sits against it, open before dawn, and Wua Lai Road runs south from it.
+
+## Hua Lin Corner (แจ่งหัวลิน) — gate
+https://motdang.net/roads/gates/hua-lin-corner/
+
+The northwest corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Hua Lin means the head of the water channel: the moat was fed from Doi Suthep at this corner, and the water still enters here.
+
+## Katam Corner (แจ่งก๊ะต๊ำ) — gate
+https://motdang.net/roads/gates/katam-corner/
+
+The southeast corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Katam is a fish trap in Kam Mueang; the corner where the moat water was let out and the fish gathered.
+
+## Ku Hueang Corner (แจ่งกู่เฮือง) — gate
+https://motdang.net/roads/gates/ku-hueang-corner/
+
+The southwest corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Ku Hueang is a reliquary: a chedi to a jailer, or a prince, depending on the telling.
+
+## Si Phum Corner (แจ่งศรีภูมิ) — gate
+https://motdang.net/roads/gates/si-phum-corner/
+
+The northeast corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. The Kamphaeng Din, the outer earthen wall, begins its curve from here, and the corner was the auspicious one at the founding: the first brick of the city was laid at the northeast.
+
+## Suan Dok Gate (ประตูสวนดอก) — gate
+https://motdang.net/roads/gates/suan-dok-gate/
+
+The western gate, the flower-garden gate, named for the royal garden that became Wat Suan Dok outside it. Suthep Road leaves here for the university and Doi Suthep.
+
+## Suan Prung Gate (ประตูสวนปรุง) — gate
+https://motdang.net/roads/gates/suan-prung-gate/
+
+The second gate in the south wall, added under King Sam Fang Kaen in the 1400s, so that the south wall alone has two. The hospital of the same name is outside it.
+
+*Tradition holds —* the dead left the city through this gate, which is why it was cut into the south wall rather than the auspicious north. The road outside it is still the way to the crematorium.
+
+## Tha Phae Gate (ประตูท่าแพ) — gate
+https://motdang.net/roads/gates/tha-phae-gate/
+
+The eastern gate of the walled city, at the head of Tha Phae Road, facing the river a kilometre away. Originally Chiang Rueak Gate, after the trading village outside it.
+
+What stands there now is a reconstruction. The municipality and the Fine Arts Department rebuilt the gate and its lawn in 1985–87 from records, archaeology and a single old photograph; it is the only inner gate with a complete set of wooden doors.
+
+*Inference —* the lawn in front is the city's living room: the Sunday walking street begins here, protests gather here, and the pigeons are a business. A gate that was demolished in 1948 to make way for the moat roads became, forty years later, the picture on the postcard. That is the whole history of Chiang Mai's road-building in one square.
+
+## Airport junction (แยกสนามบิน) — junction
+https://motdang.net/roads/junctions/airport-junction/
+
+The junction of Mahidol Road with the airport approach and the road to Hang Dong, on the first ring's southern arc. It has an underpass; the year it opened is not on this disk. In the flood of 5 October 2024 the airport–cultural centre–Hai Ya stretch was impassable for small cars by early afternoon.
+
+## Fa Ham underpass (ทางลอดฟ้าฮ่าม) — junction
+https://motdang.net/roads/junctions/fa-ham-underpass/
+
+Where Route 1001, the Mae Jo and Phrao road, crosses the Superhighway northeast of the city. Highway department; built from March 2015; opened 9 June 2018; a tunnel 533 m long and 31 m wide, at 1,172,771,000 baht. The busiest radial count on this side of the city passes through it: 55,708 vehicles a day at Route 1001's first kilometre in 2025.
+
+## Khuang Sing underpass (ทางลอดข่วงสิงห์) — junction
+https://motdang.net/roads/junctions/khuang-sing-underpass/
+
+Where Chotana Road, Route 107, crosses the Superhighway at the northern edge of the first ring. Begun 2003 with the San Dek underpass; the contractor had bid 146 million under estimate, abandoned both at about sixty percent, and the contract was terminated in April 2007. The highway department's bridge centres finished the pair in six months for 240 million baht, and the transport minister opened them on 26 December 2007. Six lanes.
+
+## Nong Hoi junction (แยกหนองหอย) — junction
+https://motdang.net/roads/junctions/nong-hoi-junction/
+
+Where Mahidol Road crosses Route 106, the old Lamphun road, at km 2, east of the river. There is an underpass; its opening year is not on this disk. The yang trees begin a little south of here.
+
+## Rincome junction (แยกรินคำ) — junction
+https://motdang.net/roads/junctions/rincome-junction/
+
+Where Huay Kaew Road, Nimmanhaemin and the Superhighway meet, northwest of the moat. The 2025 public-transport master plan names it a critical congestion point, and an interchange with the Superhighway is costed at 700 million baht, phase one due 2027. The hotel it is named for is gone; the name is not.
+
+## The seven underpasses of the middle ring (ทางลอดเจ็ดแห่งของวงแหวนรอบกลาง) — junction
+https://motdang.net/roads/junctions/ring-2-underpasses/
+
+The middle ring dives under each radial highway it crosses: Routes 107, 1001, 118, 1006, 1317, 106 and 108, seven underpasses of four lanes finished by October 2005, plus an interchange at Route 11. Their names are the neighbourhoods: Sanam Luang at the government centre, Ruam Chok, Mae Khao, Buak Khrok, Sri Bua Ngoen, Wiang Kum Kam, and Mae Hia Saman Samakkhi.
+
+## San Dek underpass (ทางลอดสันเด็ก) — junction
+https://motdang.net/roads/junctions/san-dek-underpass/
+
+Where the road to the Arcade bus station and Kaew Nawarat cross the Superhighway on the east. Same contract, same abandonment and same six-month rescue as Khuang Sing; opened 26 December 2007. Its original estimate was 350 million baht. In October 2024 the flood reached it from the river.
+
+## San Klang interchange (ทางแยกต่างระดับสันกลาง) — junction
+https://motdang.net/roads/junctions/san-klang-interchange/
+
+Route 1317 across Route 121, east of the city. Thai PBS reported it more than half built in 2025 at 1,425 million baht; a second phase of 430 million is in the five-interchange tender due 2027.
+
+## San Pa Tong–Hang Dong bypass underpass (อุโมงค์เลี่ยงเมืองสันป่าตอง–หางดง) — junction
+https://motdang.net/roads/junctions/san-pa-tong-underpass/
+
+Department of Rural Roads, linking Route 121 to Route 1269: 1.83 km in all with a twin underpass of 462.5 m, 720.3 million baht, more than eighty percent built in August 2021 and due early 2022. A separate San Pa Tong interchange on Route 108, 1,246 million baht with a 679 m underpass, is due 2027.
+
+## Chansom Memorial Bridge (สะพานจันทร์สมอนุสรณ์) — bridge
+https://motdang.net/roads/bridges/chansom-memorial-bridge/
+
+A road bridge over the Ping in the city centre, carrying the Chang Moi–Wat Ket link. Its date is not on this disk; it is counted with the rest on the crossings page and has a picture.
+
+## Khua Lek, the Iron Bridge (ขัวเหล็ก) — bridge
+https://motdang.net/roads/bridges/iron-bridge/
+
+The steel truss bridge south of Nawarat, at the end of Loi Kroh Road, painted and lit and mostly walked. Its dates and its builder are on the English Wikipedia page this record cites and are not repeated here without checking; what this site vouches for is that the name is khua, not saphan, in every mouth in the city.
+
+## The bridges over the moat (ขัวข้ามคูเมือง) — bridge
+https://motdang.net/roads/bridges/moat-bridges/
+
+The moat is crossed by short road and foot bridges at the gates and between them. They are counted from the map on the crossings page alongside the Ping bridges; the Loi Kroh bridge and the one people call the rat bridge have pictures.
+
+## Nawarat Bridge (สะพานนวรัฐ) — bridge
+https://motdang.net/roads/bridges/nawarat-bridge/
+
+The bridge at the foot of Tha Phae Road, named for Chao Kaew Nawarat, the last ruler. A teak bridge about 1890; a steel one begun 1921 after the wooden one burned and opened 1923; the present reinforced-concrete bridge completed 1967 and opened 26 December that year. The Ping gauge P.1 is here, and it read 5.30 m at noon on 5 October 2024.
+
+## Route 1, Phahonyothin, and the 696 km to Bangkok (ทางหลวงแผ่นดินหมายเลข 1 พหลโยธิน — 696 กม. ถึงกรุงเทพฯ) — highway
+https://motdang.net/roads/highways/route-1/
+
+Thailand's first highway, 1,005 km from the Victory Monument to Mae Sai, named 1938. Chiang Mai is not on it; the run to Bangkok leaves Route 1 at Lampang for Route 11, or at Tak for Route 1 via Lampang, and comes to about 696 km either way.
+
+## Route 1001, to Phrao (ทางหลวงแผ่นดินหมายเลข 1001 — เชียงใหม่–พร้าว) — highway
+https://motdang.net/roads/highways/route-1001/
+
+From the Fa Ham junction on the Superhighway north through San Sai and Mae Jo to Phrao, 93.657 km. The first kilometre is one of the busiest counts in the province, 55,708 vehicles a day in 2025 plus 22,601 motorcycles, and the reason the Fa Ham underpass was dug.
+
+## Route 1006, the old San Kamphaeng road (ทางหลวงแผ่นดินหมายเลข 1006 — สันกำแพงสายเก่า) — highway
+https://motdang.net/roads/highways/route-1006/
+
+Chiang Mai to On Luai through Bo Sang and San Kamphaeng, 31.45 km, the handicraft road. 44,945 vehicles a day at km 10 in 2024. The Louis interchange with the outer ring, 650 million baht, is under tender.
+
+## Route 106, the old road south (ทางหลวงแผ่นดินหมายเลข 106 — ถนนสายเก่าลงใต้) — highway
+https://motdang.net/roads/highways/route-106/
+
+Sukhothai to Lampang, Lamphun and Chiang Mai, 256.359 km. The Chiang Mai–Lamphun stretch is the Yang Tree Road, two to four lanes under the yang-na. It was the road to Bangkok until 1969, when Route 11 took the traffic.
+
+## Route 107, north to Fang (ทางหลวงแผ่นดินหมายเลข 107 — เชียงใหม่–ฝาง) — highway
+https://motdang.net/roads/highways/route-107/
+
+From Chang Phueak Gate through Mae Rim, Mae Taeng, Chiang Dao, Fang and Mae Ai to Route 1 at Mae Chan, 240.3 km, a pre-1937 road. City to Mae Rim is four to six lanes of concrete; Mae Rim to Chiang Dao mostly four. A four-lane contract for 14.3 km between Fang and Mae Ai runs July 2025 to September 2027. The Mae Malai turn onto Route 1095 for Pai is at km 35.
+
+## Route 108, southwest to Mae Hong Son (ทางหลวงแผ่นดินหมายเลข 108 — เชียงใหม่–แม่ฮ่องสอน) — highway
+https://motdang.net/roads/highways/route-108/
+
+Through Hang Dong, San Pa Tong and Chom Thong to Hot, 88 km of four to six lanes, then 265 km of two-lane mountain road through Mae Sariang and Khun Yuam to Mae Hong Son: 349.359 km. The Hang Dong road was built in 1899 with khi-lek trees for the Burma trade, made a two-lane gravel road in the 1970s, concreted from 1986 and widened to four and six lanes in 1989–92. The whole route was a dirt road by 1963, asphalt by 1990 and complete in 1998. The 2024 count at km 7.65 read 41,450 vehicles a day and 16,378 motorcycles.
+
+*Inference —* it is the long way round the Mae Hong Son loop, and the loop site counts its curves; this site only claims its first eighty-eight kilometres, which are the flat ones.
+
+## Route 1095, the curve road to Pai (ทางหลวงแผ่นดินหมายเลข 1095 — ถนนสายปาย) — highway
+https://motdang.net/roads/highways/route-1095/
+
+From Ban Nong Khong on Route 107 through Pai and Pang Mapha to Mae Hong Son, 204.023 km, realigned to its present start in 1994. Thai Wikipedia gives it more than 2,000 curves; the shirts in Pai say 1,864, a figure this project's sister site measured against the map. The 2020 count at km 0.7 was 2,631 vehicles a day; the 2025 count 5,782, more than double in five years.
+
+## Route 11, the Superhighway (ทางหลวงแผ่นดินหมายเลข 11 — ถนนซุปเปอร์ไฮเวย์) — highway
+https://motdang.net/roads/highways/route-11/
+
+From the Inthaburi interchange on Route 32 in Sing Buri to Huay Kaew Road in Chiang Mai, 562.673 km, Asian Highway 13. The Lampang–Chiang Mai section was built in 1968–69 by the Lampang highway centre, two lanes, to shorten the road to Bangkok, and its final ten kilometres skirt the city as the Superhighway. Four-laning from 2001, most of it done by 2012. The 2025 counts on the city stretch read 67,150 and 62,422 vehicles a day.
+
+*Inference —* the name is a fossil. In 1969 a two-lane road with a hard shoulder was a superhighway; the word stuck to the road while the road became a city street with traffic lights, and the highway department has spent the 2000s and 2010s digging under those lights one by one.
+
+## Route 118, to Chiang Rai (ทางหลวงแผ่นดินหมายเลข 118 — เชียงใหม่–เชียงราย) — highway
+https://motdang.net/roads/highways/route-118/
+
+Chiang Mai to Doi Saket, Wiang Pa Pao, Mae Suai and Mae Lao on Route 1, 158.65 km. The first 14 km out of the city are four to eight lanes and the 2024 count at km 0.5 read 82,500 vehicles a day, the second busiest station in the province. The whole road is being four-laned: Chiang Mai–Doi Saket 20.2 km done October 2008; Pong Pha Tong–Ban Pong 28.5 km October 2019; Pa Miang–Pang Nam Thu 9.25 km March 2020; five sections of 42.8 km in 2020–21; and the last stretch from Mae Suai to Route 1, 17.473 km for 2,000 million baht, under contract for 2026.
+
+## Route 1269, Samoeng (ทางหลวงแผ่นดินหมายเลข 1269 — สะเมิง) — highway
+https://motdang.net/roads/highways/route-1269/
+
+Samoeng to Ton Kwen, 36.319 km, the road that with Route 1096 makes the Samoeng day loop. The loop site measured it denser in curves than the famous road to Pai. Build year not on this disk.
+
+## Route 1317, the new San Kamphaeng road (ทางหลวงแผ่นดินหมายเลข 1317 — สันกำแพงสายใหม่) — highway
+https://motdang.net/roads/highways/route-1317/
+
+Don Chan on Mahidol Road east to Huay Kaew in San Kamphaeng, 36.991 km, the newer of the two roads to San Kamphaeng. 59,248 vehicles a day at km 1 in 2025. Its crossing of the outer ring at San Klang is getting a 1,425 million baht interchange, more than half built.
+
+## The new comprehensive plan, 2026 (ผังเมืองรวมเมืองเชียงใหม่ ฉบับใหม่ 2569) — plan
+https://motdang.net/roads/plans/comprehensive-plan-2026/
+
+The cabinet approved the draft on 17 March 2026: 1,428.90 km² over Mueang, San Sai, Mae Rim, Hang Dong, Saraphi and parts of Doi Saket and San Kamphaeng; land-use classes from eleven to fifteen; 18 project roads added and 7 dropped. The draft carries 51 project roads by right of way: class ก 12 m, 11 routes; ข 16 m, 29; ค 20 m, 8; ง 60 m, 3. The old city keeps its 12 m height cap. The first plan of 1984 drew rings two and three; the 1989 revision fixed them; the 2012 plan's height rules were amended in 2019 in named low-density zones.
+
+*Inference —* three roads of 60 m right of way is the line to read twice. A 60 m corridor is a motorway reservation, and the plan does not say where they go; the Isranews summary does not either. Not on this disk.
+
+## An elevated road on the outer ring, Don Kaew to Mueang Kaew (ทางยกระดับบนทางหลวง 121 ดอนแก้ว–เมืองแก้ว) — plan
+https://motdang.net/roads/plans/elevated-121/
+
+The highway department, not the expressway authority, studied six models from March 2025 for an elevated road on the west side of Route 121, 20.857 km. Model five was preferred at about 2,000 million baht, 1,000 to build, 500 for land and 500 to operate, about two and a half years, with congestion cut by more than half; the objection recorded is that it may block the view of Doi Suthep. An initial and then a full environmental assessment are required. Separately the department held a hearing on redesigning the canal road for congestion.
+
+## Bangkok–Chiang Mai high-speed rail (รถไฟความเร็วสูงกรุงเทพฯ–เชียงใหม่) — plan
+https://motdang.net/roads/plans/hsr-bangkok-chiang-mai/
+
+The northern Shinkansen line: Bangkok–Phitsanulok 380 km, Phitsanulok–Chiang Mai 288 km, 668 km in all (688 by Isranews), 445,303 million baht for both phases. Cabinet approvals 2012; a memorandum with Japan's transport ministry 2015. In October 2024 phase one was postponed until Bangkok–Nong Khai is done; phase two is targeted for 2033–42. There is no Chiang Mai–Lampang line on its own.
+
+## Lanna Airport, the second airport at Ban Thi (สนามบินล้านนา สนามบินแห่งที่สองที่บ้านธิ) — plan
+https://motdang.net/roads/plans/lanna-airport/
+
+A second airport across the provincial line at Ban Thi, Lamphun, beside San Kamphaeng: about 8,050 rai, about 70,000 million baht, 24 million passengers a year, two runways, 41 movements an hour, 38 stands. Design and expropriation decree Q4 2025, tender Q1 2027, construction Q2 2027, completion Q3 2032. Residents' concerns are on record at the feasibility stage. The existing airport gets a 24,000 million baht upgrade from 2025 to reach 20 million a year by 2027.
+
+## Chiang Mai light rail, the Red Line (รถไฟฟ้าเชียงใหม่ สายสีแดง) — plan
+https://motdang.net/roads/plans/lrt-red-line/
+
+Nakhon Ping Hospital to Mae Hia Saman Samakkhi. The MRTA's Thai page gives 15.8 km, 16 stations, seven underground, about 27,000 million baht; its English page gives 21 km, 21 stations, 24,727 trips a day at opening, cabinet April 2027, construction October 2028, opening December 2032; Railway Gazette in April 2026 describes the current scheme as a 5 km tram with six stops from Royal Park Rajapruek to Mae Hia, tenders 2027, opening December 2032; Prachachat has the whole line at about 32,000 million. All four are live. English Wikipedia still says construction 2020, completion 2027.
+
+*Inference —* a plan whose length has three published values is a plan being renegotiated in public. The hearing deck's own demand forecast runs from 3,301 to 5,773 passengers an hour per direction at opening depending on the case, which is a tram's worth, not a metro's, and the 5 km version reads as the department agreeing.
+
+## Chiang Mai–Chiang Rai motorway, MR1-3 (มอเตอร์เวย์เชียงใหม่–เชียงราย MR1-3) — plan
+https://motdang.net/roads/plans/motorway-chiang-mai-chiang-rai/
+
+An intercity motorway from Saraphi to Wiang Chai under the MR-MAP plan, three alignments of 178 to 217 km put to hearing on 20 September 2022. The highway department's own summary: 184 km, 101,174 million baht, about 12,000 rai to expropriate, high cost and low return, and it may attract no private investor. An earlier study ran it via Lampang and Phayao.
+
+*Inference —* the department has written the obituary into the proposal. Filed here as a study, because that is what it is until someone puts money against it.
+
+## The nine roads, 2025–27 (เก้าสายทาง 2568–70) — plan
+https://motdang.net/roads/plans/nine-roads-programme/
+
+Announced on provincial radio: Route 116 Lamphun–Doi Lo to four lanes; Route 108 Chom Thong–Hot to four lanes; Hot–Mae Sariang; Route 1095 Mae Taeng–Pai; the Doi Suthep road, Route 1004; the outer ring to six lanes with an overpass at every junction; a Chom Thong bypass. Budgets per item are not in the broadcast.
+
+## Five interchanges on the outer ring (ทางแยกต่างระดับห้าแห่งบนวงแหวนรอบนอก) — plan
+https://motdang.net/roads/plans/ring-3-interchanges/
+
+Tendered as a set: Samoeng at Route 108 in Hang Dong, 920 million; the Superhighway at Route 11, 700 million; Louis at Route 1006, 650 million, a four-lane bridge on a 1,080-day contract 2025–27; Kong Sai at Route 106 in Saraphi, 445 million; San Klang at Route 1317, phase two, 430 million. Two more, San Khayom at Route 1367 and Likhit Chiwan at Route 1001, were presented in November 2025 as an overpass on the ring with a tunnel on the cross road and a roundabout, no signals, possible construction 2026.
+
+## Four-laning Route 118 to Chiang Rai (ขยายทางหลวง 118 เป็นสี่เลนถึงเชียงราย) — plan
+https://motdang.net/roads/plans/route-118-four-lanes/
+
+The whole 158.473 km to be four lanes. Done: Chiang Mai–Doi Saket 20.2 km, October 2008; Pong Pha Tong–Ban Pong 28.5 km, October 2019; Pa Miang–Pang Nam Thu 9.25 km, March 2020; five sections of 42.8 km, 2020–21, at about 2,500 million baht. The last: Mae Suai, km 141, to Route 1 at km 158.473, 17.473 km, 2,000 million baht, contract completion 2026.
+
+## The UNESCO nomination and the roads under it (การเสนอมรดกโลกและถนนใต้มัน) — plan
+https://motdang.net/roads/plans/unesco-nomination/
+
+Chiang Mai went on the tentative list in 2015 as Monuments, Sites and Cultural Landscape of Chiang Mai, Capital of Lanna: a nominated core of the old city to the outer walls and the Mae Kha canal, 5.30 km², with a Doi Suthep buffer of 165.84 km², 33 attributes, seven temples, five gates and four bastions. A twenty-year transport plan with one underground route directly under the old town was flagged as a conflict in 2019. The cabinet approved the nomination in January 2026 for the 30 January deadline.
+
+## 1296 — the square (พ.ศ. 1839 — สี่เหลี่ยม) — era
+https://motdang.net/roads/eras/era-1296-the-square/
+
+Mangrai founds Chiang Mai on the higher ground a kilometre west of the Ping, after his first city on the bank flooded. A moat 6.54 km round, a gate in each wall and a fifth on the south, and the cardinal streets from gate to gate. The earthen outer wall curves round the trading quarter to the east.
+
+*Inference —* the grid inside the moat is the oldest piece of road-planning in the city and it is still the tightest: the measurements page shows the square with more intersections per square kilometre and fewer dead ends than any ring outside it. Seven centuries of building have not managed to lay out a neighbourhood as well-connected as the first one.
+
+## 1796–1900 — Kawila's rebuilding (2339–2443 — ยุคพระเจ้ากาวิละ) — era
+https://motdang.net/roads/eras/era-kawila-1796-1900/
+
+Kawila re-enters the empty city in 1796, restores the walls and gives the corners their bastions. Through the century Siam's hold tightens; the first teak bridge crosses the Ping about 1890; the yang-na trees go in along the Lamphun road, 1882 by one account; the Hang Dong road is built in 1899 with khi-lek trees for the Burma trade.
+
+*Inference —* the century's road-building is all outside the moat and all radial: a bridge east, an avenue south, a trade road southwest. The square was left alone. That pattern held for another fifty years.
+
+## 1300s–1700s — Lanna and Burma (พุทธศตวรรษ 19–23 — ล้านนากับพม่า) — era
+https://motdang.net/roads/eras/era-lanna-and-burma/
+
+The kingdom's roads were tracks and its highways were the Ping and the Kok. Two centuries of Burmese rule from 1558 left the walls standing and the city, by the 1770s, nearly empty. The fifth gate, Suan Prung, was cut in the south wall under Sam Fang Kaen in this period.
+
+*Inference —* no road in the present catalogue is dated to these four centuries, which is a statement about the record rather than the roads. The trade tracks to Burma through Hang Dong, later Route 108, and north through Chiang Dao, later 107, are older than any document that names them.
+
+## 1935 — the monk's road (2478 — ถนนครูบา) — era
+https://motdang.net/roads/eras/era-monks-road-1935/
+
+Kruba Srivichai's road up Doi Suthep: ground broken 9 November 1934, open to vehicles 30 April 1935, 11.53 km of earth and laterite, five months and twenty-two days, built by volunteers. Its own chapter because nothing else in the city's road history was made this way.
+
+*Inference —* it is also the last road in this catalogue built for a reason other than traffic. Every road after it was built to move vehicles; this one was built to reach a relic.
+
+## 2010s–2020s — going under, and going up (ทศวรรษ 2550–2560 — ลอดใต้ และยกขึ้น) — era
+https://motdang.net/roads/eras/era-now/
+
+Fa Ham underpass opens 2018 at 1,172.8 million baht. Route 118 is four-laned section by section, the last 17.5 km due 2026. Five interchanges on the outer ring are tendered for 3,145 million baht, due 2027. The old city gets a 12 m height cap and Ratchadamnoen goes one-way in 2021 for a walkable-district pilot. UNESCO tentative listing 2015, nomination filed January 2026. The Ping floods in October 2024 to 5.30 m at Nawarat. A new comprehensive plan is approved 17 March 2026 with 51 project roads.
+
+*Inference —* the pattern of the decade is grade separation: the city has decided to go under its junctions rather than build a fourth ring, while the fourth ring is drawn anyway. The plans page carries each item with its status and its date, because half of them have moved.
+
+## 1984–2006 — the rings (2527–2549 — ยุควงแหวน) — era
+https://motdang.net/roads/eras/era-rings-1984-2006/
+
+The first comprehensive plan, 1984, lays out the middle and outer rings; Interior Ministry Regulation 78 of 1989 fixes them. The outer ring, Route 121, is begun 1994 by the Lampang highway centre, stalls on land and the 1997 crash, and is closed as a 52.96 km loop through the 2000s. The middle ring, the 700 Years Road, is broken ground the same year, 26.13 km with seven underpasses and one interchange, and opened 6 February 2006 at 10,070 million baht including land. Route 11 is widened to four lanes from 2001; Mahidol from two to six in 1998–2001.
+
+*Inference —* the thesis this rests on carries the number that explains the decade: main-road kilometres in the city went from 36.5 to 60.3 between 1992 and 2003 while registered vehicles went from 465,659 to 933,733. The roads grew by two-thirds; the vehicles doubled.
+
+## 1900–1950 — Siam and the railway (2443–2493 — สยามกับรถไฟ) — era
+https://motdang.net/roads/eras/era-siam-1900-1950/
+
+The railway reaches the east bank on 1 January 1921 and Tha Phae becomes the commercial street. Between 1910 and 1915 Chang Moi Gate and its earth bank are removed to run Ratchawithi Road straight to the river. The steel Nawarat Bridge opens 1923. The municipality is founded 1936 and in 1948 builds the roads on both banks of the moat, demolishing stretches of the wall registered as a monument thirteen years before.
+
+*Inference —* 1948 is the year the square stopped being a fortification and became a roundabout. Everything the one-way loop does to the old city, for good and ill, dates from that decision.
+
+## 1960s–70s — the Superhighway (ทศวรรษ 2510 — ซุปเปอร์ไฮเวย์) — era
+https://motdang.net/roads/eras/era-superhighway-1969/
+
+The Department of Highways' Lampang centre builds the Chiang Mai–Lampang road, Route 11, in 1968–69, two lanes, to shorten the run to Bangkok; traffic on the old Lamphun road falls away. Its last ten kilometres skirt the city on the north and east and become, with Mahidol Road (surveyed 1970, built 1972, 7.4 km) on the south and Nimmanhaemin on the west, the first ring. The university opens 1964 on the Nimmanhaemin land; the concrete Nawarat Bridge opens 1967.
+
+*Inference —* the Superhighway was not built as a ring. It was built as a bypass, and a bypass becomes a ring the moment the city grows past it, which took about fifteen years. Every ring in Chiang Mai has been an edge that turned into a middle.
+
+## How far between intersections (ระหว่างแยกไกลแค่ไหน) — measure
+https://motdang.net/roads/measures/block-length/
+
+The median run of road between two intersections, per zone: 59 m inside the moat, 59 m to 3 km, 56 m to 5.5, 56 m to 9, 65 m beyond. The means are longer everywhere because a few long runs on the highways pull them.
+
+*Inference —* the spread is narrower than the other measures because a hom is a hom everywhere: two metres wide and a house every fifteen. The difference between the zones is not how long the lanes are but whether they come out.
+
+## What the map says is being built (แผนที่บอกว่ากำลังสร้างอะไร) — measure
+https://motdang.net/roads/measures/construction-on-the-map/
+
+OpenStreetMap's highway=construction, in the box: 111 ways, 16.9 km. The longest: unnamed 0.8 km, unnamed 0.8 km, unnamed 0.63 km, unnamed 0.56 km, unnamed 0.45 km, unnamed 0.35 km. A volunteer tag, dated by the last person who looked; the plans page has what the departments say.
+
+*Inference —* the map and the ministry disagree on what is being built, and both are right on the day they were written. The interchanges on the outer ring are on one list; the lane behind a housing estate is on the other.
+
+## Dead ends, zone by zone (ทางตัน ทีละโซน) — measure
+https://motdang.net/roads/measures/dead-ends/
+
+The share of network ends that are dead ends: nodes touched by one way only, divided by those plus the intersections, on drivable ways without service lanes. Inside the moat 14%; to 3 km 26%; 3 to 5.5 km 32%; 5.5 to 9 km 35%; beyond 35%. 15,928 dead ends in the box against 31,668 intersections.
+
+*Inference —* a hom in the old city was cut to let people through; a hom in the rings was cut to let people in. The share climbs ring by ring because each ring's land was subdivided by its owners one plot at a time, and a shared driveway to twenty houses ends at the twentieth. The consequence for the city is that a trip between two lanes 200 m apart in San Sai can be 2 km by road.
+
+## The grid score, zone by zone (คะแนนตาราง ทีละโซน) — measure
+https://motdang.net/roads/measures/grid-in-the-moat/
+
+Boeing's orientation-order index φ on the street network of each zone: the bearings of every drivable way, service lanes excluded, in 36 bins over a half-circle, weighted by length, turned into an entropy and rescaled so that 1 is a perfect four-direction grid and 0 is streets running every way equally. The square inside the moat scores 0.67; the band out to 3 km 0.17; 3 to 5.5 km 0.09; 5.5 to 9 km 0.07; past 9 km 0.03.
+
+*Inference —* the founding grid of 1296 is still the strongest order in the city, by a factor of 9 over the outer ring. Outside the square the streets follow field boundaries, canals and whatever track was there before the ring came, which is what a score near zero means. Boeing's 2019 paper put Chicago near 0.9 and Charlotte near 0.0; the moat sits closer to the former, the suburbs to the latter, and the same city holds both.
+
+## Intersections per square kilometre (ทางแยกต่อตารางกิโลเมตร) — measure
+https://motdang.net/roads/measures/intersection-density/
+
+Nodes where three or more drivable ways meet, per square kilometre of zone: inside the moat 135; to 3 km 82; 3 to 5.5 km 78; 5.5 to 9 km 58; beyond 31. Road density runs the same way: 24.4 km of road per km² in the square, 11.6 at the outer ring.
+
+*Inference —* this is the measure planners use for walkability, and it says the most walkable square kilometre in the province is the one that is seven hundred years old. Every ring built since has produced a city with a third to a half the choices per kilometre.
+
+## The network, in kilometres (โครงข่าย เป็นกิโลเมตร) — measure
+https://motdang.net/roads/measures/network-km/
+
+52,389 ways. By class: residential 4,280 km, service 1,238 km, track 494 km, unclassified 454 km, path 337 km, tertiary 312 km, primary 288 km, secondary 250 km, footway 189 km. 1,055 km of footway, path, track and steps. 4,757 km of lane with no name at all. The municipality's own count for its 40 km² is 699 roads and 255.65 km; the box is fourteen times that area and the map holds lanes the municipality does not list.
+
+*Inference —* the highway department counts traffic on a few dozen kilometres of this; the municipality maintains a few hundred; the rest is the city, and it is on nobody's ledger but the volunteers'. Every number here is a floor.
+
+## How much of the road runs one way (ถนนวิ่งทางเดียวแค่ไหน) — measure
+https://motdang.net/roads/measures/one-way-share/
+
+Kilometres tagged one-way as a share of drivable kilometres: inside the moat 33%, to 3 km 20%, to 5.5 km 16%, to 9 km 14%, beyond 6%. The moat loop, the gate cut-throughs and Ratchadamnoen since 2021 are why the square leads; the dual carriageways of the rings are why the bands are not zero.
+
+*Inference —* one-way is a tool for two opposite jobs. In the square it is the 1948 decision to make a fortification into a roundabout and, since 2021, the decision to give a street back to feet; on the rings it is a median. The number counts both.
+
+## Road bridges over the Ping, counted (ขัวรถข้ามแม่ปิง นับแล้ว) — measure
+https://motdang.net/roads/measures/ping-crossings/
+
+A bridge way that crosses a way named Ping, with the two carriageways of a dual bridge collapsed to one: 23 in the harvest box, from Mae Rim to Saraphi. 1329 bridge ways in all, over the moat, the canals, the railway and the ring roads. Named: Ban Hua Lim - Ban Nong Duea Road; สะพานวัดวังสิงห์คำ-ตำหนัก; ถนนวงแหวนรอบนอก; ถนนสมโภชเชียงใหม่ 700 ปี; ถนนมหิดล; สะพานนวรัฐ; สะพานนครพิงค์; ถนนรัตนโกสินทร์; ถนนซุปเปอร์ไฮเวย์; โชตนา ซอย22; ถนนเลี่ยงเมืองแม่ริม.
+
+*Inference —* the river the founders kept a kilometre away is now crossed every few hundred metres in the centre and twice by the outer ring. The crossings are where the flood of 2024 was measured and where the traffic queues; the two facts are the same fact.
+
+## Sois, counted by name (ซอย นับตามชื่อ) — measure
+https://motdang.net/roads/measures/soi-count/
+
+A way whose name carries ซอย, ซ. or Soi, ways of one name summed: 3,733 names, 811 km. 3,650 carry a number; 8 carry a wat's name. The longest by name: ซอย หมู่บ้านวังตาล 4.1 km, CBP Soi 2 2.6 km, บ้านป่าเดื่อ หมู่ 1 ซอย 3 2.6 km, หนองป่าแสะ ซอย 4 2.2 km, ซอย สายลมชายคลอง 19 2.0 km. The municipality publishes no soi count, so this is the only one on this disk.
+
+*Inference —* the soi is a numbering system, not a naming one: 98 percent of them carry a number and 8 in the whole box carry a wat's name. Thailand's address system was laid over the city in the twentieth century and it replaced names with ordinals; the hom that kept a name kept it by not being numbered, and those are counted on the other side of the ledger, in the 4,757 km of lane with no name at all.
+
+## Wats, zone by zone (วัด ทีละโซน) — measure
+https://motdang.net/roads/measures/wats-and-rings/
+
+Buddhist places of worship on the map, by zone: 44 inside the moat (15.0 per km²), 52 to 3 km, 50 to 5.5, 88 to 9, 1139 beyond; 420 in the box. Traffic signals the same way: 24, 73, 57, 61, 46.
+
+*Inference —* the wat density inside the moat is the reason the UNESCO file counts seven temples, five gates and four bastions in one square. A ring road through it would have been unthinkable, which is why every ring was drawn outside, and why the one thing the 2019 heritage review objected to was a tunnel underneath.
+
+## The busiest count in the province (จุดนับที่รถมากสุดในจังหวัด) — traffic
+https://motdang.net/roads/traffic/aadt-busiest/
+
+The highway department counts traffic at 81 stations in the province and publishes the annual average daily total, motorcycles apart. The Don Chan–Chiang Mai station on Route 1141, Mahidol Road, at km 7 is the largest: 102,499 in 2020, 121,403 in 2025. The provincial traffic subcommittee's April 2026 minutes cite the same station at 120,000. Second is Route 118 at its first half-kilometre out of the city; third and fourth the two Superhighway stations.
+
+## Eighty-one counting stations (สถานีนับรถแปดสิบเอ็ดแห่ง) — traffic
+https://motdang.net/roads/traffic/aadt-stations/
+
+The sum across all Chiang Mai stations, which double-counts a vehicle that passes two of them and is therefore a scale, not a total: 1,057,788 four-wheeled and 277,800 motorcycles in 2020; 967,608 and 272,124 in 2022; 1,074,431 and 276,463 in 2023; 1,095,501 and 282,816 in 2024; 1,133,811 and 291,761 in 2025. The full table, every station with its route, kilometre, heavy-vehicle share and motorcycles, is on the traffic page and in the API.
+
+## The airport, by passengers (สนามบิน นับเป็นผู้โดยสาร) — traffic
+https://motdang.net/roads/traffic/airport-passengers/
+
+Passengers: 11,333,548 in 2019; 8,224,573 in 2023; 9,082,071 in 2024; 9,517,206 in 2025. Movements 79,504, 55,663, 59,493 and 64,124. The operator's 24,000 million baht expansion aims at 20 million a year by 2027 with the terminal from 35,000 to 100,000 m² and 24 to 35 flights an hour. Every one of those passengers leaves by Mahidol Road or the airport junction.
+
+## How far the city spread (เมืองแผ่ไปไกลแค่ไหน) — traffic
+https://motdang.net/roads/traffic/built-up-area/
+
+A Chiang Mai University study of Landsat scenes puts the built-up area at 13 km² in 1952 and 137 km² in 2009. Within the comprehensive-plan boundary, urban land went from 10.6 percent in 1989 to 12.1 in 2000 and 18.3 in 2009, with a model projecting 38 percent in 2010 to 80 percent in 2030; buildings rose a third between 2000 and 2013, a fifth of the growth outside zoned areas. The metropolitan area is put at 1,059,462 people over 3,142 km² in 2024.
+
+*Inference —* every ring on this site was drawn around a city a fraction of this size. The outer ring was fixed in 1989, when the built-up area was a tenth of the plan boundary; by the time it closed the city was at the ring.
+
+## How slow: the TomTom index (ช้าแค่ไหน ดัชนีทอมทอม) — traffic
+https://motdang.net/roads/traffic/congestion-index/
+
+TomTom's 2025 index for Chiang Mai: average congestion 48.7 percent, 2.3 points below 2024; 24 minutes 12 seconds per 10 km; 6.2 km driven in fifteen minutes; morning rush 24:41 and 55.8 percent, evening 29:42 and 82.4 percent at 20.2 km/h; 89 hours lost in the rush hours over the year; the worst day Monday 3 November 2025 at 138 percent at five o'clock; no highways in the sample. Bangkok: 67.9 percent, 22:59 per 10 km, 115 hours lost, evening 126.5 percent. Numbeo's crowd index, 32 contributors: Chiang Mai 115.9 against Bangkok 202.2, an average one-way commute of 13.9 km.
+
+*Inference —* the May trough in the monthly series, 37 percent, is the university out and the smoke season over; the November peak is the high season back. Chiang Mai's congestion is seasonal in a way Bangkok's is not, and the road plans do not say which month they are built for.
+
+## What a litre cost on the day this was built (ลิตรละเท่าไรวันที่สร้างเว็บนี้) — traffic
+https://motdang.net/roads/traffic/fuel-today/
+
+PTT retail on the build date: Gasohol 95 39.94; Gasohol 91 39.57; E20 34.94; E85 30.88; diesel B7 40.69; premium diesel 50.05 baht a litre. No regional differential is published. A number that expires the day after it is printed, kept here because a road page with no price on it is a road page for people who do not pay.
+
+## The motorcycle, counted and not counted (มอเตอร์ไซค์ ที่นับและที่บ่นับ) — traffic
+https://motdang.net/roads/traffic/motorcycle-share/
+
+The highway counts put motorcycles in a separate column, and across the province's stations they run at about a quarter of the four-wheeled figure; on the Hang Dong road at km 7.65 in 2024 it was 16,378 against 41,450, two fifths. Nationally, powered two- and three-wheelers were 21.9 million of 42.3 million registered vehicles in 2021, and 596 vehicles per thousand residents in 2022 of which 52 percent were two-wheelers. Of Chiang Mai's road deaths with a known vehicle, motorcycles were 79 to 89 percent in each year from 2022 to 2025.
+
+*Inference —* the highway department's headline number leaves out the vehicle most people in this city are on. A count that excludes motorcycles describes the road as the department sees it, not as the city rides it.
+
+## The municipality's roads, counted by the municipality (ถนนของเทศบาล นับโดยเทศบาล) — traffic
+https://motdang.net/roads/traffic/municipal-roads/
+
+Chiang Mai municipality, 40.216 km² since 1983 in four wards, reports 699 roads totalling 255.65 km: 469 asphalt at 182.76 km, 216 concrete at 69.69 km, 14 paving-block at 3.20 km. Three national highways run inside it: 11, 121 and 1141. Cables have gone underground on Tha Phae 1,055 m, Chang Klan 700 m and Phra Pokklao 2,000 m. Registered population 137,793 in 2011 and falling each year to 2020; 129,536 in 2018 against 150,537 in 1985. The province had 1,799,019 people in 2024.
+
+## The public-transport share, and the target (สัดส่วนขนส่งสาธารณะ และเป้า) — traffic
+https://motdang.net/roads/traffic/public-transport-share/
+
+The transport ministry's public-transport master plan for the city carries a KPI table: 3.8 percent of trips in 2024, 5.9 in 2025, 7.9 in 2026, 10 in 2027, rising to 20 percent from 2032. Whether the 2024 value is measured or a baseline is not stated. The provincial subcommittee's 2026 minutes model 13 percent, about 130,000 trips and 60,000 riders, on a 15 baht flat fare with 17 electric bus routes, 746 stops, 733 km, 238 buses in 2026 and 146 more in 2032; a 400 m catchment would reach 341,109 people, 45 percent of the study area.
+
+## Road deaths, by province and year (ผู้เสียชีวิตบนถนน รายจังหวัด รายปี) — traffic
+https://motdang.net/roads/traffic/road-deaths/
+
+The disease control department's three-database file, one row per death, filtered to the province of death: 595 in 2022, 616 in 2023, 558 in 2024, 513 in 2025 with that year's file still filling. Against a provincial population of 1,799,019 the 2024 figure is 31 per 100,000; Thailand's rate was 25.4 in 2021 by WHO, down from 45.8 in 2010. In 2024 the deaths were 60 under twenty, 350 aged twenty to fifty-nine, 132 sixty and over; the districts with most were Mueang 140, Mae Rim 80, San Sai 42, Fang 36, Hang Dong 25. The helmet field was empty on every Chiang Mai row.
+
+*Inference —* Mueang district's 140 is a quarter of the province's dead in a district with a fifth of its people, and Mae Rim's 80 is the Route 107 corridor. The file has coordinates for some rows; a map of them is a job this project did not do, and a page that says so is on the site.
+
+## Roads versus vehicles, 1992 to 2003 (ถนนกับรถ 2535 ถึง 2546) — traffic
+https://motdang.net/roads/traffic/roads-versus-vehicles/
+
+A 2005 geography thesis at Chiang Mai University tabulated the city's main-road kilometres against the province's registered vehicles: 36.5 km and 465,659 vehicles in 1992; 49.5 km and 695,172 in 2000; 60.3 km and 933,733 in 2003. The roads grew by two thirds and the vehicles doubled. A current provincial registration figure is not on this disk: the land transport department's table is behind a form this project could not read.
+
+## The seven dangerous days (เจ็ดวันอันตราย) — traffic
+https://motdang.net/roads/traffic/seven-dangerous-days/
+
+The provincial count for Songkran 2023, 11 to 17 April: 63 accidents, 61 injured, 7 deaths, down from 8 the year before, motorcycles most involved; the same week 116,159 visitors and 875.7 million baht of tourism spending. Later provincial figures on this disk are search snippets, not fetched pages: Songkran 2024, 39 accidents, 3 deaths, motorcycles 74 percent; New Year 2024, 62 accidents, 6 deaths, motorcycles 82 percent. National Songkran 2026: 1,242 accidents, 242 deaths, speeding 44 percent, drink 26 percent, motorcycles 68 percent.
+
+## What the air says about the roads (อากาศบอกอะไรเรื่องถนน) — traffic
+https://motdang.net/roads/traffic/smoke-and-traffic/
+
+A 2024 source-apportionment study, seen only in its abstract: in the smoke-haze period biomass burning contributed 59.3 µg/m³ of PM2.5 and traffic 14.6; outside it traffic contributed 27.2 and biomass 2.5, traffic being about 76 percent of the total. Days over the standard at the Yupparaj school station: 43 in 2022, 101 in 2023, 80 in 2024. A 2026 emissions inventory puts the province's biomass-burning PM2.5 at 70,179 tonnes for January to April 2024, a quarter of the north's. In April 2026 the city ranked second worst in the world for a day and disaster zones were declared.
+
+*Inference —* eight months a year the road is the air. The plans on this site are judged on congestion; none of them is costed on breath.
+
+## The red trucks, counted (รถแดง นับแล้ว) — traffic
+https://motdang.net/roads/traffic/songthaew-count/
+
+The cooperative that runs the red songthaew was founded 1978 with 21 routes. Its president's census in May 2024: red 2,100, yellow 823, white 100, green 70 to 80, blue 50 to 60, metered taxis 100, tuk-tuks 100, rental vans 1,000, app-based vehicles 3,000 to 4,000 of which fewer than 200 registered. A charter inside the middle ring is capped at 250 baht, a circular ride at 30. The city bus, RTC, carried 102 passengers a day after the pandemic on three routes at 50 baht, losing about 300,000 baht a month. The provincial subcommittee's April 2026 minutes put the city at about a million trips a day and set a public-transport target of 13 percent with a 15 baht flat fare.
+
+*Inference —* the red truck is losing a third of its fleet a decade to the phone, and the bus that was meant to replace both carries a hundred people a day. The million trips are still happening; they have moved to a vehicle nobody counts.
+
+## แจ่ง chaeng (แจ่ง) — word
+https://motdang.net/roads/words/chaeng/
+
+The word for the four corners of the moat. A songthaew driver navigates the square by its chaeng, not by street names, and so does this site.
+
+## เจียงใหม่ chiang mai (เจียงใหม่) — word
+https://motdang.net/roads/words/chiang-mai-kam-mueang/
+
+The name, in the northern voice. The unaspirated initial is the first thing a listener notices, and the first thing this site's Thai pages do.
+
+## ฮ่อม hom (ฮ่อม) — word
+https://motdang.net/roads/words/hom/
+
+The Lanna word for an alley. Where a Bangkok address says soi, the old city said hom, and a few lanes still carry it in their names. This site uses it for the whole class of lanes between houses, which is where most of the city's road-kilometres are.
+
+## กำแพง kamphaeng (กำแพง) — word
+https://motdang.net/roads/words/kamphaeng/
+
+The wall. In Chiang Mai there are two, and only the earthen one gets a qualifier.
+
+## กาด kat (กาด) — word
+https://motdang.net/roads/words/kat/
+
+The word for a market, and the reason the biggest one in the city and a shopping mall both have kat in their names. Roads here are named after markets more than markets after roads.
+
+## คู khu (คู) — word
+https://motdang.net/roads/words/khu/
+
+The moat, and by extension the roads on its banks. 'Rop khu' is the loop.
+
+## ขัว khua (ขัว) — word
+https://motdang.net/roads/words/khua/
+
+The Lanna word for a bridge, and the one the Iron Bridge is known by. A driver hears saphan on the signs and khua from the passengers.
+
+## ลอด lot (ลอด) — word
+https://motdang.net/roads/words/lot/
+
+The underpass. Chiang Mai chose to go under its junctions rather than over them, seven times on the middle ring alone, and the word is on every green sign.
+
+## ประตู pratu (ประตู) — word
+https://motdang.net/roads/words/pratu/
+
+Shared with standard Thai, but in this city 'pratu' is a place name first: five gates, and everyone knows which one you mean.
+
+## รถแดง rot daeng (รถแดง) — word
+https://motdang.net/roads/words/rot-daeng/
+
+The red pickup with two benches that is the city's bus, taxi and school run. It has no route, only a direction and a fare, which is why it is on a site about roads: it is how most of them are used.
+
+## ซอย soi (ซอย) — word
+https://motdang.net/roads/words/soi/
+
+The Bangkok word and the postal one. Every lane on the map that has a number has it because of this system; the ones that have a name instead are older or prouder.
+
+## ทาง thang (ทาง) — word
+https://motdang.net/roads/words/thang/
+
+The general word for a way, which the highway department uses for everything it builds: thang luang for a national highway, thang lot for an underpass, thang yok radap for an elevated road.
+
+## ถนน thanon (ถนน) — word
+https://motdang.net/roads/words/thanon/
+
+The standard word, used in both registers. A thanon is built; a thang is only gone along.
+
+## เวียง wiang (เวียง) — word
+https://motdang.net/roads/words/wiang/
+
+The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang.
+
+## แยก yaek (แยก) — word
+https://motdang.net/roads/words/yaek/
+
+The junction. Chiang Mai directions run from yaek to yaek, and the names outlive the buildings.
+
+## The walking street, and how a road becomes a floor (ถนนคนเดิน และถนนกลายเป็นพื้นได้อย่างไร) — story
+https://motdang.net/roads/stories/sunday-walking-street/
+
+A pilot called Ten Wonders of Lanna at Tha Phae ran on Sundays from 3 February to 7 April 2002; the municipality took it over weekly from 14 April, 13:00 to 22:00; it moved to Ratchadamnoen on 31 August 2004 when Tha Phae's cables went underground; about 1.5 km, 15:00 to 22:00. The Saturday street on Wua Lai followed.
+
+*Inference —* it is the reverse of every other item on this site: a road taken away from vehicles rather than built for them, and the most-visited kilometre in the province because of it. Ratchadamnoen's one-way order of 2021 extends the same idea to the other six days.
+
+## The day the river came up Tha Phae (วันที่แม่น้ำขึ้นมาถึงท่าแพ) — story
+https://motdang.net/roads/stories/the-day-the-river-came-up-tha-phae/
+
+The Ping's October 2024 flood as a list of roads. The gauge at Nawarat Bridge, P.1, bank level 3.70 m, read 4.93 on 26 September, 5.26 at eleven on the night of 4 October, and 5.30 at noon on the 5th, 1.10 m over the bank, the highest in fifty years by the newspapers and since the early 1970s by others. The irrigation department put the peak flow at 604 cubic metres a second and had it back to 3.70 by the morning of the 7th.
+
+Under water, from the reports: Tha Phae Road from the bridge to the Krung Thai bank; Kaew Nawarat Road from the Nakhon Ping bridge to San Dek junction and the Arcade, for the first time in over fifty years; the Superhighway; the Don Chan and Chiang Kham overpasses; all of Mahidol Road, closed at the Pa Daet bridge U-turn in the first round on 28 September; Chang Klan, closed to small cars; lanes on the middle ring; Warorot and Ton Lamyai markets and the Night Bazaar, more than a kilometre from the river on the west bank; the railway station; Nong Prathip junction; the airport–cultural centre–Hai Ya stretch impassable for small cars by 13:40 on the 5th. Water stood about 2 km east of the river. The university's water centre calibrated 5,000 flood marks to the 5.30 m level afterwards.
+
+*Inference —* the founders built a kilometre from the bank because of exactly this, and the square stayed dry. Everything the twentieth century built on the floodplain between the moat and the river, and across it, went under. The city's busiest road is on the wrong side of a decision made in 1296.
+
+## The monk who built a road in five months (ตนบุญผู้สร้างถนนในห้าเดือน) — story
+https://motdang.net/roads/stories/the-monk-who-built-a-road/
+
+Kruba Srivichai's road to Wat Phra That Doi Suthep, the one road in this catalogue that a congregation built. Ground broken 9 November 1934, Chao Kaew Nawarat cutting the first sod; open to vehicles 30 April 1935; five months and twenty-two days; 11.53 km of earth and laterite; up to 4,000 volunteers a day by one account.
+
+*Inference —* the arithmetic is the story. 11,530 m in 173 days is 67 m of mountain road a day, every day, on a grade that the red trucks still take in low gear. The 700 Years Road, 26 km on the flat with seven underpasses, took twelve years and 10,070 million baht. Neither number shames the other; they measure different things. One is what a city can do when it wants a relic; the other is what it can do when it wants a ring.
+
+His monument stands at the foot of the road at the spot where the first sod was cut, and the drivers wai it on the way up.
+
+## The trees on the Lamphun road (ต้นยางบนถนนลำพูน) — story
+https://motdang.net/roads/stories/the-trees-on-the-lamphun-road/
+
+About a thousand yang-na along the old road south, from the Nawarat Bridge to the provincial line, ordered under Chao Phraya Surasi, Siam's high commissioner for the north. Thai PBS dates the planting 20 October 1882; Thai Wikipedia cites a telegram of 1900. The two dates are recorded and not reconciled.
+
+Infill planting in 1954. A protected-environment zone 40 m each side since 2015. A storm in 2016 brought some down. A royal request not to cut them is on record. The Mae Jo poll of October 2020, 403 people: 54 percent no problem, 61 percent keep them, 4 percent remove them.
+
+*Inference —* the argument against the trees is that branches fall on traffic, and the argument for them is everything else. The traffic is there because the road is there; the road was the main road to Bangkok until 1969, and then it was not. A tree beside a bypassed road is the safest tree in the province. The question the poll did not ask is what the Superhighway did for the trees, and the answer is: everything.
+
+## What a road does to an old city (ถนนทำอะไรกับเมืองเก่า) — story
+https://motdang.net/roads/stories/what-a-road-does-to-an-old-city/
+
+The site's spine. It takes every drivable way OpenStreetMap holds for the city and asks the same questions of the square inside the moat and of each ring outside it: how many intersections per square kilometre, how many lanes end in a dead end, how long a block is, how strongly the streets keep to a grid, how much of the network runs one way, how many wats sit in each zone. The measurements page has the numbers; this page reads them.
+
+**The square is the best-connected neighbourhood in the city, and it is the oldest.** The grid of 1296 was laid gate to gate on the cardinal directions, and seven centuries of infill have kept to it: the orientation measure on the measurements page shows the moat zone closest to a perfect grid of any zone, and the intersection density highest. A lane inside the moat comes out somewhere. Outside, in the rings, it does not: the dead-end share climbs ring by ring, because a hom out there is a shared driveway that stops at the last house.
+
+**Each ring was an edge that became a middle.** The Superhighway of 1969 was a bypass; the 700 Years Road of 2006 was a bypass; Route 121 was a bypass. The city grew past each in ten to fifteen years, and the bypass became a street with traffic lights, which the department then spent a decade digging under. Seven underpasses on ring two; three on ring one; five interchanges under tender on ring three. The pattern is not a failure of planning. It is what a ring road is for, and what it costs later.
+
+**The old city paid in walls.** 1910–15: Chang Moi Gate and its bank removed for a straight road to the river. 1948: the moat roads built and stretches of a registered monument demolished. The square that had been a fortification became a roundabout. Since then the direction has reversed: a 12 m height cap, a walking street from 2002, Ratchadamnoen one-way for pedestrians from 2021, a world-heritage nomination in 2026 whose file flags a tunnel under the old town as a conflict.
+
+**The roads grew by two thirds; the vehicles doubled.** The thesis this rests on counted main-road kilometres from 36.5 to 60.3 between 1992 and 2003 and registered vehicles from 465,659 to 933,733. Mahidol Road, built as a two-lane bypass in 1972, counted 121,403 vehicles a day in 2025. Every road in this catalogue was built to relieve the one before it.
+
+**And the trees are the exception.** The yang-na on the Lamphun road are alive partly because the Superhighway took the Bangkok traffic off them in 1969. One new road did an old one a favour; it is the only case here.
+
+*Inference —* the whole page is inference from counted things, and the counts are printed beside it with the method.
+
+## What this site does not have (สิ่งที่เว็บนี้บ่มี) — story
+https://motdang.net/roads/stories/what-we-did-not-do/
+
+No live traffic. No accident locations by road: nobody publishes them for these roads, so the deaths page is by province and year. No registered-vehicle count for the province: the land transport department's table sits behind a form this project could not read, and the figure on the traffic page is from a 2005 thesis. No year for the moat's one-way system, no length for the earthen wall, no opening years for the airport and Nong Hoi underpasses, no count of sois from the municipality. No bus timetable; the songthaew has none. No motorway that exists.
+
+No photographs of the thing this site is about. Wikimedia Commons has the moat from every angle, all five gates, all four corners and the 1893, 1931 and 1945 maps, and it has almost nothing of the Superhighway, the ring roads, the underpasses, Mahidol Road or the light rail. Searches for each returned zero free files. The old city is photographed as heritage; the roads that carry the city are photographed by nobody.
+
+Everything above is a gap in what was found, not a claim that it does not exist. The disk is a subset of the world.
+
+## Why the moat runs one way (ทำไมรอบคูเมืองวิ่งทางเดียว) — story
+https://motdang.net/roads/stories/why-the-moat-runs-one-way/
+
+The pair of roads the municipality built on the moat's banks in 1948 run as two one-way loops in opposite directions. The year the one-way system began is not on this disk; the fact of it is on Thai Wikipedia and on every windscreen in the city.
+
+*Inference —* a moat 13 m wide with a road on each bank cannot carry two-way traffic on either without a lane of parking going, and the banks are where the city parks. One-way doubled the capacity of both roads for the price of some U-turns at the corners. The corners are the four chaeng, and the U-turn slots there are the busiest fifty metres of road in the old city.
+
+*Inference —* the cost is paid by anyone who does not know the square. A visitor aiming for Tha Phae Gate from the inside and missing the cut through drives to Katam Corner, round the south, up the west, along the north, and arrives 5 km later at the place they could see when they left. The measurements page's one-way share for the moat zone is the number that describes this.
+
+The walkable-district pilot of 2021 made Ratchadamnoen one-way inside the square too, which is the same logic applied for the opposite reason: not to move cars faster but to make room for people.
+
+## Chao Kaew Nawarat (เจ้าแก้วนวรัฐ) — person
+https://motdang.net/roads/people/chao-kaew-nawarat/
+
+Ninth and last ruler of Chiang Mai, 1911–1939. He cut the first sod of the Doi Suthep road in 1934, and the Ping bridge at the foot of Tha Phae Road carries his name: a teak bridge from about 1890, a steel one opened 1923 after the wooden one burned, and the present concrete one opened 26 December 1967.
+
+## Kawila (พระเจ้ากาวิละ) — person
+https://motdang.net/roads/people/kawila/
+
+First ruler of Chiang Mai under Siam. The city had stood nearly empty for two decades after the Burmese wars; he re-entered it in 1796, restored the walls and moat, and added the corner bastions in the form they have now. The gates and corners a driver turns at today are largely his.
+
+## Kruba Srivichai (ครูบาศรีวิชัย) — person
+https://motdang.net/roads/people/kruba-srivichai/
+
+The monk of Lanna, 1878–1938, who organised the road up Doi Suthep. Ground was broken on 9 November 1934, Chao Kaew Nawarat cutting the first sod, and the road opened to vehicles on 30 April 1935: 11.53 km of earth and laterite, by volunteers, as many as 4,000 a day by one account.
+
+*Inference —* it is the only road in this catalogue built by a congregation rather than a department, and it is the one the city is proudest of. His statue stands at its foot and the drivers of the red trucks still wai it on the way up.
+
+## Mangrai (พญามังราย) — person
+https://motdang.net/roads/people/mangrai/
+
+Founder of Chiang Mai, 1296, and of the Lanna kingdom. He had already built Wiang Kum Kam on the river and watched it flood; the new city went on the rise between the mountain and the Ping, a square with a gate in each side and the water led round it.
+
+## The Nimmanhaemin family (ตระกูลนิมมานเหมินท์) — person
+https://motdang.net/roads/people/nimmanhaemin-family/
+
+A Chiang Mai merchant family. Ki and Kim Ho Nimmanhaemin gave land to the government for the university in 1963, and the road on the edge of the gift took the family name. It is often credited to Kraisri Nimmanahaeminda, the scholar and banker of the same family; the road is older than his fame and belongs to his parents' generation.
+
+## Chao Phraya Surasi Wisitsak (เจ้าพระยาสุรสีห์วิสิษฐศักดิ์) — person
+https://motdang.net/roads/people/phraya-surasi/
+
+Siam's high commissioner for the northern circle, Monthon Phayap, in the reign of Inthawichayanon. Under his commission about a thousand yang-na trees were planted along the Chiang Mai–Lamphun road from the Nawarat Bridge to the provincial line, dated 20 October 1882 by one account; a telegram of 1900 in another. He is also credited with the Hang Dong road of 1899, lined with khi-lek trees for the trade to Burma.
+
+## Tim Chotana (นายทิม โชตนา) — person
+https://motdang.net/roads/people/tim-chotana/
+
+A former highway division supervisor. The city stretch of Route 107, from Chang Phueak Gate north, was named Chotana Road after him on 12 December 1950. Nothing else about him is on this disk.
+
+## Arcade bus terminal (สถานีขนส่งอาเขต) — place
+https://motdang.net/roads/places/arcade-bus-terminal/
+
+The intercity bus station on Kaew Nawarat Road, northeast of the river, beside the Superhighway. Terminals 2 and 3 serve the north and the rest of the country. Talk of a new terminal elsewhere turned up nothing this project could name.
+
+## Chiang Mai Airport (ท่าอากาศยานเชียงใหม่) — place
+https://motdang.net/roads/places/chiang-mai-airport/
+
+The airport sits inside the first ring, so close to the old city that Mahidol Road, the southern arc of that ring, had to be threaded past its fence. An upgrade of 24,000 million baht runs from 2025, and a second airport is planned across the provincial line at Ban Thi.
+
+## Chiang Mai railway station (สถานีรถไฟเชียงใหม่) — place
+https://motdang.net/roads/places/chiang-mai-station/
+
+The end of the northern line, east of the river. The first train ran on 1 January 1921 through the Khun Tan tunnel; Tha Phae became the commercial centre in the years after, and most of the surviving heritage houses on that road date from that period. Charoen Mueang Road links the station to the Nawarat Bridge.
+
+## Chiang Mai University (มหาวิทยาลัยเชียงใหม่) — place
+https://motdang.net/roads/places/chiang-mai-university/
+
+The university at the foot of Doi Suthep, opened 1964 on land the Nimmanhaemin family gave to the government in 1963. The road along the gift's edge, linking Suthep Road to Huay Kaew, took the family's name.
+
+## Doi Suthep (ดอยสุเทพ) — place
+https://motdang.net/roads/places/doi-suthep/
+
+The mountain west of the city, 1,676 m, with the temple two-thirds of the way up. Huay Kaew Road and then the monk's road of 1935 climb it; the moat's water comes down from it; and the western ring road runs along its foot on the irrigation canal.
+
+*Inference —* the 2025 plan for an elevated road on Route 121 was argued against partly because it might block the view of this mountain from the plain. A road in this city is judged by whether you can still see the mountain over it.
+
+## Kamphaeng Din, the earthen wall (กำแพงดิน) — place
+https://motdang.net/roads/places/kamphaeng-din/
+
+A semicircular outer rampart of earth, running from Si Phum Corner round the east side and along the south to Ku Hueang Corner, enclosing the trading quarter between the square and the river. No firm date; presumed Mangrai's era. Brick was found under the bank on the southwest stretch. Parts survive beside the Night Bazaar, where Kamphaeng Din Road runs on its line.
+
+*Inference —* the earthen wall is the reason the city is not a square: the streets between Tha Phae and Chang Klan bend, because they follow a curve that has been demolished. The length in kilometres is not on this disk.
+
+## Mae Kha canal (คลองแม่ข่า) — place
+https://motdang.net/roads/places/mae-kha-canal/
+
+A stream of about 31 km that Mangrai counted among the site's seven auspicious features and used as the outer moat, east of the earthen wall. By the 2010s its water was in the worst pollution class. The municipality began a restoration in 2017 with 50 million baht and a master plan for 2018–22; the stretch behind Chang Klan is now a walkway.
+
+## The Ping (แม่น้ำปิง) — place
+https://motdang.net/roads/places/ping-river/
+
+The river east of the old city. Mangrai put the square on the higher ground between Doi Suthep and the Ping rather than on the bank; the bank flooded then and it floods now. Every bridge across it is counted on this site from the map, and the ones with a story have a record.
+
+In October 2024 the gauge at Nawarat Bridge, P.1, read 5.30 m at noon on 5 October, 1.10 m over the bank, 638 cubic metres a second. Tha Phae Road flooded from the bridge to the bank at Krung Thai; the Superhighway, the Don Chan and Chiang Kham overpasses, all of Mahidol Road, Warorot Market, the railway station and Nong Prathip junction went under. The water stood about 2 km east of the river.
+
+## The moat (คูเมือง) — place
+https://motdang.net/roads/places/the-moat/
+
+The water square around the old city: 6.54 km round, about 1.6 by 1.7 km, the north side the longest at 1.67 km. About 13 m wide now, up to 25 m once, 4 m deep at most. Dug at the founding in 1296, deepened and given its corner bastions by later rulers.
+
+About 603 m of the original brick wall survive. The municipality, founded in 1936, began demolishing sections in 1948 to build the roads that now run on both banks. The wall and moat were registered as a national monument in 1935, thirteen years before the demolition began.
+
+*Inference —* every measurement on this site starts from this square. It is the one thing in the city that has not moved in 730 years, so it is the ruler everything else is laid against.
+
+## Wiang Kum Kam (เวียงกุมกาม) — place
+https://motdang.net/roads/places/wiang-kum-kam/
+
+Mangrai's first city on this plain, founded 1286 on the Ping's bank south of the present city and abandoned after floods; the ruins were dug out of the fields of Saraphi from 1984. The middle ring road has an underpass named for it.
+
+*Inference —* it is the argument for the moat square's location in one ruin. A city on the bank drowned; a city a kilometre from the bank is still here.

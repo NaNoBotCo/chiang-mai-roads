@@ -1,0 +1,85 @@
+{
+ "id": "suan-prung-gate",
+ "type": "gate",
+ "names": {
+  "name": "Suan Prung Gate",
+  "th": "ประตูสวนปรุง",
+  "rtgs": "Pratu Suan Prung",
+  "said": "The fifth gate, added later, on the south wall.",
+  "said_th": "ปะตู๋ตี้ห้า เพิ่มตี้หลัง บนกำแพงใต้"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The second gate in the south wall, added under King Sam Fang Kaen in the 1400s, so that the south wall alone has two. The hospital of the same name is outside it.",
+  "story": "*Tradition holds —* the dead left the city through this gate, which is why it was cut into the south wall rather than the auspicious north. The road outside it is still the way to the crematorium."
+ },
+ "text_th": {
+  "what": "ประตูที่สองบนกำแพงด้านใต้ เพิ่มในสมัยพญาสามฝั่งแกนช่วงพุทธศตวรรษที่ 20 กำแพงใต้จึงมีสองประตู โรงพยาบาลชื่อเดียวกันอยู่นอกประตู",
+  "story": "*ตามธรรมเนียม —* ศพออกจากเวียงทางประตูนี้ นี่คือเหตุที่เจาะกำแพงใต้ ไม่ใช่ทิศเหนืออันเป็นมงคล ถนนหน้าประตูยังเป็นทางไปสุสาน"
+ },
+ "geo": {
+  "lat": 18.7809,
+  "lon": 98.9803,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "On the ring.",
+   "rel": "ring"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "tradition"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "suan-prung-gate/suan-prung-gate-201703291143a-p-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291143a P Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/201703291143a_P_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291143a_P_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "City moat of Chiang Mai between Chang Phuak Gate and Sri Phum Corner",
+   "date": "2017-03-29 11:43:03",
+   "primary": true,
+   "sha256": "23fb8d65a72db27909fd1ec7c6b03e93ef24a69cd02da3df8180fa3e6bee4a9c"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "era-lanna-and-burma",
+   "type": "era",
+   "name": "1300s–1700s — Lanna and Burma",
+   "as": "Cut in this era."
+  }
+ ]
+}

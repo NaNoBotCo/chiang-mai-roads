@@ -1,0 +1,1585 @@
+{
+ "type": "traffic",
+ "count": 14,
+ "nodes": [
+  {
+   "id": "aadt-busiest",
+   "type": "traffic",
+   "names": {
+    "name": "The busiest count in the province",
+    "th": "จุดนับที่รถมากสุดในจังหวัด",
+    "said": "Mahidol Road, km 7: 121,403 four-wheeled vehicles a day in 2025, plus 26,366 motorcycles.",
+    "said_th": "ถนนมหิดล กม.7 วันละ 121,403 คันสี่ล้อปี 2568 บวกมอเตอร์ไซค์ 26,366"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "year": "2025"
+   },
+   "text": {
+    "what": "The highway department counts traffic at 81 stations in the province and publishes the annual average daily total, motorcycles apart. The Don Chan–Chiang Mai station on Route 1141, Mahidol Road, at km 7 is the largest: 102,499 in 2020, 121,403 in 2025. The provincial traffic subcommittee's April 2026 minutes cite the same station at 120,000. Second is Route 118 at its first half-kilometre out of the city; third and fourth the two Superhighway stations."
+   },
+   "text_th": {
+    "what": "กรมทางหลวงนับรถที่ 81 สถานีในจังหวัดและเผยแพร่ค่าเฉลี่ยรายวันทั้งปี ไม่รวมจักรยานยนต์ สถานีดอนจั่น–เชียงใหม่บนทางหลวง 1141 ถนนมหิดล กม.7 ใหญ่สุด 102,499 ปี 2563 121,403 ปี 2568 รายงานการประชุมอนุกรรมการจราจรจังหวัดเมษายน 2569 อ้างสถานีเดียวกันที่ 120,000 อันดับสองคือทางหลวง 118 ที่ครึ่งกิโลเมตรแรกออกจากเมือง สามและสี่คือสองสถานีบนซุปเปอร์ไฮเวย์"
+   },
+   "figure": {
+    "value": 121403,
+    "unit": "vehicles a day, motorcycles apart",
+    "unit_th": "คันต่อวัน ไม่รวมจักรยานยนต์",
+    "year": "2025",
+    "source": "s:doh-aadt",
+    "series": [
+     {
+      "label": "2020",
+      "value": 102499
+     },
+     {
+      "label": "2022",
+      "value": 103812
+     },
+     {
+      "label": "2023",
+      "value": 118853
+     },
+     {
+      "label": "2024",
+      "value": 112509
+     },
+     {
+      "label": "2025",
+      "value": 121403
+     }
+    ],
+    "method": "DOH open-data CSVs 2563–2568 BE, filtered to Chiang Mai stations; the station is Route 1141 section 100 at km 7+000.",
+    "method_th": "ไฟล์ CSV เปิดของกรมทางหลวง 2563–2568 กรองสถานีเชียงใหม่ สถานีคือทางหลวง 1141 ตอน 100 กม.7+000",
+    "compare": "Bangkok's busiest counts are several times this; the comparison the page draws is with the road's own past.",
+    "compare_th": "จุดนับที่มากสุดของกรุงเทพฯ สูงกว่านี้หลายเท่า หน้านี้เทียบกับอดีตของถนนเอง"
+   },
+   "kin": [
+    {
+     "to": "mahidol-road",
+     "as": "The road.",
+     "rel": "road"
+    },
+    {
+     "to": "aadt-stations",
+     "as": "All 81 stations.",
+     "rel": "traffic"
+    }
+   ],
+   "sources": [
+    "s:doh-aadt",
+    "s:cm-traffic-minutes-2569"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:doh-aadt"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "mahidol-road",
+     "type": "road",
+     "name": "Mahidol Road",
+     "as": "The count."
+    },
+    {
+     "from": "aadt-stations",
+     "type": "traffic",
+     "name": "Eighty-one counting stations",
+     "as": "The top of the table."
+    }
+   ]
+  },
+  {
+   "id": "aadt-stations",
+   "type": "traffic",
+   "names": {
+    "name": "Eighty-one counting stations",
+    "th": "สถานีนับรถแปดสิบเอ็ดแห่ง",
+    "said": "1,133,811 vehicles a day across every station in 2025, and 291,761 motorcycles: a quarter of the four-wheeled figure.",
+    "said_th": "1,133,811 คันต่อวันรวมทุกสถานีปี 2568 และจักรยานยนต์ 291,761 หนึ่งในสี่ของตัวเลขสี่ล้อ"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2025"
+   },
+   "text": {
+    "what": "The sum across all Chiang Mai stations, which double-counts a vehicle that passes two of them and is therefore a scale, not a total: 1,057,788 four-wheeled and 277,800 motorcycles in 2020; 967,608 and 272,124 in 2022; 1,074,431 and 276,463 in 2023; 1,095,501 and 282,816 in 2024; 1,133,811 and 291,761 in 2025. The full table, every station with its route, kilometre, heavy-vehicle share and motorcycles, is on the traffic page and in the API."
+   },
+   "text_th": {
+    "what": "ผลรวมทุกสถานีเชียงใหม่ ซึ่งนับซ้ำรถที่ผ่านสองสถานี จึงเป็นมาตรวัด ไม่ใช่ยอดรวม สี่ล้อ 1,057,788 และจักรยานยนต์ 277,800 ปี 2563 967,608 และ 272,124 ปี 2565 1,074,431 และ 276,463 ปี 2566 1,095,501 และ 282,816 ปี 2567 1,133,811 และ 291,761 ปี 2568 ตารางเต็ม ทุกสถานีพร้อมทางหลวง กิโลเมตร สัดส่วนรถหนัก และจักรยานยนต์ อยู่บนหน้าจราจรและใน API"
+   },
+   "figure": {
+    "value": 1133811,
+    "unit": "vehicles a day, summed over 81 stations",
+    "unit_th": "คันต่อวัน รวม 81 สถานี",
+    "year": "2025",
+    "source": "s:doh-aadt",
+    "series": [
+     {
+      "label": "2020",
+      "value": 1057788,
+      "note": "79 stations"
+     },
+     {
+      "label": "2022",
+      "value": 967608,
+      "note": "77 stations"
+     },
+     {
+      "label": "2023",
+      "value": 1074431,
+      "note": "77 stations"
+     },
+     {
+      "label": "2024",
+      "value": 1095501,
+      "note": "81 stations"
+     },
+     {
+      "label": "2025",
+      "value": 1133811,
+      "note": "81 stations"
+     }
+    ],
+    "method": "Sum of the AADT column over rows whose district field reads Chiang Mai, per year file. 2021 was not parsed.",
+    "method_th": "ผลรวมคอลัมน์ AADT ของแถวที่ช่องแขวงอ่านว่าเชียงใหม่ ตามไฟล์รายปี ไม่ได้อ่านปี 2564"
+   },
+   "kin": [
+    {
+     "to": "aadt-busiest",
+     "as": "The top of the table.",
+     "rel": "traffic"
+    },
+    {
+     "to": "motorcycle-share",
+     "as": "The motorcycle column.",
+     "rel": "traffic"
+    }
+   ],
+   "sources": [
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:doh-aadt"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "aadt-busiest",
+     "type": "traffic",
+     "name": "The busiest count in the province",
+     "as": "All 81 stations."
+    }
+   ]
+  },
+  {
+   "id": "airport-passengers",
+   "type": "traffic",
+   "names": {
+    "name": "The airport, by passengers",
+    "th": "สนามบิน นับเป็นผู้โดยสาร",
+    "said": "11.3 million in 2019, 8.2 in 2023, 9.5 in 2025; 20 million wanted by 2027.",
+    "said_th": "11.3 ล้านปี 2562 8.2 ปี 2566 9.5 ปี 2568 อยากได้ 20 ล้านภายใน 2570"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "year": "2025"
+   },
+   "text": {
+    "what": "Passengers: 11,333,548 in 2019; 8,224,573 in 2023; 9,082,071 in 2024; 9,517,206 in 2025. Movements 79,504, 55,663, 59,493 and 64,124. The operator's 24,000 million baht expansion aims at 20 million a year by 2027 with the terminal from 35,000 to 100,000 m² and 24 to 35 flights an hour. Every one of those passengers leaves by Mahidol Road or the airport junction."
+   },
+   "text_th": {
+    "what": "ผู้โดยสาร 11,333,548 ปี 2562 8,224,573 ปี 2566 9,082,071 ปี 2567 9,517,206 ปี 2568 เที่ยวบิน 79,504, 55,663, 59,493 และ 64,124 การขยาย 24,000 ล้านบาทของผู้ดำเนินการตั้งเป้า 20 ล้านต่อปีภายใน 2570 อาคารจาก 35,000 เป็น 100,000 ตร.ม. และ 24 เป็น 35 เที่ยวต่อชั่วโมง ผู้โดยสารทุกคนออกทางถนนมหิดลหรือแยกสนามบิน"
+   },
+   "figure": {
+    "value": 9517206,
+    "unit": "passengers, 2025",
+    "unit_th": "ผู้โดยสาร 2568",
+    "year": "2025",
+    "source": "s:wp-cnx-airport",
+    "series": [
+     {
+      "label": "2019",
+      "value": 11333548
+     },
+     {
+      "label": "2023",
+      "value": 8224573
+     },
+     {
+      "label": "2024",
+      "value": 9082071
+     },
+     {
+      "label": "2025",
+      "value": 9517206
+     }
+    ],
+    "method": "AOT figures as tabulated on Wikipedia; the 2025 split is a search snippet.",
+    "method_th": "ตัวเลข ทอท. ตามที่วิกิพีเดียทำตาราง การแยกปี 2568 เป็นข้อความจากผลค้นหา"
+   },
+   "kin": [
+    {
+     "to": "chiang-mai-airport",
+     "as": "The airport.",
+     "rel": "place"
+    },
+    {
+     "to": "mahidol-road",
+     "as": "The way out.",
+     "rel": "road"
+    },
+    {
+     "to": "lanna-airport",
+     "as": "The second one.",
+     "rel": "plan"
+    }
+   ],
+   "sources": [
+    "s:wp-cnx-airport",
+    "s:citylife-aot"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-cnx-airport"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "airport-passengers/airport-passengers-chiang-mai-airport-runway-aerial-view.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Airport runway aerial view.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chiang_Mai_Airport_runway_aerial_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Airport_runway_aerial_view.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Adbar",
+     "credit": "Own work",
+     "alt": "Aerial view of Chiang Mai International Airport's runways and of the southern part of the city. Picture taken from Doi Suthep temple.",
+     "date": "2013-04-28 16:20:01",
+     "primary": true,
+     "sha256": "83b3491fa911b4207b17836ec1693f230482e9b93da565c66e4c6d87e715b27a"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "built-up-area",
+   "type": "traffic",
+   "names": {
+    "name": "How far the city spread",
+    "th": "เมืองแผ่ไปไกลแค่ไหน",
+    "said": "13 km² built up in 1952; 137 km² in 2009. Ten times, in the lifetime of one yang tree.",
+    "said_th": "พื้นที่สิ่งปลูกสร้าง 13 ตร.กม. ปี 2495 137 ตร.กม. ปี 2552 สิบเท่า ในช่วงชีวิตต้นยางต้นเดียว"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2009"
+   },
+   "text": {
+    "what": "A Chiang Mai University study of Landsat scenes puts the built-up area at 13 km² in 1952 and 137 km² in 2009. Within the comprehensive-plan boundary, urban land went from 10.6 percent in 1989 to 12.1 in 2000 and 18.3 in 2009, with a model projecting 38 percent in 2010 to 80 percent in 2030; buildings rose a third between 2000 and 2013, a fifth of the growth outside zoned areas. The metropolitan area is put at 1,059,462 people over 3,142 km² in 2024.",
+    "story": "*Inference —* every ring on this site was drawn around a city a fraction of this size. The outer ring was fixed in 1989, when the built-up area was a tenth of the plan boundary; by the time it closed the city was at the ring."
+   },
+   "text_th": {
+    "what": "การศึกษาของ ม.เชียงใหม่ จากภาพแลนด์แซตให้พื้นที่สิ่งปลูกสร้าง 13 ตร.กม. ปี 2495 และ 137 ตร.กม. ปี 2552 ในเขตผังเมืองรวม พื้นที่เมืองจากร้อยละ 10.6 ปี 2532 เป็น 12.1 ปี 2543 และ 18.3 ปี 2552 แบบจำลองคาดร้อยละ 38 ปี 2553 ถึง 80 ปี 2573 อาคารเพิ่มหนึ่งในสามระหว่าง 2543–2556 หนึ่งในห้าของการเติบโตอยู่นอกเขตผัง เขตมหานครมีคน 1,059,462 บน 3,142 ตร.กม. ปี 2567",
+    "story": "*อนุมาน —* วงแหวนทุกวงบนเว็บนี้วาดรอบเมืองที่เล็กกว่านี้หลายเท่า วงแหวนรอบนอกกำหนดปี 2532 ตอนพื้นที่สิ่งปลูกสร้างเป็นหนึ่งในสิบของเขตผัง พอมันปิดวง เมืองก็มาถึงวงแล้ว"
+   },
+   "figure": {
+    "value": 137,
+    "unit": "km² built up, 2009",
+    "unit_th": "ตร.กม. สิ่งปลูกสร้าง 2552",
+    "year": "2009",
+    "source": "s:sangawongse-2019",
+    "series": [
+     {
+      "label": "1952",
+      "value": 13
+     },
+     {
+      "label": "2009",
+      "value": 137
+     }
+    ],
+    "method": "Abstract figures from a peer-reviewed Landsat study; a second study's 339 km² for 2000 uses a different boundary and is not mixed in.",
+    "method_th": "ตัวเลขจากบทคัดย่อของงานวิจัยแลนด์แซต งานที่สองให้ 339 ตร.กม. ปี 2543 ใช้เขตต่างกันและไม่นำมาปน"
+   },
+   "kin": [
+    {
+     "to": "era-rings-1984-2006",
+     "as": "When the rings were drawn on it.",
+     "rel": "era"
+    },
+    {
+     "to": "ton-yang-road",
+     "as": "The tree.",
+     "rel": "road"
+    }
+   ],
+   "sources": [
+    "s:sangawongse-2019",
+    "s:urban-planning-2017",
+    "s:wp-cm-metro"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:sangawongse-2019"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "built-up-area/built-up-area-chiang-mai-panorama-from-doi-suthep-lookout-2014-08-08.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Panorama from Doi Suthep Lookout (2014-08-08).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chiang_Mai_Panorama_from_Doi_Suthep_Lookout_%282014-08-08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panorama_from_Doi_Suthep_Lookout_%282014-08-08%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Pratyeka",
+     "credit": "Own work",
+     "alt": "A panorama looking east back to the city of Chiang Mai from the lookout half-way up Doi Suthep, a famous mountain to the west of the city.",
+     "date": "2014-08-08 10:25:29",
+     "primary": true,
+     "sha256": "523981043594b01a82d0ca30ca1f9bf2179623d8d89c499d9ae51c100438bdf9"
+    },
+    {
+     "file": "built-up-area/built-up-area-chiangmai-view.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai view.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chiangmai_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_view.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Thaimissions2006 at English Wikipedia",
+     "credit": "Transferred from en.wikipedia to Commons.",
+     "alt": "View from Doi Suthep mountain over Chiang Mai city, northern Thailand",
+     "date": "18 April 2007 (original upload date)",
+     "primary": false,
+     "sha256": "e5a6b14d0bfd38647b4894451c9767a91aeea9ee777e923cd1c4dee68226ba89"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "congestion-index",
+   "type": "traffic",
+   "names": {
+    "name": "How slow: the TomTom index",
+    "th": "ช้าแค่ไหน ดัชนีทอมทอม",
+    "said": "24 minutes 12 seconds for 10 km, 21.6 km/h in the rush, 89 hours a year lost. Bangkok loses 115.",
+    "said_th": "24 นาที 12 วินาทีต่อ 10 กิโล 21.6 กม./ชม. ช่วงเร่งด่วน เสียปีละ 89 ชั่วโมง กรุงเทพฯ เสีย 115"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2025"
+   },
+   "text": {
+    "what": "TomTom's 2025 index for Chiang Mai: average congestion 48.7 percent, 2.3 points below 2024; 24 minutes 12 seconds per 10 km; 6.2 km driven in fifteen minutes; morning rush 24:41 and 55.8 percent, evening 29:42 and 82.4 percent at 20.2 km/h; 89 hours lost in the rush hours over the year; the worst day Monday 3 November 2025 at 138 percent at five o'clock; no highways in the sample. Bangkok: 67.9 percent, 22:59 per 10 km, 115 hours lost, evening 126.5 percent. Numbeo's crowd index, 32 contributors: Chiang Mai 115.9 against Bangkok 202.2, an average one-way commute of 13.9 km.",
+    "story": "*Inference —* the May trough in the monthly series, 37 percent, is the university out and the smoke season over; the November peak is the high season back. Chiang Mai's congestion is seasonal in a way Bangkok's is not, and the road plans do not say which month they are built for."
+   },
+   "text_th": {
+    "what": "ดัชนีทอมทอมปี 2568 สำหรับเชียงใหม่ ความติดขัดเฉลี่ยร้อยละ 48.7 ต่ำกว่า 2567 2.3 จุด 24 นาที 12 วินาทีต่อ 10 กม. ขับได้ 6.2 กม. ในสิบห้านาที เช้าเร่งด่วน 24:41 และร้อยละ 55.8 เย็น 29:42 และร้อยละ 82.4 ที่ 20.2 กม./ชม. เสีย 89 ชั่วโมงในชั่วโมงเร่งด่วนตลอดปี วันแย่สุดจันทร์ 3 พฤศจิกายน 2568 ร้อยละ 138 ตอนห้าโมง ไม่มีทางด่วนในตัวอย่าง กรุงเทพฯ ร้อยละ 67.9 22:59 ต่อ 10 กม. เสีย 115 ชั่วโมง เย็นร้อยละ 126.5 ดัชนีคนช่วยกรอกของนัมบิโอ 32 คน เชียงใหม่ 115.9 ต่อกรุงเทพฯ 202.2 เดินทางเที่ยวเดียวเฉลี่ย 13.9 กม.",
+    "story": "*อนุมาน —* จุดต่ำเดือนพฤษภาคมในชุดรายเดือน ร้อยละ 37 คือมหาวิทยาลัยปิดและหมดฤดูควัน จุดสูงพฤศจิกายนคือนักท่องเที่ยวกลับมา ความติดขัดของเชียงใหม่เป็นไปตามฤดูในแบบที่กรุงเทพฯ บ่เป็น และแผนถนนบ่บอกว่าสร้างเพื่อเดือนไหน"
+   },
+   "figure": {
+    "value": "24:12",
+    "unit": "minutes per 10 km, 2025",
+    "unit_th": "นาทีต่อ 10 กม. 2568",
+    "year": "2025",
+    "source": "s:tomtom-cm",
+    "series": [
+     {
+      "label": "Chiang Mai, congestion",
+      "value": "48.7%",
+      "source": "s:tomtom-cm"
+     },
+     {
+      "label": "Bangkok, congestion",
+      "value": "67.9%",
+      "source": "s:tomtom-bkk"
+     },
+     {
+      "label": "Chiang Mai, hours lost",
+      "value": 89,
+      "source": "s:tomtom-cm"
+     },
+     {
+      "label": "Bangkok, hours lost",
+      "value": 115,
+      "source": "s:tomtom-bkk"
+     }
+    ],
+    "method": "TomTom's city pages, raw HTML parsed; the twelve monthly values for 2025 and 2024 are in the harvest file, with a note that which row is which year is this project's reading.",
+    "method_th": "หน้าเมืองของทอมทอม อ่านจาก HTML ดิบ ค่ารายเดือนสิบสองค่าของ 2568 และ 2567 อยู่ในไฟล์เก็บข้อมูล พร้อมหมายเหตุว่าแถวไหนเป็นปีไหนคือการอ่านของโครงการนี้",
+    "compare": "Bangkok",
+    "compare_th": "กรุงเทพฯ"
+   },
+   "kin": [
+    {
+     "to": "rincome-junction",
+     "as": "The junction the planners name.",
+     "rel": "junction"
+    },
+    {
+     "to": "public-transport-share",
+     "as": "The other side of the same number.",
+     "rel": "traffic"
+    }
+   ],
+   "sources": [
+    "s:tomtom-cm",
+    "s:tomtom-bkk",
+    "s:numbeo-cm"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:tomtom-cm"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "congestion-index/congestion-index-chiangmai-traffic.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai traffic.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chiangmai_traffic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_traffic.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Love Krittaya",
+     "credit": "Own work",
+     "alt": "Traffic on Suthep road in Chiang Mai, Thailand",
+     "date": "2007-09-01 16:49:13",
+     "primary": true,
+     "sha256": "5fbf69e62a455681c1dcf830394d033656871f89c69883d3ef4c03371c0ac5a6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "smoke-and-traffic",
+     "type": "traffic",
+     "name": "What the air says about the roads",
+     "as": "The other seasonal number."
+    }
+   ]
+  },
+  {
+   "id": "fuel-today",
+   "type": "traffic",
+   "names": {
+    "name": "What a litre cost on the day this was built",
+    "th": "ลิตรละเท่าไรวันที่สร้างเว็บนี้",
+    "said": "Gasohol 95 at 39.94 baht, diesel at 40.69, on 21 September 2026.",
+    "said_th": "แก๊สโซฮอล์ 95 ลิตรละ 39.94 ดีเซล 40.69 วันที่ 21 กันยายน 2569"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2026"
+   },
+   "text": {
+    "what": "PTT retail on the build date: Gasohol 95 39.94; Gasohol 91 39.57; E20 34.94; E85 30.88; diesel B7 40.69; premium diesel 50.05 baht a litre. No regional differential is published. A number that expires the day after it is printed, kept here because a road page with no price on it is a road page for people who do not pay."
+   },
+   "text_th": {
+    "what": "ราคาขายปลีก ปตท. วันที่สร้าง แก๊สโซฮอล์ 95 39.94 แก๊สโซฮอล์ 91 39.57 E20 34.94 E85 30.88 ดีเซล B7 40.69 ดีเซลพรีเมียม 50.05 บาทต่อลิตร ไม่มีส่วนต่างรายภาค ตัวเลขที่หมดอายุวันถัดจากวันพิมพ์ เก็บไว้เพราะหน้าถนนที่บ่มีราคาคือหน้าถนนสำหรับคนที่บ่ต้องจ่าย"
+   },
+   "figure": {
+    "value": 39.94,
+    "unit": "baht a litre, Gasohol 95, 2026-09-21",
+    "unit_th": "บาทต่อลิตร แก๊สโซฮอล์ 95 21 ก.ย. 2569",
+    "year": "2026",
+    "source": "s:kapook-gasprice",
+    "series": [
+     {
+      "label": "Gasohol 95",
+      "value": 39.94
+     },
+     {
+      "label": "Gasohol 91",
+      "value": 39.57
+     },
+     {
+      "label": "E20",
+      "value": 34.94
+     },
+     {
+      "label": "E85",
+      "value": 30.88
+     },
+     {
+      "label": "Diesel B7",
+      "value": 40.69
+     },
+     {
+      "label": "Premium diesel",
+      "value": 50.05
+     }
+    ],
+    "method": "One retail price list on one day.",
+    "method_th": "ราคาขายปลีกหนึ่งรายการในหนึ่งวัน"
+   },
+   "kin": [
+    {
+     "to": "route-1",
+     "as": "696 km to Bangkok, at this price.",
+     "rel": "highway"
+    }
+   ],
+   "tags": [
+    "fun"
+   ],
+   "sources": [
+    "s:kapook-gasprice"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:kapook-gasprice"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": []
+  },
+  {
+   "id": "motorcycle-share",
+   "type": "traffic",
+   "names": {
+    "name": "The motorcycle, counted and not counted",
+    "th": "มอเตอร์ไซค์ ที่นับและที่บ่นับ",
+    "said": "A quarter of the count on the highways, half of the vehicles in the country, four fifths of the dead.",
+    "said_th": "หนึ่งในสี่ของการนับบนทางหลวง ครึ่งหนึ่งของรถในประเทศ สี่ในห้าของผู้ตาย"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2025"
+   },
+   "text": {
+    "what": "The highway counts put motorcycles in a separate column, and across the province's stations they run at about a quarter of the four-wheeled figure; on the Hang Dong road at km 7.65 in 2024 it was 16,378 against 41,450, two fifths. Nationally, powered two- and three-wheelers were 21.9 million of 42.3 million registered vehicles in 2021, and 596 vehicles per thousand residents in 2022 of which 52 percent were two-wheelers. Of Chiang Mai's road deaths with a known vehicle, motorcycles were 79 to 89 percent in each year from 2022 to 2025.",
+    "story": "*Inference —* the highway department's headline number leaves out the vehicle most people in this city are on. A count that excludes motorcycles describes the road as the department sees it, not as the city rides it."
+   },
+   "text_th": {
+    "what": "การนับบนทางหลวงแยกจักรยานยนต์ไว้อีกคอลัมน์ และทั่วสถานีของจังหวัดมันอยู่ราวหนึ่งในสี่ของตัวเลขสี่ล้อ บนถนนหางดง กม.7.65 ปี 2567 เป็น 16,378 ต่อ 41,450 สองในห้า ทั้งประเทศ รถสองและสามล้อมีเครื่องยนต์ 21.9 ล้านจาก 42.3 ล้านคันจดทะเบียนปี 2564 และ 596 คันต่อพันคนปี 2565 ร้อยละ 52 เป็นสองล้อ ในผู้เสียชีวิตบนถนนของเชียงใหม่ที่ทราบพาหนะ จักรยานยนต์เป็นร้อยละ 79 ถึง 89 ทุกปีตั้งแต่ 2565 ถึง 2568",
+    "story": "*อนุมาน —* ตัวเลขหลักของกรมทางหลวงตัดพาหนะที่คนส่วนใหญ่ในเมืองนี้ขี่ออกไป การนับที่ไม่รวมจักรยานยนต์บรรยายถนนอย่างที่กรมเห็น ไม่ใช่อย่างที่เมืองขี่"
+   },
+   "figure": {
+    "value": "26%",
+    "unit": "motorcycles as a share of the four-wheeled count, all stations, 2025",
+    "unit_th": "จักรยานยนต์เทียบการนับสี่ล้อ ทุกสถานี 2568",
+    "year": "2025",
+    "source": "s:doh-aadt",
+    "series": [
+     {
+      "label": "on the highways, share of 4-wheel count",
+      "value": "26%",
+      "year": "2025",
+      "source": "s:doh-aadt"
+     },
+     {
+      "label": "of registered vehicles, Thailand",
+      "value": "52%",
+      "year": "2021",
+      "source": "s:who-tha-2023"
+     },
+     {
+      "label": "of Chiang Mai road deaths with a known vehicle",
+      "value": "83%",
+      "year": "2024",
+      "source": "s:ddc-rtddi"
+     }
+    ],
+    "method": "Three sources, three denominators, printed side by side rather than averaged.",
+    "method_th": "สามแหล่ง สามตัวหาร พิมพ์เคียงกันแทนการเฉลี่ย"
+   },
+   "kin": [
+    {
+     "to": "road-deaths",
+     "as": "The deaths.",
+     "rel": "traffic"
+    },
+    {
+     "to": "rot-daeng",
+     "as": "The other vehicle.",
+     "rel": "word"
+    }
+   ],
+   "sources": [
+    "s:doh-aadt",
+    "s:who-tha-2023",
+    "s:ato-thailand-2025",
+    "s:ddc-rtddi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:doh-aadt"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "motorcycle-share/motorcycle-share-chiang-mai-seven-eleven.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Seven-Eleven.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chiang_Mai_Seven-Eleven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Seven-Eleven.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Douglas Perkins",
+     "credit": "Own work",
+     "alt": "A Seven-Eleven store front complete with motorcycles.  Chiang Mai, Thailand.",
+     "date": "2014-12-26 12:27:06",
+     "primary": true,
+     "sha256": "0eabda8b131566b223afd559e866d40495d53d5515f5822c6a67e833e20bce6f"
+    },
+    {
+     "file": "motorcycle-share/motorcycle-share-wat-lok-molee-motorcycles.jpg",
+     "source": "commons",
+     "title": "File:Wat Lok Molee-Motorcycles.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wat_Lok_Molee-Motorcycles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWat_Lok_Molee-Motorcycles.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Immanuelle",
+     "credit": "Own work",
+     "alt": "September 2024 in Chiang Mai",
+     "date": "2024-09-01 13:53:52",
+     "primary": false,
+     "sha256": "0462aeda1f0148cd70f91c6447feaf1b05ab1bcb3802fe8d4fa8c695cb16a3a3"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "aadt-stations",
+     "type": "traffic",
+     "name": "Eighty-one counting stations",
+     "as": "The motorcycle column."
+    },
+    {
+     "from": "road-deaths",
+     "type": "traffic",
+     "name": "Road deaths, by province and year",
+     "as": "Who dies."
+    }
+   ]
+  },
+  {
+   "id": "municipal-roads",
+   "type": "traffic",
+   "names": {
+    "name": "The municipality's roads, counted by the municipality",
+    "th": "ถนนของเทศบาล นับโดยเทศบาล",
+    "said": "699 roads, 255.65 km, in 40.2 km²; and three national highways pass through.",
+    "said_th": "699 สาย 255.65 กม. ใน 40.2 ตร.กม. และทางหลวงแผ่นดินสามสายผ่าน"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2023"
+   },
+   "text": {
+    "what": "Chiang Mai municipality, 40.216 km² since 1983 in four wards, reports 699 roads totalling 255.65 km: 469 asphalt at 182.76 km, 216 concrete at 69.69 km, 14 paving-block at 3.20 km. Three national highways run inside it: 11, 121 and 1141. Cables have gone underground on Tha Phae 1,055 m, Chang Klan 700 m and Phra Pokklao 2,000 m. Registered population 137,793 in 2011 and falling each year to 2020; 129,536 in 2018 against 150,537 in 1985. The province had 1,799,019 people in 2024."
+   },
+   "text_th": {
+    "what": "เทศบาลนครเชียงใหม่ 40.216 ตร.กม. ตั้งแต่ 2526 สี่แขวง รายงานถนน 699 สาย รวม 255.65 กม. ลาดยาง 469 สาย 182.76 กม. คอนกรีต 216 สาย 69.69 กม. บล็อกคอนกรีต 14 สาย 3.20 กม. ทางหลวงแผ่นดินสามสายอยู่ในเขต 11, 121 และ 1141 สายไฟลงดินแล้วที่ท่าแพ 1,055 เมตร ช้างคลาน 700 เมตร พระปกเกล้า 2,000 เมตร ประชากรทะเบียน 137,793 ปี 2554 ลดทุกปีถึง 2563 129,536 ปี 2561 เทียบ 150,537 ปี 2528 จังหวัดมี 1,799,019 คนปี 2567"
+   },
+   "figure": {
+    "value": 255.65,
+    "unit": "km of municipal road",
+    "unit_th": "กม. ถนนเทศบาล",
+    "year": "2023",
+    "source": "s:cmcity-pdf-2023",
+    "series": [
+     {
+      "label": "asphalt",
+      "value": 182.76,
+      "note": "469 roads"
+     },
+     {
+      "label": "concrete",
+      "value": 69.69,
+      "note": "216 roads"
+     },
+     {
+      "label": "paving block",
+      "value": 3.2,
+      "note": "14 roads"
+     }
+    ],
+    "method": "The municipality's own basic-data PDF, 2023. The site's own OpenStreetMap count for the same box is on the measurements page and is larger, because it includes lanes the municipality does not list.",
+    "method_th": "PDF ข้อมูลพื้นฐานของเทศบาลเอง 2566 การนับจาก OpenStreetMap ของเว็บนี้สำหรับกรอบเดียวกันอยู่บนหน้าการวัดและมากกว่า เพราะรวมฮ่อมที่เทศบาลไม่ได้ขึ้นบัญชี",
+    "compare": "the OpenStreetMap kilometres on the measurements page",
+    "compare_th": "กิโลเมตรจาก OpenStreetMap บนหน้าการวัด"
+   },
+   "kin": [
+    {
+     "to": "network-km",
+     "as": "The map's count.",
+     "rel": "measure"
+    },
+    {
+     "to": "moat-loop",
+     "as": "Municipal roads.",
+     "rel": "ring"
+    }
+   ],
+   "sources": [
+    "s:cmcity-pdf-2023",
+    "s:thwp-cm-municipality",
+    "s:wp-cm-province"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cmcity-pdf-2023"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "municipal-roads/municipal-roads-chiang-mai-chayiaphoom-road-0001.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai - Chayiaphoom Road - 0001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Chiang_Mai_-_Chayiaphoom_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chayiaphoom_Road_-_0001.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Stefan Fussan",
+     "credit": "Own work - My images are also available on MyPortfolio",
+     "alt": "Chayiaphoom Road, Chiang Mai, Thailand",
+     "date": "2014-05-23",
+     "primary": true,
+     "sha256": "da8f36cac4d4a928fc864b1ea99759bb54cef50768030f6bcdee45d94a3a84b7"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "network-km",
+     "type": "measure",
+     "name": "The network, in kilometres",
+     "as": "The municipality's own count."
+    }
+   ]
+  },
+  {
+   "id": "public-transport-share",
+   "type": "traffic",
+   "names": {
+    "name": "The public-transport share, and the target",
+    "th": "สัดส่วนขนส่งสาธารณะ และเป้า",
+    "said": "3.8 percent of trips in 2024 by the ministry's own table; 13 percent by the province's plan; 20 percent by 2032.",
+    "said_th": "ร้อยละ 3.8 ของการเดินทางปี 2567 ตามตารางของกระทรวงเอง ร้อยละ 13 ตามแผนจังหวัด ร้อยละ 20 ภายใน 2575"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2024"
+   },
+   "text": {
+    "what": "The transport ministry's public-transport master plan for the city carries a KPI table: 3.8 percent of trips in 2024, 5.9 in 2025, 7.9 in 2026, 10 in 2027, rising to 20 percent from 2032. Whether the 2024 value is measured or a baseline is not stated. The provincial subcommittee's 2026 minutes model 13 percent, about 130,000 trips and 60,000 riders, on a 15 baht flat fare with 17 electric bus routes, 746 stops, 733 km, 238 buses in 2026 and 146 more in 2032; a 400 m catchment would reach 341,109 people, 45 percent of the study area."
+   },
+   "text_th": {
+    "what": "แผนแม่บทขนส่งสาธารณะของกระทรวงคมนาคมสำหรับเมืองมีตารางตัวชี้วัด ร้อยละ 3.8 ของการเดินทางปี 2567 5.9 ปี 2568 7.9 ปี 2569 10 ปี 2570 ขึ้นถึงร้อยละ 20 ตั้งแต่ 2575 ค่าปี 2567 เป็นค่าวัดหรือค่าฐานไม่ระบุ รายงานอนุกรรมการจังหวัด 2569 จำลองร้อยละ 13 ราว 130,000 เที่ยวและผู้ใช้ 60,000 คน ด้วยค่าโดยสาร 15 บาทตลอดสาย รถเมล์ไฟฟ้า 17 สาย 746 ป้าย 733 กม. 238 คันปี 2569 และอีก 146 ปี 2575 รัศมี 400 เมตรจากป้ายครอบคลุม 341,109 คน ร้อยละ 45 ของพื้นที่ศึกษา"
+   },
+   "figure": {
+    "value": "3.8%",
+    "unit": "public-transport share of trips, 2024, as tabled",
+    "unit_th": "สัดส่วนขนส่งสาธารณะของการเดินทาง 2567 ตามตาราง",
+    "year": "2024",
+    "source": "s:otp-ch8",
+    "series": [
+     {
+      "label": "2024",
+      "value": "3.8%"
+     },
+     {
+      "label": "2025",
+      "value": "5.9%"
+     },
+     {
+      "label": "2026",
+      "value": "7.9%"
+     },
+     {
+      "label": "2027",
+      "value": "10%"
+     },
+     {
+      "label": "2032 on",
+      "value": "20%"
+     }
+    ],
+    "method": "OTP chapter 8 KPI table; the series is a target path, and the page says so.",
+    "method_th": "ตารางตัวชี้วัดบทที่ 8 ของ สนข. ชุดข้อมูลคือเส้นทางเป้าหมาย และหน้านี้บอกไว้"
+   },
+   "kin": [
+    {
+     "to": "songthaew-count",
+     "as": "The fleet that exists.",
+     "rel": "traffic"
+    },
+    {
+     "to": "lrt-red-line",
+     "as": "The plan.",
+     "rel": "plan"
+    }
+   ],
+   "sources": [
+    "s:otp-ch8",
+    "s:cm-traffic-minutes-2569"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:otp-ch8"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "public-transport-share/public-transport-share-green-bus-chiang-mai-bus.jpg",
+     "source": "commons",
+     "title": "File:GREEN BUS Chiang Mai Bus.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/GREEN_BUS_Chiang_Mai_Bus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AGREEN_BUS_Chiang_Mai_Bus.jpg",
+     "license": "CC0 1.0",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "author": "Khxwklong",
+     "credit": "Own work",
+     "alt": "GREEN BUS Chiang Mai Bus",
+     "date": "2024-04-03 15:32:27",
+     "primary": true,
+     "sha256": "1161066d3aa3bcb3747260b99443c0993dc5a825d91e848727f88ac68d4ad1c1"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "lrt-red-line",
+     "type": "plan",
+     "name": "Chiang Mai light rail, the Red Line",
+     "as": "The share it is meant to lift."
+    },
+    {
+     "from": "congestion-index",
+     "type": "traffic",
+     "name": "How slow: the TomTom index",
+     "as": "The other side of the same number."
+    },
+    {
+     "from": "songthaew-count",
+     "type": "traffic",
+     "name": "The red trucks, counted",
+     "as": "The target."
+    }
+   ]
+  },
+  {
+   "id": "road-deaths",
+   "type": "traffic",
+   "names": {
+    "name": "Road deaths, by province and year",
+    "th": "ผู้เสียชีวิตบนถนน รายจังหวัด รายปี",
+    "said": "558 in 2024, 31 per 100,000, and four in five of them on a motorcycle.",
+    "said_th": "558 คนปี 2567 31 ต่อแสน และสี่ในห้าอยู่บนมอเตอร์ไซค์"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2024"
+   },
+   "text": {
+    "what": "The disease control department's three-database file, one row per death, filtered to the province of death: 595 in 2022, 616 in 2023, 558 in 2024, 513 in 2025 with that year's file still filling. Against a provincial population of 1,799,019 the 2024 figure is 31 per 100,000; Thailand's rate was 25.4 in 2021 by WHO, down from 45.8 in 2010. In 2024 the deaths were 60 under twenty, 350 aged twenty to fifty-nine, 132 sixty and over; the districts with most were Mueang 140, Mae Rim 80, San Sai 42, Fang 36, Hang Dong 25. The helmet field was empty on every Chiang Mai row.",
+    "story": "*Inference —* Mueang district's 140 is a quarter of the province's dead in a district with a fifth of its people, and Mae Rim's 80 is the Route 107 corridor. The file has coordinates for some rows; a map of them is a job this project did not do, and a page that says so is on the site."
+   },
+   "text_th": {
+    "what": "ไฟล์สามฐานของกรมควบคุมโรค หนึ่งแถวต่อหนึ่งการตาย กรองตามจังหวัดที่เสียชีวิต 595 ปี 2565 616 ปี 2566 558 ปี 2567 513 ปี 2568 ที่ไฟล์ปีนั้นยังเติมอยู่ เทียบประชากรจังหวัด 1,799,019 ตัวเลขปี 2567 คือ 31 ต่อแสน อัตราของประเทศไทย 25.4 ปี 2564 ตามองค์การอนามัยโลก ลดจาก 45.8 ปี 2553 ปี 2567 ผู้ตายอายุต่ำกว่ายี่สิบ 60 คน ยี่สิบถึงห้าสิบเก้า 350 หกสิบขึ้นไป 132 อำเภอที่มากสุด เมือง 140 แม่ริม 80 สันทราย 42 ฝาง 36 หางดง 25 ช่องหมวกกันน็อกว่างทุกแถวของเชียงใหม่",
+    "story": "*อนุมาน —* 140 ของอำเภอเมืองคือหนึ่งในสี่ของผู้ตายทั้งจังหวัดในอำเภอที่มีคนหนึ่งในห้า และ 80 ของแม่ริมคือแนวทางหลวง 107 ไฟล์มีพิกัดบางแถว แผนที่ของมันคืองานที่โครงการนี้บ่ได้ทำ และหน้าที่บอกอย่างนั้นอยู่บนเว็บ"
+   },
+   "figure": {
+    "value": 558,
+    "unit": "deaths in the province, 2024",
+    "unit_th": "ผู้เสียชีวิตในจังหวัด 2567",
+    "year": "2024",
+    "source": "s:ddc-rtddi",
+    "series": [
+     {
+      "label": "2022",
+      "value": 595
+     },
+     {
+      "label": "2023",
+      "value": 616
+     },
+     {
+      "label": "2024",
+      "value": 558
+     },
+     {
+      "label": "2025",
+      "value": 513,
+      "note": "file still filling as of May 2026"
+     }
+    ],
+    "method": "Rows of the DDC three-database CSV whose province-of-death field contains เชียงใหม่. Motorcycle share is of rows with a known vehicle. Rate uses the DOPA 2024 population.",
+    "method_th": "แถวใน CSV สามฐานของกรมควบคุมโรคที่ช่องจังหวัดที่เสียชีวิตมีคำว่าเชียงใหม่ สัดส่วนจักรยานยนต์คิดจากแถวที่ทราบพาหนะ อัตราใช้ประชากร ปค. 2567",
+    "compare": "Thailand 25.4 per 100,000 in 2021, WHO estimate; about 31 deaths per 1,000 road-km nationally.",
+    "compare_th": "ประเทศไทย 25.4 ต่อแสนปี 2564 ตามองค์การอนามัยโลก ราว 31 ศพต่อ 1,000 กม.ถนนทั้งประเทศ"
+   },
+   "kin": [
+    {
+     "to": "motorcycle-share",
+     "as": "Who dies.",
+     "rel": "traffic"
+    },
+    {
+     "to": "seven-dangerous-days",
+     "as": "The holidays.",
+     "rel": "traffic"
+    },
+    {
+     "to": "what-we-did-not-do",
+     "as": "No locations by road.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:ddc-rtddi",
+    "s:who-tha-2023",
+    "s:ato-thailand-2025",
+    "s:nation-40050817",
+    "s:wp-cm-province"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:ddc-rtddi"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "road-deaths/road-deaths-2014-thai-traffic-police-fines-01.jpg",
+     "source": "commons",
+     "title": "File:2014 Thai traffic police fines 01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2014_Thai_traffic_police_fines_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A2014_Thai_traffic_police_fines_01.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "Fines for traffic offences posted outside the traffic police station in Chiang Mai",
+     "date": "2014-05-07 09:48:40",
+     "primary": true,
+     "sha256": "170dd103b7bbe33d0c4bc40361f3ac093229cd22bd9ebe494202319a106e3296"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "motorcycle-share",
+     "type": "traffic",
+     "name": "The motorcycle, counted and not counted",
+     "as": "The deaths."
+    },
+    {
+     "from": "seven-dangerous-days",
+     "type": "traffic",
+     "name": "The seven dangerous days",
+     "as": "The year round."
+    },
+    {
+     "from": "what-we-did-not-do",
+     "type": "story",
+     "name": "What this site does not have",
+     "as": "By province, not by road."
+    }
+   ]
+  },
+  {
+   "id": "roads-versus-vehicles",
+   "type": "traffic",
+   "names": {
+    "name": "Roads versus vehicles, 1992 to 2003",
+    "th": "ถนนกับรถ 2535 ถึง 2546",
+    "said": "Main roads 36.5 to 60.3 km. Registered vehicles 465,659 to 933,733.",
+    "said_th": "ถนนหลัก 36.5 เป็น 60.3 กม. รถจดทะเบียน 465,659 เป็น 933,733"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2003"
+   },
+   "text": {
+    "what": "A 2005 geography thesis at Chiang Mai University tabulated the city's main-road kilometres against the province's registered vehicles: 36.5 km and 465,659 vehicles in 1992; 49.5 km and 695,172 in 2000; 60.3 km and 933,733 in 2003. The roads grew by two thirds and the vehicles doubled. A current provincial registration figure is not on this disk: the land transport department's table is behind a form this project could not read."
+   },
+   "text_th": {
+    "what": "วิทยานิพนธ์ภูมิศาสตร์ ม.เชียงใหม่ ปี 2548 ทำตารางกิโลเมตรถนนหลักของเมืองเทียบรถจดทะเบียนของจังหวัด 36.5 กม. และ 465,659 คันปี 2535 49.5 กม. และ 695,172 ปี 2543 60.3 กม. และ 933,733 ปี 2546 ถนนโตสองในสาม รถโตสองเท่า ตัวเลขทะเบียนจังหวัดปัจจุบันบ่มีในแผ่นนี้ ตารางของกรมการขนส่งอยู่หลังฟอร์มที่โครงการนี้อ่านบ่ได้"
+   },
+   "figure": {
+    "value": 933733,
+    "unit": "registered vehicles, Chiang Mai province, 2003",
+    "unit_th": "รถจดทะเบียน จังหวัดเชียงใหม่ 2546",
+    "year": "2003",
+    "source": "s:cmu-thesis-2548",
+    "series": [
+     {
+      "label": "1992 roads km",
+      "value": 36.5
+     },
+     {
+      "label": "2000 roads km",
+      "value": 49.5
+     },
+     {
+      "label": "2003 roads km",
+      "value": 60.3
+     },
+     {
+      "label": "1992 vehicles",
+      "value": 465659
+     },
+     {
+      "label": "2000 vehicles",
+      "value": 695172
+     },
+     {
+      "label": "2003 vehicles",
+      "value": 933733
+     }
+    ],
+    "method": "Two series from one table in the thesis; the page draws them as two indexed lines.",
+    "method_th": "สองชุดจากตารางเดียวในวิทยานิพนธ์ หน้านี้วาดเป็นเส้นดัชนีสองเส้น"
+   },
+   "kin": [
+    {
+     "to": "era-rings-1984-2006",
+     "as": "The decade.",
+     "rel": "era"
+    },
+    {
+     "to": "what-a-road-does-to-an-old-city",
+     "as": "Where the number is used.",
+     "rel": "story"
+    },
+    {
+     "to": "what-we-did-not-do",
+     "as": "No current registration figure.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:cmu-thesis-2548"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cmu-thesis-2548"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "kin_in": [
+    {
+     "from": "era-rings-1984-2006",
+     "type": "era",
+     "name": "1984–2006 — the rings",
+     "as": "The number."
+    },
+    {
+     "from": "what-a-road-does-to-an-old-city",
+     "type": "story",
+     "name": "What a road does to an old city",
+     "as": "The thesis number."
+    }
+   ]
+  },
+  {
+   "id": "seven-dangerous-days",
+   "type": "traffic",
+   "names": {
+    "name": "The seven dangerous days",
+    "th": "เจ็ดวันอันตราย",
+    "said": "Songkran 2023 in the province: 63 crashes, 61 hurt, 7 dead. National Songkran 2026: 242 dead.",
+    "said_th": "สงกรานต์ 2566 ในจังหวัด ชน 63 เจ็บ 61 ตาย 7 สงกรานต์ 2569 ทั้งประเทศ ตาย 242"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2023"
+   },
+   "text": {
+    "what": "The provincial count for Songkran 2023, 11 to 17 April: 63 accidents, 61 injured, 7 deaths, down from 8 the year before, motorcycles most involved; the same week 116,159 visitors and 875.7 million baht of tourism spending. Later provincial figures on this disk are search snippets, not fetched pages: Songkran 2024, 39 accidents, 3 deaths, motorcycles 74 percent; New Year 2024, 62 accidents, 6 deaths, motorcycles 82 percent. National Songkran 2026: 1,242 accidents, 242 deaths, speeding 44 percent, drink 26 percent, motorcycles 68 percent."
+   },
+   "text_th": {
+    "what": "ตัวเลขจังหวัดสงกรานต์ 2566 11–17 เมษายน อุบัติเหตุ 63 บาดเจ็บ 61 เสียชีวิต 7 ลดจาก 8 ปีก่อน จักรยานยนต์เกี่ยวข้องมากสุด สัปดาห์เดียวกันมีผู้มาเยือน 116,159 คนและใช้จ่าย 875.7 ล้านบาท ตัวเลขจังหวัดปีหลังในแผ่นนี้เป็นข้อความจากผลค้นหา ไม่ใช่หน้าที่เปิดได้ สงกรานต์ 2567 อุบัติเหตุ 39 ตาย 3 จักรยานยนต์ร้อยละ 74 ปีใหม่ 2567 อุบัติเหตุ 62 ตาย 6 จักรยานยนต์ร้อยละ 82 สงกรานต์ 2569 ทั้งประเทศ อุบัติเหตุ 1,242 ตาย 242 ขับเร็วร้อยละ 44 เมาร้อยละ 26 จักรยานยนต์ร้อยละ 68"
+   },
+   "figure": {
+    "value": 7,
+    "unit": "deaths in the province, Songkran 2023",
+    "unit_th": "ผู้เสียชีวิตในจังหวัด สงกรานต์ 2566",
+    "year": "2023",
+    "source": "s:thaipost-361601",
+    "series": [
+     {
+      "label": "Songkran 2022",
+      "value": 8,
+      "source": "s:thaipost-361601"
+     },
+     {
+      "label": "Songkran 2023",
+      "value": 7,
+      "source": "s:thaipost-361601"
+     },
+     {
+      "label": "Songkran 2024",
+      "value": 3,
+      "note": "search snippet, not a fetched page"
+     },
+     {
+      "label": "New Year 2024",
+      "value": 6,
+      "note": "search snippet, not a fetched page"
+     }
+    ],
+    "method": "Provincial press release via Thai Post for 2023; later years marked as unfetched.",
+    "method_th": "ข่าวแจกจังหวัดผ่านไทยโพสต์สำหรับ 2566 ปีหลังระบุว่าไม่ได้เปิดหน้า"
+   },
+   "kin": [
+    {
+     "to": "road-deaths",
+     "as": "The year round.",
+     "rel": "traffic"
+    }
+   ],
+   "sources": [
+    "s:thaipost-361601",
+    "s:ddc-rtddi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thaipost-361601"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "seven-dangerous-days/seven-dangerous-days-chiang-mai-thailand-songkran-festival-2017-06.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Songkran-Festival-2017-06.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Chiang-Mai_Thailand_Songkran-Festival-2017-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Songkran-Festival-2017-06.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: Songkran Festival 2017.",
+     "date": "2017-04-14",
+     "primary": true,
+     "sha256": "cba409d159a7edb27274d8360c20ea5e7be2fa908f8ffccb7e4aea14ca6ebc13"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "road-deaths",
+     "type": "traffic",
+     "name": "Road deaths, by province and year",
+     "as": "The holidays."
+    }
+   ]
+  },
+  {
+   "id": "smoke-and-traffic",
+   "type": "traffic",
+   "names": {
+    "name": "What the air says about the roads",
+    "th": "อากาศบอกอะไรเรื่องถนน",
+    "said": "In the haze, burning is four times the traffic. Out of it, traffic is three quarters of what you breathe.",
+    "said_th": "ในฤดูควัน การเผาเป็นสี่เท่าของจราจร นอกฤดู จราจรเป็นสามในสี่ของสิ่งที่หายใจ"
+   },
+   "region": [
+    "province"
+   ],
+   "facets": {
+    "year": "2024"
+   },
+   "text": {
+    "what": "A 2024 source-apportionment study, seen only in its abstract: in the smoke-haze period biomass burning contributed 59.3 µg/m³ of PM2.5 and traffic 14.6; outside it traffic contributed 27.2 and biomass 2.5, traffic being about 76 percent of the total. Days over the standard at the Yupparaj school station: 43 in 2022, 101 in 2023, 80 in 2024. A 2026 emissions inventory puts the province's biomass-burning PM2.5 at 70,179 tonnes for January to April 2024, a quarter of the north's. In April 2026 the city ranked second worst in the world for a day and disaster zones were declared.",
+    "story": "*Inference —* eight months a year the road is the air. The plans on this site are judged on congestion; none of them is costed on breath."
+   },
+   "text_th": {
+    "what": "งานแบ่งแหล่งกำเนิดปี 2567 เห็นเพียงบทคัดย่อ ในฤดูหมอกควัน การเผาชีวมวลให้ PM2.5 59.3 ไมโครกรัมต่อลูกบาศก์เมตร จราจร 14.6 นอกฤดู จราจรให้ 27.2 ชีวมวล 2.5 จราจรราวร้อยละ 76 ของทั้งหมด วันเกินมาตรฐานที่สถานีโรงเรียนยุพราช 43 ปี 2565 101 ปี 2566 80 ปี 2567 บัญชีการปล่อยปี 2569 ให้ PM2.5 จากการเผาชีวมวลของจังหวัด 70,179 ตัน มกราคมถึงเมษายน 2567 หนึ่งในสี่ของภาคเหนือ เมษายน 2569 เมืองอยู่อันดับสองของโลกในวันหนึ่งและประกาศเขตภัยพิบัติ",
+    "story": "*อนุมาน —* แปดเดือนต่อปี ถนนคืออากาศ แผนบนเว็บนี้ถูกตัดสินด้วยความติดขัด บ่มีแผนไหนคิดราคาด้วยลมหายใจ"
+   },
+   "figure": {
+    "value": "76%",
+    "unit": "traffic's share of PM2.5 outside the haze season, one study",
+    "unit_th": "สัดส่วนจราจรใน PM2.5 นอกฤดูควัน งานวิจัยเดียว",
+    "year": "2024",
+    "source": "s:atmos-env-2024",
+    "series": [
+     {
+      "label": "haze season: burning µg/m³",
+      "value": 59.3
+     },
+     {
+      "label": "haze season: traffic µg/m³",
+      "value": 14.6
+     },
+     {
+      "label": "outside: traffic µg/m³",
+      "value": 27.2
+     },
+     {
+      "label": "outside: burning µg/m³",
+      "value": 2.5
+     }
+    ],
+    "method": "Abstract only; the full paper was not fetched. Marked as such.",
+    "method_th": "บทคัดย่อเท่านั้น ไม่ได้เปิดฉบับเต็ม ระบุไว้"
+   },
+   "kin": [
+    {
+     "to": "congestion-index",
+     "as": "The other seasonal number.",
+     "rel": "traffic"
+    }
+   ],
+   "sources": [
+    "s:atmos-env-2024",
+    "s:prachatai-11115",
+    "s:toxics-2026",
+    "s:wp-2026-smog",
+    "s:iqair-cm"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:atmos-env-2024"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "links": [
+    {
+     "label": "The Mae Hong Son Loop — the air page, 15,050 point-days of PM2.5 by month",
+     "url": "https://motdang.net/loop/air/"
+    }
+   ],
+   "images": [
+    {
+     "file": "smoke-and-traffic/smoke-and-traffic-chiang-mai-pano-2010-0128.jpg",
+     "source": "commons",
+     "title": "File:Chiang mai pano 2010 0128.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Chiang_mai_pano_2010_0128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_mai_pano_2010_0128.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "Panorama of the city of Chiang Mai, part of the surrounding valley and the mountains east of the city of Chiang Mai. The photo was made from the viewpoint halfway up the road towards Wat Phrathat Doi ",
+     "date": "2010-01-28",
+     "primary": true,
+     "sha256": "bfa7949df2c61c9594f4f9ee00c86e6c76e0d3cfd03eb964e7334f732508e5e5"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "songthaew-count",
+   "type": "traffic",
+   "names": {
+    "name": "The red trucks, counted",
+    "th": "รถแดง นับแล้ว",
+    "said": "2,800 in 2017, 2,465 in 2018, about 2,100 in 2024; app cars 3,000 to 4,000, of which under 200 are registered.",
+    "said_th": "2,800 ปี 2560 2,465 ปี 2561 ราว 2,100 ปี 2567 รถแอป 3,000 ถึง 4,000 จดทะเบียนไม่ถึง 200"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "year": "2024"
+   },
+   "text": {
+    "what": "The cooperative that runs the red songthaew was founded 1978 with 21 routes. Its president's census in May 2024: red 2,100, yellow 823, white 100, green 70 to 80, blue 50 to 60, metered taxis 100, tuk-tuks 100, rental vans 1,000, app-based vehicles 3,000 to 4,000 of which fewer than 200 registered. A charter inside the middle ring is capped at 250 baht, a circular ride at 30. The city bus, RTC, carried 102 passengers a day after the pandemic on three routes at 50 baht, losing about 300,000 baht a month. The provincial subcommittee's April 2026 minutes put the city at about a million trips a day and set a public-transport target of 13 percent with a 15 baht flat fare.",
+    "story": "*Inference —* the red truck is losing a third of its fleet a decade to the phone, and the bus that was meant to replace both carries a hundred people a day. The million trips are still happening; they have moved to a vehicle nobody counts."
+   },
+   "text_th": {
+    "what": "สหกรณ์ที่เดินรถแดงตั้งปี 2521 มี 21 เส้นทาง สำมะโนของประธานเดือนพฤษภาคม 2567 แดง 2,100 เหลือง 823 ขาว 100 เขียว 70–80 น้ำเงิน 50–60 แท็กซี่มิเตอร์ 100 ตุ๊กตุ๊ก 100 รถตู้เช่า 1,000 รถแอป 3,000–4,000 จดทะเบียนไม่ถึง 200 เหมาในวงแหวนรอบกลางเพดาน 250 บาท วิ่งวนรอบ 30 บาท รถเมล์เมือง RTC รับผู้โดยสารวันละ 102 คนหลังโควิดบนสามสาย 50 บาท ขาดทุนราวเดือนละ 300,000 รายงานอนุกรรมการจังหวัดเมษายน 2569 ให้เมืองมีการเดินทางราววันละหนึ่งล้านเที่ยว และตั้งเป้าขนส่งสาธารณะร้อยละ 13 ด้วยค่าโดยสาร 15 บาทตลอดสาย",
+    "story": "*อนุมาน —* รถแดงเสียหนึ่งในสามของกองรถต่อทศวรรษให้โทรศัพท์ และรถเมล์ที่ตั้งใจแทนทั้งสองรับคนวันละร้อยคน การเดินทางล้านเที่ยวยังเกิดอยู่ มันย้ายไปพาหนะที่บ่มีใครนับ"
+   },
+   "figure": {
+    "value": 2100,
+    "unit": "red songthaew, May 2024",
+    "unit_th": "รถแดง พฤษภาคม 2567",
+    "year": "2024",
+    "source": "s:tcij-13641",
+    "series": [
+     {
+      "label": "2017",
+      "value": 2800,
+      "source": "s:prachatai-11232"
+     },
+     {
+      "label": "2018",
+      "value": 2465,
+      "source": "s:prachatai-11232"
+     },
+     {
+      "label": "2024",
+      "value": 2100,
+      "source": "s:tcij-13641"
+     }
+    ],
+    "method": "Counts as given by the cooperative and reported by Prachatai and TCIJ; not a registry.",
+    "method_th": "ตัวเลขตามที่สหกรณ์ให้และประชาไทกับ TCIJ รายงาน ไม่ใช่ทะเบียน"
+   },
+   "kin": [
+    {
+     "to": "rot-daeng",
+     "as": "The word.",
+     "rel": "word"
+    },
+    {
+     "to": "public-transport-share",
+     "as": "The target.",
+     "rel": "traffic"
+    },
+    {
+     "to": "lrt-red-line",
+     "as": "The rail that would join them.",
+     "rel": "plan"
+    }
+   ],
+   "sources": [
+    "s:prachatai-11232",
+    "s:tcij-13641",
+    "s:prachatai-11234",
+    "s:momentum-rtc",
+    "s:cm-traffic-minutes-2569"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:prachatai-11232"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "inference"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "songthaew-count/songthaew-count-chiang-mai-thailand-taxis-at-arcade-bus-station-01.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Taxis-at-Arcade-Bus-Station-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chiang-Mai_Thailand_Taxis-at-Arcade-Bus-Station-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Taxis-at-Arcade-Bus-Station-01.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: Tour taxis, waiting at the Arcade bus terminal",
+     "date": "2009-11-20",
+     "primary": true,
+     "sha256": "151c7ec1002147535c3f219e4cc2ce6e8d288cad0515df96fb52c338ddfd3ed9"
+    },
+    {
+     "file": "songthaew-count/songthaew-count-red-car-chiang-mai-2.jpg",
+     "source": "commons",
+     "title": "File:Red Car Chiang Mai (2).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Red_Car_Chiang_Mai_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARed_Car_Chiang_Mai_%282%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Patiparn.Nice2002bkk",
+     "credit": "Own work",
+     "alt": "Red Car Chiang Mai",
+     "date": "2022-04-10 13:02:18",
+     "primary": false,
+     "sha256": "4b3f72f9323b86507a14458b234fa90244ad77dc34e5f37cc8cf4df86cd66f7c"
+    },
+    {
+     "file": "songthaew-count/songthaew-count-rot-daeng-in-downtown-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Rot Daeng in downtown Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rot_Daeng_in_downtown_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARot_Daeng_in_downtown_Chiang_Mai.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Manop",
+     "credit": "Own work",
+     "alt": "การจราจรในเมืองเชียงใหม่",
+     "date": "2008-07-26",
+     "primary": false,
+     "sha256": "d3d47acacf7bf6839d4866c7146473d458262d4772c1469189187dbde807adfd"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "public-transport-share",
+     "type": "traffic",
+     "name": "The public-transport share, and the target",
+     "as": "The fleet that exists."
+    },
+    {
+     "from": "rot-daeng",
+     "type": "word",
+     "name": "รถแดง rot daeng",
+     "as": "How many, counted."
+    }
+   ]
+  }
+ ]
+}

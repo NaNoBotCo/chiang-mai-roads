@@ -1,0 +1,164 @@
+{
+ "id": "tha-phae-road",
+ "type": "road",
+ "names": {
+  "name": "Tha Phae Road",
+  "th": "ถนนท่าแพ",
+  "rtgs": "Thanon Tha Phae",
+  "said": "One kilometre from the river to the gate, on the line the founders drew.",
+  "said_th": "หนึ่งกิโลจากแม่น้ำเถิงปะตู๋ บนเส้นตี้คนสร้างเมืองขีดไว้"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "mangrai",
+  "km": 1.0
+ },
+ "text": {
+  "what": "From the Nawarat Bridge past Wat Upakut to Tha Phae Gate, about a kilometre, on the east–west axis laid out at the founding. The land outside the gate was Ban Chiang Rueak, a trading village.",
+  "story": "Photographs of 1877 show raft-style wooden houses along it; by 2001 one was left. In 1889–90 Chinese merchants from the east bank put up masonry shophouses; the railway's arrival in 1921 made it the commercial street, and most of the surviving heritage houses date from then. After 1962 came commercial blocks of every height. The cables went underground in 2004, which is when the walking street moved off it to Ratchadamnoen.\n\nIn October 2024 the Ping came over the bank and the road flooded from the bridge to the Krung Thai bank.\n\n*Inference —* Tha Phae is the one street in the city whose whole biography is on record, and it reads as a list of things arriving from the east: the river trade, the Chinese, the train, the water."
+ },
+ "text_th": {
+  "what": "จากสะพานนวรัฐผ่านวัดอุปคุตถึงประตูท่าแพ ราวหนึ่งกิโลเมตร บนแกนตะวันออก–ตะวันตกที่วางไว้ตอนสร้างเมือง ที่ดินหน้าประตูคือบ้านเชียงเรือก หมู่บ้านค้าขาย",
+  "story": "รูปถ่ายปี 2420 เห็นเฮือนแปไม้แบบแพเรียงอยู่ ถึงปี 2544 เหลือหลังเดียว ปี 2432–33 พ่อค้าจีนจากฝั่งตะวันออกสร้างบ้านตึก รถไฟมาถึงปี 2464 ทำให้เป็นถนนการค้า และเฮือนเก่าที่เหลือส่วนใหญ่มาจากยุคนั้น หลังปี 2505 มีตึกพาณิชย์ทุกความสูง สายไฟลงดินปี 2547 ซึ่งเป็นตอนที่ถนนคนเดินย้ายไปราชดำเนิน\n\nตุลาคม 2567 น้ำปิงล้นตลิ่งและถนนจมจากสะพานถึงธนาคารกรุงไทย\n\n*อนุมาน —* ท่าแพเป็นถนนสายเดียวในเมืองที่ประวัติทั้งชีวิตอยู่ในบันทึก และมันอ่านเหมือนรายการของสิ่งที่มาจากทิศตะวันออก การค้าทางน้ำ คนจีน รถไฟ น้ำ"
+ },
+ "road": {
+  "km": 1.0,
+  "km_source": "s:thwp-tha-phae-road",
+  "from": "Nawarat Bridge",
+  "from_th": "สะพานนวรัฐ",
+  "to": "Tha Phae Gate",
+  "to_th": "ประตูท่าแพ",
+  "osm_names": [
+   "ถนนท่าแพ",
+   "Tha Phae Road",
+   "Thapae Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.7875,
+  "lon": 98.9985,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "tha-phae-gate",
+   "as": "Its head.",
+   "rel": "gate"
+  },
+  {
+   "to": "nawarat-bridge",
+   "as": "Its foot.",
+   "rel": "bridge"
+  },
+  {
+   "to": "chiang-mai-station",
+   "as": "What made it the commercial street.",
+   "rel": "place"
+  },
+  {
+   "to": "sunday-walking-street",
+   "as": "Began here in 2002.",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "flood",
+  "market"
+ ],
+ "sources": [
+  "s:thwp-tha-phae-road",
+  "s:cmcity-8198",
+  "s:bkkbiz-1147937"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-tha-phae-road"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "tha-phae-road/tha-phae-road-chiang-mai-city-streets.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai City Streets.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Chiang_Mai_City_Streets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Streets.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "author": "Caspar",
+   "credit": "Own work",
+   "alt": "View of Tapae Road with part of Wat Mahawan, Chiang Mai",
+   "date": "2006-07-22",
+   "primary": true,
+   "sha256": "988eb646954d03c22ee474776d09d275f756c2c523e47a7fd4a5a9345e578d2b"
+  },
+  {
+   "file": "tha-phae-road/tha-phae-road-thapaewalkingstreet1.jpg",
+   "source": "commons",
+   "title": "File:ThaPaeWalkingStreet1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/ThaPaeWalkingStreet1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThaPaeWalkingStreet1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "LannaPhoto",
+   "credit": "Own work",
+   "alt": "At the east of Chiang Mai city there is a two-layer city wall. There is Ta Pae Road connected with the Ping River to the city passing the external layer of the Ta Pae city gate at Saen Farng Temple di",
+   "date": "2013-09-15 17:30:53",
+   "primary": false,
+   "sha256": "4e8b15f94db64844b4ddf62e9271732ba34c070491aae2d99b3b69d591e39992"
+  },
+  {
+   "file": "tha-phae-road/tha-phae-road-2497.jpg",
+   "source": "commons",
+   "title": "File:ถนนท่าแพเมื่อ ๕๐ ปีก่อน (2497) อุทัยและพูนทรัพย์ สนธิ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD_%E0%B9%95%E0%B9%90_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99_%282497%29_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD_%E0%B9%95%E0%B9%90_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99_%282497%29_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "อุทัยและพูนทรัพย์ สนธิ (Uthai &amp; Phunsap Sonthi)",
+   "credit": "This file was derived from:  สมุดภาพโบราณวัตถุสถาน และทัศนีภาพเชียงใหม่-ลำพูน.pdf",
+   "alt": "Tha Phae Road 50 years ago (published in a book circa 1954), meaning this image dated circa 1904",
+   "date": "1904",
+   "primary": false,
+   "sha256": "28b4640895c509d7f13295212a33ae06a92425b06a10118462241d51853e2fde"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "tha-phae-gate",
+   "type": "gate",
+   "name": "Tha Phae Gate",
+   "as": "The road it names."
+  },
+  {
+   "from": "nawarat-bridge",
+   "type": "bridge",
+   "name": "Nawarat Bridge",
+   "as": "What it carries."
+  },
+  {
+   "from": "the-day-the-river-came-up-tha-phae",
+   "type": "story",
+   "name": "The day the river came up Tha Phae",
+   "as": "Under water."
+  },
+  {
+   "from": "chiang-mai-station",
+   "type": "place",
+   "name": "Chiang Mai railway station",
+   "as": "What the train did to it."
+  }
+ ]
+}

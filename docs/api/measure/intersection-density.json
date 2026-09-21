@@ -1,0 +1,117 @@
+{
+ "id": "intersection-density",
+ "type": "measure",
+ "names": {
+  "name": "Intersections per square kilometre",
+  "th": "ทางแยกต่อตารางกิโลเมตร",
+  "said": "135 inside the moat. 58 at the outer ring.",
+  "said_th": "135 ในเวียง 58 ที่วงแหวนรอบนอก"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "Nodes where three or more drivable ways meet, per square kilometre of zone: inside the moat 135; to 3 km 82; 3 to 5.5 km 78; 5.5 to 9 km 58; beyond 31. Road density runs the same way: 24.4 km of road per km² in the square, 11.6 at the outer ring.",
+  "story": "*Inference —* this is the measure planners use for walkability, and it says the most walkable square kilometre in the province is the one that is seven hundred years old. Every ring built since has produced a city with a third to a half the choices per kilometre."
+ },
+ "text_th": {
+  "what": "จุดที่เส้นทางรถวิ่งได้สามเส้นขึ้นไปพบกัน ต่อตารางกิโลเมตรของโซน ในคู 135 ถึง 3 กม. 82 3 ถึง 5.5 กม. 78 5.5 ถึง 9 กม. 58 เกินนั้น 31 ความหนาแน่นถนนไปทางเดียวกัน 24.4 กม.ถนนต่อตร.กม. ในสี่เหลี่ยม 11.6 ที่วงแหวนรอบนอก",
+  "story": "*อนุมาน —* นี่คือมาตรที่นักวางผังใช้วัดการเดินได้ และมันบอกว่าตารางกิโลเมตรที่เดินได้ดีสุดในจังหวัดคืออันที่อายุเจ็ดร้อยปี วงแหวนทุกวงที่สร้างตั้งแต่นั้นให้เมืองที่มีทางเลือกต่อกิโลเมตรหนึ่งในสามถึงครึ่ง"
+ },
+ "figure": {
+  "value": 134.8,
+  "unit": "intersections per km² inside the moat",
+  "unit_th": "ทางแยกต่อตร.กม. ในเวียง",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "inside the moat",
+    "label_th": "ในเวียง",
+    "value": 134.8
+   },
+   {
+    "label": "moat to 3 km",
+    "label_th": "นอกคูเมืองถึง 3 กม.",
+    "value": 82.0
+   },
+   {
+    "label": "3 to 5.5 km",
+    "label_th": "3 ถึง 5.5 กม.",
+    "value": 77.9
+   },
+   {
+    "label": "5.5 to 9 km",
+    "label_th": "5.5 ถึง 9 กม.",
+    "value": 57.9
+   },
+   {
+    "label": "past 9 km",
+    "label_th": "เกิน 9 กม.",
+    "value": 31.0
+   }
+  ],
+  "method": "Degree≥3 nodes on the drivable network minus service lanes, divided by zone area; the moat area is the square, ring areas are annuli less the square.",
+  "method_th": "จุดดีกรี ≥3 บนโครงข่ายรถวิ่งได้ไม่รวมทางบริการ หารด้วยพื้นที่โซน พื้นที่คูคือสี่เหลี่ยม พื้นที่วงคือวงแหวนหักสี่เหลี่ยม"
+ },
+ "kin": [
+  {
+   "to": "dead-ends",
+   "as": "The other half.",
+   "rel": "measure"
+  },
+  {
+   "to": "grid-in-the-moat",
+   "as": "The shape of the same streets.",
+   "rel": "measure"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "block-length",
+   "type": "measure",
+   "name": "How far between intersections",
+   "as": "The count this is the inverse of."
+  },
+  {
+   "from": "dead-ends",
+   "type": "measure",
+   "name": "Dead ends, zone by zone",
+   "as": "The other half of the same count."
+  },
+  {
+   "from": "what-a-road-does-to-an-old-city",
+   "type": "story",
+   "name": "What a road does to an old city",
+   "as": "The density number."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "soi-numbering",
+ "type": "lane",
+ "names": {
+  "name": "How a soi gets its number",
+  "th": "เลขซอยมาจากไหน",
+  "rtgs": "lek soi",
+  "said": "Odd on one side, even on the other, counted from the head of the road.",
+  "said_th": "คี่ฝั่งหนึ่ง คู่อีกฝั่ง นับจากหัวถนน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "text": {
+  "what": "A soi branches from a main road and is numbered along it, even numbers on one side and odd on the other, counting from the road's start; a lane off a soi is a trok or a sub-number. Named sois often carry a landowner's name. The main road's start is a decision someone made once, which is why Nimmanhaemin's numbers run from the Huay Kaew end."
+ },
+ "text_th": {
+  "what": "ซอยแยกจากถนนหลักและได้เลขตามถนนนั้น เลขคู่ฝั่งหนึ่ง เลขคี่อีกฝั่ง นับจากต้นถนน ทางแยกจากซอยเป็นตรอกหรือเลขย่อย ซอยที่มีชื่อมักเป็นชื่อเจ้าของที่ดิน ต้นถนนคือการตัดสินใจที่ใครสักคนทำครั้งเดียว นี่คือเหตุที่เลขนิมมานเหมินท์นับจากฝั่งห้วยแก้ว"
+ },
+ "kin": [
+  {
+   "to": "soi",
+   "as": "The word.",
+   "rel": "word"
+  },
+  {
+   "to": "nimman-sois",
+   "as": "The worked example.",
+   "rel": "lane"
+  }
+ ],
+ "sources": [
+  "s:thwp-soi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-soi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "hom-the-lane",
+   "type": "lane",
+   "name": "The hom",
+   "as": "How they are numbered."
+  },
+  {
+   "from": "nimman-sois",
+   "type": "lane",
+   "name": "The Nimman sois",
+   "as": "The rule."
+  },
+  {
+   "from": "soi-count",
+   "type": "measure",
+   "name": "Sois, counted by name",
+   "as": "The rule."
+  },
+  {
+   "from": "soi",
+   "type": "word",
+   "name": "ซอย soi",
+   "as": "How the numbers work."
+  }
+ ]
+}

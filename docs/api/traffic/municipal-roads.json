@@ -1,0 +1,107 @@
+{
+ "id": "municipal-roads",
+ "type": "traffic",
+ "names": {
+  "name": "The municipality's roads, counted by the municipality",
+  "th": "ถนนของเทศบาล นับโดยเทศบาล",
+  "said": "699 roads, 255.65 km, in 40.2 km²; and three national highways pass through.",
+  "said_th": "699 สาย 255.65 กม. ใน 40.2 ตร.กม. และทางหลวงแผ่นดินสามสายผ่าน"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2023"
+ },
+ "text": {
+  "what": "Chiang Mai municipality, 40.216 km² since 1983 in four wards, reports 699 roads totalling 255.65 km: 469 asphalt at 182.76 km, 216 concrete at 69.69 km, 14 paving-block at 3.20 km. Three national highways run inside it: 11, 121 and 1141. Cables have gone underground on Tha Phae 1,055 m, Chang Klan 700 m and Phra Pokklao 2,000 m. Registered population 137,793 in 2011 and falling each year to 2020; 129,536 in 2018 against 150,537 in 1985. The province had 1,799,019 people in 2024."
+ },
+ "text_th": {
+  "what": "เทศบาลนครเชียงใหม่ 40.216 ตร.กม. ตั้งแต่ 2526 สี่แขวง รายงานถนน 699 สาย รวม 255.65 กม. ลาดยาง 469 สาย 182.76 กม. คอนกรีต 216 สาย 69.69 กม. บล็อกคอนกรีต 14 สาย 3.20 กม. ทางหลวงแผ่นดินสามสายอยู่ในเขต 11, 121 และ 1141 สายไฟลงดินแล้วที่ท่าแพ 1,055 เมตร ช้างคลาน 700 เมตร พระปกเกล้า 2,000 เมตร ประชากรทะเบียน 137,793 ปี 2554 ลดทุกปีถึง 2563 129,536 ปี 2561 เทียบ 150,537 ปี 2528 จังหวัดมี 1,799,019 คนปี 2567"
+ },
+ "figure": {
+  "value": 255.65,
+  "unit": "km of municipal road",
+  "unit_th": "กม. ถนนเทศบาล",
+  "year": "2023",
+  "source": "s:cmcity-pdf-2023",
+  "series": [
+   {
+    "label": "asphalt",
+    "value": 182.76,
+    "note": "469 roads"
+   },
+   {
+    "label": "concrete",
+    "value": 69.69,
+    "note": "216 roads"
+   },
+   {
+    "label": "paving block",
+    "value": 3.2,
+    "note": "14 roads"
+   }
+  ],
+  "method": "The municipality's own basic-data PDF, 2023. The site's own OpenStreetMap count for the same box is on the measurements page and is larger, because it includes lanes the municipality does not list.",
+  "method_th": "PDF ข้อมูลพื้นฐานของเทศบาลเอง 2566 การนับจาก OpenStreetMap ของเว็บนี้สำหรับกรอบเดียวกันอยู่บนหน้าการวัดและมากกว่า เพราะรวมฮ่อมที่เทศบาลไม่ได้ขึ้นบัญชี",
+  "compare": "the OpenStreetMap kilometres on the measurements page",
+  "compare_th": "กิโลเมตรจาก OpenStreetMap บนหน้าการวัด"
+ },
+ "kin": [
+  {
+   "to": "network-km",
+   "as": "The map's count.",
+   "rel": "measure"
+  },
+  {
+   "to": "moat-loop",
+   "as": "Municipal roads.",
+   "rel": "ring"
+  }
+ ],
+ "sources": [
+  "s:cmcity-pdf-2023",
+  "s:thwp-cm-municipality",
+  "s:wp-cm-province"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:cmcity-pdf-2023"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "municipal-roads/municipal-roads-chiang-mai-chayiaphoom-road-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Chayiaphoom Road - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Chiang_Mai_-_Chayiaphoom_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chayiaphoom_Road_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Chayiaphoom Road, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": true,
+   "sha256": "da8f36cac4d4a928fc864b1ea99759bb54cef50768030f6bcdee45d94a3a84b7"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "network-km",
+   "type": "measure",
+   "name": "The network, in kilometres",
+   "as": "The municipality's own count."
+  }
+ ]
+}

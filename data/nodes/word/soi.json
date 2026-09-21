@@ -64,5 +64,37 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "soi/soi-ban-nanuea-soi-2-street-01.jpg",
+   "source": "commons",
+   "title": "File:Ban Nanuea Soi 2 (street) 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ban_Nanuea_Soi_2_%28street%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABan_Nanuea_Soi_2_%28street%29_01.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "This is Arthur Morganar (RDR2-THR)",
+   "credit": "Own work",
+   "alt": "Ban Nanuea Soi 2 This is the local street from Thailand. IMG20240923183042.",
+   "date": "2024-09-23 18:30:39",
+   "primary": true,
+   "sha256": "0fe7e8fd32271e4c14a70cad985fc90cc5e9f49253aba49e0ebfb1512b711b9b"
+  },
+  {
+   "file": "soi/soi-chiang-mai-moonmuang-road-soi-7-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Moonmuang Road Soi 7 - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chiang_Mai_-_Moonmuang_Road_Soi_7_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Moonmuang_Road_Soi_7_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Moonmuang Road Soi 7, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": false,
+   "sha256": "187d85f46fa7500f9204abb98ea32217e82965d800fb428108e2c950da0fddf0"
+  }
+ ]
 }

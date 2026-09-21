@@ -1,0 +1,98 @@
+{
+ "id": "chang-moi-road",
+ "type": "road",
+ "names": {
+  "name": "Chang Moi Road",
+  "th": "ถนนช้างม่อย",
+  "rtgs": "Thanon Chang Moi",
+  "said": "A gate was removed so this road could run straight to the river.",
+  "said_th": "ปะตู๋ถูกฮื้อเปื้อหื้อถนนนี้ไปตรงเถิงแม่น้ำ"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam"
+ },
+ "text": {
+  "what": "From the northeast of the wall, beside Wichayanon Road, to the Ping. Between 1910 and 1915 the outer gate and earth bank were demolished and the inner wall pierced so that Ratchawithi Road inside the moat could continue straight along it. Assessed land value in 2016–19 was 180,000 baht a square wa, the fourth highest street in the city."
+ },
+ "text_th": {
+  "what": "จากด้านตะวันออกเฉียงเหนือของกำแพง ข้างถนนวิชยานนท์ ถึงแม่ปิง ระหว่างปี 2453–2458 ประตูชั้นนอกและคันดินถูกรื้อ และกำแพงชั้นในถูกเจาะ เพื่อให้ถนนราชวิถีในเวียงวิ่งตรงต่อมาได้ ราคาประเมินปี 2559–62 ตารางวาละ 180,000 บาท สูงเป็นอันดับสี่ของเมือง"
+ },
+ "road": {
+  "from": "Chang Moi junction",
+  "from_th": "แยกช้างม่อย",
+  "to": "Ping River",
+  "to_th": "แม่น้ำปิง",
+  "opened": "1910–15",
+  "osm_names": [
+   "ถนนช้างม่อย",
+   "Chang Moi Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.793,
+  "lon": 99.0,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "chang-moi-gate",
+   "as": "What was demolished for it.",
+   "rel": "gate"
+  },
+  {
+   "to": "kat",
+   "as": "Kad Luang is at its end.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "market"
+ ],
+ "sources": [
+  "s:thwp-chang-moi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-chang-moi"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chang-moi-road/chang-moi-road-chiang-mai-chang-moi-kao-road-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Chang Moi Kao Road - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Chang Moi Kao Road, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": true,
+   "sha256": "3a345770c791d095b1930c497b0044a826bbfb9031b73933c8ece3142aa9869a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chang-moi-gate",
+   "type": "gate",
+   "name": "Chang Moi Gate",
+   "as": "The road it was removed for."
+  }
+ ]
+}

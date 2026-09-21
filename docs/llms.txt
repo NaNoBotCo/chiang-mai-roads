@@ -1,0 +1,72 @@
+# Roads of Chiang Mai
+
+> The square of 1296, four rings around it, 6,934 km of road between, and what each one did to the city. Counted from the map, dated from the record.
+
+Canonical: https://motdang.net/roads/ · Alternate: https://nanobotco.github.io/chiang-mai-roads/ · Thai: https://motdang.net/roads/th/
+Records: 136 across 15 types, CC BY 4.0. API: https://motdang.net/roads/api/
+Network: 52,389 OpenStreetMap ways, 8,054.7 km in the city box, measured by zone at https://motdang.net/roads/old-city/ and https://motdang.net/roads/api/measures.json
+Traffic: 81 highway counting stations at https://motdang.net/roads/traffic/ and https://motdang.net/roads/api/aadt.json
+
+## Pages
+- Roads: https://motdang.net/roads/
+- The map: https://motdang.net/roads/map/
+- Rings: https://motdang.net/roads/rings/
+- Old city: https://motdang.net/roads/old-city/
+- Highways out: https://motdang.net/roads/highways/
+- Timeline: https://motdang.net/roads/timeline/
+- Plans: https://motdang.net/roads/plans/
+- Traffic: https://motdang.net/roads/traffic/
+- Numbers: https://motdang.net/roads/numbers/
+- Words: https://motdang.net/roads/words/
+- Stories: https://motdang.net/roads/stories/
+- Which road are you: https://motdang.net/roads/quiz/
+
+## Records by type
+- Roads (13): https://motdang.net/roads/roads/
+- Rings (5): https://motdang.net/roads/rings/
+- Lanes and alleys (3): https://motdang.net/roads/alleys/
+- Gates and corners (10): https://motdang.net/roads/gates/
+- Junctions (9): https://motdang.net/roads/junctions/
+- Bridges (4): https://motdang.net/roads/bridges/
+- Highways out (11): https://motdang.net/roads/highways/
+- Plans (10): https://motdang.net/roads/plans/
+- Eras (8): https://motdang.net/roads/eras/
+- Measurements (10): https://motdang.net/roads/measures/
+- Traffic (14): https://motdang.net/roads/traffic/
+- Words (15): https://motdang.net/roads/words/
+- Stories (7): https://motdang.net/roads/stories/
+- People (7): https://motdang.net/roads/people/
+- Places (10): https://motdang.net/roads/places/
+
+## Full text
+- https://motdang.net/roads/llms-full.txt
+
+# — roster of sibling sites, generated from data/fleet.json —
+## Elsewhere from the same publisher
+
+Made by Hongdam (https://hongdam.net/), a bilingual web studio in Chiang Rai.
+
+- [Mot Dang](https://motdang.net/): city directory for Chiang Mai and Chiang Rai
+- [The Mae Hong Son Loop](https://nanobotco.github.io/mae-hong-son-loop/): motorcycling the 600 km loop out of Chiang Mai — curves counted, air measured
+- [Muay Thai](https://motdang.net/muay-thai/): the eight limbs, the thirty named techniques, the ceremony, and every gym on the map
+- [wichaa](https://wichaa.net/): Lanna manuscripts, the amulet market, and the traditions around them
+- [Hand Poke](https://nanobotco.github.io/hand-poke/): 28 traditions of marking skin by hand — the leg-tattoo zone of Burma, the Shan States and Lanna, counted
+- [Amulet Atlas](https://nanobotco.github.io/amulet-atlas/): amulets, charms and talismans worldwide
+- [Carolina Barbecue](https://nanobotco.github.io/carolina-barbecue/): barbecue in North and South Carolina
+- [Wing Country](https://nanobotco.github.io/buffalo-wings/): the American chicken wing
+- [Pink Box](https://nanobotco.github.io/pink-box/): the American mom-and-pop donut shop
+- [Basque Tables](https://nanobotco.github.io/basque-tables/): Basque dining rooms of California, Nevada and Idaho
+- [Pinot Country](https://nanobotco.github.io/pinot-noir/): pinot noir: the vine, the regions, the cellars
+- [Care Abroad](https://nanobotco.github.io/care-abroad/): treatment across borders, with published prices and their dates
+- [Thai Roots](https://nanobotco.github.io/thairoots/): a root dictionary of Thai, with a word decomposer
+- [The index](https://nanobotco.github.io/index/): every corpus, site and repository, counted
+- [Uptake](https://nanobotco.github.io/uptake/): a field manual on publishing for machines that copy
+- [NaNoBotCo](https://nanobotco.github.io/): the portal
+- [Ask Mot Dang](https://ask.motdang.net/): reader assistant over the directory
+- [ai.motdang.net](https://ai.motdang.net/): white-label assistants, by seat
+- [Defiant](https://defiant.to/): medical and dental care in Chiang Mai, with a translator at the appointment
+- [Hongdam](https://hongdam.net/): bilingual web development, Chiang Rai
+- [ฮักฝรั่ง](https://hakfarang.net/): เรื่องเงิน วีซ่า และชีวิตกับแฟนฝรั่ง
+- [Offrampt](https://offrampt.net/): turning crypto into spendable local money, Thailand first
+
+- [The roster as JSON](https://nanobotco.github.io/index/fleet.json)

@@ -1,0 +1,111 @@
+{
+ "id": "chotana-road",
+ "type": "road",
+ "names": {
+  "name": "Chotana Road",
+  "th": "ถนนโชตนา",
+  "rtgs": "Thanon Chotana",
+  "said": "Route 107 inside the city, named for a highway supervisor in 1950.",
+  "said_th": "ทางหลวง 107 ช่วงในเมือง ตั้งชื่อตามนายช่างแขวงปี 2493"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam",
+  "ref": "107"
+ },
+ "text": {
+  "what": "The city stretch of Route 107 from Chang Phueak Gate north through Khuang Sing to Mae Rim, named on 12 December 1950 after Tim Chotana. The 2024 count at km 9 gave 42,144 vehicles a day and 6,604 motorcycles."
+ },
+ "text_th": {
+  "what": "ทางหลวง 107 ช่วงในเมือง จากประตูช้างเผือกขึ้นเหนือผ่านข่วงสิงห์ถึงแม่ริม ตั้งชื่อ 12 ธันวาคม 2493 ตามนายทิม โชตนา จุดนับ กม.9 ปี 2567 ได้ 42,144 คันต่อวัน และจักรยานยนต์ 6,604"
+ },
+ "road": {
+  "ref": "107",
+  "from": "Chang Phueak Gate",
+  "from_th": "ประตูช้างเผือก",
+  "to": "Mae Rim",
+  "to_th": "แม่ริม",
+  "opened": "named 1950-12-12",
+  "osm_names": [
+   "ถนนโชตนา",
+   "Chotana Road"
+  ],
+  "osm_refs": [
+   "107"
+  ]
+ },
+ "geo": {
+  "lat": 18.81,
+  "lon": 98.983,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "tim-chotana",
+   "as": "Who it is named for.",
+   "rel": "person"
+  },
+  {
+   "to": "route-107",
+   "as": "The whole road.",
+   "rel": "highway"
+  },
+  {
+   "to": "khuang-sing-underpass",
+   "as": "Goes under the Superhighway here.",
+   "rel": "junction"
+  }
+ ],
+ "sources": [
+  "s:thwp-107",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-107"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chotana-road/chotana-road-chang-phueak-mueang-chiang-mai-district-chiang-mai-t-226d68f.jpg",
+   "source": "commons",
+   "title": "File:Chang Phueak, Mueang Chiang Mai District, Chiang Mai, Thailand - panoramio (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chang_Phueak%2C_Mueang_Chiang_Mai_District%2C_Chiang_Mai%2C_Thailand_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChang_Phueak%2C_Mueang_Chiang_Mai_District%2C_Chiang_Mai%2C_Thailand_-_panoramio_%283%29.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Daibo Taku",
+   "credit": "https://web.archive.org/web/20161023182601/http://www.panoramio.com/photo/63301865",
+   "alt": "Chang Phueak, Mueang Chiang Mai District, Chiang Mai, Thailand",
+   "date": "Taken on 10 November 2011",
+   "primary": true,
+   "sha256": "b6b08a4a768c68fdfecf18735151b1d6e994ed14452887c0cfa16d499004c0c4"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "khuang-sing-underpass",
+   "type": "junction",
+   "name": "Khuang Sing underpass",
+   "as": "Through it."
+  },
+  {
+   "from": "route-107",
+   "type": "highway",
+   "name": "Route 107, north to Fang",
+   "as": "Its city name."
+  }
+ ]
+}

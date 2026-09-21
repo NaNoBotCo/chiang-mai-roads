@@ -1,0 +1,80 @@
+{
+ "id": "comprehensive-plan-2026",
+ "type": "plan",
+ "names": {
+  "name": "The new comprehensive plan, 2026",
+  "th": "ผังเมืองรวมเมืองเชียงใหม่ ฉบับใหม่ 2569",
+  "said": "1,428.9 km², fifteen land-use classes, 51 project roads: 18 added, 7 dropped.",
+  "said_th": "1,428.9 ตร.กม. สิบห้าประเภทการใช้ที่ดิน ถนนโครงการ 51 สาย เพิ่ม 18 ตัด 7"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "status": "funded",
+  "era": "planned"
+ },
+ "text": {
+  "what": "The cabinet approved the draft on 17 March 2026: 1,428.90 km² over Mueang, San Sai, Mae Rim, Hang Dong, Saraphi and parts of Doi Saket and San Kamphaeng; land-use classes from eleven to fifteen; 18 project roads added and 7 dropped. The draft carries 51 project roads by right of way: class ก 12 m, 11 routes; ข 16 m, 29; ค 20 m, 8; ง 60 m, 3. The old city keeps its 12 m height cap. The first plan of 1984 drew rings two and three; the 1989 revision fixed them; the 2012 plan's height rules were amended in 2019 in named low-density zones.",
+  "story": "*Inference —* three roads of 60 m right of way is the line to read twice. A 60 m corridor is a motorway reservation, and the plan does not say where they go; the Isranews summary does not either. Not on this disk."
+ },
+ "text_th": {
+  "what": "ครม. เห็นชอบร่าง 17 มีนาคม 2569 1,428.90 ตร.กม. ครอบคลุมเมือง สันทราย แม่ริม หางดง สารภี และบางส่วนของดอยสะเก็ดกับสันกำแพง ประเภทการใช้ที่ดินจากสิบเอ็ดเป็นสิบห้า เพิ่มถนนโครงการ 18 สาย ตัด 7 ร่างมีถนนโครงการ 51 สายตามเขตทาง ประเภท ก 12 เมตร 11 สาย ข 16 เมตร 29 สาย ค 20 เมตร 8 สาย ง 60 เมตร 3 สาย เวียงเก่าคงเพดาน 12 เมตร ผังแรกปี 2527 วาดวงแหวนสองและสาม ฉบับแก้ 2532 กำหนดแนว กฎความสูงของผัง 2555 แก้ปี 2562 ในย่านความหนาแน่นต่ำที่ระบุชื่อ",
+  "story": "*อนุมาน —* ถนนเขตทาง 60 เมตรสามสายคือบรรทัดที่ควรอ่านสองรอบ เขตทาง 60 เมตรคือการกันที่สำหรับมอเตอร์เวย์ และผังไม่บอกว่ามันไปไหน สรุปของอิศราก็บ่บอก บ่มีในแผ่นนี้"
+ },
+ "plan": {
+  "status": "funded",
+  "as_of": "2026-03",
+  "agency": "Department of Public Works and Town & Country Planning",
+  "agency_th": "กรมโยธาธิการและผังเมือง",
+  "announced": "2026-03-17"
+ },
+ "kin": [
+  {
+   "to": "ring-2",
+   "as": "Drawn by its 1984 ancestor.",
+   "rel": "ring"
+  },
+  {
+   "to": "era-now",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "tags": [
+  "construction"
+ ],
+ "sources": [
+  "s:prd-485975",
+  "s:isranews-146077",
+  "s:cmnews-1374432",
+  "s:mgr-9620000055662",
+  "s:urbanis-5712"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:prd-485975"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "era-now",
+   "type": "era",
+   "name": "2010s–2020s — going under, and going up",
+   "as": "The plan."
+  }
+ ]
+}

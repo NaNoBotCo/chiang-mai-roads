@@ -1,0 +1,149 @@
+{
+ "id": "ring-1",
+ "type": "ring",
+ "names": {
+  "name": "Ring 1, the Superhighway ring",
+  "th": "วงแหวนรอบที่ 1",
+  "rtgs": "Wong Waen Rop Thi Nueng",
+  "aliases": [
+   "Inner ring",
+   "วงแหวนรอบใน"
+  ],
+  "said": "A bypass of 1969 plus a bypass of 1972 plus a gift of 1963, and the city grew past all three.",
+  "said_th": "ทางเลี่ยงปี 2512 บวกทางเลี่ยงปี 2515 บวกของขวัญปี 2506 แล้วเมืองก็โตข้ามทั้งสาม"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "superhighway"
+ },
+ "text": {
+  "what": "The ring about 3 km out: the last ten kilometres of Route 11, the Superhighway, on the north and east; Mahidol Road, Route 1141, on the south; Nimmanhaemin on the west. Nobody planned it as a ring. Route 11 was built two-lane in 1968–69 to shorten the road to Bangkok and four-laned from 2001; Mahidol was built 1972 and six-laned 1998–2001; Nimmanhaemin was absorbed into Route 11 and returned to the municipality in 2022.",
+  "story": "*Inference —* the airport, the university, the bus station, the railway station and the Night Bazaar all sit inside this ring. It is where the twentieth-century city is. The underpasses at Khuang Sing, San Dek and Fa Ham were dug under it in 2007 and 2018 because the ring became a street."
+ },
+ "text_th": {
+  "what": "วงแหวนราว 3 กม. จากใจกลาง สิบกิโลเมตรสุดท้ายของทางหลวง 11 ซุปเปอร์ไฮเวย์ ด้านเหนือและตะวันออก ถนนมหิดล ทางหลวง 1141 ด้านใต้ นิมมานเหมินท์ด้านตะวันตก บ่มีใครวางแผนให้เป็นวงแหวน ทางหลวง 11 สร้างสองเลนปี 2511–12 เพื่อย่นทางไปกรุงเทพฯ ขยายสี่เลนตั้งแต่ 2544 มหิดลสร้าง 2515 ขยายหกเลน 2541–44 นิมมานเหมินท์ถูกรวมเข้าทางหลวง 11 แล้วคืนเทศบาล 2565",
+  "story": "*อนุมาน —* สนามบิน มหาวิทยาลัย สถานีขนส่ง สถานีรถไฟ และไนท์บาซาร์ อยู่ในวงนี้ทั้งหมด มันคือตี้เมืองศตวรรษที่ยี่สิบอยู่ ทางลอดข่วงสิงห์ สันเด็ก และฟ้าฮ่ามถูกขุดใต้มันปี 2550 และ 2561 เพราะวงแหวนกลายเป็นถนนในเมือง"
+ },
+ "road": {
+  "osm_refs": [
+   "11",
+   "1141"
+  ],
+  "osm_names": [
+   "ถนนซุปเปอร์ไฮเวย์",
+   "Superhighway",
+   "ถนนมหิดล",
+   "ถนนนิมมานเหมินท์"
+  ]
+ },
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9855,
+  "precision": "town"
+ },
+ "kin": [
+  {
+   "to": "route-11",
+   "as": "North and east.",
+   "rel": "highway"
+  },
+  {
+   "to": "mahidol-road",
+   "as": "South.",
+   "rel": "road"
+  },
+  {
+   "to": "nimmanhaemin-road",
+   "as": "West.",
+   "rel": "road"
+  },
+  {
+   "to": "ring-2",
+   "as": "The next ring out.",
+   "rel": "ring"
+  },
+  {
+   "to": "khuang-sing-underpass",
+   "as": "Under it.",
+   "rel": "junction"
+  }
+ ],
+ "sources": [
+  "s:thwp-11",
+  "s:thwp-mahidol",
+  "s:thwp-nimman",
+  "s:cmu-thesis-2548"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-11"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "ring-1/ring-1-panoramic-view-of-cmx.jpg",
+   "source": "commons",
+   "title": "File:Panoramic view of CMX.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Panoramic_view_of_CMX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_CMX.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่",
+   "credit": "Own work",
+   "alt": "The panoramic view of Mueang Chiang Mai district from Doi Suthep.",
+   "date": "2022-08-01 14:25:52",
+   "primary": true,
+   "sha256": "825a2441b43c81c60218c29a1475cf79b20168b355848ee333e856daab5d152d"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "mahidol-road",
+   "type": "road",
+   "name": "Mahidol Road",
+   "as": "Its southern arc."
+  },
+  {
+   "from": "nimmanhaemin-road",
+   "type": "road",
+   "name": "Nimmanhaemin Road",
+   "as": "Its western arc."
+  },
+  {
+   "from": "moat-loop",
+   "type": "ring",
+   "name": "The moat loop",
+   "as": "The next ring out."
+  },
+  {
+   "from": "ring-2",
+   "type": "ring",
+   "name": "Ring 2, the 700 Years Road",
+   "as": "Inside it."
+  },
+  {
+   "from": "route-11",
+   "type": "highway",
+   "name": "Route 11, the Superhighway",
+   "as": "What its last ten km became."
+  },
+  {
+   "from": "era-superhighway-1969",
+   "type": "era",
+   "name": "1960s–70s — the Superhighway",
+   "as": "What it became."
+  }
+ ]
+}

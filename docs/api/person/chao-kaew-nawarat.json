@@ -1,0 +1,79 @@
+{
+ "id": "chao-kaew-nawarat",
+ "type": "person",
+ "names": {
+  "name": "Chao Kaew Nawarat",
+  "th": "เจ้าแก้วนวรัฐ",
+  "rtgs": "Chao Kaeo Nawarat",
+  "said": "The last ruler, and the bridge is named after him.",
+  "said_th": "เจ้าหลวงองค์สุดท้าย และขัวได้ชื่อท่าน"
+ },
+ "region": [
+  "lanna"
+ ],
+ "text": {
+  "what": "Ninth and last ruler of Chiang Mai, 1911–1939. He cut the first sod of the Doi Suthep road in 1934, and the Ping bridge at the foot of Tha Phae Road carries his name: a teak bridge from about 1890, a steel one opened 1923 after the wooden one burned, and the present concrete one opened 26 December 1967."
+ },
+ "text_th": {
+  "what": "เจ้าผู้ครองเชียงใหม่องค์ที่เก้าและองค์สุดท้าย 2454–2482 ท่านจกจอบแรกของถนนขึ้นดอยสุเทพปี 2477 และขัวข้ามแม่ปิงตีนถนนท่าแพใช้ชื่อท่าน ขัวไม้สักราวปี 2433 ขัวเหล็กเปิด 2466 หลังขัวไม้ไหม้ และขัวคอนกรีตปัจจุบันเปิด 26 ธันวาคม 2510"
+ },
+ "kin": [
+  {
+   "to": "nawarat-bridge",
+   "as": "Named for him.",
+   "rel": "bridge"
+  },
+  {
+   "to": "si-wichai-road",
+   "as": "He broke its ground.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-nawarat",
+  "s:thwp-si-wichai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-nawarat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chao-kaew-nawarat/chao-kaew-nawarat-navarat-bridge-chiangmai-1954.jpg",
+   "source": "commons",
+   "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+   "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+   "alt": "Navarat Bridge in 1954",
+   "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+   "primary": true,
+   "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nawarat-bridge",
+   "type": "bridge",
+   "name": "Nawarat Bridge",
+   "as": "Who it is named for."
+  }
+ ]
+}

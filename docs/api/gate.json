@@ -1,0 +1,1028 @@
+{
+ "type": "gate",
+ "count": 10,
+ "nodes": [
+  {
+   "id": "chang-moi-gate",
+   "type": "gate",
+   "names": {
+    "name": "Chang Moi Gate",
+    "th": "ประตูช้างม่อย",
+    "rtgs": "Pratu Chang Moi",
+    "said": "The gate that was demolished so a road could go straight.",
+    "said_th": "ปะตู๋ตี้ถูกฮื้อ เปื้อหื้อถนนไปตรง ๆ"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "An outer gate in the earthen wall, dated to 1282 in the chronicle, gone since the 1910s. Between 1910 and 1915 the earth bank and the gate were removed and the inner brick wall pierced so that Ratchawithi Road could run straight out to the new Chang Moi Road and the river.",
+    "story": "*Inference —* this is the first documented case in the city of a wall giving way to a road, thirty-five years before the moat roads did it wholesale. The pattern was set: the straight line wins."
+   },
+   "text_th": {
+    "what": "ประตูชั้นนอกในกำแพงดิน ตำนานพื้นเมืองให้ปี พ.ศ. 1825 หายไปตั้งแต่ทศวรรษ 2450 ระหว่างปี 2453–2458 รื้อคันดินและประตู แล้วเจาะกำแพงอิฐชั้นในเพื่อให้ถนนราชวิถีวิ่งตรงออกไปถนนช้างม่อยสายใหม่และแม่น้ำ",
+    "story": "*อนุมาน —* นี่คือกรณีแรกที่มีบันทึกของเมืองที่กำแพงยอมให้ถนน สามสิบห้าปีก่อนถนนรอบคูเมืองจะทำแบบเดียวกันทั้งเวียง แบบแผนถูกวางไว้แล้ว เส้นตรงชนะ"
+   },
+   "geo": {
+    "lat": 18.793,
+    "lon": 98.9945,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "chang-moi-road",
+     "as": "The road it was removed for.",
+     "rel": "road"
+    },
+    {
+     "to": "era-siam-1900-1950",
+     "as": "Its era.",
+     "rel": "era"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-chang-moi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-chang-moi"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chang-moi-gate/chang-moi-gate-chiang-mai-chang-moi-kao-road-0001.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai - Chang Moi Kao Road - 0001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Stefan Fussan",
+     "credit": "Own work - My images are also available on MyPortfolio",
+     "alt": "Chang Moi Kao Road, Chiang Mai, Thailand",
+     "date": "2014-05-23",
+     "primary": true,
+     "sha256": "3a345770c791d095b1930c497b0044a826bbfb9031b73933c8ece3142aa9869a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chang-moi-road",
+     "type": "road",
+     "name": "Chang Moi Road",
+     "as": "What was demolished for it."
+    },
+    {
+     "from": "era-siam-1900-1950",
+     "type": "era",
+     "name": "1900–1950 — Siam and the railway",
+     "as": "Removed."
+    }
+   ]
+  },
+  {
+   "id": "chang-phueak-gate",
+   "type": "gate",
+   "names": {
+    "name": "Chang Phueak Gate",
+    "th": "ประตูช้างเผือก",
+    "rtgs": "Pratu Chang Phueak",
+    "said": "The north gate, the king's gate.",
+    "said_th": "ปะตู๋ตางเหนือ ปะตู๋เจ้า"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The northern gate, formerly Hua Wiang, the head of the city. Kings entered here; the road north to Mae Rim and Fang, Route 107, still begins outside it.",
+    "story": "*Tradition holds —* the north is the auspicious direction in Lanna town planning, so the gate at the head of the city was the ceremonial one. The white elephant monument beside it is a separate thing, from a separate century."
+   },
+   "text_th": {
+    "what": "ประตูด้านเหนือ เดิมชื่อประตูหัวเวียง หัวของเมือง กษัตริย์เข้าเมืองทางนี้ ถนนขึ้นเหนือไปแม่ริมและฝาง ทางหลวง 107 ยังเริ่มหน้าประตูนี้",
+    "story": "*ตามธรรมเนียม —* ทิศเหนือคือทิศมงคลในการวางผังเมืองล้านนา ประตูที่หัวเวียงจึงเป็นประตูพิธี อนุสาวรีย์ช้างเผือกข้าง ๆ เป็นคนละเรื่อง คนละศตวรรษ"
+   },
+   "geo": {
+    "lat": 18.7962,
+    "lon": 98.986,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "route-107",
+     "as": "The road that leaves from here.",
+     "rel": "highway"
+    },
+    {
+     "to": "moat-loop",
+     "as": "On the ring.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "tradition"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chang-phueak-gate/chang-phueak-gate-201703291151b-p-chiang-mai-city-wall-chang-phuak-gate.jpg",
+     "source": "commons",
+     "title": "File:201703291151b P Chiang Mai, City Wall, Chang Phuak Gate.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/201703291151b_P_Chiang_Mai%2C_City_Wall%2C_Chang_Phuak_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291151b_P_Chiang_Mai%2C_City_Wall%2C_Chang_Phuak_Gate.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Pratu Chang Phuak or Chang Phuak Gate is the northern gate in the city wall of Chiang Mai.)",
+     "date": "2017-03-29 11:51:17",
+     "primary": true,
+     "sha256": "9e0632c7eba450be5b70c441591917f7fc440913644f5ebf53eaed3a280f5c25"
+    },
+    {
+     "file": "chang-phueak-gate/chang-phueak-gate-chang-phueak-gate-1.jpg",
+     "source": "commons",
+     "title": "File:Chang Phueak Gate (1).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Chang_Phueak_Gate_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChang_Phueak_Gate_%281%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Krzysztof Golik",
+     "credit": "Own work",
+     "alt": "Chang Phueak Gate in Chang Mai, Chang Mai Province, Thailand",
+     "date": "2015-11-16 04:57:14",
+     "primary": false,
+     "sha256": "1aff12351e5097b3bf242123d9e642569992b4e28a2259fd31dd63293274cc97"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "route-107",
+     "type": "highway",
+     "name": "Route 107, north to Fang",
+     "as": "Its start."
+    }
+   ]
+  },
+  {
+   "id": "chiang-mai-gate",
+   "type": "gate",
+   "names": {
+    "name": "Chiang Mai Gate",
+    "th": "ประตูเชียงใหม่",
+    "rtgs": "Pratu Chiang Mai",
+    "said": "The south gate, and a market.",
+    "said_th": "ปะตู๋ตางใต้ กับกาด"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The southern gate, formerly Tai Wiang, the foot of the city. A market sits against it, open before dawn, and Wua Lai Road runs south from it."
+   },
+   "text_th": {
+    "what": "ประตูด้านใต้ เดิมชื่อประตูท้ายเวียง ท้ายของเมือง มีกาดตั้งชิดประตู เปิดก่อนฟ้าสาง และถนนวัวลายวิ่งลงใต้จากตรงนี้"
+   },
+   "geo": {
+    "lat": 18.7809,
+    "lon": 98.9865,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "wua-lai-road",
+     "as": "Runs south from here.",
+     "rel": "road"
+    },
+    {
+     "to": "moat-loop",
+     "as": "On the ring.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "market"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chiang-mai-gate/chiang-mai-gate-pratoo-chiang-mai-market-panoramio-gary4now.jpg",
+     "source": "commons",
+     "title": "File:Pratoo Chiang Mai market - panoramio - gary4now.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pratoo_Chiang_Mai_market_-_panoramio_-_gary4now.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APratoo_Chiang_Mai_market_-_panoramio_-_gary4now.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "gary4now",
+     "credit": "https://web.archive.org/web/20161111061207/http://www.panoramio.com/photo/47718689",
+     "alt": "Pratoo Chiang Mai market",
+     "date": "Taken on 27 September 2008",
+     "primary": true,
+     "sha256": "09add3e4c935a485657bfc53c63e450f2983c5760a68619853e4f46e995c15e0"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "wua-lai-road",
+     "type": "road",
+     "name": "Wua Lai Road",
+     "as": "Its head."
+    }
+   ]
+  },
+  {
+   "id": "hua-lin-corner",
+   "type": "gate",
+   "names": {
+    "name": "Hua Lin Corner",
+    "th": "แจ่งหัวลิน",
+    "rtgs": "Chaeng Hua Lin",
+    "said": "The northwest bastion.",
+    "said_th": "แจ่งตะวันตกเฉียงเหนือ"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The northwest corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Hua Lin means the head of the water channel: the moat was fed from Doi Suthep at this corner, and the water still enters here."
+   },
+   "text_th": {
+    "what": "แจ่งตะวันตกเฉียงเหนือของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม หัวลินแปลว่าหัวรางน้ำ คูเมืองรับน้ำจากดอยสุเทพที่แจ่งนี้ และน้ำยังเข้าตรงนี้"
+   },
+   "geo": {
+    "lat": 18.796,
+    "lon": 98.9775,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "The ring turns here.",
+     "rel": "ring"
+    },
+    {
+     "to": "chaeng",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "hua-lin-corner/hua-lin-corner-201703291201a-p-chiang-mai-city-wall-and-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291201a P Chiang Mai, City Wall and Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/201703291201a_P_Chiang_Mai%2C_City_Wall_and_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291201a_P_Chiang_Mai%2C_City_Wall_and_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "City moat of Chiang Mai between Hua Rin Corner and Chang Phuak Gate",
+     "date": "2017-03-29 12:01:21",
+     "primary": true,
+     "sha256": "0ddc259bf4853fc77add253dc2f913c84d0bffc0eecb1de2913728f04f8aa0cf"
+    },
+    {
+     "file": "hua-lin-corner/hua-lin-corner-201703291210d-p-chiang-mai-city-wall-hua-lin-corner.jpg",
+     "source": "commons",
+     "title": "File:201703291210d P Chiang Mai, City Wall, Hua Lin Corner.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/201703291210d_P_Chiang_Mai%2C_City_Wall%2C_Hua_Lin_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291210d_P_Chiang_Mai%2C_City_Wall%2C_Hua_Lin_Corner.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Jaeng Hua Rin or Hua Rin Corner is the northwestern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+     "date": "2017-03-29 12:10:39",
+     "primary": false,
+     "sha256": "912df45c52070eaf1806fc0cd68ba314904bdb06c75a7c9a423073ba9bb5a071"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "huay-kaew-road",
+     "type": "road",
+     "name": "Huay Kaew Road",
+     "as": "Where it starts."
+    },
+    {
+     "from": "the-moat",
+     "type": "place",
+     "name": "The moat",
+     "as": "Where its water comes in."
+    }
+   ]
+  },
+  {
+   "id": "katam-corner",
+   "type": "gate",
+   "names": {
+    "name": "Katam Corner",
+    "th": "แจ่งก๊ะต๊ำ",
+    "rtgs": "Chaeng Katam",
+    "said": "The southeast bastion.",
+    "said_th": "แจ่งตะวันออกเฉียงใต้"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The southeast corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Katam is a fish trap in Kam Mueang; the corner where the moat water was let out and the fish gathered."
+   },
+   "text_th": {
+    "what": "แจ่งตะวันออกเฉียงใต้ของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม ก๊ะต๊ำคือเครื่องดักปลาในกำเมือง แจ่งตี้น้ำคูเมืองไหลออกและปลามารวมกัน"
+   },
+   "geo": {
+    "lat": 18.7808,
+    "lon": 98.9938,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "The ring turns here.",
+     "rel": "ring"
+    },
+    {
+     "to": "chaeng",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "katam-corner/katam-corner-201703291051b-p-chiang-mai-city-wall-katam-corner.jpg",
+     "source": "commons",
+     "title": "File:201703291051b P Chiang Mai, City Wall, Katam Corner.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/201703291051b_P_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291051b_P_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Jaeng Katam or Katam Corner is the souteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+     "date": "2017-03-29 10:51:52",
+     "primary": true,
+     "sha256": "0f622e817de22f1753c1b8f44349bf65d458fecd3bfc33638bf4cc0cdfc1eae4"
+    },
+    {
+     "file": "katam-corner/katam-corner-201703291052a-chiang-mai-city-wall-katam-corner.jpg",
+     "source": "commons",
+     "title": "File:201703291052a Chiang Mai, City Wall, Katam Corner.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/201703291052a_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291052a_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Jaeng Katam or Katam Corner is the souteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+     "date": "2017-03-29 10:52:43",
+     "primary": false,
+     "sha256": "5cb70e7d2d426257ca20a75036b9af408e8ec534165693f3fb4f3c854c4f8580"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chaeng",
+     "type": "word",
+     "name": "แจ่ง chaeng",
+     "as": "One of the four."
+    },
+    {
+     "from": "why-the-moat-runs-one-way",
+     "type": "story",
+     "name": "Why the moat runs one way",
+     "as": "Where the missed turn is paid for."
+    }
+   ]
+  },
+  {
+   "id": "ku-hueang-corner",
+   "type": "gate",
+   "names": {
+    "name": "Ku Hueang Corner",
+    "th": "แจ่งกู่เฮือง",
+    "rtgs": "Chaeng Ku Hueang",
+    "said": "The southwest bastion.",
+    "said_th": "แจ่งตะวันตกเฉียงใต้"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The southwest corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Ku Hueang is a reliquary: a chedi to a jailer, or a prince, depending on the telling."
+   },
+   "text_th": {
+    "what": "แจ่งตะวันตกเฉียงใต้ของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม กู่เฮืองคือกู่บรรจุอัฐิ ของผู้คุมคุกหรือของเจ้า แล้วแต่ตำนานที่เล่า"
+   },
+   "geo": {
+    "lat": 18.7808,
+    "lon": 98.9775,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "The ring turns here.",
+     "rel": "ring"
+    },
+    {
+     "to": "chaeng",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ku-hueang-corner/ku-hueang-corner-201703281534b-p-chiang-mai-city-wall-ku-ruang-corner.jpg",
+     "source": "commons",
+     "title": "File:201703281534b P Chiang Mai, City Wall, Ku Ruang Corner.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/201703281534b_P_Chiang_Mai%2C_City_Wall%2C_Ku_Ruang_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703281534b_P_Chiang_Mai%2C_City_Wall%2C_Ku_Ruang_Corner.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Chiang Mai city wall, Ku Ruang Coner (southwestern fort)",
+     "date": "2017-03-28 15:34:12",
+     "primary": true,
+     "sha256": "32fae5e8d99c305bd989cc05dce1e79e97ded7fcd9b80422ae90c7baa1aec31f"
+    },
+    {
+     "file": "ku-hueang-corner/ku-hueang-corner-ku-huang-citadel-chiang-mai-02.jpg",
+     "source": "commons",
+     "title": "File:Ku Huang citadel Chiang Mai 02.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ku_Huang_citadel_Chiang_Mai_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKu_Huang_citadel_Chiang_Mai_02.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "Ku Huang citadel: the south-west corner of the old city of Chiang Mai. Looking towards the east.",
+     "date": "2010-05-06",
+     "primary": false,
+     "sha256": "0b5d8aaec8c05cc45551986bef2120ca1514e9121d687ad0557a5bf75cb8ee3c"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "si-phum-corner",
+   "type": "gate",
+   "names": {
+    "name": "Si Phum Corner",
+    "th": "แจ่งศรีภูมิ",
+    "rtgs": "Chaeng Si Phum",
+    "said": "The northeast bastion.",
+    "said_th": "แจ่งตะวันออกเฉียงเหนือ"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The northeast corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. The Kamphaeng Din, the outer earthen wall, begins its curve from here, and the corner was the auspicious one at the founding: the first brick of the city was laid at the northeast."
+   },
+   "text_th": {
+    "what": "แจ่งตะวันออกเฉียงเหนือของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม กำแพงดิน กำแพงดินชั้นนอก เริ่มโค้งจากตรงนี้ และแจ่งนี้เป็นแจ่งมงคลตอนสร้างเมือง อิฐก้อนแรกของเวียงวางที่ทิศตะวันออกเฉียงเหนือ"
+   },
+   "geo": {
+    "lat": 18.796,
+    "lon": 98.9938,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "The ring turns here.",
+     "rel": "ring"
+    },
+    {
+     "to": "chaeng",
+     "as": "The word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "si-phum-corner/si-phum-corner-201703291134b-p-chiang-mai-city-wall-si-phum-corner.jpg",
+     "source": "commons",
+     "title": "File:201703291134b P Chiang Mai, City Wall, Si Phum Corner.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/201703291134b_P_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291134b_P_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Jaeng Sri Phum or Sri Phum Corner is the norteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+     "date": "2017-03-29 11:34:32",
+     "primary": true,
+     "sha256": "42df9676c3cf9f43603fd3500587dfe556e2b6d8b61fffcbe7b5220312fe0dad"
+    },
+    {
+     "file": "si-phum-corner/si-phum-corner-201703291136c-chiang-mai-city-wall-si-phum-corner.jpg",
+     "source": "commons",
+     "title": "File:201703291136c Chiang Mai, City Wall, Si Phum Corner.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/201703291136c_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291136c_Chiang_Mai%2C_City_Wall%2C_Si_Phum_Corner.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Jaeng Sri Phum or Sri Phum Corner is the norteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+     "date": "2017-03-29 11:34:32",
+     "primary": false,
+     "sha256": "f3bf7b0c5a919bbb2dc26d0278de3de259f31d0b25ff68a4a51e22957fd051ca"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chaeng",
+     "type": "word",
+     "name": "แจ่ง chaeng",
+     "as": "One of the four."
+    },
+    {
+     "from": "kamphaeng-din",
+     "type": "place",
+     "name": "Kamphaeng Din, the earthen wall",
+     "as": "Where it starts."
+    }
+   ]
+  },
+  {
+   "id": "suan-dok-gate",
+   "type": "gate",
+   "names": {
+    "name": "Suan Dok Gate",
+    "th": "ประตูสวนดอก",
+    "rtgs": "Pratu Suan Dok",
+    "said": "The west gate. Suthep Road runs out of it towards the mountain.",
+    "said_th": "ปะตู๋ตางตก ถนนสุเทพวิ่งออกไปหาดอย"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The western gate, the flower-garden gate, named for the royal garden that became Wat Suan Dok outside it. Suthep Road leaves here for the university and Doi Suthep."
+   },
+   "text_th": {
+    "what": "ประตูด้านตะวันตก ประตูสวนดอกไม้ ตั้งชื่อตามสวนหลวงที่กลายเป็นวัดสวนดอกหน้าประตู ถนนสุเทพออกจากตรงนี้ไปมหาวิทยาลัยและดอยสุเทพ"
+   },
+   "geo": {
+    "lat": 18.7887,
+    "lon": 98.9776,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "suthep-road",
+     "as": "Leaves from here.",
+     "rel": "road"
+    },
+    {
+     "to": "moat-loop",
+     "as": "On the ring.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "wat"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "suan-dok-gate/suan-dok-gate-201703291225a-p-chiang-mai-city-wall-saun-dok-gate.jpg",
+     "source": "commons",
+     "title": "File:201703291225a P Chiang Mai, City Wall, Saun Dok Gate.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/201703291225a_P_Chiang_Mai%2C_City_Wall%2C_Saun_Dok_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291225a_P_Chiang_Mai%2C_City_Wall%2C_Saun_Dok_Gate.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Pratu Suan Dok or Suan Dok Gate is the western gate in the city wall of Chiang Mai.)",
+     "date": "2017-03-29 12:25:15",
+     "primary": true,
+     "sha256": "4feffeadc716e47290b85db860112cf53f6dbc111b1d43ff9b6bfa5ccb88abed"
+    },
+    {
+     "file": "suan-dok-gate/suan-dok-gate-moat-near-the-suan-dok-gate.jpg",
+     "source": "commons",
+     "title": "File:Moat near the Suan Dok Gate.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Moat_near_the_Suan_Dok_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMoat_near_the_Suan_Dok_Gate.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Moat near the Suan Dok Gate in Chiang Mai.",
+     "date": "2018-09-03 15:47:12",
+     "primary": false,
+     "sha256": "fad566ea52fda8fb1428f6d498c9a5f7258faf5fa312c4d4476e9165236f1a38"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "suthep-road",
+     "type": "road",
+     "name": "Suthep Road",
+     "as": "Its head."
+    }
+   ]
+  },
+  {
+   "id": "suan-prung-gate",
+   "type": "gate",
+   "names": {
+    "name": "Suan Prung Gate",
+    "th": "ประตูสวนปรุง",
+    "rtgs": "Pratu Suan Prung",
+    "said": "The fifth gate, added later, on the south wall.",
+    "said_th": "ปะตู๋ตี้ห้า เพิ่มตี้หลัง บนกำแพงใต้"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The second gate in the south wall, added under King Sam Fang Kaen in the 1400s, so that the south wall alone has two. The hospital of the same name is outside it.",
+    "story": "*Tradition holds —* the dead left the city through this gate, which is why it was cut into the south wall rather than the auspicious north. The road outside it is still the way to the crematorium."
+   },
+   "text_th": {
+    "what": "ประตูที่สองบนกำแพงด้านใต้ เพิ่มในสมัยพญาสามฝั่งแกนช่วงพุทธศตวรรษที่ 20 กำแพงใต้จึงมีสองประตู โรงพยาบาลชื่อเดียวกันอยู่นอกประตู",
+    "story": "*ตามธรรมเนียม —* ศพออกจากเวียงทางประตูนี้ นี่คือเหตุที่เจาะกำแพงใต้ ไม่ใช่ทิศเหนืออันเป็นมงคล ถนนหน้าประตูยังเป็นทางไปสุสาน"
+   },
+   "geo": {
+    "lat": 18.7809,
+    "lon": 98.9803,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "On the ring.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "heritage"
+   ],
+   "sources": [
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-moat"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     },
+     "text.story": {
+      "tier": "tradition"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "suan-prung-gate/suan-prung-gate-201703291143a-p-chiang-mai-city-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291143a P Chiang Mai, City Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/201703291143a_P_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291143a_P_Chiang_Mai%2C_City_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "City moat of Chiang Mai between Chang Phuak Gate and Sri Phum Corner",
+     "date": "2017-03-29 11:43:03",
+     "primary": true,
+     "sha256": "23fb8d65a72db27909fd1ec7c6b03e93ef24a69cd02da3df8180fa3e6bee4a9c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "era-lanna-and-burma",
+     "type": "era",
+     "name": "1300s–1700s — Lanna and Burma",
+     "as": "Cut in this era."
+    }
+   ]
+  },
+  {
+   "id": "tha-phae-gate",
+   "type": "gate",
+   "names": {
+    "name": "Tha Phae Gate",
+    "th": "ประตูท่าแพ",
+    "rtgs": "Pratu Tha Phae",
+    "said": "The east gate. The one everybody means.",
+    "said_th": "ปะตู๋ตางออก ตี้ใผ ๆ ก็หมายเถิง"
+   },
+   "region": [
+    "moat"
+   ],
+   "text": {
+    "what": "The eastern gate of the walled city, at the head of Tha Phae Road, facing the river a kilometre away. Originally Chiang Rueak Gate, after the trading village outside it.",
+    "story": "What stands there now is a reconstruction. The municipality and the Fine Arts Department rebuilt the gate and its lawn in 1985–87 from records, archaeology and a single old photograph; it is the only inner gate with a complete set of wooden doors.\n\n*Inference —* the lawn in front is the city's living room: the Sunday walking street begins here, protests gather here, and the pigeons are a business. A gate that was demolished in 1948 to make way for the moat roads became, forty years later, the picture on the postcard. That is the whole history of Chiang Mai's road-building in one square."
+   },
+   "text_th": {
+    "what": "ประตูด้านตะวันออกของเวียง อยู่หัวถนนท่าแพ หันหน้าไปทางแม่ปิงที่ห่างออกไปหนึ่งกิโลเมตร เดิมชื่อประตูเชียงเรือก ตามหมู่บ้านค้าขายที่อยู่หน้าประตู",
+    "story": "ที่ยืนอยู่ตรงนั้นตอนนี้คือของสร้างใหม่ เทศบาลกับกรมศิลปากรสร้างประตูและสนามหญ้าขึ้นใหม่ในปี 2528–30 จากบันทึก หลักฐานโบราณคดี และรูปถ่ายเก่าเพียงรูปเดียว เป็นประตูชั้นในแห่งเดียวที่มีบานประตูไม้ครบ\n\n*อนุมาน —* สนามหญ้าหน้าประตูคือห้องนั่งเล่นของเมือง ถนนคนเดินวันอาทิตย์เริ่มตรงนี้ การชุมนุมรวมตัวตรงนี้ และนกพิราบเป็นธุรกิจ ประตูที่ถูกรื้อในปี 2491 เพื่อให้ถนนรอบคูเมืองผ่าน กลายเป็นรูปบนโปสการ์ดในอีกสี่สิบปีต่อมา นั่นคือประวัติการสร้างถนนของเชียงใหม่ทั้งหมดในจัตุรัสเดียว"
+   },
+   "geo": {
+    "lat": 18.7877,
+    "lon": 98.9932,
+    "precision": "exact"
+   },
+   "kin": [
+    {
+     "to": "tha-phae-road",
+     "as": "The road it names.",
+     "rel": "road"
+    },
+    {
+     "to": "moat-loop",
+     "as": "The ring it opens onto.",
+     "rel": "ring"
+    },
+    {
+     "to": "sunday-walking-street",
+     "as": "Starts here.",
+     "rel": "story"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "walk",
+    "market"
+   ],
+   "sources": [
+    "s:wp-tha-phae-gate",
+    "s:thwp-moat",
+    "s:onep-278",
+    "s:cmocity-history"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-tha-phae-gate"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "tha-phae-gate/tha-phae-gate-201703291111a-chiang-mai-city-wall-tha-phae-gate.jpg",
+     "source": "commons",
+     "title": "File:201703291111a Chiang Mai, City Wall, Tha Phae Gate.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/201703291111a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291111a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Pratu Tha Pae or Tha Pae Gate is the eastern gate in the city wall of Chiang Mai.)",
+     "date": "2017-03-29 11:11:07",
+     "primary": true,
+     "sha256": "10f76a10a310ebabd5ffa55532afefed135a822576cf203e8387f1d64acc3818"
+    },
+    {
+     "file": "tha-phae-gate/tha-phae-gate-201703291115a-chiang-mai-city-wall-tha-phae-gate.jpg",
+     "source": "commons",
+     "title": "File:201703291115a Chiang Mai, City Wall, Tha Phae Gate.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/201703291115a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291115a_Chiang_Mai%2C_City_Wall%2C_Tha_Phae_Gate.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Pratu Tha Pae or Tha Pae Gate is the eastern gate in the city wall of Chiang Mai.)",
+     "date": "2017-03-29 11:15:07",
+     "primary": false,
+     "sha256": "b0a6195bb1e755360c6c7685ad21dbbf61bb10f2f637ec84c5df5088325c93c8"
+    },
+    {
+     "file": "tha-phae-gate/tha-phae-gate-20171105-tha-phae-gate-chiang-mai-9784-dxo.jpg",
+     "source": "commons",
+     "title": "File:20171105 Tha Phae Gate Chiang Mai 9784 DxO.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A20171105_Tha_Phae_Gate_Chiang_Mai_9784_DxO.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Jakub Hałun",
+     "credit": "Own work",
+     "alt": "Tha Phae Gate in Chiang Mai",
+     "date": "2017-11-05 09:32:20",
+     "primary": false,
+     "sha256": "dcfa2c5d05800fab304db4ae23ccec96722dc283124ec1b0589077a14e1e151a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ratchadamnoen-road",
+     "type": "road",
+     "name": "Ratchadamnoen Road",
+     "as": "Its east end."
+    },
+    {
+     "from": "tha-phae-road",
+     "type": "road",
+     "name": "Tha Phae Road",
+     "as": "Its head."
+    },
+    {
+     "from": "pratu",
+     "type": "word",
+     "name": "ประตู pratu",
+     "as": "The one everyone means."
+    },
+    {
+     "from": "sunday-walking-street",
+     "type": "story",
+     "name": "The walking street, and how a road becomes a floor",
+     "as": "Where it starts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "id": "built-up-area",
+ "type": "traffic",
+ "names": {
+  "name": "How far the city spread",
+  "th": "เมืองแผ่ไปไกลแค่ไหน",
+  "said": "13 km² built up in 1952; 137 km² in 2009. Ten times, in the lifetime of one yang tree.",
+  "said_th": "พื้นที่สิ่งปลูกสร้าง 13 ตร.กม. ปี 2495 137 ตร.กม. ปี 2552 สิบเท่า ในช่วงชีวิตต้นยางต้นเดียว"
+ },
+ "region": [
+  "province"
+ ],
+ "facets": {
+  "year": "2009"
+ },
+ "text": {
+  "what": "A Chiang Mai University study of Landsat scenes puts the built-up area at 13 km² in 1952 and 137 km² in 2009. Within the comprehensive-plan boundary, urban land went from 10.6 percent in 1989 to 12.1 in 2000 and 18.3 in 2009, with a model projecting 38 percent in 2010 to 80 percent in 2030; buildings rose a third between 2000 and 2013, a fifth of the growth outside zoned areas. The metropolitan area is put at 1,059,462 people over 3,142 km² in 2024.",
+  "story": "*Inference —* every ring on this site was drawn around a city a fraction of this size. The outer ring was fixed in 1989, when the built-up area was a tenth of the plan boundary; by the time it closed the city was at the ring."
+ },
+ "text_th": {
+  "what": "การศึกษาของ ม.เชียงใหม่ จากภาพแลนด์แซตให้พื้นที่สิ่งปลูกสร้าง 13 ตร.กม. ปี 2495 และ 137 ตร.กม. ปี 2552 ในเขตผังเมืองรวม พื้นที่เมืองจากร้อยละ 10.6 ปี 2532 เป็น 12.1 ปี 2543 และ 18.3 ปี 2552 แบบจำลองคาดร้อยละ 38 ปี 2553 ถึง 80 ปี 2573 อาคารเพิ่มหนึ่งในสามระหว่าง 2543–2556 หนึ่งในห้าของการเติบโตอยู่นอกเขตผัง เขตมหานครมีคน 1,059,462 บน 3,142 ตร.กม. ปี 2567",
+  "story": "*อนุมาน —* วงแหวนทุกวงบนเว็บนี้วาดรอบเมืองที่เล็กกว่านี้หลายเท่า วงแหวนรอบนอกกำหนดปี 2532 ตอนพื้นที่สิ่งปลูกสร้างเป็นหนึ่งในสิบของเขตผัง พอมันปิดวง เมืองก็มาถึงวงแล้ว"
+ },
+ "figure": {
+  "value": 137,
+  "unit": "km² built up, 2009",
+  "unit_th": "ตร.กม. สิ่งปลูกสร้าง 2552",
+  "year": "2009",
+  "source": "s:sangawongse-2019",
+  "series": [
+   {
+    "label": "1952",
+    "value": 13
+   },
+   {
+    "label": "2009",
+    "value": 137
+   }
+  ],
+  "method": "Abstract figures from a peer-reviewed Landsat study; a second study's 339 km² for 2000 uses a different boundary and is not mixed in.",
+  "method_th": "ตัวเลขจากบทคัดย่อของงานวิจัยแลนด์แซต งานที่สองให้ 339 ตร.กม. ปี 2543 ใช้เขตต่างกันและไม่นำมาปน"
+ },
+ "kin": [
+  {
+   "to": "era-rings-1984-2006",
+   "as": "When the rings were drawn on it.",
+   "rel": "era"
+  },
+  {
+   "to": "ton-yang-road",
+   "as": "The tree.",
+   "rel": "road"
+  }
+ ],
+ "sources": [
+  "s:sangawongse-2019",
+  "s:urban-planning-2017",
+  "s:wp-cm-metro"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:sangawongse-2019"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "built-up-area/built-up-area-chiang-mai-panorama-from-doi-suthep-lookout-2014-08-08.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Panorama from Doi Suthep Lookout (2014-08-08).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chiang_Mai_Panorama_from_Doi_Suthep_Lookout_%282014-08-08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panorama_from_Doi_Suthep_Lookout_%282014-08-08%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Pratyeka",
+   "credit": "Own work",
+   "alt": "A panorama looking east back to the city of Chiang Mai from the lookout half-way up Doi Suthep, a famous mountain to the west of the city.",
+   "date": "2014-08-08 10:25:29",
+   "primary": true,
+   "sha256": "523981043594b01a82d0ca30ca1f9bf2179623d8d89c499d9ae51c100438bdf9"
+  },
+  {
+   "file": "built-up-area/built-up-area-chiangmai-view.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai view.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chiangmai_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_view.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Thaimissions2006 at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "alt": "View from Doi Suthep mountain over Chiang Mai city, northern Thailand",
+   "date": "18 April 2007 (original upload date)",
+   "primary": false,
+   "sha256": "e5a6b14d0bfd38647b4894451c9767a91aeea9ee777e923cd1c4dee68226ba89"
+  }
+ ],
+ "kin_in": []
+}

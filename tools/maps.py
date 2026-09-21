@@ -26,7 +26,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import geo  # noqa: E402
 from common import BUILD, ROOT, jload, load_harvest, load_nodes  # noqa: E402
-from measure import CENTRE, MOAT, ZONES, zone_of  # noqa: E402
+from measure import CENTRE, MOAT, ZONES, place_point, zone_of  # noqa: E402
 
 SITE = BUILD / "site"
 WIDTH = 1400
@@ -162,9 +162,10 @@ def oldcity_svg(ways, places, recs) -> str:
             s.append(f'<circle class="gate" cx="{x:.0f}" cy="{y:.0f}" r="7"/>\n')
             nm = r["names"].get("th", r["names"]["name"])
             s.append(label(p, r["geo"]["lat"], r["geo"]["lon"], nm, "lbl small", dy=-14))
-    wats = [r for r in places if r.get("kind") == "wat" and "lat" in r and box[0] <= r["lat"] <= box[2] and box[1] <= r["lon"] <= box[3]]
-    for r in wats:
-        x, y = p.xy(r["lat"], r["lon"])
+    wats = [q for q in (place_point(r) for r in places if r.get("kind") == "wat")
+            if q and box[0] <= q[0] <= box[2] and box[1] <= q[1] <= box[3]]
+    for q in wats:
+        x, y = p.xy(q[0], q[1])
         s.append(f'<circle class="wat" cx="{x:.0f}" cy="{y:.0f}" r="4"/>\n')
     s.append(label(p, 18.788, 98.988, "ถนนราชดำเนิน Ratchadamnoen", "lbl small", dy=-6))
     s.append(geo.metre_bar(p, 500))

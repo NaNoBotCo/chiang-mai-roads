@@ -1,0 +1,53 @@
+{
+ "id": "tim-chotana",
+ "type": "person",
+ "names": {
+  "name": "Tim Chotana",
+  "th": "นายทิม โชตนา",
+  "rtgs": "Thim Chotana",
+  "said": "A highway supervisor whose name is on the road north.",
+  "said_th": "นายช่างแขวงตี้ชื่ออยู่บนถนนขึ้นเหนือ"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "A former highway division supervisor. The city stretch of Route 107, from Chang Phueak Gate north, was named Chotana Road after him on 12 December 1950. Nothing else about him is on this disk."
+ },
+ "text_th": {
+  "what": "อดีตนายช่างแขวงการทาง ทางหลวง 107 ช่วงในเมืองจากประตูช้างเผือกขึ้นเหนือ ตั้งชื่อถนนโชตนาตามท่านวันที่ 12 ธันวาคม 2493 เรื่องอื่นของท่านบ่มีในแผ่นนี้"
+ },
+ "kin": [
+  {
+   "to": "route-107",
+   "as": "The road.",
+   "rel": "highway"
+  }
+ ],
+ "sources": [
+  "s:thwp-107"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-107"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "chotana-road",
+   "type": "road",
+   "name": "Chotana Road",
+   "as": "Who it is named for."
+  }
+ ]
+}

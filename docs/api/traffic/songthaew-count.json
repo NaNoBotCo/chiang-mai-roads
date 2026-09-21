@@ -1,0 +1,153 @@
+{
+ "id": "songthaew-count",
+ "type": "traffic",
+ "names": {
+  "name": "The red trucks, counted",
+  "th": "รถแดง นับแล้ว",
+  "said": "2,800 in 2017, 2,465 in 2018, about 2,100 in 2024; app cars 3,000 to 4,000, of which under 200 are registered.",
+  "said_th": "2,800 ปี 2560 2,465 ปี 2561 ราว 2,100 ปี 2567 รถแอป 3,000 ถึง 4,000 จดทะเบียนไม่ถึง 200"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2024"
+ },
+ "text": {
+  "what": "The cooperative that runs the red songthaew was founded 1978 with 21 routes. Its president's census in May 2024: red 2,100, yellow 823, white 100, green 70 to 80, blue 50 to 60, metered taxis 100, tuk-tuks 100, rental vans 1,000, app-based vehicles 3,000 to 4,000 of which fewer than 200 registered. A charter inside the middle ring is capped at 250 baht, a circular ride at 30. The city bus, RTC, carried 102 passengers a day after the pandemic on three routes at 50 baht, losing about 300,000 baht a month. The provincial subcommittee's April 2026 minutes put the city at about a million trips a day and set a public-transport target of 13 percent with a 15 baht flat fare.",
+  "story": "*Inference —* the red truck is losing a third of its fleet a decade to the phone, and the bus that was meant to replace both carries a hundred people a day. The million trips are still happening; they have moved to a vehicle nobody counts."
+ },
+ "text_th": {
+  "what": "สหกรณ์ที่เดินรถแดงตั้งปี 2521 มี 21 เส้นทาง สำมะโนของประธานเดือนพฤษภาคม 2567 แดง 2,100 เหลือง 823 ขาว 100 เขียว 70–80 น้ำเงิน 50–60 แท็กซี่มิเตอร์ 100 ตุ๊กตุ๊ก 100 รถตู้เช่า 1,000 รถแอป 3,000–4,000 จดทะเบียนไม่ถึง 200 เหมาในวงแหวนรอบกลางเพดาน 250 บาท วิ่งวนรอบ 30 บาท รถเมล์เมือง RTC รับผู้โดยสารวันละ 102 คนหลังโควิดบนสามสาย 50 บาท ขาดทุนราวเดือนละ 300,000 รายงานอนุกรรมการจังหวัดเมษายน 2569 ให้เมืองมีการเดินทางราววันละหนึ่งล้านเที่ยว และตั้งเป้าขนส่งสาธารณะร้อยละ 13 ด้วยค่าโดยสาร 15 บาทตลอดสาย",
+  "story": "*อนุมาน —* รถแดงเสียหนึ่งในสามของกองรถต่อทศวรรษให้โทรศัพท์ และรถเมล์ที่ตั้งใจแทนทั้งสองรับคนวันละร้อยคน การเดินทางล้านเที่ยวยังเกิดอยู่ มันย้ายไปพาหนะที่บ่มีใครนับ"
+ },
+ "figure": {
+  "value": 2100,
+  "unit": "red songthaew, May 2024",
+  "unit_th": "รถแดง พฤษภาคม 2567",
+  "year": "2024",
+  "source": "s:tcij-13641",
+  "series": [
+   {
+    "label": "2017",
+    "value": 2800,
+    "source": "s:prachatai-11232"
+   },
+   {
+    "label": "2018",
+    "value": 2465,
+    "source": "s:prachatai-11232"
+   },
+   {
+    "label": "2024",
+    "value": 2100,
+    "source": "s:tcij-13641"
+   }
+  ],
+  "method": "Counts as given by the cooperative and reported by Prachatai and TCIJ; not a registry.",
+  "method_th": "ตัวเลขตามที่สหกรณ์ให้และประชาไทกับ TCIJ รายงาน ไม่ใช่ทะเบียน"
+ },
+ "kin": [
+  {
+   "to": "rot-daeng",
+   "as": "The word.",
+   "rel": "word"
+  },
+  {
+   "to": "public-transport-share",
+   "as": "The target.",
+   "rel": "traffic"
+  },
+  {
+   "to": "lrt-red-line",
+   "as": "The rail that would join them.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:prachatai-11232",
+  "s:tcij-13641",
+  "s:prachatai-11234",
+  "s:momentum-rtc",
+  "s:cm-traffic-minutes-2569"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:prachatai-11232"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "songthaew-count/songthaew-count-chiang-mai-thailand-taxis-at-arcade-bus-station-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Taxis-at-Arcade-Bus-Station-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chiang-Mai_Thailand_Taxis-at-Arcade-Bus-Station-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Taxis-at-Arcade-Bus-Station-01.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Tour taxis, waiting at the Arcade bus terminal",
+   "date": "2009-11-20",
+   "primary": true,
+   "sha256": "151c7ec1002147535c3f219e4cc2ce6e8d288cad0515df96fb52c338ddfd3ed9"
+  },
+  {
+   "file": "songthaew-count/songthaew-count-red-car-chiang-mai-2.jpg",
+   "source": "commons",
+   "title": "File:Red Car Chiang Mai (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Red_Car_Chiang_Mai_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARed_Car_Chiang_Mai_%282%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Patiparn.Nice2002bkk",
+   "credit": "Own work",
+   "alt": "Red Car Chiang Mai",
+   "date": "2022-04-10 13:02:18",
+   "primary": false,
+   "sha256": "4b3f72f9323b86507a14458b234fa90244ad77dc34e5f37cc8cf4df86cd66f7c"
+  },
+  {
+   "file": "songthaew-count/songthaew-count-rot-daeng-in-downtown-chiang-mai.jpg",
+   "source": "commons",
+   "title": "File:Rot Daeng in downtown Chiang Mai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rot_Daeng_in_downtown_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARot_Daeng_in_downtown_Chiang_Mai.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Manop",
+   "credit": "Own work",
+   "alt": "การจราจรในเมืองเชียงใหม่",
+   "date": "2008-07-26",
+   "primary": false,
+   "sha256": "d3d47acacf7bf6839d4866c7146473d458262d4772c1469189187dbde807adfd"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "public-transport-share",
+   "type": "traffic",
+   "name": "The public-transport share, and the target",
+   "as": "The fleet that exists."
+  },
+  {
+   "from": "rot-daeng",
+   "type": "word",
+   "name": "รถแดง rot daeng",
+   "as": "How many, counted."
+  }
+ ]
+}

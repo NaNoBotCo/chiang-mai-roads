@@ -4,8 +4,8 @@
  "names": {
   "name": "Road bridges over the Ping, counted",
   "th": "ขัวรถข้ามแม่ปิง นับแล้ว",
-  "said": "0 road crossings of the river inside the box, off the map.",
-  "said_th": "0 จุดข้ามแม่น้ำด้วยรถในกรอบ นับจากแผนที่"
+  "said": "23 road crossings of the river inside the box, off the map.",
+  "said_th": "23 จุดข้ามแม่น้ำด้วยรถในกรอบ นับจากแผนที่"
  },
  "region": [
   "city"
@@ -14,20 +14,101 @@
   "year": "2026"
  },
  "text": {
-  "what": "A bridge way that crosses a way named Ping, with the two carriageways of a dual bridge collapsed to one: 0 in the harvest box, from Mae Rim to Saraphi. 1084 bridge ways in all, over the moat, the canals, the railway and the ring roads. The river geometry was not in the harvest when this was written, so the count is a floor of zero and the page says so.",
+  "what": "A bridge way that crosses a way named Ping, with the two carriageways of a dual bridge collapsed to one: 23 in the harvest box, from Mae Rim to Saraphi. 1329 bridge ways in all, over the moat, the canals, the railway and the ring roads. Named: Ban Hua Lim - Ban Nong Duea Road; สะพานวัดวังสิงห์คำ-ตำหนัก; ถนนวงแหวนรอบนอก; ถนนสมโภชเชียงใหม่ 700 ปี; ถนนมหิดล; สะพานนวรัฐ; สะพานนครพิงค์; ถนนรัตนโกสินทร์; ถนนซุปเปอร์ไฮเวย์; โชตนา ซอย22; ถนนเลี่ยงเมืองแม่ริม.",
   "story": "*Inference —* the river the founders kept a kilometre away is now crossed every few hundred metres in the centre and twice by the outer ring. The crossings are where the flood of 2024 was measured and where the traffic queues; the two facts are the same fact."
  },
  "text_th": {
-  "what": "เส้นทางสะพานที่ตัดเส้นทางชื่อปิง รวมสองฝั่งของสะพานคู่เป็นหนึ่ง 0 แห่งในกรอบ จากแม่ริมถึงสารภี เส้นทางสะพานทั้งหมด 1084 เส้น ข้ามคู เหมืองฝาย ทางรถไฟ และวงแหวน แนวแม่น้ำยังไม่อยู่ในการเก็บข้อมูลตอนเขียน จำนวนจึงเป็นค่าต่ำสุดที่ศูนย์ และหน้านี้บอกไว้",
+  "what": "เส้นทางสะพานที่ตัดเส้นทางชื่อปิง รวมสองฝั่งของสะพานคู่เป็นหนึ่ง 23 แห่งในกรอบ จากแม่ริมถึงสารภี เส้นทางสะพานทั้งหมด 1329 เส้น ข้ามคู เหมืองฝาย ทางรถไฟ และวงแหวน ชื่อ: Ban Hua Lim - Ban Nong Duea Road; สะพานวัดวังสิงห์คำ-ตำหนัก; ถนนวงแหวนรอบนอก; ถนนสมโภชเชียงใหม่ 700 ปี; ถนนมหิดล; สะพานนวรัฐ; สะพานนครพิงค์; ถนนรัตนโกสินทร์; ถนนซุปเปอร์ไฮเวย์; โชตนา ซอย22; ถนนเลี่ยงเมืองแม่ริม",
   "story": "*อนุมาน —* แม่น้ำที่ผู้สร้างเมืองกันไว้หนึ่งกิโล ตอนนี้ถูกข้ามทุกไม่กี่ร้อยเมตรในใจกลางและสองครั้งโดยวงแหวนรอบนอก จุดข้ามคือตี้น้ำท่วมปี 2567 ถูกวัดและตี้รถต่อคิว สองข้อเท็จจริงคือข้อเดียวกัน"
  },
  "figure": {
-  "value": 0,
+  "value": 23,
   "unit": "road bridges over the Ping in the box",
   "unit_th": "ขัวรถข้ามแม่ปิงในกรอบ",
   "year": "2026",
   "source": "s:osm",
-  "series": [],
+  "series": [
+   {
+    "label": "unnamed at 18.663",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.670",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.673",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.680",
+    "value": 1
+   },
+   {
+    "label": "Ban Hua Lim - Ban Nong Duea Road",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.686",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.687",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.691",
+    "value": 1
+   },
+   {
+    "label": "สะพานวัดวังสิงห์คำ-ตำหนัก",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.720",
+    "value": 3
+   },
+   {
+    "label": "ถนนวงแหวนรอบนอก",
+    "value": 3
+   },
+   {
+    "label": "unnamed at 18.742",
+    "value": 1
+   },
+   {
+    "label": "ถนนสมโภชเชียงใหม่ 700 ปี",
+    "value": 4
+   },
+   {
+    "label": "unnamed at 18.752",
+    "value": 1
+   },
+   {
+    "label": "ถนนมหิดล",
+    "value": 2
+   },
+   {
+    "label": "unnamed at 18.766",
+    "value": 1
+   },
+   {
+    "label": "สะพานนวรัฐ",
+    "value": 1
+   },
+   {
+    "label": "สะพานนครพิงค์",
+    "value": 1
+   },
+   {
+    "label": "ถนนรัตนโกสินทร์",
+    "value": 1
+   },
+   {
+    "label": "unnamed at 18.810",
+    "value": 2
+   }
+  ],
   "method": "Segment intersection between bridge=yes drivable ways and waterway=river ways whose name carries ปิง or Ping; groups within 120 m or sharing a name are one bridge.",
   "method_th": "การตัดกันของช่วงระหว่างเส้นทางรถวิ่งได้ที่ bridge=yes กับเส้นทาง waterway=river ที่ชื่อมีปิงหรือ Ping กลุ่มในระยะ 120 เมตรหรือชื่อเดียวกันนับเป็นหนึ่งสะพาน"
  },

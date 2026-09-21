@@ -1,0 +1,97 @@
+{
+ "id": "nimman-sois",
+ "type": "lane",
+ "names": {
+  "name": "The Nimman sois",
+  "th": "ซอยนิมมานเหมินท์",
+  "rtgs": "Soi Nimmanhemin",
+  "said": "Seventeen cuts off 1.3 km of road, each one a different evening.",
+  "said_th": "สิบเจ็ดซอยจากถนน 1.3 กิโล แต่ละซอยคือค่ำคืนคนละแบบ"
+ },
+ "region": [
+  "ring1"
+ ],
+ "text": {
+  "what": "The numbered lanes off Nimmanhaemin Road, odd on the west side and even on the east. Soi 1 has held a festival since 1999. The lanes are counted on the measurements page from the map; the count of businesses on them is Mot Dang's job, not this site's."
+ },
+ "text_th": {
+  "what": "ซอยเลขที่แยกจากถนนนิมมานเหมินท์ คี่ฝั่งตะวันตก คู่ฝั่งตะวันออก ซอย 1 มีเทศกาลตั้งแต่ 2542 ซอยถูกนับบนหน้าการวัดจากแผนที่ จำนวนร้านในซอยเป็นงานของมดแดง บ่ใช่เว็บนี้"
+ },
+ "geo": {
+  "lat": 18.7975,
+  "lon": 98.9675,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "nimmanhaemin-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "soi-numbering",
+   "as": "The rule.",
+   "rel": "lane"
+  }
+ ],
+ "tags": [
+  "night",
+  "market"
+ ],
+ "links": [
+  {
+   "label": "Roads and sois on Mot Dang — every place, by road",
+   "url": "https://motdang.net/soi.html"
+  }
+ ],
+ "sources": [
+  "s:becommon-nimman",
+  "s:motdang-soi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:becommon-nimman"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "nimman-sois/nimman-sois-nimmanhemin-street-panoramio.jpg",
+   "source": "commons",
+   "title": "File:Nimmanhemin street - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Nimmanhemin_street_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhemin_street_-_panoramio.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "gary4now",
+   "credit": "https://web.archive.org/web/20161110183317/http://www.panoramio.com/photo/47682935",
+   "alt": "Nimmanhemin street",
+   "date": "Taken on 6 July 2008",
+   "primary": true,
+   "sha256": "2f768437b2935cad58c3871a45933f80a072918513a77052fadb52837576275f"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nimmanhaemin-road",
+   "type": "road",
+   "name": "Nimmanhaemin Road",
+   "as": "The seventeen cuts off it."
+  },
+  {
+   "from": "soi-numbering",
+   "type": "lane",
+   "name": "How a soi gets its number",
+   "as": "The worked example."
+  }
+ ]
+}

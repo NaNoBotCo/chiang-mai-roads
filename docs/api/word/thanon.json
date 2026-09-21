@@ -1,0 +1,102 @@
+{
+ "id": "thanon",
+ "type": "word",
+ "names": {
+  "name": "ถนน thanon",
+  "th": "ถนน",
+  "rtgs": "thanon"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ถนน thanon ← Khmer ថ្នល់ thnal, a raised road. The word for a made road, as against thang, a way.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The standard word, used in both registers. A thanon is built; a thang is only gone along."
+ },
+ "text_th": {
+  "what": "คำมาตรฐาน ใช้ทั้งสองสำเนียง ถนนคือสิ่งที่ถูกสร้าง ทางคือสิ่งที่แค่เดินไป"
+ },
+ "word": {
+  "th": "ถนน",
+  "rtgs": "thanon",
+  "ipa": "/tʰa.nǒn/",
+  "standard": "ถนน",
+  "standard_rtgs": "thanon",
+  "gloss": "road, street",
+  "gloss_th": "ถนน",
+  "example": "ถนนท่าแพ",
+  "example_gloss": "Thanon Tha Phae — Tha Phae Road"
+ },
+ "kin": [
+  {
+   "to": "thang",
+   "as": "The other word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "thanon/thanon-charoen-rajd-road-in-chiang-mai-1.jpg",
+   "source": "commons",
+   "title": "File:Charoen Rajd Road in Chiang Mai 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Charoen_Rajd_Road_in_Chiang_Mai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ACharoen_Rajd_Road_in_Chiang_Mai_1.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Charoen Rajd Road in Chiang Mai.",
+   "date": "2018-09-06 15:25:11",
+   "primary": true,
+   "sha256": "ab6391f0899224cc034c2b62da745bc71d1b7671139151a82f1c9a87bb3f3e1d"
+  },
+  {
+   "file": "thanon/thanon-chiang-mai-chayiaphoom-road-0001.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai - Chayiaphoom Road - 0001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Chiang_Mai_-_Chayiaphoom_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chayiaphoom_Road_-_0001.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Stefan Fussan",
+   "credit": "Own work - My images are also available on MyPortfolio",
+   "alt": "Chayiaphoom Road, Chiang Mai, Thailand",
+   "date": "2014-05-23",
+   "primary": false,
+   "sha256": "da8f36cac4d4a928fc864b1ea99759bb54cef50768030f6bcdee45d94a3a84b7"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "thang",
+   "type": "word",
+   "name": "ทาง thang",
+   "as": "The other word."
+  }
+ ]
+}

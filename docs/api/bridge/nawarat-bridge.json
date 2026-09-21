@@ -1,0 +1,176 @@
+{
+ "id": "nawarat-bridge",
+ "type": "bridge",
+ "names": {
+  "name": "Nawarat Bridge",
+  "th": "สะพานนวรัฐ",
+  "rtgs": "Saphan Nawarat",
+  "aliases": [
+   "ขัวแขก"
+  ],
+  "said": "Teak about 1890, steel 1923 after the teak burned, concrete 1967. The gauge that read 5.30 m is on it.",
+  "said_th": "ไม้สักราว 2433 เหล็ก 2466 หลังไม้ไหม้ คอนกรีต 2510 สถานีวัดน้ำตี้อ่านได้ 5.30 เมตรอยู่บนมัน"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "superhighway",
+  "year": "1967"
+ },
+ "text": {
+  "what": "The bridge at the foot of Tha Phae Road, named for Chao Kaew Nawarat, the last ruler. A teak bridge about 1890; a steel one begun 1921 after the wooden one burned and opened 1923; the present reinforced-concrete bridge completed 1967 and opened 26 December that year. The Ping gauge P.1 is here, and it read 5.30 m at noon on 5 October 2024."
+ },
+ "text_th": {
+  "what": "ขัวตีนถนนท่าแพ ตั้งชื่อตามเจ้าแก้วนวรัฐ เจ้าหลวงองค์สุดท้าย ขัวไม้สักราว 2433 ขัวเหล็กเริ่ม 2464 หลังขัวไม้ไหม้ เปิด 2466 ขัวคอนกรีตเสริมเหล็กปัจจุบันเสร็จ 2510 เปิด 26 ธันวาคมปีนั้น สถานีวัดน้ำ P.1 อยู่ตรงนี้ และอ่านได้ 5.30 เมตรตอนเที่ยง 5 ตุลาคม 2567"
+ },
+ "road": {
+  "opened": "1967-12-26",
+  "osm_names": [
+   "สะพานนวรัฐ",
+   "Nawarat Bridge",
+   "Nawarat"
+  ]
+ },
+ "geo": {
+  "lat": 18.7877,
+  "lon": 99.0033,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "chao-kaew-nawarat",
+   "as": "Who it is named for.",
+   "rel": "person"
+  },
+  {
+   "to": "tha-phae-road",
+   "as": "What it carries.",
+   "rel": "road"
+  },
+  {
+   "to": "ping-crossings",
+   "as": "Counted with the rest.",
+   "rel": "measure"
+  },
+  {
+   "to": "khua",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage",
+  "flood"
+ ],
+ "sources": [
+  "s:thwp-nawarat",
+  "s:prachatai-110951"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-nawarat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "nawarat-bridge/nawarat-bridge-nawarat-bridge-1.jpg",
+   "source": "commons",
+   "title": "File:Nawarat Bridge 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nawarat_Bridge_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ANawarat_Bridge_1.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Rinto Jiang",
+   "credit": "Own work",
+   "alt": "Nawarat Bridge in the night",
+   "date": "2007-01-25",
+   "primary": true,
+   "sha256": "017f589cdf2f902b2ad3789e06044acfa4b611f6f583b1fd779867040125a186"
+  },
+  {
+   "file": "nawarat-bridge/nawarat-bridge-.jpg",
+   "source": "commons",
+   "title": "File:สะพานนวรัฐ อ.เมือง จ.เชียงใหม่.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%90_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%90_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "alt": "สะพานนวรัฐ อ.เมือง จ.เชียงใหม่.jpg",
+   "date": "2023-04-03 16:34:25",
+   "primary": false,
+   "sha256": "6d2a89bec6380428a196bdab7a44aceeec9953a0dd86245746ab1c3a54e49f14"
+  },
+  {
+   "file": "nawarat-bridge/nawarat-bridge-navarat-bridge-chiangmai-1954.jpg",
+   "source": "commons",
+   "title": "File:สะพานนวรัตน์ เชียงใหม่ Navarat Bridge Chiangmai 1954.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Navarat_Bridge_Chiangmai_1954.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Photography Section, Public Relations Department / Thailand Illustrated",
+   "credit": "Thailand Illustrates (September 1954 Issue); retrieved from digital scans by National Library of Thailand",
+   "alt": "Navarat Bridge in 1954",
+   "date": "circa 1954date QS:P,+1954-00-00T00:00:00",
+   "primary": false,
+   "sha256": "fab3fd58fd8987a673f518378127dbfbcec0cfe8c6f295b72667a86c9de175ac"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "tha-phae-road",
+   "type": "road",
+   "name": "Tha Phae Road",
+   "as": "Its foot."
+  },
+  {
+   "from": "iron-bridge",
+   "type": "bridge",
+   "name": "Khua Lek, the Iron Bridge",
+   "as": "Its neighbour upstream."
+  },
+  {
+   "from": "era-kawila-1796-1900",
+   "type": "era",
+   "name": "1796–1900 — Kawila's rebuilding",
+   "as": "The first bridge."
+  },
+  {
+   "from": "ping-crossings",
+   "type": "measure",
+   "name": "Road bridges over the Ping, counted",
+   "as": "The one with the gauge."
+  },
+  {
+   "from": "the-day-the-river-came-up-tha-phae",
+   "type": "story",
+   "name": "The day the river came up Tha Phae",
+   "as": "The gauge."
+  },
+  {
+   "from": "chao-kaew-nawarat",
+   "type": "person",
+   "name": "Chao Kaew Nawarat",
+   "as": "Named for him."
+  },
+  {
+   "from": "ping-river",
+   "type": "place",
+   "name": "The Ping",
+   "as": "The gauge is on it."
+  }
+ ]
+}

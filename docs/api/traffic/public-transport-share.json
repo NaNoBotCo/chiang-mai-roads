@@ -1,0 +1,121 @@
+{
+ "id": "public-transport-share",
+ "type": "traffic",
+ "names": {
+  "name": "The public-transport share, and the target",
+  "th": "สัดส่วนขนส่งสาธารณะ และเป้า",
+  "said": "3.8 percent of trips in 2024 by the ministry's own table; 13 percent by the province's plan; 20 percent by 2032.",
+  "said_th": "ร้อยละ 3.8 ของการเดินทางปี 2567 ตามตารางของกระทรวงเอง ร้อยละ 13 ตามแผนจังหวัด ร้อยละ 20 ภายใน 2575"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2024"
+ },
+ "text": {
+  "what": "The transport ministry's public-transport master plan for the city carries a KPI table: 3.8 percent of trips in 2024, 5.9 in 2025, 7.9 in 2026, 10 in 2027, rising to 20 percent from 2032. Whether the 2024 value is measured or a baseline is not stated. The provincial subcommittee's 2026 minutes model 13 percent, about 130,000 trips and 60,000 riders, on a 15 baht flat fare with 17 electric bus routes, 746 stops, 733 km, 238 buses in 2026 and 146 more in 2032; a 400 m catchment would reach 341,109 people, 45 percent of the study area."
+ },
+ "text_th": {
+  "what": "แผนแม่บทขนส่งสาธารณะของกระทรวงคมนาคมสำหรับเมืองมีตารางตัวชี้วัด ร้อยละ 3.8 ของการเดินทางปี 2567 5.9 ปี 2568 7.9 ปี 2569 10 ปี 2570 ขึ้นถึงร้อยละ 20 ตั้งแต่ 2575 ค่าปี 2567 เป็นค่าวัดหรือค่าฐานไม่ระบุ รายงานอนุกรรมการจังหวัด 2569 จำลองร้อยละ 13 ราว 130,000 เที่ยวและผู้ใช้ 60,000 คน ด้วยค่าโดยสาร 15 บาทตลอดสาย รถเมล์ไฟฟ้า 17 สาย 746 ป้าย 733 กม. 238 คันปี 2569 และอีก 146 ปี 2575 รัศมี 400 เมตรจากป้ายครอบคลุม 341,109 คน ร้อยละ 45 ของพื้นที่ศึกษา"
+ },
+ "figure": {
+  "value": "3.8%",
+  "unit": "public-transport share of trips, 2024, as tabled",
+  "unit_th": "สัดส่วนขนส่งสาธารณะของการเดินทาง 2567 ตามตาราง",
+  "year": "2024",
+  "source": "s:otp-ch8",
+  "series": [
+   {
+    "label": "2024",
+    "value": "3.8%"
+   },
+   {
+    "label": "2025",
+    "value": "5.9%"
+   },
+   {
+    "label": "2026",
+    "value": "7.9%"
+   },
+   {
+    "label": "2027",
+    "value": "10%"
+   },
+   {
+    "label": "2032 on",
+    "value": "20%"
+   }
+  ],
+  "method": "OTP chapter 8 KPI table; the series is a target path, and the page says so.",
+  "method_th": "ตารางตัวชี้วัดบทที่ 8 ของ สนข. ชุดข้อมูลคือเส้นทางเป้าหมาย และหน้านี้บอกไว้"
+ },
+ "kin": [
+  {
+   "to": "songthaew-count",
+   "as": "The fleet that exists.",
+   "rel": "traffic"
+  },
+  {
+   "to": "lrt-red-line",
+   "as": "The plan.",
+   "rel": "plan"
+  }
+ ],
+ "sources": [
+  "s:otp-ch8",
+  "s:cm-traffic-minutes-2569"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:otp-ch8"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "public-transport-share/public-transport-share-green-bus-chiang-mai-bus.jpg",
+   "source": "commons",
+   "title": "File:GREEN BUS Chiang Mai Bus.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/GREEN_BUS_Chiang_Mai_Bus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AGREEN_BUS_Chiang_Mai_Bus.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Khxwklong",
+   "credit": "Own work",
+   "alt": "GREEN BUS Chiang Mai Bus",
+   "date": "2024-04-03 15:32:27",
+   "primary": true,
+   "sha256": "1161066d3aa3bcb3747260b99443c0993dc5a825d91e848727f88ac68d4ad1c1"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "lrt-red-line",
+   "type": "plan",
+   "name": "Chiang Mai light rail, the Red Line",
+   "as": "The share it is meant to lift."
+  },
+  {
+   "from": "congestion-index",
+   "type": "traffic",
+   "name": "How slow: the TomTom index",
+   "as": "The other side of the same number."
+  },
+  {
+   "from": "songthaew-count",
+   "type": "traffic",
+   "name": "The red trucks, counted",
+   "as": "The target."
+  }
+ ]
+}

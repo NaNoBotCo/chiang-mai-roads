@@ -1,0 +1,1817 @@
+{
+ "type": "road",
+ "count": 13,
+ "nodes": [
+  {
+   "id": "chang-klan-road",
+   "type": "road",
+   "names": {
+    "name": "Chang Klan Road",
+    "th": "ถนนช้างคลาน",
+    "rtgs": "Thanon Chang Khlan",
+    "said": "The night bazaar's road, on the line of the earthen wall's trading quarter.",
+    "said_th": "ถนนของไนท์บาซาร์ บนแนวย่านค้าของกำแพงดิน"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam"
+   },
+   "text": {
+    "what": "South from the Tha Phae junction, between the old city and the river, through the quarter where British, Burmese, Indian, Yunnanese and Thai traders settled after the railway. The Night Bazaar runs along it from the head of Charoen Prathet Road; it began as a charity market on the Chong Fa school field and was at least thirty years old by 2015. The precise start year is not on this disk."
+   },
+   "text_th": {
+    "what": "ลงใต้จากแยกท่าแพ ระหว่างเวียงเก่ากับแม่น้ำ ผ่านย่านที่พ่อค้าอังกฤษ พม่า อินเดีย ยูนนาน และไทยมาตั้งหลักหลังรถไฟมา ไนท์บาซาร์เรียงตามถนนจากหัวถนนเจริญประเทศ เริ่มจากตลาดการกุศลบนสนามโรงเรียนช่องฟ้า และมีอายุอย่างน้อยสามสิบปีในปี 2558 ปีเริ่มที่แน่นอนบ่มีในแผ่นนี้"
+   },
+   "road": {
+    "from": "Tha Phae Road",
+    "from_th": "ถนนท่าแพ",
+    "to": "Chiang Mai Land",
+    "to_th": "เชียงใหม่แลนด์",
+    "osm_names": [
+     "ถนนช้างคลาน",
+     "Chang Klan Road",
+     "Chang Khlan Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.784,
+    "lon": 98.9995,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "kamphaeng-din",
+     "as": "The wall it runs inside.",
+     "rel": "place"
+    },
+    {
+     "to": "kamphaeng-din-road",
+     "as": "Its neighbour.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "night",
+    "market",
+    "flood"
+   ],
+   "sources": [
+    "s:reviewcm-night-bazaar",
+    "s:topcm-chang-klan",
+    "s:thairath-2816966"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:reviewcm-night-bazaar"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chang-klan-road/chang-klan-road-chiang-mai-night-bazaar1.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Night Bazaar1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_Night_Bazaar1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Night_Bazaar1.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Rlevse",
+     "credit": "personal collection",
+     "alt": "Took-took (tuk-tuk) at the Chiang Mai night bazaar",
+     "date": "2008-03-25",
+     "primary": true,
+     "sha256": "5813d10345f7646c0340fbb4a831b44fd9ba8c849429f31d20f4872a22778b0b"
+    },
+    {
+     "file": "chang-klan-road/chang-klan-road-chiangmai-nightbazaar-3.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai Nightbazaar-3.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chiangmai_Nightbazaar-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Nightbazaar-3.JPG",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Rinto Jiang",
+     "credit": "Own work",
+     "alt": "Chiang Mai Night Bazaar (Chang Khlan Road)",
+     "date": "2007-01-24",
+     "primary": false,
+     "sha256": "f6ae20a1fbe5aa7f6c0e4f6a74c9333485574b9a708a48f1f36c6352e66d9ee6"
+    },
+    {
+     "file": "chang-klan-road/chang-klan-road-dgj-3864-buy-buy-buy-3708439994.jpg",
+     "source": "commons",
+     "title": "File:DGJ 3864 - Buy, Buy, Buy...... (3708439994).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/DGJ_3864_-_Buy%2C_Buy%2C_Buy......_%283708439994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ADGJ_3864_-_Buy%2C_Buy%2C_Buy......_%283708439994%29.jpg",
+     "license": "CC BY-SA 2.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+     "author": "Dennis G. Jarvis",
+     "credit": "DGJ_3864 - Buy, Buy, Buy......",
+     "alt": "Walking back to the hotel we went along the Night Bazaar area on Chang Klan Road. Various shops and products from many places in Thailand. The Night Bazaar area has a variety of magnificent cultural s",
+     "date": "2009-02-07 10:07",
+     "primary": false,
+     "sha256": "998ec2f5f76e14249a7a16669c0d8c20c5b35088258c95eeb9781b0eead67d65"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "kamphaeng-din-road",
+     "type": "road",
+     "name": "Kamphaeng Din Road",
+     "as": "Its neighbour."
+    }
+   ]
+  },
+  {
+   "id": "chang-moi-road",
+   "type": "road",
+   "names": {
+    "name": "Chang Moi Road",
+    "th": "ถนนช้างม่อย",
+    "rtgs": "Thanon Chang Moi",
+    "said": "A gate was removed so this road could run straight to the river.",
+    "said_th": "ปะตู๋ถูกฮื้อเปื้อหื้อถนนนี้ไปตรงเถิงแม่น้ำ"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam"
+   },
+   "text": {
+    "what": "From the northeast of the wall, beside Wichayanon Road, to the Ping. Between 1910 and 1915 the outer gate and earth bank were demolished and the inner wall pierced so that Ratchawithi Road inside the moat could continue straight along it. Assessed land value in 2016–19 was 180,000 baht a square wa, the fourth highest street in the city."
+   },
+   "text_th": {
+    "what": "จากด้านตะวันออกเฉียงเหนือของกำแพง ข้างถนนวิชยานนท์ ถึงแม่ปิง ระหว่างปี 2453–2458 ประตูชั้นนอกและคันดินถูกรื้อ และกำแพงชั้นในถูกเจาะ เพื่อให้ถนนราชวิถีในเวียงวิ่งตรงต่อมาได้ ราคาประเมินปี 2559–62 ตารางวาละ 180,000 บาท สูงเป็นอันดับสี่ของเมือง"
+   },
+   "road": {
+    "from": "Chang Moi junction",
+    "from_th": "แยกช้างม่อย",
+    "to": "Ping River",
+    "to_th": "แม่น้ำปิง",
+    "opened": "1910–15",
+    "osm_names": [
+     "ถนนช้างม่อย",
+     "Chang Moi Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.793,
+    "lon": 99.0,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "chang-moi-gate",
+     "as": "What was demolished for it.",
+     "rel": "gate"
+    },
+    {
+     "to": "kat",
+     "as": "Kad Luang is at its end.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "market"
+   ],
+   "sources": [
+    "s:thwp-chang-moi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-chang-moi"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chang-moi-road/chang-moi-road-chiang-mai-chang-moi-kao-road-0001.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai - Chang Moi Kao Road - 0001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chang_Moi_Kao_Road_-_0001.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Stefan Fussan",
+     "credit": "Own work - My images are also available on MyPortfolio",
+     "alt": "Chang Moi Kao Road, Chiang Mai, Thailand",
+     "date": "2014-05-23",
+     "primary": true,
+     "sha256": "3a345770c791d095b1930c497b0044a826bbfb9031b73933c8ece3142aa9869a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chang-moi-gate",
+     "type": "gate",
+     "name": "Chang Moi Gate",
+     "as": "The road it was removed for."
+    }
+   ]
+  },
+  {
+   "id": "chotana-road",
+   "type": "road",
+   "names": {
+    "name": "Chotana Road",
+    "th": "ถนนโชตนา",
+    "rtgs": "Thanon Chotana",
+    "said": "Route 107 inside the city, named for a highway supervisor in 1950.",
+    "said_th": "ทางหลวง 107 ช่วงในเมือง ตั้งชื่อตามนายช่างแขวงปี 2493"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam",
+    "ref": "107"
+   },
+   "text": {
+    "what": "The city stretch of Route 107 from Chang Phueak Gate north through Khuang Sing to Mae Rim, named on 12 December 1950 after Tim Chotana. The 2024 count at km 9 gave 42,144 vehicles a day and 6,604 motorcycles."
+   },
+   "text_th": {
+    "what": "ทางหลวง 107 ช่วงในเมือง จากประตูช้างเผือกขึ้นเหนือผ่านข่วงสิงห์ถึงแม่ริม ตั้งชื่อ 12 ธันวาคม 2493 ตามนายทิม โชตนา จุดนับ กม.9 ปี 2567 ได้ 42,144 คันต่อวัน และจักรยานยนต์ 6,604"
+   },
+   "road": {
+    "ref": "107",
+    "from": "Chang Phueak Gate",
+    "from_th": "ประตูช้างเผือก",
+    "to": "Mae Rim",
+    "to_th": "แม่ริม",
+    "opened": "named 1950-12-12",
+    "osm_names": [
+     "ถนนโชตนา",
+     "Chotana Road"
+    ],
+    "osm_refs": [
+     "107"
+    ]
+   },
+   "geo": {
+    "lat": 18.81,
+    "lon": 98.983,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "tim-chotana",
+     "as": "Who it is named for.",
+     "rel": "person"
+    },
+    {
+     "to": "route-107",
+     "as": "The whole road.",
+     "rel": "highway"
+    },
+    {
+     "to": "khuang-sing-underpass",
+     "as": "Goes under the Superhighway here.",
+     "rel": "junction"
+    }
+   ],
+   "sources": [
+    "s:thwp-107",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-107"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chotana-road/chotana-road-chang-phueak-mueang-chiang-mai-district-chiang-mai-t-226d68f.jpg",
+     "source": "commons",
+     "title": "File:Chang Phueak, Mueang Chiang Mai District, Chiang Mai, Thailand - panoramio (3).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chang_Phueak%2C_Mueang_Chiang_Mai_District%2C_Chiang_Mai%2C_Thailand_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChang_Phueak%2C_Mueang_Chiang_Mai_District%2C_Chiang_Mai%2C_Thailand_-_panoramio_%283%29.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Daibo Taku",
+     "credit": "https://web.archive.org/web/20161023182601/http://www.panoramio.com/photo/63301865",
+     "alt": "Chang Phueak, Mueang Chiang Mai District, Chiang Mai, Thailand",
+     "date": "Taken on 10 November 2011",
+     "primary": true,
+     "sha256": "b6b08a4a768c68fdfecf18735151b1d6e994ed14452887c0cfa16d499004c0c4"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "khuang-sing-underpass",
+     "type": "junction",
+     "name": "Khuang Sing underpass",
+     "as": "Through it."
+    },
+    {
+     "from": "route-107",
+     "type": "highway",
+     "name": "Route 107, north to Fang",
+     "as": "Its city name."
+    }
+   ]
+  },
+  {
+   "id": "huay-kaew-road",
+   "type": "road",
+   "names": {
+    "name": "Huay Kaew Road",
+    "th": "ถนนห้วยแก้ว",
+    "rtgs": "Thanon Huai Kaeo",
+    "said": "The road to the mountain, and the lower half of Route 1004.",
+    "said_th": "ถนนไปดอย และครึ่งล่างของทางหลวง 1004"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam",
+    "ref": "1004"
+   },
+   "text": {
+    "what": "From Hua Lin Corner northwest past Kad Suan Kaew, the university gate and the zoo to the foot of Doi Suthep, where it becomes the monk's road. The lower section of Route 1004, Huay Kaew to Phu Phing Palace, 19.4 km in all. The 2024 count at km 4 gave 11,564 vehicles a day plus 2,701 motorcycles."
+   },
+   "text_th": {
+    "what": "จากแจ่งหัวลินไปทางตะวันตกเฉียงเหนือ ผ่านกาดสวนแก้ว ประตูมหาวิทยาลัย และสวนสัตว์ ถึงตีนดอยสุเทพ ตี้มันกลายเป็นถนนครูบา ช่วงล่างของทางหลวง 1004 ห้วยแก้วถึงพระตำหนักภูพิงค์ รวม 19.4 กม. นับปี 2567 ที่ กม.4 ได้ 11,564 คันต่อวัน บวกจักรยานยนต์ 2,701"
+   },
+   "road": {
+    "ref": "1004",
+    "km": 19.4,
+    "km_source": "s:thwp-1004",
+    "from": "Hua Lin Corner",
+    "from_th": "แจ่งหัวลิน",
+    "to": "Doi Suthep",
+    "to_th": "ดอยสุเทพ",
+    "osm_names": [
+     "ถนนห้วยแก้ว",
+     "Huay Kaew Road",
+     "Huai Kaeo Road"
+    ],
+    "osm_refs": [
+     "1004"
+    ]
+   },
+   "geo": {
+    "lat": 18.8015,
+    "lon": 98.966,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "si-wichai-road",
+     "as": "What it becomes at the foot of the mountain.",
+     "rel": "road"
+    },
+    {
+     "to": "hua-lin-corner",
+     "as": "Where it starts.",
+     "rel": "gate"
+    },
+    {
+     "to": "kat",
+     "as": "Kad Suan Kaew is on it.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "university"
+   ],
+   "sources": [
+    "s:thwp-1004",
+    "s:doh-aadt"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-1004"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "huay-kaew-road/huay-kaew-road-kad-suan-kaew-shopping-centre-huay-kaew-road-chiang-bb40018.jpg",
+     "source": "commons",
+     "title": "File:Kad Suan Kaew Shopping Centre, Huay Kaew Road, Chiang Mai (6967844064).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kad_Suan_Kaew_Shopping_Centre%2C_Huay_Kaew_Road%2C_Chiang_Mai_%286967844064%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKad_Suan_Kaew_Shopping_Centre%2C_Huay_Kaew_Road%2C_Chiang_Mai_%286967844064%29.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "David McKelvey from Brisbane, Australia",
+     "credit": "Kad Suan Kaew Shopping Centre, Huay Kaew Road, Chiang Mai",
+     "alt": "&lt;a href=\"http://www.lonelyplanet.com/thailand/chiang-mai-province/chiang-mai/shopping/shopping-centre/kad-suan-kaew-shopping-centre\" rel=\"noreferrer nofollow\"&gt;Kad Suan Kaew&lt;/a&gt;  offers ret",
+     "date": "2012-03-11 13:05",
+     "primary": true,
+     "sha256": "d45c2621151781c40c8b08eab3fef939f13b9b4a88366fc892ce8ba94dea6c78"
+    },
+    {
+     "file": "huay-kaew-road/huay-kaew-road-school-run-of-thailand.jpg",
+     "source": "commons",
+     "title": "File:School Run of Thailand.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/School_Run_of_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASchool_Run_of_Thailand.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "John Wigham",
+     "credit": "originally posted to Flickr as School Run",
+     "alt": "Huay Kaew Road, Chiang Mai, Thailand.",
+     "date": "2007-02-23 06:42:05",
+     "primary": false,
+     "sha256": "fe287ccb2b0b79afce29c3110ae9036b4580d118e31a13885f7fe3599d19add4"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "si-wichai-road",
+     "type": "road",
+     "name": "Si Wichai Road, the road up Doi Suthep",
+     "as": "What leads to it."
+    },
+    {
+     "from": "rincome-junction",
+     "type": "junction",
+     "name": "Rincome junction",
+     "as": "Its western arm."
+    },
+    {
+     "from": "kat",
+     "type": "word",
+     "name": "กาด kat",
+     "as": "Kad Suan Kaew is on it."
+    }
+   ]
+  },
+  {
+   "id": "kamphaeng-din-road",
+   "type": "road",
+   "names": {
+    "name": "Kamphaeng Din Road",
+    "th": "ถนนกำแพงดิน",
+    "rtgs": "Thanon Kamphaeng Din",
+    "said": "A road on the line of a wall, beside the bazaar, with a past.",
+    "said_th": "ถนนบนแนวกำแพง ข้างบาซาร์ มีอดีต"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam"
+   },
+   "text": {
+    "what": "Runs on the line of the earthen outer wall between Loi Kroh and the Night Bazaar; a stretch of the rampart survives beside it. Historically the city's red-light quarter, the ban sao, which the road's reputation still carries."
+   },
+   "text_th": {
+    "what": "วิ่งบนแนวกำแพงดินชั้นนอกระหว่างลอยเคราะห์กับไนท์บาซาร์ มีคันดินเหลืออยู่ข้าง ๆ ช่วงหนึ่ง เคยเป็นย่านบ้านสาวของเมือง ซึ่งชื่อเสียงของถนนยังติดอยู่"
+   },
+   "road": {
+    "osm_names": [
+     "ถนนกำแพงดิน",
+     "Kamphaeng Din Road",
+     "Kampangdin Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.785,
+    "lon": 98.9985,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "kamphaeng-din",
+     "as": "The wall.",
+     "rel": "place"
+    },
+    {
+     "to": "chang-klan-road",
+     "as": "Its neighbour.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "night"
+   ],
+   "sources": [
+    "s:sumup-kamphaeng-din",
+    "s:onep-277"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:sumup-kamphaeng-din"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "kamphaeng-din-road/kamphaeng-din-road-chiangmai-nightbazaar-3.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai Nightbazaar-3.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chiangmai_Nightbazaar-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Nightbazaar-3.JPG",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Rinto Jiang",
+     "credit": "Own work",
+     "alt": "Chiang Mai Night Bazaar (Chang Khlan Road)",
+     "date": "2007-01-24",
+     "primary": true,
+     "sha256": "f6ae20a1fbe5aa7f6c0e4f6a74c9333485574b9a708a48f1f36c6352e66d9ee6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chang-klan-road",
+     "type": "road",
+     "name": "Chang Klan Road",
+     "as": "Its neighbour."
+    },
+    {
+     "from": "kamphaeng-din",
+     "type": "place",
+     "name": "Kamphaeng Din, the earthen wall",
+     "as": "The road on its line."
+    }
+   ]
+  },
+  {
+   "id": "mahidol-road",
+   "type": "road",
+   "names": {
+    "name": "Mahidol Road",
+    "th": "ถนนมหิดล",
+    "rtgs": "Thanon Mahidon",
+    "aliases": [
+     "Route 1141"
+    ],
+    "said": "The busiest count in the province: 121,403 vehicles a day at km 7, and 26,366 motorcycles on top.",
+    "said_th": "จุดนับตี้รถนักสุดในจังหวัด วันละ 121,403 คันที่ กม.7 บวกมอเตอร์ไซค์อีก 26,366"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "superhighway",
+    "ref": "1141",
+    "km": 7.565,
+    "lanes": "6"
+   },
+   "text": {
+    "what": "Route 1141, 7.565 km, Don Chan on the Superhighway west past Nong Hoi, over the railway and the Ping, past the airport junction to Suan Prung. Surveyed 1970, built 1972 as a two-lane bypass fixed in the comprehensive plan of the day, widened to six lanes in 1998–2001. The southern arc of the first ring. The 2025 count at km 7 read 121,403 four-wheeled vehicles a day and 26,366 motorcycles.",
+    "story": "*Inference —* the whole of it went under water in October 2024. The busiest road in the north sits on the floodplain the city's founders avoided."
+   },
+   "text_th": {
+    "what": "ทางหลวง 1141 ยาว 7.565 กม. จากดอนจั่นบนซุปเปอร์ไฮเวย์ไปตะวันตกผ่านหนองหอย ข้ามทางรถไฟและแม่ปิง ผ่านแยกสนามบินถึงสวนปรุง สำรวจ 2513 สร้าง 2515 เป็นทางเลี่ยงสองเลนตามผังเมืองสมัยนั้น ขยายหกเลน 2541–44 ส่วนโค้งด้านใต้ของวงแหวนรอบแรก จุดนับ กม.7 ปี 2568 อ่านได้ 121,403 คันสี่ล้อต่อวัน และจักรยานยนต์ 26,366",
+    "story": "*อนุมาน —* ทั้งสายจมน้ำตุลาคม 2567 ถนนที่รถนักสุดของภาคเหนืออยู่บนที่ราบน้ำท่วมที่ผู้สร้างเมืองหลบ"
+   },
+   "road": {
+    "ref": "1141",
+    "km": 7.565,
+    "km_source": "s:thwp-mahidol",
+    "lanes": "6",
+    "from": "Don Chan",
+    "from_th": "ดอนจั่น",
+    "to": "Suan Prung",
+    "to_th": "สวนปรุง",
+    "opened": "1972",
+    "widened": "1998–2001",
+    "osm_names": [
+     "ถนนมหิดล",
+     "Mahidol Road"
+    ],
+    "osm_refs": [
+     "1141"
+    ]
+   },
+   "geo": {
+    "lat": 18.77,
+    "lon": 98.99,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "ring-1",
+     "as": "Its southern arc.",
+     "rel": "ring"
+    },
+    {
+     "to": "aadt-busiest",
+     "as": "The count.",
+     "rel": "traffic"
+    },
+    {
+     "to": "airport-junction",
+     "as": "On it.",
+     "rel": "junction"
+    },
+    {
+     "to": "nong-hoi-junction",
+     "as": "On it.",
+     "rel": "junction"
+    }
+   ],
+   "tags": [
+    "airport",
+    "flood"
+   ],
+   "sources": [
+    "s:thwp-mahidol",
+    "s:cmu-thesis-2548",
+    "s:doh-aadt",
+    "s:lanner-flood"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-mahidol"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "mahidol-road/mahidol-road-chiang-mai-airport-runway-aerial-view.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai Airport runway aerial view.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chiang_Mai_Airport_runway_aerial_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Airport_runway_aerial_view.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Adbar",
+     "credit": "Own work",
+     "alt": "Aerial view of Chiang Mai International Airport's runways and of the southern part of the city. Picture taken from Doi Suthep temple.",
+     "date": "2013-04-28 16:20:01",
+     "primary": true,
+     "sha256": "83b3491fa911b4207b17836ec1693f230482e9b93da565c66e4c6d87e715b27a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-1",
+     "type": "ring",
+     "name": "Ring 1, the Superhighway ring",
+     "as": "South."
+    },
+    {
+     "from": "airport-junction",
+     "type": "junction",
+     "name": "Airport junction",
+     "as": "On it."
+    },
+    {
+     "from": "nong-hoi-junction",
+     "type": "junction",
+     "name": "Nong Hoi junction",
+     "as": "On it."
+    },
+    {
+     "from": "era-superhighway-1969",
+     "type": "era",
+     "name": "1960s–70s — the Superhighway",
+     "as": "The southern arc."
+    },
+    {
+     "from": "aadt-busiest",
+     "type": "traffic",
+     "name": "The busiest count in the province",
+     "as": "The road."
+    },
+    {
+     "from": "airport-passengers",
+     "type": "traffic",
+     "name": "The airport, by passengers",
+     "as": "The way out."
+    },
+    {
+     "from": "the-day-the-river-came-up-tha-phae",
+     "type": "story",
+     "name": "The day the river came up Tha Phae",
+     "as": "Under water."
+    },
+    {
+     "from": "chiang-mai-airport",
+     "type": "place",
+     "name": "Chiang Mai Airport",
+     "as": "Threaded past it."
+    }
+   ]
+  },
+  {
+   "id": "nimmanhaemin-road",
+   "type": "road",
+   "names": {
+    "name": "Nimmanhaemin Road",
+    "th": "ถนนนิมมานเหมินท์",
+    "rtgs": "Thanon Nimmanhemin",
+    "aliases": [
+     "Nimman"
+    ],
+    "said": "1.327 km, given away in 1963, and the most expensive strip of ground in the north.",
+    "said_th": "1.327 กิโล หื้อไปปี 2506 และเป็นแถบดินแพงสุดของภาคเหนือ"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "superhighway",
+    "km": 1.327
+   },
+   "text": {
+    "what": "1.327 km between Huay Kaew and Suthep roads, on the edge of the land Ki and Kim Ho Nimmanhaemin gave for the university in 1963. It was later absorbed into Route 11 as the western arc of the first ring, and handed back to the municipality in June 2022. Commercial from about 1987; the Soi 1 festival began 1999; assessed land value in 2019 was 180,000 baht a square wa, about 72 million baht a rai.",
+    "story": "*Inference —* it is a road named for a gift and priced like a mine. The sois off it are numbered 1 to 17 and each is a small economy; the lane page counts them."
+   },
+   "text_th": {
+    "what": "1.327 กม. ระหว่างถนนห้วยแก้วกับถนนสุเทพ บนขอบที่ดินที่กี กับ กิมฮ้อ นิมมานเหมินท์ มอบให้มหาวิทยาลัยปี 2506 ต่อมาถูกรวมเป็นส่วนของทางหลวง 11 เป็นส่วนโค้งตะวันตกของวงแหวนรอบแรก และคืนให้เทศบาลมิถุนายน 2565 เป็นย่านค้าตั้งแต่ราวปี 2530 เทศกาลซอย 1 เริ่ม 2542 ราคาประเมินปี 2562 ตารางวาละ 180,000 บาท ราวไร่ละ 72 ล้าน",
+    "story": "*อนุมาน —* เป็นถนนที่ตั้งชื่อตามของขวัญ และราคาเหมือนเหมือง ซอยที่แยกออกไปมีเลข 1 ถึง 17 และแต่ละซอยคือเศรษฐกิจย่อม ๆ หน้าฮ่อมนับไว้"
+   },
+   "road": {
+    "km": 1.327,
+    "km_source": "s:thwp-nimman",
+    "from": "Huay Kaew Road",
+    "from_th": "ถนนห้วยแก้ว",
+    "to": "Suthep Road",
+    "to_th": "ถนนสุเทพ",
+    "opened": "1963–64",
+    "osm_names": [
+     "ถนนนิมมานเหมินท์",
+     "Nimmanhaemin Road",
+     "Nimmanhemin Road",
+     "Nimmanahaeminda Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.7975,
+    "lon": 98.9675,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "nimmanhaemin-family",
+     "as": "Who gave the land.",
+     "rel": "person"
+    },
+    {
+     "to": "ring-1",
+     "as": "Its western arc.",
+     "rel": "ring"
+    },
+    {
+     "to": "nimman-sois",
+     "as": "The seventeen cuts off it.",
+     "rel": "lane"
+    },
+    {
+     "to": "rincome-junction",
+     "as": "Its northern end.",
+     "rel": "junction"
+    }
+   ],
+   "tags": [
+    "university",
+    "night",
+    "market"
+   ],
+   "sources": [
+    "s:thwp-nimman",
+    "s:becommon-nimman",
+    "s:thaipbs-324599"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-nimman"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "nimmanhaemin-road/nimmanhaemin-road-nimmanhaeminda-road-2025.jpg",
+     "source": "commons",
+     "title": "File:Nimmanhaeminda Road 2025.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nimmanhaeminda_Road_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhaeminda_Road_2025.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Setawut",
+     "credit": "Own work",
+     "alt": "Nimmanheminda Road",
+     "date": "2025-12-21",
+     "primary": true,
+     "sha256": "636e20ad64a0d679c3a8f78182091fb4f96388b846559cada3685e411db407c2"
+    },
+    {
+     "file": "nimmanhaemin-road/nimmanhaemin-road-nimmanhaeminda-road-sign.jpg",
+     "source": "commons",
+     "title": "File:Nimmanhaeminda Road Sign.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nimmanhaeminda_Road_Sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ANimmanhaeminda_Road_Sign.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Setawut",
+     "credit": "Own work",
+     "alt": "Nimmanhaeminda Road Sign",
+     "date": "2025-12-21",
+     "primary": false,
+     "sha256": "037739f925ebf65a9e2c827642ff6de5fe7547b6d47f8384d0275531ecb0dbf8"
+    },
+    {
+     "file": "nimmanhaemin-road/nimmanhaemin-road-1.jpg",
+     "source": "commons",
+     "title": "File:ถนนนิมมานเหมินท์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "กสิณธร ราชโอรส",
+     "credit": "Own work",
+     "alt": "ถนนนิมมานเหมินท์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+     "date": "2023-04-02 14:03:10",
+     "primary": false,
+     "sha256": "1a5402e419d3896a32ba55aef3f99a87398d5ff97bc38f5ed538cc5961a8ef10"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "suthep-road",
+     "type": "road",
+     "name": "Suthep Road",
+     "as": "Ends on it."
+    },
+    {
+     "from": "ring-1",
+     "type": "ring",
+     "name": "Ring 1, the Superhighway ring",
+     "as": "West."
+    },
+    {
+     "from": "nimman-sois",
+     "type": "lane",
+     "name": "The Nimman sois",
+     "as": "The road."
+    },
+    {
+     "from": "rincome-junction",
+     "type": "junction",
+     "name": "Rincome junction",
+     "as": "Its southern arm."
+    },
+    {
+     "from": "nimmanhaemin-family",
+     "type": "person",
+     "name": "The Nimmanhaemin family",
+     "as": "The road."
+    },
+    {
+     "from": "chiang-mai-university",
+     "type": "place",
+     "name": "Chiang Mai University",
+     "as": "The road it produced."
+    }
+   ]
+  },
+  {
+   "id": "ratchadamnoen-road",
+   "type": "road",
+   "names": {
+    "name": "Ratchadamnoen Road",
+    "th": "ถนนราชดำเนิน",
+    "rtgs": "Thanon Ratchadamnoen",
+    "said": "Gate to temple, 1.5 km, and one-way since 2021 so people can walk it.",
+    "said_th": "ปะตู๋เถิงวัด 1.5 กิโล และทางเดียวตั้งแต่ 2564 เปื้อหื้อคนเตียวได้"
+   },
+   "region": [
+    "moat"
+   ],
+   "facets": {
+    "era": "mangrai",
+    "km": 1.5,
+    "oneway": true
+   },
+   "text": {
+    "what": "The old city's spine, from Tha Phae Gate west to Wat Phra Singh, about 1.5 km. The Sunday walking street moved here on 31 August 2004 from Tha Phae Road. From 6 May 2021 the municipality made it one-way as part of a walkable-district pilot.",
+    "story": "*Inference —* it is the founding axis of 1296, and it has been a road for pedestrians one day a week since 2004 and a one-way road every day since 2021. Inside the moat, the old streets are being handed back to feet in stages."
+   },
+   "text_th": {
+    "what": "กระดูกสันหลังของเวียงเก่า จากประตูท่าแพไปตะวันตกถึงวัดพระสิงห์ ราว 1.5 กม. ถนนคนเดินวันอาทิตย์ย้ายมาที่นี่ 31 สิงหาคม 2547 จากถนนท่าแพ ตั้งแต่ 6 พฤษภาคม 2564 เทศบาลทำเป็นทางเดียวในโครงการนำร่องเตียว-หย้อง-เมืองเจียงใหม่",
+    "story": "*อนุมาน —* มันคือแกนตั้งเมืองปี 1839 และเป็นถนนของคนเดินสัปดาห์ละวันตั้งแต่ 2547 กับทางเดียวทุกวันตั้งแต่ 2564 ในเวียง ถนนเก่ากำลังถูกคืนให้เท้าทีละขั้น"
+   },
+   "road": {
+    "km": 1.5,
+    "km_source": "s:cmcity-8198",
+    "oneway": true,
+    "from": "Tha Phae Gate",
+    "from_th": "ประตูท่าแพ",
+    "to": "Wat Phra Singh",
+    "to_th": "วัดพระสิงห์",
+    "osm_names": [
+     "ถนนราชดำเนิน",
+     "Ratchadamnoen Road",
+     "Rachadamnoen Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.788,
+    "lon": 98.988,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "sunday-walking-street",
+     "as": "Sundays.",
+     "rel": "story"
+    },
+    {
+     "to": "tha-phae-gate",
+     "as": "Its east end.",
+     "rel": "gate"
+    },
+    {
+     "to": "moat-loop",
+     "as": "The other one-way system.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "walk",
+    "one-way",
+    "heritage",
+    "market"
+   ],
+   "sources": [
+    "s:cmcity-8198",
+    "s:cmnews-1651264"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:cmcity-8198"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ratchadamnoen-road/ratchadamnoen-road-chiangmainightmarket.jpg",
+     "source": "commons",
+     "title": "File:ChiangMaiNightMarket.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/ChiangMaiNightMarket.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangMaiNightMarket.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage",
+     "credit": "Own work",
+     "alt": "Sunday Walking Market, Ratchadamnoen Road, Chiang Mai, Thailand.",
+     "date": "12 April 2012 (original upload date)",
+     "primary": true,
+     "sha256": "6778fd9b0892c6f0211591d5d252a339c1696ef8ecfd806a39ca367173930948"
+    },
+    {
+     "file": "ratchadamnoen-road/ratchadamnoen-road-chiang-mai-sunday-evening-walking-street.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai sunday evening walking street.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chiang_Mai_sunday_evening_walking_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_sunday_evening_walking_street.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Takeaway",
+     "credit": "Own work",
+     "alt": "The Sunday evening walking street is a market which is held in Chiang Mai on Rachadamnoen road, the main road through the old city which leads from Tapae gate to Wat Phra Singh, and its side streets. ",
+     "date": "2010-02-28",
+     "primary": false,
+     "sha256": "06448d35c917606dbb148fa321d263c511aab206209be7da53db01742bbbc26e"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "sunday-walking-street",
+     "type": "story",
+     "name": "The walking street, and how a road becomes a floor",
+     "as": "The road."
+    },
+    {
+     "from": "why-the-moat-runs-one-way",
+     "type": "story",
+     "name": "Why the moat runs one way",
+     "as": "The inside one-way."
+    }
+   ]
+  },
+  {
+   "id": "si-wichai-road",
+   "type": "road",
+   "names": {
+    "name": "Si Wichai Road, the road up Doi Suthep",
+    "th": "ถนนศรีวิชัย",
+    "rtgs": "Thanon Si Wichai",
+    "aliases": [
+     "Doi Suthep road",
+     "ถนนขึ้นดอยสุเทพ"
+    ],
+    "said": "Five months and twenty-two days, 11.53 km, no machine.",
+    "said_th": "ห้าเดือนยี่สิบสองวัน 11.53 กิโล บ่มีเครื่องจักร"
+   },
+   "region": [
+    "city"
+   ],
+   "facets": {
+    "era": "srivichai",
+    "ref": "1004",
+    "km": 11.53
+   },
+   "text": {
+    "what": "The upper half of Route 1004, from the Kruba Srivichai monument at the foot of the mountain to Wat Phra That Doi Suthep. Ground broken 9 November 1934 with Chao Kaew Nawarat cutting the first sod; open to vehicles 30 April 1935; 11.53 km of earth and laterite by volunteers.",
+    "story": "*Inference —* the red trucks that carry visitors up it are the road's economy, and the curves are the reason the bikes on the Mae Hong Son loop rehearse here. It is in the highway department's 2025–27 programme for improvement, which means its surface, not its line."
+   },
+   "text_th": {
+    "what": "ครึ่งบนของทางหลวง 1004 จากอนุสาวรีย์ครูบาศรีวิชัยตีนดอยถึงวัดพระธาตุดอยสุเทพ เริ่มขุด 9 พฤศจิกายน 2477 เจ้าแก้วนวรัฐจกจอบแรก เปิดให้รถ 30 เมษายน 2478 ดินและลูกรัง 11.53 กม. ด้วยแรงศรัทธา",
+    "story": "*อนุมาน —* รถแดงที่พาคนขึ้นคือเศรษฐกิจของถนนสายนี้ และโค้งคือเหตุที่มอเตอร์ไซค์ที่จะไปวงรอบแม่ฮ่องสอนมาซ้อมตรงนี้ มันอยู่ในแผนกรมทางหลวง 2568–70 เพื่อปรับปรุง ซึ่งหมายถึงผิวทาง ไม่ใช่แนว"
+   },
+   "road": {
+    "ref": "1004",
+    "km": 11.53,
+    "km_source": "s:thwp-si-wichai",
+    "from": "Kruba Srivichai monument",
+    "from_th": "อนุสาวรีย์ครูบาศรีวิชัย",
+    "to": "Wat Phra That Doi Suthep",
+    "to_th": "วัดพระธาตุดอยสุเทพ",
+    "opened": "1935-04-30",
+    "osm_names": [
+     "ถนนศรีวิชัย",
+     "Si Wichai Road",
+     "Srivichai Road"
+    ],
+    "osm_refs": [
+     "1004"
+    ]
+   },
+   "geo": {
+    "lat": 18.81,
+    "lon": 98.935,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "kruba-srivichai",
+     "as": "Who built it.",
+     "rel": "person"
+    },
+    {
+     "to": "huay-kaew-road",
+     "as": "What leads to it.",
+     "rel": "road"
+    },
+    {
+     "to": "doi-suthep",
+     "as": "The mountain.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "wat",
+    "motorbike"
+   ],
+   "sources": [
+    "s:thwp-si-wichai",
+    "s:citylife-elephant",
+    "s:prd-cm-369046"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-si-wichai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "si-wichai-road/si-wichai-road-20171106-road-below-wat-phrathat-doi-suthep-monaster-2049445.jpg",
+     "source": "commons",
+     "title": "File:20171106 Road below Wat Phrathat Doi Suthep monastery 0058 DxO.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/20171106_Road_below_Wat_Phrathat_Doi_Suthep_monastery_0058_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A20171106_Road_below_Wat_Phrathat_Doi_Suthep_monastery_0058_DxO.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Jakub Hałun",
+     "credit": "Own work",
+     "alt": "A road below Wat Phrathat Doi Suthep monastery in Doi Suthep-Pui National Park",
+     "date": "2017-11-06 10:19:03",
+     "primary": true,
+     "sha256": "17e18e84aaada2e97b99aa50bb5275008a780d71518effa4f35487b507610ac6"
+    },
+    {
+     "file": "si-wichai-road/si-wichai-road-anusawwaree-khrubasriwichai.jpg",
+     "source": "commons",
+     "title": "File:AnuSawwaree Khrubasriwichai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/AnuSawwaree_Khrubasriwichai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAnuSawwaree_Khrubasriwichai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kimtuy",
+     "credit": "Own work",
+     "alt": "อนุสาวรีย์ครูบาศรีวิชัย สร้างขึ้น ณ จุดที่ขุดถนนจอบแรก เพื่อเป็นอนุสรน์สถานรำลึกถึงคุณของครูบาเจ้าศรีวิชัยในการนำกลุ่มชาวบ้าน ชาวเขา สร้างถนนขึ้นพระธาตุดอยสุเทพ",
+     "date": "2021-05-04",
+     "primary": false,
+     "sha256": "9259ab69a6f4cc226a7e56af8da0e9cf56cd49d1ee50ca4816f4be6716632611"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "huay-kaew-road",
+     "type": "road",
+     "name": "Huay Kaew Road",
+     "as": "What it becomes at the foot of the mountain."
+    },
+    {
+     "from": "nine-roads-programme",
+     "type": "plan",
+     "name": "The nine roads, 2025–27",
+     "as": "On the list."
+    },
+    {
+     "from": "era-monks-road-1935",
+     "type": "era",
+     "name": "1935 — the monk's road",
+     "as": "The road."
+    },
+    {
+     "from": "the-monk-who-built-a-road",
+     "type": "story",
+     "name": "The monk who built a road in five months",
+     "as": "The road."
+    },
+    {
+     "from": "chao-kaew-nawarat",
+     "type": "person",
+     "name": "Chao Kaew Nawarat",
+     "as": "He broke its ground."
+    },
+    {
+     "from": "kruba-srivichai",
+     "type": "person",
+     "name": "Kruba Srivichai",
+     "as": "The road."
+    },
+    {
+     "from": "doi-suthep",
+     "type": "place",
+     "name": "Doi Suthep",
+     "as": "The road up it."
+    }
+   ]
+  },
+  {
+   "id": "suthep-road",
+   "type": "road",
+   "names": {
+    "name": "Suthep Road",
+    "th": "ถนนสุเทพ",
+    "rtgs": "Thanon Suthep",
+    "said": "West from Suan Dok Gate, past the hospital, to the university's back gate.",
+    "said_th": "ตกจากปะตู๋สวนดอก ผ่านโฮงยา เถิงปะตู๋หลังมหาวิทยาลัย"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "siam"
+   },
+   "text": {
+    "what": "From Suan Dok Gate west past Wat Suan Dok and the Maharaj hospital to the university and the canal road. A count of it is not in the highway data because it is a municipal street; a public-domain photograph of its traffic is the one this record carries."
+   },
+   "text_th": {
+    "what": "จากประตูสวนดอกไปตะวันตก ผ่านวัดสวนดอกและโรงพยาบาลมหาราชถึงมหาวิทยาลัยและถนนคลองชลประทาน ไม่มีจุดนับในข้อมูลกรมทางหลวงเพราะเป็นถนนเทศบาล รูปสาธารณสมบัติของรถบนถนนนี้คือรูปที่บันทึกนี้ถือ"
+   },
+   "road": {
+    "from": "Suan Dok Gate",
+    "from_th": "ประตูสวนดอก",
+    "to": "Canal Road",
+    "to_th": "ถนนคลองชลประทาน",
+    "osm_names": [
+     "ถนนสุเทพ",
+     "Suthep Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.7885,
+    "lon": 98.97,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "suan-dok-gate",
+     "as": "Its head.",
+     "rel": "gate"
+    },
+    {
+     "to": "nimmanhaemin-road",
+     "as": "Ends on it.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "university",
+    "wat"
+   ],
+   "sources": [
+    "s:wp-chiang-mai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:wp-chiang-mai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "suthep-road/suthep-road-chiangmai-traffic.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai traffic.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chiangmai_traffic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_traffic.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Love Krittaya",
+     "credit": "Own work",
+     "alt": "Traffic on Suthep road in Chiang Mai, Thailand",
+     "date": "2007-09-01 16:49:13",
+     "primary": true,
+     "sha256": "5fbf69e62a455681c1dcf830394d033656871f89c69883d3ef4c03371c0ac5a6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "suan-dok-gate",
+     "type": "gate",
+     "name": "Suan Dok Gate",
+     "as": "Leaves from here."
+    }
+   ]
+  },
+  {
+   "id": "tha-phae-road",
+   "type": "road",
+   "names": {
+    "name": "Tha Phae Road",
+    "th": "ถนนท่าแพ",
+    "rtgs": "Thanon Tha Phae",
+    "said": "One kilometre from the river to the gate, on the line the founders drew.",
+    "said_th": "หนึ่งกิโลจากแม่น้ำเถิงปะตู๋ บนเส้นตี้คนสร้างเมืองขีดไว้"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "mangrai",
+    "km": 1.0
+   },
+   "text": {
+    "what": "From the Nawarat Bridge past Wat Upakut to Tha Phae Gate, about a kilometre, on the east–west axis laid out at the founding. The land outside the gate was Ban Chiang Rueak, a trading village.",
+    "story": "Photographs of 1877 show raft-style wooden houses along it; by 2001 one was left. In 1889–90 Chinese merchants from the east bank put up masonry shophouses; the railway's arrival in 1921 made it the commercial street, and most of the surviving heritage houses date from then. After 1962 came commercial blocks of every height. The cables went underground in 2004, which is when the walking street moved off it to Ratchadamnoen.\n\nIn October 2024 the Ping came over the bank and the road flooded from the bridge to the Krung Thai bank.\n\n*Inference —* Tha Phae is the one street in the city whose whole biography is on record, and it reads as a list of things arriving from the east: the river trade, the Chinese, the train, the water."
+   },
+   "text_th": {
+    "what": "จากสะพานนวรัฐผ่านวัดอุปคุตถึงประตูท่าแพ ราวหนึ่งกิโลเมตร บนแกนตะวันออก–ตะวันตกที่วางไว้ตอนสร้างเมือง ที่ดินหน้าประตูคือบ้านเชียงเรือก หมู่บ้านค้าขาย",
+    "story": "รูปถ่ายปี 2420 เห็นเฮือนแปไม้แบบแพเรียงอยู่ ถึงปี 2544 เหลือหลังเดียว ปี 2432–33 พ่อค้าจีนจากฝั่งตะวันออกสร้างบ้านตึก รถไฟมาถึงปี 2464 ทำให้เป็นถนนการค้า และเฮือนเก่าที่เหลือส่วนใหญ่มาจากยุคนั้น หลังปี 2505 มีตึกพาณิชย์ทุกความสูง สายไฟลงดินปี 2547 ซึ่งเป็นตอนที่ถนนคนเดินย้ายไปราชดำเนิน\n\nตุลาคม 2567 น้ำปิงล้นตลิ่งและถนนจมจากสะพานถึงธนาคารกรุงไทย\n\n*อนุมาน —* ท่าแพเป็นถนนสายเดียวในเมืองที่ประวัติทั้งชีวิตอยู่ในบันทึก และมันอ่านเหมือนรายการของสิ่งที่มาจากทิศตะวันออก การค้าทางน้ำ คนจีน รถไฟ น้ำ"
+   },
+   "road": {
+    "km": 1.0,
+    "km_source": "s:thwp-tha-phae-road",
+    "from": "Nawarat Bridge",
+    "from_th": "สะพานนวรัฐ",
+    "to": "Tha Phae Gate",
+    "to_th": "ประตูท่าแพ",
+    "osm_names": [
+     "ถนนท่าแพ",
+     "Tha Phae Road",
+     "Thapae Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.7875,
+    "lon": 98.9985,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "tha-phae-gate",
+     "as": "Its head.",
+     "rel": "gate"
+    },
+    {
+     "to": "nawarat-bridge",
+     "as": "Its foot.",
+     "rel": "bridge"
+    },
+    {
+     "to": "chiang-mai-station",
+     "as": "What made it the commercial street.",
+     "rel": "place"
+    },
+    {
+     "to": "sunday-walking-street",
+     "as": "Began here in 2002.",
+     "rel": "story"
+    }
+   ],
+   "tags": [
+    "heritage",
+    "flood",
+    "market"
+   ],
+   "sources": [
+    "s:thwp-tha-phae-road",
+    "s:cmcity-8198",
+    "s:bkkbiz-1147937"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-tha-phae-road"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "tha-phae-road/tha-phae-road-chiang-mai-city-streets.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai City Streets.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Chiang_Mai_City_Streets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Streets.jpg",
+     "license": "CC BY-SA 2.5",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+     "author": "Caspar",
+     "credit": "Own work",
+     "alt": "View of Tapae Road with part of Wat Mahawan, Chiang Mai",
+     "date": "2006-07-22",
+     "primary": true,
+     "sha256": "988eb646954d03c22ee474776d09d275f756c2c523e47a7fd4a5a9345e578d2b"
+    },
+    {
+     "file": "tha-phae-road/tha-phae-road-thapaewalkingstreet1.jpg",
+     "source": "commons",
+     "title": "File:ThaPaeWalkingStreet1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/ThaPaeWalkingStreet1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThaPaeWalkingStreet1.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "LannaPhoto",
+     "credit": "Own work",
+     "alt": "At the east of Chiang Mai city there is a two-layer city wall. There is Ta Pae Road connected with the Ping River to the city passing the external layer of the Ta Pae city gate at Saen Farng Temple di",
+     "date": "2013-09-15 17:30:53",
+     "primary": false,
+     "sha256": "4e8b15f94db64844b4ddf62e9271732ba34c070491aae2d99b3b69d591e39992"
+    },
+    {
+     "file": "tha-phae-road/tha-phae-road-2497.jpg",
+     "source": "commons",
+     "title": "File:ถนนท่าแพเมื่อ ๕๐ ปีก่อน (2497) อุทัยและพูนทรัพย์ สนธิ.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD_%E0%B9%95%E0%B9%90_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99_%282497%29_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD_%E0%B9%95%E0%B9%90_%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99_%282497%29_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C_%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "อุทัยและพูนทรัพย์ สนธิ (Uthai &amp; Phunsap Sonthi)",
+     "credit": "This file was derived from:  สมุดภาพโบราณวัตถุสถาน และทัศนีภาพเชียงใหม่-ลำพูน.pdf",
+     "alt": "Tha Phae Road 50 years ago (published in a book circa 1954), meaning this image dated circa 1904",
+     "date": "1904",
+     "primary": false,
+     "sha256": "28b4640895c509d7f13295212a33ae06a92425b06a10118462241d51853e2fde"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "tha-phae-gate",
+     "type": "gate",
+     "name": "Tha Phae Gate",
+     "as": "The road it names."
+    },
+    {
+     "from": "nawarat-bridge",
+     "type": "bridge",
+     "name": "Nawarat Bridge",
+     "as": "What it carries."
+    },
+    {
+     "from": "the-day-the-river-came-up-tha-phae",
+     "type": "story",
+     "name": "The day the river came up Tha Phae",
+     "as": "Under water."
+    },
+    {
+     "from": "chiang-mai-station",
+     "type": "place",
+     "name": "Chiang Mai railway station",
+     "as": "What the train did to it."
+    }
+   ]
+  },
+  {
+   "id": "ton-yang-road",
+   "type": "road",
+   "names": {
+    "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+    "th": "ถนนต้นยาง เชียงใหม่–ลำพูน",
+    "rtgs": "Thanon Ton Yang",
+    "aliases": [
+     "Route 106, Saraphi stretch"
+    ],
+    "said": "A thousand trees planted in 1882, and a poll in 2020 on whether to keep them.",
+    "said_th": "ต้นยางพันต้นปลูกปี 2425 และโพลปี 2563 ว่าจะเก็บไว้ก่อ"
+   },
+   "region": [
+    "ring2",
+    "intercity"
+   ],
+   "facets": {
+    "era": "kawila",
+    "ref": "106",
+    "direction": "south"
+   },
+   "text": {
+    "what": "The old road south to Lamphun, the Saraphi stretch of Route 106, lined with yang-na, Dipterocarpus alatus. About a thousand were planted from the Nawarat Bridge to the provincial line under Chao Phraya Surasi, dated 20 October 1882 by Thai PBS and by a telegram of 1900 in Thai Wikipedia; the two dates are not reconciled in any source on this disk. Infill planting in 1954; a protected-environment zone 40 m each side since 2015; storm damage in 2016. Counts of the surviving trees run from 800 to 900.",
+    "story": "A Mae Jo poll in October 2020, 403 respondents: 54 percent said the trees were not a problem, 61 percent wanted them conserved, 4 percent wanted them removed, and of the critics 59 percent cited branches over the traffic.\n\n*Inference —* the Superhighway of 1969 was built to take the Bangkok traffic off this road, and the thesis this rests on says traffic on it fell sharply as a result. The trees are alive partly because a bypass was built past them. That is the clearest case on this site of a new road doing an old one a favour."
+   },
+   "text_th": {
+    "what": "ถนนเก่าลงใต้ไปลำพูน ช่วงสารภีของทางหลวง 106 เรียงด้วยต้นยางนา ปลูกราวพันต้นจากสะพานนวรัฐถึงเขตจังหวัดภายใต้เจ้าพระยาสุรสีห์ ไทยพีบีเอสให้วันที่ 20 ตุลาคม 2425 วิกิพีเดียไทยให้โทรเลขปี 2443 สองวันที่ยังไม่มีแหล่งไหนในแผ่นนี้ปรับให้ตรงกัน ปลูกซ่อมปี 2497 เขตคุ้มครองสิ่งแวดล้อม 40 เมตรสองข้างตั้งแต่ 2558 พายุทำเสียหาย 2559 จำนวนที่เหลือนับได้ 800 ถึง 900 ต้น",
+    "story": "แม่โจ้โพล ตุลาคม 2563 ผู้ตอบ 403 คน ร้อยละ 54 ว่าต้นยางบ่เป็นปัญหา ร้อยละ 61 อยากอนุรักษ์ ร้อยละ 4 อยากเอาออก และในกลุ่มที่ติ ร้อยละ 59 ว่ากิ่งยื่นทับถนน\n\n*อนุมาน —* ซุปเปอร์ไฮเวย์ปี 2512 สร้างเพื่อเอารถกรุงเทพฯ ออกจากถนนสายนี้ และวิทยานิพนธ์ที่เรื่องนี้อิงว่ารถบนถนนลดฮวบเพราะอย่างนั้น ต้นยางยังอยู่ส่วนหนึ่งเพราะมีทางเลี่ยงสร้างผ่านไป นี่คือกรณีชัดที่สุดบนเว็บนี้ที่ถนนใหม่ทำคุณกับถนนเก่า"
+   },
+   "road": {
+    "ref": "106",
+    "from": "Nawarat Bridge",
+    "from_th": "สะพานนวรัฐ",
+    "to": "Lamphun provincial line",
+    "to_th": "เขตจังหวัดลำพูน",
+    "opened": "1882 (trees)",
+    "osm_names": [
+     "ถนนเชียงใหม่-ลำพูน",
+     "Chiang Mai-Lamphun Road"
+    ],
+    "osm_refs": [
+     "106"
+    ]
+   },
+   "geo": {
+    "lat": 18.745,
+    "lon": 99.015,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "phraya-surasi",
+     "as": "Who had them planted.",
+     "rel": "person"
+    },
+    {
+     "to": "route-106",
+     "as": "The whole road.",
+     "rel": "highway"
+    },
+    {
+     "to": "route-11",
+     "as": "The bypass that spared it.",
+     "rel": "highway"
+    },
+    {
+     "to": "the-trees-on-the-lamphun-road",
+     "as": "The long version.",
+     "rel": "story"
+    }
+   ],
+   "tags": [
+    "trees",
+    "heritage",
+    "controversy"
+   ],
+   "sources": [
+    "s:thaipbs-308334",
+    "s:thwp-106",
+    "s:mgr-9630000112206",
+    "s:cmu-thesis-2548"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thaipbs-308334"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "ton-yang-road/ton-yang-road-dipterocarpus-alatus-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Dipterocarpus alatus (Chiang Mai).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Dipterocarpus_alatus_%28Chiang_Mai%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ADipterocarpus_alatus_%28Chiang_Mai%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "DSwarthout",
+     "credit": "Own work",
+     "alt": "This is a mature Dipterocarpus alatus tree. In Thailand it is known as a Yang na (ยางนา)",
+     "date": "2015-11-28 10:25:24",
+     "primary": true,
+     "sha256": "a6213b4853dd008987ddef50a2c3a2dbaf7d5eb8479360e489f00c0cc2d9c026"
+    },
+    {
+     "file": "ton-yang-road/ton-yang-road-hoge-bomen-langs-weg-106-p1160022.jpg",
+     "source": "commons",
+     "title": "File:Hoge bomen langs weg 106 P1160022.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hoge_bomen_langs_weg_106_P1160022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P1160022.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "FredTC",
+     "credit": "Own work",
+     "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+     "date": "2013-02-24 15:11:41",
+     "primary": false,
+     "sha256": "f6165923a61ac8d423a3a1d7eec315fa5736afa02915058305e4f736d2cefb20"
+    },
+    {
+     "file": "ton-yang-road/ton-yang-road-hoge-bomen-langs-weg-106-p-20161219-b.jpg",
+     "source": "commons",
+     "title": "File:Hoge bomen langs weg 106 P 20161219 b.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hoge_bomen_langs_weg_106_P_20161219_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHoge_bomen_langs_weg_106_P_20161219_b.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "FredTC",
+     "credit": "Own work",
+     "alt": "Het gedeelte van de Noord-Thaise weg 106 dat tussen Chiang Mai en Lamphun loopt, wordt ook wel de \"oude Chiang Mai - Lamphun weg\" genoemd. Het gedeelte daarvan dat in de provincie Chiang Mai ligt, hee",
+     "date": "2016-12-19 16:13:15",
+     "primary": false,
+     "sha256": "a34303d8bb7fc70a1e84388573c2561d458fc420753d78d2bb3be080c14ed87c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "nong-hoi-junction",
+     "type": "junction",
+     "name": "Nong Hoi junction",
+     "as": "Begins south of it."
+    },
+    {
+     "from": "route-106",
+     "type": "highway",
+     "name": "Route 106, the old road south",
+     "as": "Its famous stretch."
+    },
+    {
+     "from": "route-11",
+     "type": "highway",
+     "name": "Route 11, the Superhighway",
+     "as": "The road it took the traffic off."
+    },
+    {
+     "from": "era-kawila-1796-1900",
+     "type": "era",
+     "name": "1796–1900 — Kawila's rebuilding",
+     "as": "The trees."
+    },
+    {
+     "from": "built-up-area",
+     "type": "traffic",
+     "name": "How far the city spread",
+     "as": "The tree."
+    },
+    {
+     "from": "the-trees-on-the-lamphun-road",
+     "type": "story",
+     "name": "The trees on the Lamphun road",
+     "as": "The road."
+    },
+    {
+     "from": "what-a-road-does-to-an-old-city",
+     "type": "story",
+     "name": "What a road does to an old city",
+     "as": "The exception."
+    },
+    {
+     "from": "phraya-surasi",
+     "type": "person",
+     "name": "Chao Phraya Surasi Wisitsak",
+     "as": "The trees."
+    }
+   ]
+  },
+  {
+   "id": "wua-lai-road",
+   "type": "road",
+   "names": {
+    "name": "Wua Lai Road",
+    "th": "ถนนวัวลาย",
+    "rtgs": "Thanon Wua Lai",
+    "said": "The silversmiths' road, south from Chiang Mai Gate; the Saturday market.",
+    "said_th": "ถนนช่างเงิน ลงใต้จากปะตู๋เจียงใหม่ กาดวันเสาร์"
+   },
+   "region": [
+    "ring1"
+   ],
+   "facets": {
+    "era": "kawila"
+   },
+   "text": {
+    "what": "South from Chiang Mai Gate through the silversmiths' quarter, whose craft came with the people Kawila resettled from the Salween side. The Saturday walking street runs on it. Its naming date and any Wikipedia page are not on this disk."
+   },
+   "text_th": {
+    "what": "ลงใต้จากประตูเชียงใหม่ผ่านย่านช่างเงิน ฝีมือที่มากับผู้คนที่พระเจ้ากาวิละกวาดมาจากฝั่งสาละวิน ถนนคนเดินวันเสาร์อยู่บนถนนนี้ วันที่ตั้งชื่อและหน้าวิกิพีเดียบ่มีในแผ่นนี้"
+   },
+   "road": {
+    "from": "Chiang Mai Gate",
+    "from_th": "ประตูเชียงใหม่",
+    "to": "Route 108",
+    "to_th": "ทางหลวง 108",
+    "osm_names": [
+     "ถนนวัวลาย",
+     "Wua Lai Road",
+     "Wualai Road"
+    ]
+   },
+   "geo": {
+    "lat": 18.777,
+    "lon": 98.986,
+    "precision": "street"
+   },
+   "kin": [
+    {
+     "to": "chiang-mai-gate",
+     "as": "Its head.",
+     "rel": "gate"
+    },
+    {
+     "to": "kawila",
+     "as": "Whose resettlement gave it its craft.",
+     "rel": "person"
+    }
+   ],
+   "tags": [
+    "walk",
+    "market",
+    "night"
+   ],
+   "sources": [
+    "s:wp-chiang-mai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:wp-chiang-mai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "wua-lai-road/wua-lai-road-chiangmai-walking-street-saturday-only-wualai-rd-panoramio-2.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai walking street (Saturday only, Wualai Rd.) - panoramio (2).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chiangmai_walking_street_%28Saturday_only%2C_Wualai_Rd.%29_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_walking_street_%28Saturday_only%2C_Wualai_Rd.%29_-_panoramio_%282%29.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "chootrong",
+     "credit": "https://web.archive.org/web/20161021204022/http://www.panoramio.com/photo/50571062",
+     "alt": "chiangmai walking street  (Saturday only,  Wualai Rd.)",
+     "date": "Taken on 2 April 2011",
+     "primary": true,
+     "sha256": "201fe6169ccf3f05f7b6bc7436500fbcfe49333ba5117a6bb91b7410e555d2bd"
+    },
+    {
+     "file": "wua-lai-road/wua-lai-road-night-market-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Night Market Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Night_Market_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ANight_Market_Chiang_Mai.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Adbar",
+     "credit": "Own work",
+     "alt": "Night Market on Wua Lai Road in Chiang Mai, so-called Saturday Walking Street Market.",
+     "date": "2013-04-27 19:51:57",
+     "primary": false,
+     "sha256": "a1933a0f92ef02719799f1db247e79620e9ab4aadb540ffc099ca6f69906423b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chiang-mai-gate",
+     "type": "gate",
+     "name": "Chiang Mai Gate",
+     "as": "Runs south from here."
+    },
+    {
+     "from": "sunday-walking-street",
+     "type": "story",
+     "name": "The walking street, and how a road becomes a floor",
+     "as": "The Saturday one."
+    }
+   ]
+  }
+ ]
+}

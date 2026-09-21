@@ -1,0 +1,110 @@
+{
+ "id": "chaeng",
+ "type": "word",
+ "names": {
+  "name": "แจ่ง chaeng",
+  "th": "แจ่ง",
+  "rtgs": "chaeng"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "แจ่ง chaeng — Kam Mueang for a corner or angle; standard Thai mum. The four corners of the moat are the four chaeng, each with its own name.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The word for the four corners of the moat. A songthaew driver navigates the square by its chaeng, not by street names, and so does this site."
+ },
+ "text_th": {
+  "what": "คำสำหรับสี่มุมคูเมือง คนขับรถแดงบอกทางในเวียงด้วยแจ่ง บ่ใช่ชื่อถนน เว็บนี้ก็เหมือนกัน"
+ },
+ "word": {
+  "th": "แจ่ง",
+  "rtgs": "chaeng",
+  "ipa": "/tɕɛ̀ŋ/",
+  "standard": "มุม · ป้อมมุมกำแพง",
+  "standard_rtgs": "mum · pom",
+  "gloss": "a corner; the bastion at a corner of the city wall",
+  "gloss_th": "มุม ป้อมมุมเวียง",
+  "example": "แจ่งศรีภูมิ",
+  "example_gloss": "Chaeng Si Phum — the northeast corner"
+ },
+ "kin": [
+  {
+   "to": "si-phum-corner",
+   "as": "One of the four.",
+   "rel": "gate"
+  },
+  {
+   "to": "katam-corner",
+   "as": "One of the four.",
+   "rel": "gate"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chaeng/chaeng-201703291049e-chiang-mai-city-moat.jpg",
+   "source": "commons",
+   "title": "File:201703291049e Chiang Mai, City Moat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/201703291049e_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291049e_Chiang_Mai%2C_City_Moat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Flower at the city moat of Chiang Mai between Katam Corner and Chiang Mai Gate",
+   "date": "2017-03-29 10:49:24",
+   "primary": true,
+   "sha256": "a957418fdcfd87d9a95b56de85d0e6e67fad50b33b765f5d523ec73d76e05782"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hua-lin-corner",
+   "type": "gate",
+   "name": "Hua Lin Corner",
+   "as": "The word."
+  },
+  {
+   "from": "katam-corner",
+   "type": "gate",
+   "name": "Katam Corner",
+   "as": "The word."
+  },
+  {
+   "from": "ku-hueang-corner",
+   "type": "gate",
+   "name": "Ku Hueang Corner",
+   "as": "The word."
+  },
+  {
+   "from": "si-phum-corner",
+   "type": "gate",
+   "name": "Si Phum Corner",
+   "as": "The word."
+  }
+ ]
+}

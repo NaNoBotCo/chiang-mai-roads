@@ -1,0 +1,93 @@
+{
+ "id": "khua",
+ "type": "word",
+ "names": {
+  "name": "ขัว khua",
+  "th": "ขัว",
+  "rtgs": "khua"
+ },
+ "region": [
+  "lanna"
+ ],
+ "etymology": {
+  "root": "ขัว khua — Tai root, cognate with Lao ຂົວ khua and Shan; standard Thai saphan is from Khmer spean. Khua Lek, the Iron Bridge, keeps the northern word in a name everyone in the city uses.",
+  "tier": "tradition"
+ },
+ "text": {
+  "what": "The Lanna word for a bridge, and the one the Iron Bridge is known by. A driver hears saphan on the signs and khua from the passengers."
+ },
+ "text_th": {
+  "what": "คำเมืองสำหรับสะพาน และเป็นชื่อที่ขัวเหล็กถูกเรียก คนขับได้ยินคำว่าสะพานบนป้าย แต่ได้ยินขัวจากคนนั่ง"
+ },
+ "word": {
+  "th": "ขัว",
+  "rtgs": "khua",
+  "ipa": "/kʰǔa/",
+  "standard": "สะพาน",
+  "standard_rtgs": "saphan",
+  "gloss": "bridge",
+  "gloss_th": "สะพาน",
+  "example": "ขัวเหล็ก",
+  "example_gloss": "Khua Lek — the Iron Bridge over the Ping"
+ },
+ "kin": [
+  {
+   "to": "iron-bridge",
+   "as": "The bridge everyone calls by this word.",
+   "rel": "bridge"
+  }
+ ],
+ "tags": [
+  "lanna"
+ ],
+ "sources": [
+  "s:moradok-lanna-dict",
+  "s:wp-northern-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:moradok-lanna-dict"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "khua/khua-ping-river-in-chiang-mai-panoramio-erebusso-7.jpg",
+   "source": "commons",
+   "title": "File:Ping River in Chiang Mai - panoramio - Erebusso. (7).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ping_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Erebusso.",
+   "credit": "https://web.archive.org/web/20161015061345/http://www.panoramio.com/photo/32519486",
+   "alt": "Ping River in Chiang Mai with Khua Lek (Iron Bridge) and Diamond Riverside Hotel.",
+   "date": "Taken on 4 December 2009",
+   "primary": true,
+   "sha256": "f67deb8164818d873c5945dad0a8667744f40ac6e43eea7cb440e0c6e92aa962"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "iron-bridge",
+   "type": "bridge",
+   "name": "Khua Lek, the Iron Bridge",
+   "as": "The word."
+  },
+  {
+   "from": "nawarat-bridge",
+   "type": "bridge",
+   "name": "Nawarat Bridge",
+   "as": "The word."
+  }
+ ]
+}

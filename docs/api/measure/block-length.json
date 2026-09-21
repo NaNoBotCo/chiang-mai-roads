@@ -1,0 +1,93 @@
+{
+ "id": "block-length",
+ "type": "measure",
+ "names": {
+  "name": "How far between intersections",
+  "th": "ระหว่างแยกไกลแค่ไหน",
+  "said": "A median block of 59 m in the square, 65 m past the outer ring.",
+  "said_th": "บล็อกมัธยฐาน 59 เมตรในสี่เหลี่ยม 65 เมตรเลยวงแหวนรอบนอก"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "The median run of road between two intersections, per zone: 59 m inside the moat, 59 m to 3 km, 56 m to 5.5, 56 m to 9, 65 m beyond. The means are longer everywhere because a few long runs on the highways pull them.",
+  "story": "*Inference —* the spread is narrower than the other measures because a hom is a hom everywhere: two metres wide and a house every fifteen. The difference between the zones is not how long the lanes are but whether they come out."
+ },
+ "text_th": {
+  "what": "ช่วงถนนมัธยฐานระหว่างสองแยก ต่อโซน 59 เมตรในคู 59 เมตรถึง 3 กม. 56 เมตรถึง 5.5 56 เมตรถึง 9 65 เมตรเกินนั้น ค่าเฉลี่ยยาวกว่าทุกที่เพราะช่วงยาวไม่กี่ช่วงบนทางหลวงดึงมัน",
+  "story": "*อนุมาน —* ช่วงกว้างแคบกว่ามาตรอื่นเพราะฮ่อมคือฮ่อมทุกที่ กว้างสองเมตรและบ้านทุกสิบห้าเมตร ความต่างระหว่างโซนบ่ใช่ฮ่อมยาวเท่าไร แต่มันทะลุออกก่อ"
+ },
+ "figure": {
+  "value": 59,
+  "unit": "metres, median block inside the moat",
+  "unit_th": "เมตร บล็อกมัธยฐานในเวียง",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "inside the moat",
+    "label_th": "ในเวียง",
+    "value": 59
+   },
+   {
+    "label": "moat to 3 km",
+    "label_th": "นอกคูเมืองถึง 3 กม.",
+    "value": 59
+   },
+   {
+    "label": "3 to 5.5 km",
+    "label_th": "3 ถึง 5.5 กม.",
+    "value": 56
+   },
+   {
+    "label": "5.5 to 9 km",
+    "label_th": "5.5 ถึง 9 กม.",
+    "value": 56
+   },
+   {
+    "label": "past 9 km",
+    "label_th": "เกิน 9 กม.",
+    "value": 65
+   }
+  ],
+  "method": "Along each way in the network proper, the distance accumulated between consecutive intersection nodes; the median of those runs per zone.",
+  "method_th": "ตามแต่ละเส้นทางในโครงข่ายหลัก ระยะสะสมระหว่างจุดแยกที่ติดกัน มัธยฐานของช่วงเหล่านั้นต่อโซน"
+ },
+ "kin": [
+  {
+   "to": "intersection-density",
+   "as": "The count this is the inverse of.",
+   "rel": "measure"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": []
+}

@@ -1,0 +1,131 @@
+{
+ "id": "chang-klan-road",
+ "type": "road",
+ "names": {
+  "name": "Chang Klan Road",
+  "th": "ถนนช้างคลาน",
+  "rtgs": "Thanon Chang Khlan",
+  "said": "The night bazaar's road, on the line of the earthen wall's trading quarter.",
+  "said_th": "ถนนของไนท์บาซาร์ บนแนวย่านค้าของกำแพงดิน"
+ },
+ "region": [
+  "ring1"
+ ],
+ "facets": {
+  "era": "siam"
+ },
+ "text": {
+  "what": "South from the Tha Phae junction, between the old city and the river, through the quarter where British, Burmese, Indian, Yunnanese and Thai traders settled after the railway. The Night Bazaar runs along it from the head of Charoen Prathet Road; it began as a charity market on the Chong Fa school field and was at least thirty years old by 2015. The precise start year is not on this disk."
+ },
+ "text_th": {
+  "what": "ลงใต้จากแยกท่าแพ ระหว่างเวียงเก่ากับแม่น้ำ ผ่านย่านที่พ่อค้าอังกฤษ พม่า อินเดีย ยูนนาน และไทยมาตั้งหลักหลังรถไฟมา ไนท์บาซาร์เรียงตามถนนจากหัวถนนเจริญประเทศ เริ่มจากตลาดการกุศลบนสนามโรงเรียนช่องฟ้า และมีอายุอย่างน้อยสามสิบปีในปี 2558 ปีเริ่มที่แน่นอนบ่มีในแผ่นนี้"
+ },
+ "road": {
+  "from": "Tha Phae Road",
+  "from_th": "ถนนท่าแพ",
+  "to": "Chiang Mai Land",
+  "to_th": "เชียงใหม่แลนด์",
+  "osm_names": [
+   "ถนนช้างคลาน",
+   "Chang Klan Road",
+   "Chang Khlan Road"
+  ]
+ },
+ "geo": {
+  "lat": 18.784,
+  "lon": 98.9995,
+  "precision": "street"
+ },
+ "kin": [
+  {
+   "to": "kamphaeng-din",
+   "as": "The wall it runs inside.",
+   "rel": "place"
+  },
+  {
+   "to": "kamphaeng-din-road",
+   "as": "Its neighbour.",
+   "rel": "road"
+  }
+ ],
+ "tags": [
+  "night",
+  "market",
+  "flood"
+ ],
+ "sources": [
+  "s:reviewcm-night-bazaar",
+  "s:topcm-chang-klan",
+  "s:thairath-2816966"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:reviewcm-night-bazaar"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "chang-klan-road/chang-klan-road-chiang-mai-night-bazaar1.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Night Bazaar1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_Night_Bazaar1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Night_Bazaar1.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Rlevse",
+   "credit": "personal collection",
+   "alt": "Took-took (tuk-tuk) at the Chiang Mai night bazaar",
+   "date": "2008-03-25",
+   "primary": true,
+   "sha256": "5813d10345f7646c0340fbb4a831b44fd9ba8c849429f31d20f4872a22778b0b"
+  },
+  {
+   "file": "chang-klan-road/chang-klan-road-chiangmai-nightbazaar-3.jpg",
+   "source": "commons",
+   "title": "File:Chiangmai Nightbazaar-3.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chiangmai_Nightbazaar-3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Nightbazaar-3.JPG",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Rinto Jiang",
+   "credit": "Own work",
+   "alt": "Chiang Mai Night Bazaar (Chang Khlan Road)",
+   "date": "2007-01-24",
+   "primary": false,
+   "sha256": "f6ae20a1fbe5aa7f6c0e4f6a74c9333485574b9a708a48f1f36c6352e66d9ee6"
+  },
+  {
+   "file": "chang-klan-road/chang-klan-road-dgj-3864-buy-buy-buy-3708439994.jpg",
+   "source": "commons",
+   "title": "File:DGJ 3864 - Buy, Buy, Buy...... (3708439994).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/DGJ_3864_-_Buy%2C_Buy%2C_Buy......_%283708439994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ADGJ_3864_-_Buy%2C_Buy%2C_Buy......_%283708439994%29.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "author": "Dennis G. Jarvis",
+   "credit": "DGJ_3864 - Buy, Buy, Buy......",
+   "alt": "Walking back to the hotel we went along the Night Bazaar area on Chang Klan Road. Various shops and products from many places in Thailand. The Night Bazaar area has a variety of magnificent cultural s",
+   "date": "2009-02-07 10:07",
+   "primary": false,
+   "sha256": "998ec2f5f76e14249a7a16669c0d8c20c5b35088258c95eeb9781b0eead67d65"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "kamphaeng-din-road",
+   "type": "road",
+   "name": "Kamphaeng Din Road",
+   "as": "Its neighbour."
+  }
+ ]
+}

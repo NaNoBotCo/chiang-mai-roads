@@ -1,0 +1,68 @@
+{
+ "id": "nimmanhaemin-family",
+ "type": "person",
+ "names": {
+  "name": "The Nimmanhaemin family",
+  "th": "ตระกูลนิมมานเหมินท์",
+  "rtgs": "Nimmanhemin",
+  "said": "Ki and Kim Ho gave the land. Kraisri wrote the books. The road is the family's, not the scholar's.",
+  "said_th": "กี กับ กิมฮ้อ หื้อที่ดิน ไกรศรีเขียนหนังสือ ถนนเป็นของตระกูล บ่ใช่ของนักปราชญ์"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "A Chiang Mai merchant family. Ki and Kim Ho Nimmanhaemin gave land to the government for the university in 1963, and the road on the edge of the gift took the family name. It is often credited to Kraisri Nimmanahaeminda, the scholar and banker of the same family; the road is older than his fame and belongs to his parents' generation."
+ },
+ "text_th": {
+  "what": "ตระกูลพ่อค้าเชียงใหม่ กี และ กิมฮ้อ นิมมานเหมินท์ มอบที่ดินให้รัฐบาลสร้างมหาวิทยาลัยปี 2506 และถนนบนขอบที่ดินได้ชื่อตระกูล มักถูกยกให้ไกรศรี นิมมานเหมินท์ นักปราชญ์และนายธนาคารตระกูลเดียวกัน ถนนเก่ากว่าชื่อเสียงของท่าน และเป็นของรุ่นพ่อแม่"
+ },
+ "kin": [
+  {
+   "to": "nimmanhaemin-road",
+   "as": "The road.",
+   "rel": "road"
+  },
+  {
+   "to": "chiang-mai-university",
+   "as": "What the land became.",
+   "rel": "place"
+  }
+ ],
+ "tags": [
+  "university"
+ ],
+ "sources": [
+  "s:thwp-nimman",
+  "s:wp-kraisri"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-nimman"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "nimmanhaemin-road",
+   "type": "road",
+   "name": "Nimmanhaemin Road",
+   "as": "Who gave the land."
+  },
+  {
+   "from": "chiang-mai-university",
+   "type": "place",
+   "name": "Chiang Mai University",
+   "as": "Who gave the land."
+  }
+ ]
+}

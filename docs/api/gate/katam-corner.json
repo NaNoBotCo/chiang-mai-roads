@@ -1,0 +1,106 @@
+{
+ "id": "katam-corner",
+ "type": "gate",
+ "names": {
+  "name": "Katam Corner",
+  "th": "แจ่งก๊ะต๊ำ",
+  "rtgs": "Chaeng Katam",
+  "said": "The southeast bastion.",
+  "said_th": "แจ่งตะวันออกเฉียงใต้"
+ },
+ "region": [
+  "moat"
+ ],
+ "text": {
+  "what": "The southeast corner of the moat, one of the four bastions (chaeng) added to the wall in later restorations. Where two straight sides of the moat meet, and where the one-way traffic makes its turn. Katam is a fish trap in Kam Mueang; the corner where the moat water was let out and the fish gathered."
+ },
+ "text_th": {
+  "what": "แจ่งตะวันออกเฉียงใต้ของคูเมือง หนึ่งในสี่ป้อมมุมที่เพิ่มเข้าไปในการบูรณะยุคหลัง ตี้สองด้านตรงของคูเมืองมาบรรจบ และตี้รถทางเดียวเลี้ยวหัวมุม ก๊ะต๊ำคือเครื่องดักปลาในกำเมือง แจ่งตี้น้ำคูเมืองไหลออกและปลามารวมกัน"
+ },
+ "geo": {
+  "lat": 18.7808,
+  "lon": 98.9938,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The ring turns here.",
+   "rel": "ring"
+  },
+  {
+   "to": "chaeng",
+   "as": "The word.",
+   "rel": "word"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:cmocity-history"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "katam-corner/katam-corner-201703291051b-p-chiang-mai-city-wall-katam-corner.jpg",
+   "source": "commons",
+   "title": "File:201703291051b P Chiang Mai, City Wall, Katam Corner.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/201703291051b_P_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291051b_P_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Jaeng Katam or Katam Corner is the souteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+   "date": "2017-03-29 10:51:52",
+   "primary": true,
+   "sha256": "0f622e817de22f1753c1b8f44349bf65d458fecd3bfc33638bf4cc0cdfc1eae4"
+  },
+  {
+   "file": "katam-corner/katam-corner-201703291052a-chiang-mai-city-wall-katam-corner.jpg",
+   "source": "commons",
+   "title": "File:201703291052a Chiang Mai, City Wall, Katam Corner.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/201703291052a_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291052a_Chiang_Mai%2C_City_Wall%2C_Katam_Corner.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "alt": "Jaeng Katam or Katam Corner is the souteastern citadel of the Chiang Mai city wall. It was built at the turn of the 18th to the 19th century.",
+   "date": "2017-03-29 10:52:43",
+   "primary": false,
+   "sha256": "5cb70e7d2d426257ca20a75036b9af408e8ec534165693f3fb4f3c854c4f8580"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chaeng",
+   "type": "word",
+   "name": "แจ่ง chaeng",
+   "as": "One of the four."
+  },
+  {
+   "from": "why-the-moat-runs-one-way",
+   "type": "story",
+   "name": "Why the moat runs one way",
+   "as": "Where the missed turn is paid for."
+  }
+ ]
+}

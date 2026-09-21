@@ -1,0 +1,128 @@
+{
+ "id": "doi-suthep",
+ "type": "place",
+ "names": {
+  "name": "Doi Suthep",
+  "th": "ดอยสุเทพ",
+  "rtgs": "Doi Suthep",
+  "said": "The mountain the roads point at.",
+  "said_th": "ดอยตี้ถนนจี้ไป"
+ },
+ "region": [
+  "city"
+ ],
+ "text": {
+  "what": "The mountain west of the city, 1,676 m, with the temple two-thirds of the way up. Huay Kaew Road and then the monk's road of 1935 climb it; the moat's water comes down from it; and the western ring road runs along its foot on the irrigation canal.",
+  "story": "*Inference —* the 2025 plan for an elevated road on Route 121 was argued against partly because it might block the view of this mountain from the plain. A road in this city is judged by whether you can still see the mountain over it."
+ },
+ "text_th": {
+  "what": "ดอยทางตะวันตกของเมือง สูง 1,676 เมตร มีวัดอยู่สองในสามของทางขึ้น ถนนห้วยแก้วแล้วต่อด้วยถนนครูบาปี 2478 ไต่ขึ้นไป น้ำคูเมืองไหลลงมาจากมัน และถนนวงแหวนด้านตะวันตกวิ่งเลียบตีนดอยบนคลองชลประทาน",
+  "story": "*อนุมาน —* แผนทางยกระดับบนทางหลวง 121 ปี 2568 ถูกคัดค้านส่วนหนึ่งเพราะอาจบังวิวดอยจากที่ราบ ถนนในเมืองนี้ถูกตัดสินด้วยว่ายังเห็นดอยข้ามมันได้ก่ออยู่"
+ },
+ "geo": {
+  "lat": 18.8048,
+  "lon": 98.9217,
+  "precision": "exact"
+ },
+ "kin": [
+  {
+   "to": "si-wichai-road",
+   "as": "The road up it.",
+   "rel": "road"
+  },
+  {
+   "to": "elevated-121",
+   "as": "The plan judged against its view.",
+   "rel": "plan"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:wp-doi-suthep",
+  "s:citylife-big-development"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-doi-suthep"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "doi-suthep/doi-suthep-chiang-mai-panorama-from-doi-suthep-lookout-2014-08-08.jpg",
+   "source": "commons",
+   "title": "File:Chiang Mai Panorama from Doi Suthep Lookout (2014-08-08).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chiang_Mai_Panorama_from_Doi_Suthep_Lookout_%282014-08-08%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_Panorama_from_Doi_Suthep_Lookout_%282014-08-08%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Pratyeka",
+   "credit": "Own work",
+   "alt": "A panorama looking east back to the city of Chiang Mai from the lookout half-way up Doi Suthep, a famous mountain to the west of the city.",
+   "date": "2014-08-08 10:25:29",
+   "primary": true,
+   "sha256": "523981043594b01a82d0ca30ca1f9bf2179623d8d89c499d9ae51c100438bdf9"
+  },
+  {
+   "file": "doi-suthep/doi-suthep-chiang-mai-pano-2010-0128.jpg",
+   "source": "commons",
+   "title": "File:Chiang mai pano 2010 0128.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Chiang_mai_pano_2010_0128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_mai_pano_2010_0128.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "Panorama of the city of Chiang Mai, part of the surrounding valley and the mountains east of the city of Chiang Mai. The photo was made from the viewpoint halfway up the road towards Wat Phrathat Doi ",
+   "date": "2010-01-28",
+   "primary": false,
+   "sha256": "bfa7949df2c61c9594f4f9ee00c86e6c76e0d3cfd03eb964e7334f732508e5e5"
+  },
+  {
+   "file": "doi-suthep/doi-suthep-thaichiangmaidoisuthep.jpg",
+   "source": "commons",
+   "title": "File:ThaiChiangMaiDoiSuthep.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/ThaiChiangMaiDoiSuthep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThaiChiangMaiDoiSuthep.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Ziegler175",
+   "credit": "Own work",
+   "alt": "Blick vom Doi Suthep auf Chiang Mai",
+   "date": "0011",
+   "primary": false,
+   "sha256": "5a6dfcc2bb59448b445264e3d7ce6e45875ae863e7837dd2e12d7ca8c2e6a1e0"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "si-wichai-road",
+   "type": "road",
+   "name": "Si Wichai Road, the road up Doi Suthep",
+   "as": "The mountain."
+  },
+  {
+   "from": "ring-3",
+   "type": "ring",
+   "name": "Ring 3, Route 121",
+   "as": "What its west side runs under."
+  },
+  {
+   "from": "elevated-121",
+   "type": "plan",
+   "name": "An elevated road on the outer ring, Don Kaew to Mueang Kaew",
+   "as": "What it might hide."
+  }
+ ]
+}

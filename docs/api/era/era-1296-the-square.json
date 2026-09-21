@@ -1,0 +1,129 @@
+{
+ "id": "era-1296-the-square",
+ "type": "era",
+ "names": {
+  "name": "1296 — the square",
+  "th": "พ.ศ. 1839 — สี่เหลี่ยม",
+  "said": "A king draws a square on a rise between a mountain and a river.",
+  "said_th": "กษัตริย์ขีดสี่เหลี่ยมบนที่ดอนระหว่างดอยกับแม่น้ำ"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "era": "mangrai",
+  "order": 1
+ },
+ "text": {
+  "what": "Mangrai founds Chiang Mai on the higher ground a kilometre west of the Ping, after his first city on the bank flooded. A moat 6.54 km round, a gate in each wall and a fifth on the south, and the cardinal streets from gate to gate. The earthen outer wall curves round the trading quarter to the east.",
+  "story": "*Inference —* the grid inside the moat is the oldest piece of road-planning in the city and it is still the tightest: the measurements page shows the square with more intersections per square kilometre and fewer dead ends than any ring outside it. Seven centuries of building have not managed to lay out a neighbourhood as well-connected as the first one."
+ },
+ "text_th": {
+  "what": "พญามังรายสร้างเชียงใหม่บนที่ดอนห่างแม่ปิงไปทางตะวันตกหนึ่งกิโล หลังเมืองแรกของท่านบนฝั่งน้ำท่วม คูยาวรอบ 6.54 กม. ประตูทุกด้านและประตูที่ห้าด้านใต้ และถนนแนวทิศหลักจากประตูถึงประตู กำแพงดินชั้นนอกโค้งล้อมย่านค้าขายทางตะวันออก",
+  "story": "*อนุมาน —* ตารางในคูเมืองคือผังถนนที่เก่าสุดของเมืองและยังแน่นสุด หน้าการวัดแสดงว่าสี่เหลี่ยมมีแยกต่อตารางกิโลเมตรมากกว่าและทางตันน้อยกว่าวงแหวนใด ๆ ข้างนอก การสร้างเจ็ดศตวรรษยังวางย่านที่เชื่อมกันดีเท่าย่านแรกบ่ได้"
+ },
+ "kin": [
+  {
+   "to": "mangrai",
+   "as": "The king.",
+   "rel": "person"
+  },
+  {
+   "to": "the-moat",
+   "as": "The square.",
+   "rel": "place"
+  },
+  {
+   "to": "grid-in-the-moat",
+   "as": "What it measures now.",
+   "rel": "measure"
+  }
+ ],
+ "tags": [
+  "heritage"
+ ],
+ "sources": [
+  "s:thwp-moat",
+  "s:onep-278",
+  "s:wp-chiang-mai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-moat"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "era-1296-the-square/era-1296-the-square-chiang-mai-city-map-chiengmai-1890.png",
+   "source": "commons",
+   "title": "File:Chiang Mai City Map (Chiengmai) 1890.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiang_Mai_City_Map_%28Chiengmai%29_1890.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_%28Chiengmai%29_1890.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "James McCarthy (1853–1919)",
+   "credit": "Pantip - https://pantip.com/topic/38106682 (Original map source: James McCarthy, Surveying and exploring in Siam, 1900)",
+   "alt": "Chiang Mai City map of 1900. The city was also called Chiengmai in Thailand. The front of the temple faces east on the newly built Chang Moi Road, where Mae Kha Canal flows through. Along the second c",
+   "date": "1900",
+   "primary": true,
+   "sha256": "a15e9aa077652ae528a061da54507c27be140de74e3b1db51b8d08e4562056b4"
+  },
+  {
+   "file": "era-1296-the-square/era-1296-the-square-chiang-mai-city-map-for-inthawichayanon-1893.png",
+   "source": "commons",
+   "title": "File:Chiang Mai City Map for Inthawichayanon 1893.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chiang_Mai_City_Map_for_Inthawichayanon_1893.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Map_for_Inthawichayanon_1893.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "The Fine Arts Office, Chiang Mai",
+   "alt": "Historic map of Chiang Mai city for King Inthawichayanon (1817-1897), dated 1893. The city was protected by an inner wall (brick wall), an outer wall (earth wall), 2 moats and multiple city gates. Eac",
+   "date": "1893",
+   "primary": false,
+   "sha256": "1513b50b74300e399cde6cb60deb16f943758d299834c4ca803063a8b3cea523"
+  },
+  {
+   "file": "era-1296-the-square/era-1296-the-square-chiang-mai-city-old-map-lan-na-kingdom.png",
+   "source": "commons",
+   "title": "File:Chiang Mai City Old Map Lan Na Kingdom.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Chiang_Mai_City_Old_Map_Lan_Na_Kingdom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_City_Old_Map_Lan_Na_Kingdom.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown authorUnknown author",
+   "credit": "www.shorthistoryoflanna.blogspot.com (see also: https://www.matichon.co.th/weekly/column/article_18712 (https://archive.vn/gI1uM).)",
+   "alt": "Chiang Mai City old map during the Lan Na kingdom (in Thailand). The portrait of a ruler (king) is on the left side. There is a castle, palace, temples, local houses, the treasury, the city wall with ",
+   "date": "Circa 19th century or earlier",
+   "primary": false,
+   "sha256": "0c9a1300458876a52c9b7ecd2ed908e1dc8d792d2ed1dedef03f42589fcf1773"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "grid-in-the-moat",
+   "type": "measure",
+   "name": "The grid score, zone by zone",
+   "as": "Who drew it."
+  },
+  {
+   "from": "mangrai",
+   "type": "person",
+   "name": "Mangrai",
+   "as": "His era."
+  }
+ ]
+}

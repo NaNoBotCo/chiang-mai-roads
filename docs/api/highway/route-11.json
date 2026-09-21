@@ -1,0 +1,180 @@
+{
+ "id": "route-11",
+ "type": "highway",
+ "names": {
+  "name": "Route 11, the Superhighway",
+  "th": "ทางหลวงแผ่นดินหมายเลข 11 — ถนนซุปเปอร์ไฮเวย์",
+  "said": "562.7 km from Sing Buri, and the last ten are the city's first ring.",
+  "said_th": "562.7 กิโลจากสิงห์บุรี และสิบกิโลสุดท้ายคือวงแหวนแรกของเมือง"
+ },
+ "region": [
+  "intercity"
+ ],
+ "facets": {
+  "direction": "south",
+  "ref": "11",
+  "km": 562.673,
+  "era": "superhighway"
+ },
+ "text": {
+  "what": "From the Inthaburi interchange on Route 32 in Sing Buri to Huay Kaew Road in Chiang Mai, 562.673 km, Asian Highway 13. The Lampang–Chiang Mai section was built in 1968–69 by the Lampang highway centre, two lanes, to shorten the road to Bangkok, and its final ten kilometres skirt the city as the Superhighway. Four-laning from 2001, most of it done by 2012. The 2025 counts on the city stretch read 67,150 and 62,422 vehicles a day.",
+  "story": "*Inference —* the name is a fossil. In 1969 a two-lane road with a hard shoulder was a superhighway; the word stuck to the road while the road became a city street with traffic lights, and the highway department has spent the 2000s and 2010s digging under those lights one by one."
+ },
+ "text_th": {
+  "what": "จากทางแยกต่างระดับอินทร์บุรีบนทางหลวง 32 ที่สิงห์บุรีถึงถนนห้วยแก้วเชียงใหม่ 562.673 กม. ทางหลวงเอเชีย 13 ช่วงลำปาง–เชียงใหม่สร้างปี 2511–12 โดยศูนย์สร้างทางลำปาง สองเลน เพื่อย่นทางไปกรุงเทพฯ และสิบกิโลเมตรสุดท้ายเลียบเมืองเป็นซุปเปอร์ไฮเวย์ ขยายสี่เลนตั้งแต่ 2544 ส่วนใหญ่เสร็จ 2555 จุดนับช่วงในเมืองปี 2568 อ่านได้ 67,150 และ 62,422 คันต่อวัน",
+  "story": "*อนุมาน —* ชื่อคือฟอสซิล ปี 2512 ถนนสองเลนมีไหล่ทางคือซุปเปอร์ไฮเวย์ คำติดอยู่กับถนนขณะที่ถนนกลายเป็นถนนในเมืองมีไฟแดง และกรมทางหลวงใช้ทศวรรษ 2540 และ 2550 ขุดลอดไฟแดงเหล่านั้นทีละแห่ง"
+ },
+ "road": {
+  "ref": "11",
+  "km": 562.673,
+  "km_source": "s:thwp-11",
+  "from": "Inthaburi, Sing Buri",
+  "from_th": "อินทร์บุรี สิงห์บุรี",
+  "to": "Huay Kaew Road, Chiang Mai",
+  "to_th": "ถนนห้วยแก้ว เชียงใหม่",
+  "osm_refs": [
+   "11"
+  ],
+  "opened": "1969"
+ },
+ "kin": [
+  {
+   "to": "ring-1",
+   "as": "What its last ten km became.",
+   "rel": "ring"
+  },
+  {
+   "to": "ton-yang-road",
+   "as": "The road it took the traffic off.",
+   "rel": "road"
+  },
+  {
+   "to": "khuang-sing-underpass",
+   "as": "Dug under it.",
+   "rel": "junction"
+  },
+  {
+   "to": "fa-ham-underpass",
+   "as": "Dug under it.",
+   "rel": "junction"
+  },
+  {
+   "to": "era-superhighway-1969",
+   "as": "Its era.",
+   "rel": "era"
+  }
+ ],
+ "sources": [
+  "s:thwp-11",
+  "s:wp-route-11",
+  "s:cmu-thesis-2548",
+  "s:mgr-9630000089345",
+  "s:doh-aadt"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-11"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "route-11/route-11-thai-highway-11.jpg",
+   "source": "commons",
+   "title": "File:Thai Highway 11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thai_Highway_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_Highway_11.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+   "credit": "Own work",
+   "alt": "Thai Highway 11Location: Wat Khung Taphao, Ban Khung Taphao, Khung Taphao subdistrict, Mueang Uttaradit, Uttaradit Province, Thailand.",
+   "date": "2009",
+   "primary": true,
+   "sha256": "36dbd379d06bdbaf11aa6d2cd70ca520c22d96e72bcf4a07e27941db39a464db"
+  },
+  {
+   "file": "route-11/route-11-welcome-to-uttaradit-sign-over-highway-11.jpg",
+   "source": "commons",
+   "title": "File:Welcome to Uttaradit sign over highway 11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Welcome_to_Uttaradit_sign_over_highway_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWelcome_to_Uttaradit_sign_over_highway_11.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "alt": "A sign over highway number 11, welcoming visitors to Uttaradit.",
+   "date": "2014-01-07 13:33:56",
+   "primary": false,
+   "sha256": "506f467a90bdc46babcce1ab7fd0e193a6f8db36bbe748e6c3df2ce325e158ad"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ton-yang-road",
+   "type": "road",
+   "name": "The Yang Tree Road, Chiang Mai to Lamphun",
+   "as": "The bypass that spared it."
+  },
+  {
+   "from": "ring-1",
+   "type": "ring",
+   "name": "Ring 1, the Superhighway ring",
+   "as": "North and east."
+  },
+  {
+   "from": "fa-ham-underpass",
+   "type": "junction",
+   "name": "Fa Ham underpass",
+   "as": "Under it."
+  },
+  {
+   "from": "khuang-sing-underpass",
+   "type": "junction",
+   "name": "Khuang Sing underpass",
+   "as": "Under it."
+  },
+  {
+   "from": "route-1",
+   "type": "highway",
+   "name": "Route 1, Phahonyothin, and the 696 km to Bangkok",
+   "as": "The road that joins it."
+  },
+  {
+   "from": "route-106",
+   "type": "highway",
+   "name": "Route 106, the old road south",
+   "as": "What replaced it."
+  },
+  {
+   "from": "era-superhighway-1969",
+   "type": "era",
+   "name": "1960s–70s — the Superhighway",
+   "as": "The road."
+  },
+  {
+   "from": "the-trees-on-the-lamphun-road",
+   "type": "story",
+   "name": "The trees on the Lamphun road",
+   "as": "The bypass."
+  },
+  {
+   "from": "arcade-bus-terminal",
+   "type": "place",
+   "name": "Arcade bus terminal",
+   "as": "Beside it."
+  }
+ ]
+}

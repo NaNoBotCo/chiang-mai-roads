@@ -1,0 +1,105 @@
+{
+ "id": "one-way-share",
+ "type": "measure",
+ "names": {
+  "name": "How much of the road runs one way",
+  "th": "ถนนวิ่งทางเดียวแค่ไหน",
+  "said": "33% of the drivable kilometres inside the moat are one-way. 6% past the outer ring.",
+  "said_th": "33% ของกิโลเมตรรถวิ่งได้ในเวียงเป็นทางเดียว 6% เลยวงแหวนรอบนอก"
+ },
+ "region": [
+  "city"
+ ],
+ "facets": {
+  "year": "2026"
+ },
+ "text": {
+  "what": "Kilometres tagged one-way as a share of drivable kilometres: inside the moat 33%, to 3 km 20%, to 5.5 km 16%, to 9 km 14%, beyond 6%. The moat loop, the gate cut-throughs and Ratchadamnoen since 2021 are why the square leads; the dual carriageways of the rings are why the bands are not zero.",
+  "story": "*Inference —* one-way is a tool for two opposite jobs. In the square it is the 1948 decision to make a fortification into a roundabout and, since 2021, the decision to give a street back to feet; on the rings it is a median. The number counts both."
+ },
+ "text_th": {
+  "what": "กิโลเมตรที่ติดแท็กทางเดียวเทียบกิโลเมตรรถวิ่งได้ ในคู 33% ถึง 3 กม. 20% ถึง 5.5 กม. 16% ถึง 9 กม. 14% เกินนั้น 6% วงรอบคู ช่องตัดผ่านประตู และราชดำเนินตั้งแต่ 2564 คือเหตุที่สี่เหลี่ยมนำ ถนนคู่ขนานของวงแหวนคือเหตุที่แถบไม่เป็นศูนย์",
+  "story": "*อนุมาน —* ทางเดียวคือเครื่องมือของงานตรงข้ามสองอย่าง ในสี่เหลี่ยมคือการตัดสินใจปี 2491 ทำป้อมเป็นวงเวียน และตั้งแต่ 2564 การตัดสินใจคืนถนนให้เท้า บนวงแหวนคือเกาะกลาง ตัวเลขนับทั้งสอง"
+ },
+ "figure": {
+  "value": 0.327,
+  "unit": "one-way share inside the moat",
+  "unit_th": "สัดส่วนทางเดียวในเวียง",
+  "year": "2026",
+  "source": "s:osm",
+  "series": [
+   {
+    "label": "inside the moat",
+    "label_th": "ในเวียง",
+    "value": 32.7
+   },
+   {
+    "label": "moat to 3 km",
+    "label_th": "นอกคูเมืองถึง 3 กม.",
+    "value": 19.9
+   },
+   {
+    "label": "3 to 5.5 km",
+    "label_th": "3 ถึง 5.5 กม.",
+    "value": 16.1
+   },
+   {
+    "label": "5.5 to 9 km",
+    "label_th": "5.5 ถึง 9 กม.",
+    "value": 13.9
+   },
+   {
+    "label": "past 9 km",
+    "label_th": "เกิน 9 กม.",
+    "value": 5.5
+   }
+  ],
+  "method": "oneway=yes or −1 on drivable ways, by length, per zone.",
+  "method_th": "oneway=yes หรือ −1 บนเส้นทางรถวิ่งได้ ตามความยาว ต่อโซน"
+ },
+ "kin": [
+  {
+   "to": "moat-loop",
+   "as": "The loop.",
+   "rel": "ring"
+  },
+  {
+   "to": "why-the-moat-runs-one-way",
+   "as": "The argument.",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  "fun"
+ ],
+ "sources": [
+  "s:osm",
+  "s:boeing-2019"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+   },
+   "text.story": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-21",
+ "kin_in": [
+  {
+   "from": "why-the-moat-runs-one-way",
+   "type": "story",
+   "name": "Why the moat runs one way",
+   "as": "The number."
+  }
+ ]
+}

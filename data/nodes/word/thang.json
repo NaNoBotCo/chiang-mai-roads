@@ -63,5 +63,37 @@
  },
  "confidence": "medium",
  "schema": 1,
- "updated": "2026-09-21"
+ "updated": "2026-09-21",
+ "images": [
+  {
+   "file": "thang/thang-chiang-mai-thailand-speed-limit-road-sign-01.jpg",
+   "source": "commons",
+   "title": "File:Chiang-Mai Thailand Speed-limit-road-sign-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chiang-Mai_Thailand_Speed-limit-road-sign-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Speed-limit-road-sign-01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Chiang Mai, Thailand: Railway water tank of Chiang Mai Railway Station",
+   "date": "2017-04-17",
+   "primary": true,
+   "sha256": "8b6e7cd0877e325f6c3b36d14a0025e7683b003adc7ee6e8488a949178873ecd"
+  },
+  {
+   "file": "thang/thang-thailand-traffic-signs-working-sites-03.jpg",
+   "source": "commons",
+   "title": "File:Thailand Traffic-signs Working-sites-03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Thailand_Traffic-signs_Working-sites-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Traffic-signs_Working-sites-03.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "alt": "Traffic signs in Thailand: Working site (Photo taken at Chiang Mai University)",
+   "date": "2017-04-19",
+   "primary": false,
+   "sha256": "6e8dcf0ec322e1971bc329ce0fbaf7c6e6933bbf93c21715f3d9f10c306d2451"
+  }
+ ]
 }

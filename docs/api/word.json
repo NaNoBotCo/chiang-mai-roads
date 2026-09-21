@@ -1,0 +1,1478 @@
+{
+ "type": "word",
+ "count": 15,
+ "nodes": [
+  {
+   "id": "chaeng",
+   "type": "word",
+   "names": {
+    "name": "แจ่ง chaeng",
+    "th": "แจ่ง",
+    "rtgs": "chaeng"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "แจ่ง chaeng — Kam Mueang for a corner or angle; standard Thai mum. The four corners of the moat are the four chaeng, each with its own name.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The word for the four corners of the moat. A songthaew driver navigates the square by its chaeng, not by street names, and so does this site."
+   },
+   "text_th": {
+    "what": "คำสำหรับสี่มุมคูเมือง คนขับรถแดงบอกทางในเวียงด้วยแจ่ง บ่ใช่ชื่อถนน เว็บนี้ก็เหมือนกัน"
+   },
+   "word": {
+    "th": "แจ่ง",
+    "rtgs": "chaeng",
+    "ipa": "/tɕɛ̀ŋ/",
+    "standard": "มุม · ป้อมมุมกำแพง",
+    "standard_rtgs": "mum · pom",
+    "gloss": "a corner; the bastion at a corner of the city wall",
+    "gloss_th": "มุม ป้อมมุมเวียง",
+    "example": "แจ่งศรีภูมิ",
+    "example_gloss": "Chaeng Si Phum — the northeast corner"
+   },
+   "kin": [
+    {
+     "to": "si-phum-corner",
+     "as": "One of the four.",
+     "rel": "gate"
+    },
+    {
+     "to": "katam-corner",
+     "as": "One of the four.",
+     "rel": "gate"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chaeng/chaeng-201703291049e-chiang-mai-city-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291049e Chiang Mai, City Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/201703291049e_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291049e_Chiang_Mai%2C_City_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "Flower at the city moat of Chiang Mai between Katam Corner and Chiang Mai Gate",
+     "date": "2017-03-29 10:49:24",
+     "primary": true,
+     "sha256": "a957418fdcfd87d9a95b56de85d0e6e67fad50b33b765f5d523ec73d76e05782"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "hua-lin-corner",
+     "type": "gate",
+     "name": "Hua Lin Corner",
+     "as": "The word."
+    },
+    {
+     "from": "katam-corner",
+     "type": "gate",
+     "name": "Katam Corner",
+     "as": "The word."
+    },
+    {
+     "from": "ku-hueang-corner",
+     "type": "gate",
+     "name": "Ku Hueang Corner",
+     "as": "The word."
+    },
+    {
+     "from": "si-phum-corner",
+     "type": "gate",
+     "name": "Si Phum Corner",
+     "as": "The word."
+    }
+   ]
+  },
+  {
+   "id": "chiang-mai-kam-mueang",
+   "type": "word",
+   "names": {
+    "name": "เจียงใหม่ chiang mai",
+    "th": "เจียงใหม่",
+    "rtgs": "chiang mai"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "เจียง chiang — a Tai word for a walled settlement, in Chiang Rai, Chiang Saen, Chiang Tung (Kengtung); ใหม่ mai, new. In Kam Mueang the initial is unaspirated, /tɕ/, so the city is Jiang Mai in its own mouth.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The name, in the northern voice. The unaspirated initial is the first thing a listener notices, and the first thing this site's Thai pages do."
+   },
+   "text_th": {
+    "what": "ชื่อเมือง ในเสียงเหนือ ตัว จ ที่บ่มีลมคือสิ่งแรกที่คนฟังสังเกต และสิ่งแรกที่หน้าไทยของเว็บนี้ทำ"
+   },
+   "word": {
+    "th": "เจียงใหม่",
+    "rtgs": "chiang mai",
+    "ipa": "/tɕiaŋ.màj/",
+    "standard": "เชียงใหม่",
+    "standard_rtgs": "chiang mai",
+    "gloss": "Chiang Mai, as the city says its own name",
+    "gloss_th": "เชียงใหม่ อย่างที่คนเมืองออกเสียง",
+    "example": "เมืองเจียงใหม่",
+    "example_gloss": "mueang chiang mai — the city",
+    "tai_tham": "ᨩ᩠ᨿᨦᩉ᩠ᨾᩲ᩵",
+    "tai_tham_source": "s:wp-tai-tham"
+   },
+   "kin": [
+    {
+     "to": "wiang",
+     "as": "What chiang means.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "chiang-mai-kam-mueang/chiang-mai-kam-mueang-chiangmai-view.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai view.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chiangmai_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_view.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Thaimissions2006 at English Wikipedia",
+     "credit": "Transferred from en.wikipedia to Commons.",
+     "alt": "View from Doi Suthep mountain over Chiang Mai city, northern Thailand",
+     "date": "18 April 2007 (original upload date)",
+     "primary": true,
+     "sha256": "e5a6b14d0bfd38647b4894451c9767a91aeea9ee777e923cd1c4dee68226ba89"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "hom",
+   "type": "word",
+   "names": {
+    "name": "ฮ่อม hom",
+    "th": "ฮ่อม",
+    "rtgs": "hom"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ฮ่อม hom — a Kam Mueang word with no Bangkok cognate in this sense; standard Thai borrows soi from the verb 'to slice' and trok from Khmer. Kam Mueang keeps initial /h/ where Bangkok has /r/ or nothing: ฮ่อม, ฮ้าน (shop, ร้าน), ฮัก (love, รัก).",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The Lanna word for an alley. Where a Bangkok address says soi, the old city said hom, and a few lanes still carry it in their names. This site uses it for the whole class of lanes between houses, which is where most of the city's road-kilometres are."
+   },
+   "text_th": {
+    "what": "คำเมืองสำหรับซอย ที่อยู่แบบกรุงเทพว่าซอย เวียงเก่าว่าฮ่อม และยังมีบางฮ่อมที่ชื่อติดอยู่ คำนี้ใช้บนเว็บนี้แทนตางแคบระหว่างบ้านทั้งหมด ซึ่งเป็นตี้กิโลเมตรถนนส่วนใหญ่ของเมืองอยู่"
+   },
+   "word": {
+    "th": "ฮ่อม",
+    "rtgs": "hom",
+    "ipa": "/hɔ̂ːm/",
+    "standard": "ซอย · ตรอก",
+    "standard_rtgs": "soi · trok",
+    "gloss": "a narrow lane between houses",
+    "gloss_th": "ทางแคบระหว่างบ้าน",
+    "example": "ฮ่อมโพธิ์",
+    "example_gloss": "Hom Pho — the Bodhi-tree lane; a lane name still on the map"
+   },
+   "kin": [
+    {
+     "to": "hom-the-lane",
+     "as": "The lanes themselves.",
+     "rel": "lane"
+    },
+    {
+     "to": "soi",
+     "as": "The Bangkok word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai",
+    "s:thwp-soi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "hom/hom-soi-in-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Soi in Chiang Mai.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Soi_in_Chiang_Mai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASoi_in_Chiang_Mai.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Adbar",
+     "credit": "Own work",
+     "alt": "A soi in Chiang Mai (Moonmuang Soi 9).",
+     "date": "2013-04-27 16:39:05",
+     "primary": true,
+     "sha256": "c4c4603cbf6d8f910ace9172433ba8c66b6ed512e86884d89495017662253e5c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "hom-the-lane",
+     "type": "lane",
+     "name": "The hom",
+     "as": "The word."
+    },
+    {
+     "from": "soi",
+     "type": "word",
+     "name": "ซอย soi",
+     "as": "The northern word."
+    }
+   ]
+  },
+  {
+   "id": "kamphaeng",
+   "type": "word",
+   "names": {
+    "name": "กำแพง kamphaeng",
+    "th": "กำแพง",
+    "rtgs": "kamphaeng"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "กำแพง kamphaeng ← Khmer កំពែង kampaeng. Kamphaeng Din, the earthen wall, is the outer one; the brick wall by the moat has no separate name because it is the wall.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The wall. In Chiang Mai there are two, and only the earthen one gets a qualifier."
+   },
+   "text_th": {
+    "what": "กำแพง ในเชียงใหม่มีสองชั้น และมีแค่ชั้นดินที่ต้องบอกว่าดิน"
+   },
+   "word": {
+    "th": "กำแพง",
+    "rtgs": "kamphaeng",
+    "ipa": "/kam.pʰɛːŋ/",
+    "standard": "กำแพง",
+    "standard_rtgs": "kamphaeng",
+    "gloss": "wall; city wall",
+    "gloss_th": "กำแพงเมือง",
+    "example": "กำแพงดิน",
+    "example_gloss": "Kamphaeng Din — the earth wall"
+   },
+   "kin": [
+    {
+     "to": "kamphaeng-din",
+     "as": "The earthen one.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "kamphaeng/kamphaeng-201703291207c-chiang-mai-city-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291207c Chiang Mai, City Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/201703291207c_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291207c_Chiang_Mai%2C_City_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "City moat of Chiang Mai between Hua Rin Corner and Chang Phuak Gate",
+     "date": "2017-03-29 12:07:44",
+     "primary": true,
+     "sha256": "057be677edcb8975a7f791793a8dc56c5a47e26e07a1d367bd1e9ea14ab3a37a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "kamphaeng-din",
+     "type": "place",
+     "name": "Kamphaeng Din, the earthen wall",
+     "as": "The word."
+    }
+   ]
+  },
+  {
+   "id": "kat",
+   "type": "word",
+   "names": {
+    "name": "กาด kat",
+    "th": "กาด",
+    "rtgs": "kat"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "กาด kat — Kam Mueang; standard Thai talat is from Khmer. Kad Luang, the great market, is Warorot; Kad Suan Kaew is a shopping mall on Huay Kaew Road that took the northern word for a modern thing.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The word for a market, and the reason the biggest one in the city and a shopping mall both have kat in their names. Roads here are named after markets more than markets after roads."
+   },
+   "text_th": {
+    "what": "คำสำหรับตลาด และเหตุที่กาดใหญ่สุดของเมืองกับห้างสรรพสินค้ามีคำว่ากาดในชื่อทั้งคู่ ถนนที่นี่ตั้งชื่อตามกาดมากกว่ากาดตั้งตามถนน"
+   },
+   "word": {
+    "th": "กาด",
+    "rtgs": "kat",
+    "ipa": "/kàːt/",
+    "standard": "ตลาด",
+    "standard_rtgs": "talat",
+    "gloss": "market",
+    "gloss_th": "ตลาด",
+    "example": "กาดหลวง",
+    "example_gloss": "Kad Luang — the great market, Warorot"
+   },
+   "kin": [
+    {
+     "to": "huay-kaew-road",
+     "as": "Kad Suan Kaew is on it.",
+     "rel": "road"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "kat/kat-waroros-market-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Waroros Market, Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Waroros_Market%2C_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWaroros_Market%2C_Chiang_Mai.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Manop",
+     "credit": "Own work",
+     "alt": "Waroros Market in Kad Luang, Chiang Mai City, Chiang Mai Province, Thailand\nตลาดวโรรส กาดหลวง อำเภอเมือง จังหวัดเชียงใหม่",
+     "date": "",
+     "primary": true,
+     "sha256": "149ca6807777ef106cd26455282767b937a66ab14e39dea7e9b3031533964ea8"
+    },
+    {
+     "file": "kat/kat-talat-warorot-chiang-mai-thailand-4245889349.jpg",
+     "source": "commons",
+     "title": "File:Talat Warorot, Chiang Mai, Thailand (4245889349).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Talat_Warorot%2C_Chiang_Mai%2C_Thailand_%284245889349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATalat_Warorot%2C_Chiang_Mai%2C_Thailand_%284245889349%29.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "yeowatzup",
+     "credit": "Talat Warorot, Chiang Mai, Thailand",
+     "alt": "petsgoplaces.blogspot.com/",
+     "date": "2009-12-31 15:41",
+     "primary": false,
+     "sha256": "be3381c72ba3b93b815094eecfcf4a1a92b5cfb6b417afa6e04039c346482d5f"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chang-moi-road",
+     "type": "road",
+     "name": "Chang Moi Road",
+     "as": "Kad Luang is at its end."
+    },
+    {
+     "from": "huay-kaew-road",
+     "type": "road",
+     "name": "Huay Kaew Road",
+     "as": "Kad Suan Kaew is on it."
+    }
+   ]
+  },
+  {
+   "id": "khu",
+   "type": "word",
+   "names": {
+    "name": "คู khu",
+    "th": "คู",
+    "rtgs": "khu"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "คู khu — Tai root, a dug channel. Khu mueang, the city ditch, is the moat; the same word in Bangkok, but there is only one khu that matters here.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The moat, and by extension the roads on its banks. 'Rop khu' is the loop."
+   },
+   "text_th": {
+    "what": "คูเมือง และโดยนัยคือถนนบนตลิ่งของมัน 'รอบคู' คือวงรอบ"
+   },
+   "word": {
+    "th": "คู",
+    "rtgs": "khu",
+    "ipa": "/kʰuː/",
+    "standard": "คูเมือง",
+    "standard_rtgs": "khu mueang",
+    "gloss": "moat; ditch",
+    "gloss_th": "คูเมือง",
+    "example": "รอบคูเมือง",
+    "example_gloss": "rop khu mueang — around the moat; the ring road on its banks"
+   },
+   "kin": [
+    {
+     "to": "moat-loop",
+     "as": "The roads on it.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "khu/khu-201703291023a-chiang-mai-city-moat.jpg",
+     "source": "commons",
+     "title": "File:201703291023a Chiang Mai, City Moat.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/201703291023a_Chiang_Mai%2C_City_Moat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A201703291023a_Chiang_Mai%2C_City_Moat.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Hartmann Linge",
+     "credit": "Own work",
+     "alt": "City moat of Chiang Mai between Chiang Mai Gate and Suan Prung Gate",
+     "date": "2017-03-29 10:23:35",
+     "primary": true,
+     "sha256": "e1b6ba2efb374f3ac6864cdb555aec2c5b5a65005cb99057e4c925d67ba4ee00"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "the-moat",
+     "type": "place",
+     "name": "The moat",
+     "as": "The word."
+    }
+   ]
+  },
+  {
+   "id": "khua",
+   "type": "word",
+   "names": {
+    "name": "ขัว khua",
+    "th": "ขัว",
+    "rtgs": "khua"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ขัว khua — Tai root, cognate with Lao ຂົວ khua and Shan; standard Thai saphan is from Khmer spean. Khua Lek, the Iron Bridge, keeps the northern word in a name everyone in the city uses.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The Lanna word for a bridge, and the one the Iron Bridge is known by. A driver hears saphan on the signs and khua from the passengers."
+   },
+   "text_th": {
+    "what": "คำเมืองสำหรับสะพาน และเป็นชื่อที่ขัวเหล็กถูกเรียก คนขับได้ยินคำว่าสะพานบนป้าย แต่ได้ยินขัวจากคนนั่ง"
+   },
+   "word": {
+    "th": "ขัว",
+    "rtgs": "khua",
+    "ipa": "/kʰǔa/",
+    "standard": "สะพาน",
+    "standard_rtgs": "saphan",
+    "gloss": "bridge",
+    "gloss_th": "สะพาน",
+    "example": "ขัวเหล็ก",
+    "example_gloss": "Khua Lek — the Iron Bridge over the Ping"
+   },
+   "kin": [
+    {
+     "to": "iron-bridge",
+     "as": "The bridge everyone calls by this word.",
+     "rel": "bridge"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "khua/khua-ping-river-in-chiang-mai-panoramio-erebusso-7.jpg",
+     "source": "commons",
+     "title": "File:Ping River in Chiang Mai - panoramio - Erebusso. (7).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ping_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APing_River_in_Chiang_Mai_-_panoramio_-_Erebusso._%287%29.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Erebusso.",
+     "credit": "https://web.archive.org/web/20161015061345/http://www.panoramio.com/photo/32519486",
+     "alt": "Ping River in Chiang Mai with Khua Lek (Iron Bridge) and Diamond Riverside Hotel.",
+     "date": "Taken on 4 December 2009",
+     "primary": true,
+     "sha256": "f67deb8164818d873c5945dad0a8667744f40ac6e43eea7cb440e0c6e92aa962"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "iron-bridge",
+     "type": "bridge",
+     "name": "Khua Lek, the Iron Bridge",
+     "as": "The word."
+    },
+    {
+     "from": "nawarat-bridge",
+     "type": "bridge",
+     "name": "Nawarat Bridge",
+     "as": "The word."
+    }
+   ]
+  },
+  {
+   "id": "lot",
+   "type": "word",
+   "names": {
+    "name": "ลอด lot",
+    "th": "ลอด",
+    "rtgs": "lot"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ลอด lot — to pass beneath. The highway department's word for what it built at every junction of the middle ring: thang lot, the way under. Newspapers say umong, tunnel, for the same thing.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The underpass. Chiang Mai chose to go under its junctions rather than over them, seven times on the middle ring alone, and the word is on every green sign."
+   },
+   "text_th": {
+    "what": "ทางลอด เชียงใหม่เลือกลอดใต้แยกแทนข้าม บนวงแหวนรอบกลางวงเดียวเจ็ดครั้ง และคำนี้อยู่บนป้ายเขียวทุกป้าย"
+   },
+   "word": {
+    "th": "ลอด",
+    "rtgs": "lot",
+    "ipa": "/lɔ̂ːt/",
+    "standard": "ทางลอด · อุโมงค์",
+    "standard_rtgs": "thang lot · umong",
+    "gloss": "to pass under; an underpass",
+    "gloss_th": "ลอดใต้ ทางลอด",
+    "example": "ทางลอดข่วงสิงห์",
+    "example_gloss": "thang lot Khuang Sing — the underpass at the northern gate of the Superhighway"
+   },
+   "kin": [
+    {
+     "to": "ring-2",
+     "as": "Seven of them.",
+     "rel": "ring"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "lot/lot-chiang-mai-thailand-speed-limit-road-sign-01.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Speed-limit-road-sign-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chiang-Mai_Thailand_Speed-limit-road-sign-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Speed-limit-road-sign-01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: Railway water tank of Chiang Mai Railway Station",
+     "date": "2017-04-17",
+     "primary": true,
+     "sha256": "8b6e7cd0877e325f6c3b36d14a0025e7683b003adc7ee6e8488a949178873ecd"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ring-2",
+     "type": "ring",
+     "name": "Ring 2, the 700 Years Road",
+     "as": "The word on the signs."
+    },
+    {
+     "from": "khuang-sing-underpass",
+     "type": "junction",
+     "name": "Khuang Sing underpass",
+     "as": "The word."
+    },
+    {
+     "from": "ring-2-underpasses",
+     "type": "junction",
+     "name": "The seven underpasses of the middle ring",
+     "as": "The word."
+    }
+   ]
+  },
+  {
+   "id": "pratu",
+   "type": "word",
+   "names": {
+    "name": "ประตู pratu",
+    "th": "ประตู",
+    "rtgs": "pratu"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ประตู pratu ← Khmer ទ្វារ / Sanskrit dvāra by way of Khmer pratu; the same word in both registers, but in Chiang Mai it means one of five specific places before it means a door.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "Shared with standard Thai, but in this city 'pratu' is a place name first: five gates, and everyone knows which one you mean."
+   },
+   "text_th": {
+    "what": "ใช้ร่วมกับภาษากลาง แต่ในเมืองนี้ ประตูเป็นชื่อสถานที่ก่อน ห้าประตู และใผ ๆ ก็ฮู้ว่าหมายเถิงอันไหน"
+   },
+   "word": {
+    "th": "ประตู",
+    "rtgs": "pratu",
+    "ipa": "/pa.tǔː/",
+    "standard": "ประตู",
+    "standard_rtgs": "pratu",
+    "gloss": "gate; city gate",
+    "gloss_th": "ประตูเมือง",
+    "example": "ประตูท่าแพ",
+    "example_gloss": "Pratu Tha Phae — the east gate"
+   },
+   "kin": [
+    {
+     "to": "tha-phae-gate",
+     "as": "The one everyone means.",
+     "rel": "gate"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "pratu/pratu-chiangmai-thaphae-gate.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai Thaphae Gate.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chiangmai_Thaphae_Gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Thaphae_Gate.JPG",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Rinto Jiang",
+     "credit": "Own work",
+     "alt": "Tha Phae Gate of Chiang Mai",
+     "date": "2007-01-25",
+     "primary": true,
+     "sha256": "0750696de839a70c5591b041a9e77e6cb770f3c813690571c543f54b10e0e526"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "rot-daeng",
+   "type": "word",
+   "names": {
+    "name": "รถแดง rot daeng",
+    "th": "รถแดง",
+    "rtgs": "rot daeng"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "รถ rot, vehicle ← Sanskrit ratha, chariot + แดง daeng, red. Elsewhere in Thailand a songthaew, two rows, for the benches in the back. Here the colour is the name.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The red pickup with two benches that is the city's bus, taxi and school run. It has no route, only a direction and a fare, which is why it is on a site about roads: it is how most of them are used."
+   },
+   "text_th": {
+    "what": "รถกระบะแดงมีม้านั่งสองแถวที่เป็นรถเมล์ แท็กซี่ และรถรับส่งนักเรียนของเมือง มันบ่มีเส้นทาง มีแต่ทิศกับค่าโดยสาร นี่คือเหตุที่มันอยู่บนเว็บเรื่องถนน มันคือวิธีที่ถนนส่วนใหญ่ถูกใช้"
+   },
+   "word": {
+    "th": "รถแดง",
+    "rtgs": "rot daeng",
+    "ipa": "/rót.dɛːŋ/",
+    "standard": "รถสองแถว",
+    "standard_rtgs": "rot song thaeo",
+    "gloss": "the red truck; Chiang Mai's shared taxi",
+    "gloss_th": "รถสองแถวแดงของเชียงใหม่",
+    "example": "ขึ้นรถแดง",
+    "example_gloss": "khuen rot daeng — get in a red truck"
+   },
+   "kin": [
+    {
+     "to": "songthaew-count",
+     "as": "How many, counted.",
+     "rel": "traffic"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai",
+    "s:wp-songthaew"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "rot-daeng/rot-daeng-red-car-chiang-mai-4.jpg",
+     "source": "commons",
+     "title": "File:Red Car Chiang Mai (4).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Red_Car_Chiang_Mai_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARed_Car_Chiang_Mai_%284%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Patiparn.Nice2002bkk",
+     "credit": "Own work",
+     "alt": "Red Car Chiang Mai",
+     "date": "2022-04-10 16:40:14",
+     "primary": true,
+     "sha256": "1fe3219e3e5e9a89b5bb7fbb29ca4df3f170727a127c2a5ae118d55b87c3246d"
+    },
+    {
+     "file": "rot-daeng/rot-daeng-rot-daeng-in-downtown-chiang-mai.jpg",
+     "source": "commons",
+     "title": "File:Rot Daeng in downtown Chiang Mai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rot_Daeng_in_downtown_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARot_Daeng_in_downtown_Chiang_Mai.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Manop",
+     "credit": "Own work",
+     "alt": "การจราจรในเมืองเชียงใหม่",
+     "date": "2008-07-26",
+     "primary": false,
+     "sha256": "d3d47acacf7bf6839d4866c7146473d458262d4772c1469189187dbde807adfd"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "motorcycle-share",
+     "type": "traffic",
+     "name": "The motorcycle, counted and not counted",
+     "as": "The other vehicle."
+    },
+    {
+     "from": "songthaew-count",
+     "type": "traffic",
+     "name": "The red trucks, counted",
+     "as": "The word."
+    }
+   ]
+  },
+  {
+   "id": "soi",
+   "type": "word",
+   "names": {
+    "name": "ซอย soi",
+    "th": "ซอย",
+    "rtgs": "soi"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ซอย soi — from the verb to slice or cut into strips; a soi is a cut off a main road. Numbered along the road, even numbers on one side and odd on the other; a trok is the level below. Named sois often carry a landowner's name.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The Bangkok word and the postal one. Every lane on the map that has a number has it because of this system; the ones that have a name instead are older or prouder."
+   },
+   "text_th": {
+    "what": "คำกรุงเทพและคำไปรษณีย์ ทุกซอยบนแผนที่ที่มีเลขมีเพราะระบบนี้ ซอยที่มีชื่อแทนเลขนั้นเก่ากว่าหรือหยิ่งกว่า"
+   },
+   "word": {
+    "th": "ซอย",
+    "rtgs": "soi",
+    "ipa": "/sɔːj/",
+    "standard": "ซอย",
+    "standard_rtgs": "soi",
+    "gloss": "a side street off a main road, numbered along it",
+    "gloss_th": "ซอยแยกจากถนนหลัก",
+    "example": "ซอยนิมมานเหมินท์ 1",
+    "example_gloss": "Soi Nimmanhaemin 1 — the first cut off Nimman"
+   },
+   "kin": [
+    {
+     "to": "hom",
+     "as": "The northern word.",
+     "rel": "word"
+    },
+    {
+     "to": "soi-numbering",
+     "as": "How the numbers work.",
+     "rel": "lane"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai",
+    "s:thwp-soi"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "soi/soi-ban-nanuea-soi-2-street-01.jpg",
+     "source": "commons",
+     "title": "File:Ban Nanuea Soi 2 (street) 01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ban_Nanuea_Soi_2_%28street%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABan_Nanuea_Soi_2_%28street%29_01.jpg",
+     "license": "CC0 1.0",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "author": "This is Arthur Morganar (RDR2-THR)",
+     "credit": "Own work",
+     "alt": "Ban Nanuea Soi 2 This is the local street from Thailand. IMG20240923183042.",
+     "date": "2024-09-23 18:30:39",
+     "primary": true,
+     "sha256": "0fe7e8fd32271e4c14a70cad985fc90cc5e9f49253aba49e0ebfb1512b711b9b"
+    },
+    {
+     "file": "soi/soi-chiang-mai-moonmuang-road-soi-7-0001.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai - Moonmuang Road Soi 7 - 0001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chiang_Mai_-_Moonmuang_Road_Soi_7_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Moonmuang_Road_Soi_7_-_0001.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Stefan Fussan",
+     "credit": "Own work - My images are also available on MyPortfolio",
+     "alt": "Moonmuang Road Soi 7, Chiang Mai, Thailand",
+     "date": "2014-05-23",
+     "primary": false,
+     "sha256": "187d85f46fa7500f9204abb98ea32217e82965d800fb428108e2c950da0fddf0"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "soi-numbering",
+     "type": "lane",
+     "name": "How a soi gets its number",
+     "as": "The word."
+    },
+    {
+     "from": "soi-count",
+     "type": "measure",
+     "name": "Sois, counted by name",
+     "as": "The word."
+    },
+    {
+     "from": "hom",
+     "type": "word",
+     "name": "ฮ่อม hom",
+     "as": "The Bangkok word."
+    }
+   ]
+  },
+  {
+   "id": "thang",
+   "type": "word",
+   "names": {
+    "name": "ทาง thang",
+    "th": "ทาง",
+    "rtgs": "thang"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ทาง thang — Tai root. Thang luang, the royal way, is a national highway; thang lot, the way under, is an underpass; thang khuen doi, the way up the mountain.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The general word for a way, which the highway department uses for everything it builds: thang luang for a national highway, thang lot for an underpass, thang yok radap for an elevated road."
+   },
+   "text_th": {
+    "what": "คำทั่วไปสำหรับทาง ซึ่งกรมทางหลวงใช้เรียกทุกอย่างที่สร้าง ทางหลวง ทางลอด ทางยกระดับ"
+   },
+   "word": {
+    "th": "ทาง",
+    "rtgs": "thang",
+    "ipa": "/tʰaːŋ/",
+    "standard": "ทาง",
+    "standard_rtgs": "thang",
+    "gloss": "way, path, direction; in compounds, a road of a certain kind",
+    "gloss_th": "ทาง ทิศทาง",
+    "example": "ทางลอด",
+    "example_gloss": "thang lot — an underpass"
+   },
+   "kin": [
+    {
+     "to": "thanon",
+     "as": "The other word.",
+     "rel": "word"
+    },
+    {
+     "to": "khuang-sing-underpass",
+     "as": "A thang lot.",
+     "rel": "junction"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "thang/thang-chiang-mai-thailand-speed-limit-road-sign-01.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Speed-limit-road-sign-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Chiang-Mai_Thailand_Speed-limit-road-sign-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Speed-limit-road-sign-01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: Railway water tank of Chiang Mai Railway Station",
+     "date": "2017-04-17",
+     "primary": true,
+     "sha256": "8b6e7cd0877e325f6c3b36d14a0025e7683b003adc7ee6e8488a949178873ecd"
+    },
+    {
+     "file": "thang/thang-thailand-traffic-signs-working-sites-03.jpg",
+     "source": "commons",
+     "title": "File:Thailand Traffic-signs Working-sites-03.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Thailand_Traffic-signs_Working-sites-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThailand_Traffic-signs_Working-sites-03.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Traffic signs in Thailand: Working site (Photo taken at Chiang Mai University)",
+     "date": "2017-04-19",
+     "primary": false,
+     "sha256": "6e8dcf0ec322e1971bc329ce0fbaf7c6e6933bbf93c21715f3d9f10c306d2451"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "thanon",
+     "type": "word",
+     "name": "ถนน thanon",
+     "as": "The other word."
+    }
+   ]
+  },
+  {
+   "id": "thanon",
+   "type": "word",
+   "names": {
+    "name": "ถนน thanon",
+    "th": "ถนน",
+    "rtgs": "thanon"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "ถนน thanon ← Khmer ថ្នល់ thnal, a raised road. The word for a made road, as against thang, a way.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The standard word, used in both registers. A thanon is built; a thang is only gone along."
+   },
+   "text_th": {
+    "what": "คำมาตรฐาน ใช้ทั้งสองสำเนียง ถนนคือสิ่งที่ถูกสร้าง ทางคือสิ่งที่แค่เดินไป"
+   },
+   "word": {
+    "th": "ถนน",
+    "rtgs": "thanon",
+    "ipa": "/tʰa.nǒn/",
+    "standard": "ถนน",
+    "standard_rtgs": "thanon",
+    "gloss": "road, street",
+    "gloss_th": "ถนน",
+    "example": "ถนนท่าแพ",
+    "example_gloss": "Thanon Tha Phae — Tha Phae Road"
+   },
+   "kin": [
+    {
+     "to": "thang",
+     "as": "The other word.",
+     "rel": "word"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "thanon/thanon-charoen-rajd-road-in-chiang-mai-1.jpg",
+     "source": "commons",
+     "title": "File:Charoen Rajd Road in Chiang Mai 1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Charoen_Rajd_Road_in_Chiang_Mai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ACharoen_Rajd_Road_in_Chiang_Mai_1.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Charoen Rajd Road in Chiang Mai.",
+     "date": "2018-09-06 15:25:11",
+     "primary": true,
+     "sha256": "ab6391f0899224cc034c2b62da745bc71d1b7671139151a82f1c9a87bb3f3e1d"
+    },
+    {
+     "file": "thanon/thanon-chiang-mai-chayiaphoom-road-0001.jpg",
+     "source": "commons",
+     "title": "File:Chiang Mai - Chayiaphoom Road - 0001.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Chiang_Mai_-_Chayiaphoom_Road_-_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_-_Chayiaphoom_Road_-_0001.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Stefan Fussan",
+     "credit": "Own work - My images are also available on MyPortfolio",
+     "alt": "Chayiaphoom Road, Chiang Mai, Thailand",
+     "date": "2014-05-23",
+     "primary": false,
+     "sha256": "da8f36cac4d4a928fc864b1ea99759bb54cef50768030f6bcdee45d94a3a84b7"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "thang",
+     "type": "word",
+     "name": "ทาง thang",
+     "as": "The other word."
+    }
+   ]
+  },
+  {
+   "id": "wiang",
+   "type": "word",
+   "names": {
+    "name": "เวียง wiang",
+    "th": "เวียง",
+    "rtgs": "wiang"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "เวียง wiang — Tai root shared with Lao ວຽງ (Vientiane is Wiang Chan). Mueang is the polity; wiang is the fortified place inside it. 'Nai wiang', inside the wiang, is how the old city is said.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The word for the walled city, and the word this site uses for the square inside the moat. The rest of Chiang Mai is mueang; the square is wiang."
+   },
+   "text_th": {
+    "what": "คำสำหรับเมืองมีกำแพง และเป็นคำที่เว็บนี้ใช้เรียกสี่เหลี่ยมในคู เชียงใหม่ที่เหลือคือเมือง สี่เหลี่ยมคือเวียง"
+   },
+   "word": {
+    "th": "เวียง",
+    "rtgs": "wiang",
+    "ipa": "/wiaŋ/",
+    "standard": "เมือง (ที่มีกำแพง)",
+    "standard_rtgs": "mueang",
+    "gloss": "a walled town; the old city inside the moat",
+    "gloss_th": "เมืองมีกำแพง เวียงในคู",
+    "example": "ในเวียง",
+    "example_gloss": "nai wiang — inside the walls"
+   },
+   "kin": [
+    {
+     "to": "the-moat",
+     "as": "What surrounds it.",
+     "rel": "place"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "wiang/wiang-chiangmai-thaphae-gate.jpg",
+     "source": "commons",
+     "title": "File:Chiangmai Thaphae Gate.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chiangmai_Thaphae_Gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiangmai_Thaphae_Gate.JPG",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Rinto Jiang",
+     "credit": "Own work",
+     "alt": "Tha Phae Gate of Chiang Mai",
+     "date": "2007-01-25",
+     "primary": true,
+     "sha256": "0750696de839a70c5591b041a9e77e6cb770f3c813690571c543f54b10e0e526"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chiang-mai-kam-mueang",
+     "type": "word",
+     "name": "เจียงใหม่ chiang mai",
+     "as": "What chiang means."
+    }
+   ]
+  },
+  {
+   "id": "yaek",
+   "type": "word",
+   "names": {
+    "name": "แยก yaek",
+    "th": "แยก",
+    "rtgs": "yaek"
+   },
+   "region": [
+    "lanna"
+   ],
+   "etymology": {
+    "root": "แยก yaek — to separate. Si yaek is a crossroads, sam yaek a T. A junction is named after what stands beside it: Yaek Rincome after a hotel that closed, Yaek Sanam Bin after the airport.",
+    "tier": "tradition"
+   },
+   "text": {
+    "what": "The junction. Chiang Mai directions run from yaek to yaek, and the names outlive the buildings."
+   },
+   "text_th": {
+    "what": "ทางแยก การบอกทางในเชียงใหม่วิ่งจากแยกถึงแยก และชื่อแยกอยู่นานกว่าตึก"
+   },
+   "word": {
+    "th": "แยก",
+    "rtgs": "yaek",
+    "ipa": "/jɛ̂ːk/",
+    "standard": "ทางแยก",
+    "standard_rtgs": "thang yaek",
+    "gloss": "a junction; to branch",
+    "gloss_th": "ทางแยก",
+    "example": "แยกรินคำ",
+    "example_gloss": "Yaek Rincome — the junction named for a hotel that is gone"
+   },
+   "kin": [
+    {
+     "to": "rincome-junction",
+     "as": "The one named for a vanished hotel.",
+     "rel": "junction"
+    }
+   ],
+   "tags": [
+    "lanna"
+   ],
+   "sources": [
+    "s:moradok-lanna-dict",
+    "s:wp-northern-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:moradok-lanna-dict"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, in the northern register where it fits; not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-21",
+   "images": [
+    {
+     "file": "yaek/yaek-intravarorot-road-sign.jpg",
+     "source": "commons",
+     "title": "File:Intravarorot road sign.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Intravarorot_road_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AIntravarorot_road_sign.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Chainwit.",
+     "credit": "Own work",
+     "alt": "Decorated Intravarorot road sign in Chiang Mai, Thailand",
+     "date": "2017-10-15 09:54:38",
+     "primary": true,
+     "sha256": "77a60801b930b67284f930b989e6ad863757f5d986cf9552fea22f4c2d0bedfa"
+    },
+    {
+     "file": "yaek/yaek-chiang-mai-thailand-prohibitory-road-sign-01.jpg",
+     "source": "commons",
+     "title": "File:Chiang-Mai Thailand Prohibitory-road-sign-01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chiang-Mai_Thailand_Prohibitory-road-sign-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Prohibitory-road-sign-01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "alt": "Chiang Mai, Thailand: A prohibitory road sign at Chiang Mai University",
+     "date": "2017-04-19",
+     "primary": false,
+     "sha256": "5ab88e937da097d9c634e8762f48dc0d67bc59e441f5001a192a89995cd454d5"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "rincome-junction",
+     "type": "junction",
+     "name": "Rincome junction",
+     "as": "The word, with this as the example."
+    }
+   ]
+  }
+ ]
+}

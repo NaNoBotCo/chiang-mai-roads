@@ -4,8 +4,8 @@
  "names": {
   "name": "Sois, counted by name",
   "th": "ซอย นับตามชื่อ",
-  "said": "3,236 named sois on the map, 694 km of them, 7 named for a wat.",
-  "said_th": "ซอยที่มีชื่อ 3,236 สายบนแผนที่ 694 กม. 7 สายชื่อตามวัด"
+  "said": "3,733 named sois on the map, 811 km of them, 8 named for a wat.",
+  "said_th": "ซอยที่มีชื่อ 3,733 สายบนแผนที่ 811 กม. 8 สายชื่อตามวัด"
  },
  "region": [
   "city"
@@ -14,67 +14,67 @@
   "year": "2026"
  },
  "text": {
-  "what": "A way whose name carries ซอย, ซ. or Soi, ways of one name summed: 3,236 names, 694 km. 3,158 carry a number; 7 carry a wat's name. The longest by name: ซอย 2 8.7 km, ซอย 4 7.8 km, ซอย 1 6.8 km, ซอย 3 6.3 km, ซอย 6 4.8 km. The municipality publishes no soi count, so this is the only one on this disk.",
-  "story": "*Inference —* a soi named for a wat is a lane that is older than its number. The share of them is a rough age of a neighbourhood, and it is highest where the map is oldest."
+  "what": "A way whose name carries ซอย, ซ. or Soi, ways of one name summed: 3,733 names, 811 km. 3,650 carry a number; 8 carry a wat's name. The longest by name: ซอย หมู่บ้านวังตาล 4.1 km, CBP Soi 2 2.6 km, บ้านป่าเดื่อ หมู่ 1 ซอย 3 2.6 km, หนองป่าแสะ ซอย 4 2.2 km, ซอย สายลมชายคลอง 19 2.0 km. The municipality publishes no soi count, so this is the only one on this disk.",
+  "story": "*Inference —* the soi is a numbering system, not a naming one: 98 percent of them carry a number and 8 in the whole box carry a wat's name. Thailand's address system was laid over the city in the twentieth century and it replaced names with ordinals; the hom that kept a name kept it by not being numbered, and those are counted on the other side of the ledger, in the 4,757 km of lane with no name at all."
  },
  "text_th": {
-  "what": "เส้นทางที่ชื่อมี ซอย ซ. หรือ Soi รวมเส้นทางชื่อเดียวกัน 3,236 ชื่อ 694 กม. มีเลข 3,158 มีชื่อวัด 7 ยาวสุดตามชื่อ: ซอย 2 8.7 กม., ซอย 4 7.8 กม., ซอย 1 6.8 กม., ซอย 3 6.3 กม., ซอย 6 4.8 กม. เทศบาลไม่เผยแพร่จำนวนซอย นี่จึงเป็นจำนวนเดียวในแผ่นนี้",
-  "story": "*อนุมาน —* ซอยที่ชื่อตามวัดคือฮ่อมที่เก่ากว่าเลขของมัน สัดส่วนของมันคืออายุคร่าว ๆ ของย่าน และสูงสุดตี้แผนที่เก่าสุด"
+  "what": "เส้นทางที่ชื่อมี ซอย ซ. หรือ Soi รวมเส้นทางชื่อเดียวกัน 3,733 ชื่อ 811 กม. มีเลข 3,650 มีชื่อวัด 8 ยาวสุดตามชื่อ: ซอย หมู่บ้านวังตาล 4.1 กม., CBP Soi 2 2.6 กม., บ้านป่าเดื่อ หมู่ 1 ซอย 3 2.6 กม., หนองป่าแสะ ซอย 4 2.2 กม., ซอย สายลมชายคลอง 19 2.0 กม. เทศบาลไม่เผยแพร่จำนวนซอย นี่จึงเป็นจำนวนเดียวในแผ่นนี้",
+  "story": "*อนุมาน —* ซอยคือระบบเลข บ่ใช่ระบบชื่อ ร้อยละ 98 มีเลข และมีแค่ 8 สายในทั้งกรอบที่ชื่อตามวัด ระบบที่อยู่ของไทยถูกวางทับเมืองในศตวรรษที่ยี่สิบ และมันแทนชื่อด้วยเลขลำดับ ฮ่อมที่เก็บชื่อไว้เก็บได้เพราะบ่ถูกใส่เลข และฮ่อมพวกนั้นถูกนับอีกฝั่งของบัญชี ในฮ่อมไม่มีชื่อเลย 4,757 กม."
  },
  "figure": {
-  "value": 3236,
+  "value": 3733,
   "unit": "named sois in the box",
   "unit_th": "ซอยที่มีชื่อในกรอบ",
   "year": "2026",
   "source": "s:osm",
   "series": [
    {
-    "label": "ซอย 2",
-    "value": 8.72
-   },
-   {
-    "label": "ซอย 4",
-    "value": 7.77
-   },
-   {
-    "label": "ซอย 1",
-    "value": 6.8
-   },
-   {
-    "label": "ซอย 3",
-    "value": 6.34
-   },
-   {
-    "label": "ซอย 6",
-    "value": 4.81
-   },
-   {
-    "label": "ซอย 5",
-    "value": 4.59
-   },
-   {
-    "label": "ซอย 7",
-    "value": 4.23
-   },
-   {
     "label": "ซอย หมู่บ้านวังตาล",
     "value": 4.14
    },
    {
-    "label": "ซอย 9",
-    "value": 3.61
-   },
-   {
-    "label": "ซอย 10",
-    "value": 2.92
-   },
-   {
-    "label": "ซอย 8",
-    "value": 2.69
-   },
-   {
     "label": "CBP Soi 2",
     "value": 2.64
+   },
+   {
+    "label": "บ้านป่าเดื่อ หมู่ 1 ซอย 3",
+    "value": 2.59
+   },
+   {
+    "label": "หนองป่าแสะ ซอย 4",
+    "value": 2.23
+   },
+   {
+    "label": "ซอย สายลมชายคลอง 19",
+    "value": 2.02
+   },
+   {
+    "label": "ซอย ถ",
+    "value": 1.94
+   },
+   {
+    "label": "บ้านแม่โจ้ ซอย 9",
+    "value": 1.93
+   },
+   {
+    "label": "บ้านฟ้ามุ่ย ซอย 10",
+    "value": 1.91
+   },
+   {
+    "label": "หนองแฝก ซอย 8",
+    "value": 1.81
+   },
+   {
+    "label": "บ้านใหม่สามัคคี ซอย 7",
+    "value": 1.54
+   },
+   {
+    "label": "CBP Soi 1",
+    "value": 1.44
+   },
+   {
+    "label": "ซอย 4 แม่สาหลวง",
+    "value": 1.39
    }
   ],
   "method": "Regular expression on name, name:th and name:en; lengths summed per distinct name.",
