@@ -4,7 +4,7 @@ The square of 1296, four rings around it, 6,934 km of road between, and what eac
 Publisher: NaN — https://wichaa.net
 Made by Hongdam (https://hongdam.net/), a bilingual web studio in Chiang Rai.
 Data: OpenStreetMap (ODbL), DOH open data, DDC open data, Open-Meteo (CC BY 4.0), Wikimedia Commons
-Built: 2026-09-22 23:25
+Built: 2026-09-22 23:32
 
 # — roster of sibling sites, generated from data/fleet.json —
 /* STUDIO */
@@ -21,6 +21,7 @@ Hand Poke — https://nanobotco.github.io/hand-poke/
 Black Holes, Drawn — https://nanobotco.github.io/black-holes/
 Quantum Computing, plainly — https://nanobotco.github.io/quantum-computing/
 Goin' Fast — https://nanobotco.github.io/goin-fast/
+The Three-Body Problem — https://nanobotco.github.io/three-body/
 Amulet Atlas — https://nanobotco.github.io/amulet-atlas/
 Carolina Barbecue — https://nanobotco.github.io/carolina-barbecue/
 Wing Country — https://nanobotco.github.io/buffalo-wings/
