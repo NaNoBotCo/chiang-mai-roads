@@ -126,12 +126,22 @@ def draw_card(out: Path, headline: str, kicker: str = "", big: str = "", big_lab
     return out
 
 
+def _author(im: dict) -> str:
+    """Commons returns a doubled author on some files ("Unknown authorUnknown author");
+    halve it before it goes on a card."""
+    a = (im.get("author") or "").strip()
+    half = len(a) // 2
+    if len(a) > 6 and a[:half] == a[half:]:
+        a = a[:half]
+    return a
+
+
 def photo_for(node: dict):
     for im in (node.get("images") or []):
         if im.get("primary"):
-            return IMAGES / im["file"], f'{im.get("author", "")} · {im.get("license", "")}'
+            return IMAGES / im["file"], f'{_author(im)} · {im.get("license", "")}'
     for im in (node.get("images") or []):
-        return IMAGES / im["file"], f'{im.get("author", "")} · {im.get("license", "")}'
+        return IMAGES / im["file"], f'{_author(im)} · {im.get("license", "")}'
     return None, ""
 
 
@@ -155,6 +165,8 @@ if __name__ == "__main__":
          f'{m.get("drive_km", 0):,.0f}', "km of road, counted off the map", "the-moat"),
         ("map", "Every road in the city, over the mountain", "The map",
          f'{m.get("ways", 0):,}', "ways from OpenStreetMap", "doi-suthep"),
+        ("old-maps", "The 1931 sheet calls the moat khu wiang", "Old maps",
+         "1693", "the oldest of seventeen sheets", "map-1931"),
         ("rings", "Each ring was an edge that became a middle", "Rings",
          "4", "rings, 1948 to 2006", "ring-3"),
         ("old-city", "Seven centuries have not laid out a neighbourhood as well-connected as the first", "The old city, measured",
