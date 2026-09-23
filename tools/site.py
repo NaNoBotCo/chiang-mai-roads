@@ -224,7 +224,7 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
             f'hreflang="th">ไทย</a>') if bilingual else ""
     brand = ('Roads of <b>Chiang Mai</b>' if lang == "en" else 'ถนน<b>เจียงใหม่</b>') + f'<span class="tt" lang="nod">{TAI_THAM}</span>'
     return f"""<!doctype html>
-<html lang="{lang}"{' class="th"' if lang == 'th' else ''}>
+<html lang="{lang}" class="{'th ' if lang == 'th' else ''}notranslate" translate="no">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -249,6 +249,9 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
 <style>{CSS}{CSS_EXTRA}</style>{head}
 <script type="application/ld+json">{ld}</script>
 <script defer src="{r}copy.js"></script>
+<meta name="google" content="notranslate">
+<meta name="robots" content="notranslate">
+<script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 </head>
 <body>
 <a class="sr" href="#main">Skip to content</a>
