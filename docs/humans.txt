@@ -4,7 +4,7 @@ The square of 1296, four rings around it, 6,934 km of road between, and what eac
 Publisher: NaN — https://wichaa.net
 Made by Hongdam (https://hongdam.net/), a bilingual web studio in Chiang Rai.
 Data: OpenStreetMap (ODbL), DOH open data, DDC open data, Open-Meteo (CC BY 4.0), Wikimedia Commons
-Built: 2026-09-23 10:10
+Built: 2026-09-23 12:37
 
 # — roster of sibling sites, generated from data/fleet.json —
 /* STUDIO */
