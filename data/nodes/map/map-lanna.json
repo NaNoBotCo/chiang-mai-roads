@@ -20,14 +20,14 @@
   "maker": "unknown",
   "maker_th": "ไม่ปรากฏผู้จัดทำ",
   "shows": "The wall and the gates, and streets only where a street leads to something worth drawing.",
-  "shows_th": "กำแพงและประตู และถนนเฉพาะตรงที่ถนนพาไปหาสิ่งที่ควรวาด"
+  "shows_th": "กำแพงและประตู และถนนเฉพาะตรงที่ถนนพาไปหาสิ่งที่น่าวาด"
  },
  "text": {
   "what": "An undated Lanna-era map of the walled city, with a portrait of a ruler at the left, the palace, the temples and the wall. It is a picture of a place rather than a survey of one: nothing on it is to scale and everything on it is where it belongs.",
   "story": "*Inference —* the useful thing about a map that is not to scale is that it tells you what mattered. The wall is drawn thick, the wats are drawn large, and the roads are barely there. A road was not yet a thing you drew."
  },
  "text_th": {
-  "what": "แผนที่เวียงสมัยล้านนาที่ไม่ระบุปี มีรูปเจ้าอยู่ด้านซ้าย มีคุ้ม วัด และกำแพง มันเป็นภาพของสถานที่ มากกว่าการรังวัดสถานที่ ไม่มีอะไรบนนั้นได้สัดส่วน และทุกอย่างบนนั้นอยู่ตรงที่มันควรอยู่",
+  "what": "แผนที่เวียงสมัยล้านนาที่ไม่ระบุปี มีรูปเจ้าอยู่ด้านซ้าย มีคุ้ม วัด และกำแพง มันเป็นภาพของสถานที่ มากกว่าการรังวัดสถานที่ ไม่มีอะไรบนนั้นได้สัดส่วน และทุกอย่างบนนั้นอยู่ในที่ของมัน",
   "story": "*อนุมาน —* สิ่งที่มีประโยชน์ของแผนที่ที่ไม่ได้สัดส่วนคือมันบอกว่าอะไรสำคัญ กำแพงวาดหนา วัดวาดใหญ่ และถนนแทบไม่มี ถนนยังไม่ใช่สิ่งที่คนวาด"
  },
  "kin": [

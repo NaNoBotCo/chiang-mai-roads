@@ -13,11 +13,11 @@
  ],
  "text": {
   "what": "The lanes between houses: residential streets, living streets and service lanes in OpenStreetMap's terms; hom in Kam Mueang, soi on the postal address. The measurements page counts their length, how many end in a dead end, and how many have a name. The highway department counts none of them, because none of them is a highway.",
-  "story": "*Inference —* a hom is a hom because it goes to houses, not through them. The dead-end share on the measurements page is the number to hold onto: inside the moat the grid of 1296 makes almost every lane come out somewhere; in the rings outside, a lane is a driveway shared by twenty families and it ends at the last one."
+  "story": "*Inference —* a hom is a hom because it goes to houses, not through them. The dead-end share on the measurements page shows it: inside the moat the grid of 1296 makes almost every lane come out somewhere; in the rings outside, a lane is a driveway shared by twenty families and it ends at the last one."
  },
  "text_th": {
   "what": "ทางระหว่างบ้าน ถนนที่อยู่อาศัย ถนนคนอยู่ และทางบริการในภาษา OpenStreetMap ฮ่อมในกำเมือง ซอยบนที่อยู่ไปรษณีย์ หน้าการวัดนับความยาว นับว่ากี่สายจบด้วยทางตัน และกี่สายมีชื่อ กรมทางหลวงบ่นับสักสาย เพราะบ่มีสายไหนเป็นทางหลวง",
-  "story": "*อนุมาน —* ฮ่อมเป็นฮ่อมเพราะมันไปหาบ้าน บ่ใช่ผ่านบ้าน สัดส่วนทางตันบนหน้าการวัดคือตัวเลขที่ควรจำ ในเวียง ตารางปี 1839 ทำให้เกือบทุกฮ่อมทะลุออกที่ไหนสักแห่ง ในวงแหวนข้างนอก ฮ่อมคือทางเข้าบ้านที่ยี่สิบครอบครัวใช้ร่วมกัน และมันจบที่หลังสุดท้าย"
+  "story": "*อนุมาน —* ฮ่อมเป็นฮ่อมเพราะมันไปหาบ้าน บ่ใช่ผ่านบ้าน สัดส่วนทางตันบนหน้าการวัดบอกเรื่องนี้ ในเวียง ตารางปี 1839 ทำให้เกือบทุกฮ่อมทะลุออกที่ไหนสักแห่ง ในวงแหวนข้างนอก ฮ่อมคือทางเข้าบ้านที่ยี่สิบครอบครัวใช้ร่วมกัน และมันจบที่หลังสุดท้าย"
  },
  "kin": [
   {

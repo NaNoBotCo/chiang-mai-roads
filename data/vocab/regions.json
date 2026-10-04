@@ -1,5 +1,5 @@
 {
- "note": "Where a record sits. Open list; the validator warns on an unknown key.",
+ "note": "Where a record sits. Open list; the validator reports an unknown key.",
  "entries": [
   {
    "key": "moat",
