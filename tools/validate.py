@@ -51,6 +51,7 @@ DRAFT = bool(os.environ.get("BUILD_DRAFT"))
 # quotation marks and attributed. Outside a quotation, name the people.
 # `ladyboy` is in the list for the same reason and with the same exception: the English
 # Wikipedia article on Parinya Charoenphol uses it as a gloss on kathoey, quoted.
+# stylecheck: allow-start — the list names the words it refuses
 BANNED = re.compile(
     r"\b(authentic(ity|ally)?|inauthentic|unspoil\w+|untouched|exotic|primitive|backward"
     r"|tourist(s|y)?|touristy|hidden gems?|off the beaten (track|path)|must[- ]see|must[- ]do"
@@ -58,6 +59,7 @@ BANNED = re.compile(
     r"|purist|warrior spirit|ancient secrets?|hill ?tribes?|ladyboys?|sacrile\w+"
     r"|breathtaking|stunning|deadly art|lethal art|killing art"
     r"|hidden treasures?|best[- ]kept secret)\b", re.I)
+# stylecheck: allow-end
 
 
 def _get(rec: dict, dotted: str):
@@ -219,10 +221,10 @@ def validate_all(strict=False, quiet=False) -> int:
     errors += check_images(recs)
     if not quiet:
         for w in warns:
-            print("warn ", w)
+            print("warn ", w)  # stylecheck: allow — validator output for the operator
         for e in errors:
             print("ERROR", e)
-        print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")
+        print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")  # stylecheck: allow — validator output for the operator
     if errors or (strict and warns):
         return 1
     return 0
