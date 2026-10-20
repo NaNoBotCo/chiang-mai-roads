@@ -1064,6 +1064,8 @@ def main() -> int:
         for path, fn, label, title, cur, card in specials:
             if path == "" and lang == "th" and (SITE / "cards" / "index-th.jpg").exists():
                 card = "index-th"
+            if path == "" and lang == "en" and "github.io" in SITE_URL and (SITE / "cards" / "index-gh.jpg").exists():
+                card = "index-gh"
             body = fn(lang)
             t = title or f"{label} — {NAME[lang]}"
             desc = TAG[lang] if path == "" else f"{label} — {NAME[lang]}"
