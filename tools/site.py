@@ -207,7 +207,7 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
     if og_desc.strip() == og_title.strip():
         og_desc = TAG[lang]
     og_url = f"{CANONICAL_URL}/{'th/' if lang == 'th' else ''}{path}"
-    card_url = f"{CANONICAL_URL}/cards/{card or 'index'}.jpg"
+    card_url = f"{SITE_URL}/cards/{card or 'index'}.jpg"
     card_meta = (f'<meta property="og:image" content="{E(card_url)}">'
                  f'<meta property="og:image:secure_url" content="{E(card_url)}">'
                  f'<meta property="og:image:type" content="image/jpeg">'
@@ -1028,6 +1028,11 @@ def main() -> int:
                 continue
             shutil.rmtree(child) if child.is_dir() else child.unlink()
     SITE.mkdir(parents=True, exist_ok=True)
+    # cards drawn outside tools/cards.py, kept in og/ and served from cards/
+    if (ROOT / "og").is_dir():
+        (SITE / "cards").mkdir(exist_ok=True)
+        for f in (ROOT / "og").glob("*.jpg"):
+            shutil.copy2(f, SITE / "cards" / f.name)
 
     n_pages = 0
     for lang in LANGS:
@@ -1057,6 +1062,8 @@ def main() -> int:
             ("about/", pages.about, ui["about"], None, "", "index"),
         ]
         for path, fn, label, title, cur, card in specials:
+            if path == "" and lang == "th" and (SITE / "cards" / "index-th.jpg").exists():
+                card = "index-th"
             body = fn(lang)
             t = title or f"{label} — {NAME[lang]}"
             desc = TAG[lang] if path == "" else f"{label} — {NAME[lang]}"
